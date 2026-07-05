@@ -1,0 +1,583 @@
+{
+  "_meta": {
+    "quest_id": "yoel_and_yuria_of_londor",
+    "version": "1.0",
+    "npc": "Yoel of Londor / Yuria of Londor",
+    "associated_npcs": [
+      "Anri of Astora",
+      "Horace the Hushed",
+      "Orbeck of Vinheim",
+      "Fire Keeper",
+      "Shrine Handmaid"
+    ],
+    "starting_location": "Undead Settlement (group of dying pilgrims below the Foot of the High Wall bonfire)",
+    "description": "Recruit Yoel of Londor and draw all 5 Dark Sigils before the Abyss Watchers boss. Yoel then dies and Yuria of Londor takes his place, guiding the player toward the Usurpation of Fire ending. The path requires keeping Anri of Astora alive, allowing the pilgrim assassin in Irithyll to proceed, performing the wedding ritual at Darkmoon Tomb, and reaching the final boss with all Dark Sigils intact and uncured.",
+    "wiki_source": "data/wiki/Yoel_of_Londor.md, data/wiki/Yuria_of_Londor.md, data/wiki/Dark_Sigil.md, data/wiki/Hollowing.md",
+    "evaluation": {
+      "rule": "Phases are evaluated top-to-bottom. First matching phase is current. Fallback phase always matches.",
+      "detection_gaps": "Yoel's exact sigil-draw count (1–5) is not detectable — the inventory parser reads item presence but not quantity for stacked key items. EMEVD NPC state flags (Yoel range 1040–1059, Yuria range 1060–1079) cover every quest transition precisely but are in an unlocated save region. Yuria's presence is proxied by checking for items exclusive to her shop. Weapons not in the equipment slots (Anri's Straight Sword, Morion Blade) are not yet detectable from the item registry. Phases relying on EMEVD flags are marked PLACEHOLDER."
+    },
+    "flag_systems": {
+      "ezstate": {
+        "description": "EzState dialogue flags — set when NPC dialogue nodes fire.",
+        "readable": true,
+        "reader": "parser/flags.py:read_flag(payload, name_offset, flag_id)",
+        "offset": "name_offset + 0x11660"
+      },
+      "emevd_npc_state": {
+        "description": "NPC quest state machine flags — set by SetNetworkconnectedEventFlag in EMEVD scripts.",
+        "readable": false,
+        "reader": null,
+        "note": "Region not yet located. IDs known from EMEVD decompile (data/_emevd_flags.json) but cannot be read from save yet."
+      }
+    },
+    "item_name_note": "Item names must match resolved strings from data/_goods_magic.json, data/_ring.json, data/_weapons.json. Weapons (Anri's Straight Sword, Morion Blade) are only detectable via equipment.py if currently equipped."
+  },
+  "item_groups": {
+    "yuria_exclusive_stock": {
+      "note": "Items sold exclusively by Yuria of Londor. Any of these in inventory strongly implies Yuria is or was present at Firelink Shrine. Londor Braille Divine Tome costs only 50 souls and is the most reliable proxy — players pursuing the Usurpation path nearly always buy it immediately. Untrue Dark Ring and Untrue White Ring (5000 souls each) are also exclusive to her shop.",
+      "items": [
+        "Untrue Dark Ring",
+        "Untrue White Ring",
+        "Londor Braille Divine Tome"
+      ]
+    },
+    "sigil_cure_item": {
+      "note": "The Fire Keeper Soul enables the Fire Keeper to cure the Dark Sigil when given to her. Holding this alongside Dark Sigils is a cure-risk scenario. Using a Purging Stone is safe and only resets hollowing appearance — it does NOT remove Dark Sigils.",
+      "items": [
+        "Fire Keeper Soul"
+      ]
+    }
+  },
+  "flag_registry": {
+    "first_dark_sigil_drawn": {
+      "id": 74000400,
+      "system": "talk_flag",
+      "readable": true,
+      "confirmed": true,
+      "confirmed_via": "Structural flag reader (event_flag_start walk + semantic codec), validated vs play_00 40-save corpus + quest-track + greirat-quest corpora (2026-06-11); fires play_00 step 40 AND quest-track step 07 (cross-validated)",
+      "label": "First Dark Sigil drawn from Yoel of Londor"
+    },
+    "yoel_recruited_to_firelink": {
+      "id": 1085,
+      "system": "npc_state_commons",
+      "readable": true,
+      "confirmed": true,
+      "label": "Yoel of Londor accepted service and moved to Firelink Shrine",
+      "source": "EMEVD decompile, m31_00_00_00 / m40_00_00_00, NPC range 1040–1059 (data/_emevd_flags.json)",
+      "confirmed_via": "quest-track 03->04: commons 1084 cleared, 1085 set when Yoel accepted/moved to Firelink"
+    },
+    "yoel_dead": {
+      "id": 1086,
+      "system": "npc_state_commons",
+      "readable": true,
+      "confirmed": true,
+      "label": "Yoel of Londor is dead (state machine advanced past 1085)",
+      "source": "EMEVD decompile, NPC range 1040–1059. Flag 1044 appears three times in the quest_flags array — likely the dominant dead-state flag.",
+      "confirmed_via": "quest-track 11->12 (Yoel dead, Yuria appeared): 1085 cleared, 1086 set"
+    },
+    "yoel_dead_sentinel": {
+      "id": 1055,
+      "system": "emevd_npc_state",
+      "readable": true,
+      "confirmed": false,
+      "label": "Yoel dead-state sentinel — appears as the first entry in the EMEVD quest_flags array, likely the 'NPC removed / quest closed' anchor",
+      "how_to_confirm": "Same controlled saves as yoel_dead — diff will reveal whether 1055 fires alongside or instead of 1044."
+    },
+    "yuria_appeared": {
+      "id": 1065,
+      "system": "npc_state_commons",
+      "readable": true,
+      "confirmed": true,
+      "label": "Yuria of Londor appeared at Firelink Shrine in Yoel's spot (requires zone reload after 5th sigil)",
+      "source": "EMEVD decompile, m40_00_00_00 entity 14005740, NPC range 1060–1079 (data/_emevd_flags.json)",
+      "confirmed_via": "quest-track 11->12: commons 1064 cleared, 1065 set when Yuria appeared"
+    },
+    "yuria_post_pontiff_dialogue": {
+      "id": 1062,
+      "system": "emevd_npc_state",
+      "readable": true,
+      "confirmed": false,
+      "label": "Yuria advanced dialogue post-Pontiff — tells player Anri awaits in the Darkmoon chamber",
+      "how_to_confirm": "Defeat Pontiff Sulyvahn, talk to Yuria at Firelink. Save before and after dialogue. Diff."
+    },
+    "wedding_ceremony_complete": {
+      "id": 1064,
+      "system": "emevd_npc_state",
+      "readable": true,
+      "confirmed": false,
+      "label": "Wedding ritual at Darkmoon Tomb performed — pilgrim assassin used Sword of Avowal, Anri's 3 Dark Sigils absorbed by player",
+      "how_to_confirm": "Enter Darkmoon Tomb via the illusory wall in Anor Londo (bottom of the rotating lift, behind the Lord Gwyn statue). Save before and after the ceremony. Diff — also expect 3 new Dark Sigils to appear in key-items inventory."
+    },
+    "yuria_dead_sentinel": {
+      "id": 1075,
+      "system": "emevd_npc_state",
+      "readable": true,
+      "confirmed": false,
+      "label": "Yuria dead-state sentinel — first entry in EMEVD quest_flags array for entity 14005740",
+      "how_to_confirm": "Kill Yuria, pick up Yuria's Ashes, rest at bonfire. Save. Diff vs live-Yuria save."
+    },
+    "yoel_talked_pilgrims": {
+      "id": 73100150,
+      "system": "talk_flag",
+      "readable": true,
+      "confirmed": true,
+      "confirmed_via": "Structural flag reader (event_flag_start walk + semantic codec), validated vs play_00 40-save corpus + quest-track + greirat-quest corpora (2026-06-11); fires play_00 step 19 and quest-track step 04",
+      "label": "Talked to Yoel of Londor (dying pilgrims)"
+    },
+    "yuria_talked": {
+      "id": 74000600,
+      "system": "talk_flag",
+      "readable": true,
+      "confirmed": true,
+      "confirmed_via": "Structural flag reader (event_flag_start walk + semantic codec), validated vs play_00 40-save corpus + quest-track + greirat-quest corpora (2026-06-11); fires quest-track step 12; label matches TGA cheat table",
+      "label": "Talked to Yuria of Londor (at Firelink)"
+    }
+  },
+  "phases": [
+    {
+      "id": "yuria_dead",
+      "label": "DEAD — Yuria's Ashes Collected",
+      "terminal": true,
+      "outcome": "dead",
+      "detection_confidence": "high",
+      "detection_note": "Yuria's Ashes appear in the goods/key-items inventory when collected after killing her. Usurpation of Fire ending is permanently blocked this cycle.",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_item",
+            "item": "Yuria's Ashes"
+          }
+        ]
+      },
+      "status_message": "Yuria of Londor has been killed and her ashes collected. The Usurpation of Fire ending is no longer available this playthrough.",
+      "consequence": "Give Yuria's Ashes to the Shrine Handmaid to restore her full vendor stock: Black Set armor, Darkdrift, and all items Yuria sold. The Usurpation ending cannot be achieved this NG cycle.",
+      "next_steps": [
+        "Give Yuria's Ashes to the Shrine Handmaid at Firelink Shrine to unlock her stock",
+        "Pursue any other ending (link the fire, unlink the fire, or the Eyes of a Fire Keeper ending with a Fire Keeper Soul)"
+      ]
+    },
+    {
+      "id": "dark_sigil_cured",
+      "label": "LOCKED OUT — Dark Sigil Healed",
+      "terminal": true,
+      "outcome": "locked_out",
+      "detection_confidence": "high",
+      "detection_note": "EzState flag 34085 confirms at least one sigil was drawn, but no Dark Sigil remains in inventory. Dark Sigils are only removed by curing via the Fire Keeper (giving her a Fire Keeper Soul). This is a clean detection: drew + no longer has = cured. Yuria departs Firelink immediately on cure.",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_flag",
+            "flag_key": "first_dark_sigil_drawn"
+          },
+          {
+            "check": "missing_item",
+            "item": "Dark Sigil"
+          }
+        ]
+      },
+      "status_message": "The Dark Sigil has been healed. Yuria of Londor has departed Firelink Shrine. The Usurpation of Fire ending is blocked for this playthrough.",
+      "consequence": "Curing the Dark Sigil is permanent within a NG cycle. Starting NG+ resets Yoel's questline and the opportunity to pursue Usurpation again.",
+      "next_steps": [
+        "The Usurpation of Fire ending cannot be achieved this cycle",
+        "Pursue link-the-fire or unlinked-fire endings, or the Eyes of a Fire Keeper ending",
+        "To attempt Usurpation: complete the game, start NG+, and recruit Yoel before Abyss Watchers again"
+      ]
+    },
+    {
+      "id": "wedding_complete",
+      "label": "Wedding Complete — Ready for Usurpation",
+      "terminal": false,
+      "outcome": null,
+      "detection_confidence": "low",
+      "detection_note": "PLACEHOLDER — requires unconfirmed EMEVD flag 1064 (wedding_ceremony_complete). Cannot be evaluated until controlled saves confirm the flag ID. Best available proxy: Anri's Straight Sword in inventory (obtained at the Darkmoon Tomb altar after the ritual) — but this is a weapon and only detectable if currently equipped. After the ceremony the player also holds 8 Dark Sigils total (5 + 3 from Anri), but item-count checking is not yet supported.",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_flag",
+            "flag_key": "wedding_ceremony_complete"
+          },
+          {
+            "check": "has_item",
+            "item": "Dark Sigil"
+          },
+          {
+            "check": "missing_item",
+            "item": "Yuria's Ashes"
+          }
+        ]
+      },
+      "status_message": "The wedding ritual at Darkmoon Tomb is complete. You now hold 8 Dark Sigils (5 from Yoel, 3 from Anri). The Usurpation of Fire ending is secured — do NOT heal the Dark Sigil before the final boss.",
+      "next_steps": [
+        "Return to Darkmoon Tomb altar to pick up Anri's Straight Sword (a souvenir)",
+        "Talk to Yuria at Firelink — she confirms your lordship and urges you to usurp the flame",
+        "Collect all four Cinders of a Lord (Aldrich, Yhorm, Abyss Watchers, Lothric) if not already done",
+        "Place the Cinders at the thrones in Firelink Shrine to open the path to Kiln of the First Flame",
+        "Yuria's summon sign appears at the Soul of Cinder fog gate if you spoke to her after the wedding",
+        "After defeating the Soul of Cinder, walk toward the bonfire and choose to USURP — do not link the fire and do not have Eyes of a Fire Keeper active"
+      ]
+    },
+    {
+      "id": "yuria_active_orbeck_done",
+      "label": "Yuria Active — Morion Blade Obtained (Orbeck Quest Done)",
+      "terminal": false,
+      "outcome": null,
+      "detection_confidence": "low",
+      "detection_note": "Morion Blade is exclusively obtained by giving Orbeck's Ashes to Yuria. Only detectable if the weapon is currently equipped. Cannot detect if stashed in item registry.",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_item",
+            "item": "Morion Blade"
+          },
+          {
+            "check": "has_item",
+            "item": "Dark Sigil"
+          },
+          {
+            "check": "missing_item",
+            "item": "Yuria's Ashes"
+          },
+          {
+            "check": "missing_flag",
+            "flag_key": "wedding_ceremony_complete"
+          }
+        ]
+      },
+      "status_message": "Yuria of Londor is active. Orbeck's Ashes have been given to her — you received the Morion Blade. Now focus on the wedding ritual: after Pontiff Sulyvahn, visit the Darkmoon Tomb hidden in Anor Londo.",
+      "next_steps": [
+        "After defeating Pontiff Sulyvahn, talk to Yuria at Firelink — she tells you Anri awaits in Anor Londo",
+        "In Anor Londo: ride the rotating lift down, break the illusory wall behind the Lord Gwyn statue at the bottom",
+        "Enter the Darkmoon Tomb — the pilgrim assassin will meet you and offer to perform the wedding ceremony",
+        "Accept — you will receive a special sword; use it to complete the ritual at the altar",
+        "After the ceremony, talk to Yuria again at Firelink"
+      ]
+    },
+    {
+      "id": "yuria_active",
+      "label": "Yuria Active at Firelink — Usurpation Path in Progress",
+      "terminal": false,
+      "outcome": null,
+      "detection_confidence": "high",
+      "detection_note": "Primary signal: talk flag 74000600 (Talked to Yuria at Firelink), readable since 2026-06-11 and validated on quest-track step 12. Shop-stock proxy (Untrue Dark Ring, Untrue White Ring, Londor Braille Divine Tome) kept as a fallback for saves where she appeared but the talk flag predates the reader. For precise sub-states (pre/post Pontiff, pre/post Orbeck quest) EMEVD flags 1061–1064 are still needed.",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_item",
+            "item": "Dark Sigil"
+          },
+          {
+            "check": "missing_item",
+            "item": "Yuria's Ashes"
+          },
+          {
+            "check": "missing_flag",
+            "flag_key": "wedding_ceremony_complete"
+          }
+        ],
+        "any_of": [
+          {
+            "check": "has_flag",
+            "flag_key": "yuria_talked"
+          },
+          {
+            "check": "has_any_item",
+            "group": "yuria_exclusive_stock"
+          }
+        ]
+      },
+      "status_message": "Yuria of Londor is at Firelink Shrine. The Usurpation of Fire questline is active. Three rules must hold until the final boss: (1) Do NOT heal the Dark Sigil. (2) Keep Anri of Astora alive through their questline. (3) Do NOT kill the pilgrim assassin disguised as a statue in the Church of Yorshka in Irithyll.",
+      "anri_questline_steps_required": [
+        "Meet Anri on the Road of Sacrifices (near the Cathedral of the Deep shortcut area)",
+        "Meet Anri again near the wooden bridge in Catacombs of Carthus, before Wolnir's fog gate — do NOT tell Anri where Horace is (or kill Horace in Smouldering Lake yourself first)",
+        "Meet Anri at the Church of Yorshka bonfire in Irithyll — a pilgrim assassin is disguised as a statue in the corner of the room. Do NOT kill the assassin. Exhaust all of Anri's dialogue and proceed to the Pontiff boss fight",
+        "After Pontiff Sulyvahn, talk to Yuria at Firelink — she tells you Anri awaits in the hidden Darkmoon chamber",
+        "In Anor Londo, take the rotating lift down and break the illusory wall behind the Lord Gwyn statue at the bottom — this leads to the Darkmoon Tomb",
+        "Perform the wedding ceremony with the pilgrim assassin's guidance"
+      ],
+      "next_steps": [
+        "CRITICAL: Do NOT give a Fire Keeper Soul to the Fire Keeper — this enables the cure and ends Yuria's questline",
+        "CRITICAL: Keep Anri alive — do not attack them, and do not tell them Horace's location in the Catacombs",
+        "CRITICAL: In Irithyll's Church of Yorshka, leave the pilgrim assassin (statue in the corner) alive",
+        "Optionally complete the Orbeck assassination quest: kill Orbeck of Vinheim or let his questline end naturally in the Grand Archives, then give Orbeck's Ashes to Yuria for the Morion Blade",
+        "After Pontiff Sulyvahn, go to the Darkmoon Tomb in Anor Londo for the wedding ritual"
+      ]
+    },
+    {
+      "id": "yoel_drawing_sigils",
+      "label": "Drawing Sigils — At Least One Draw Done",
+      "terminal": false,
+      "outcome": null,
+      "detection_confidence": "high",
+      "detection_note": "EzState flag 34085 confirms at least the first sigil was drawn. Dark Sigil in inventory confirms sigils are not cured. Cannot distinguish 1 vs 2–4 draws without item-count support or EMEVD flags. The missing_all_items(yuria_exclusive_stock) condition filters out saves where Yuria is already present but player bought her stock.",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_flag",
+            "flag_key": "first_dark_sigil_drawn"
+          },
+          {
+            "check": "has_item",
+            "item": "Dark Sigil"
+          },
+          {
+            "check": "missing_all_items",
+            "group": "yuria_exclusive_stock"
+          }
+        ]
+      },
+      "status_message": "At least one Dark Sigil has been drawn from Yoel of Londor. Return to him at Firelink Shrine for the remaining draws — all 5 must be complete BEFORE defeating the Abyss Watchers (Farron Keep boss). Yoel dies permanently at the Hanging Bridge in Catacombs of Carthus if the draws are not finished.",
+      "hollowing_thresholds": {
+        "note": "Die while holding Dark Sigils to accumulate Hollowing. Each death adds Hollowing equal to the number of sigils held. Purging Stones reset hollow appearance without removing sigils.",
+        "draws": [
+          {
+            "draw": 1,
+            "hollowing_required": 0,
+            "note": "Already done — flag 34085 is set"
+          },
+          {
+            "draw": 2,
+            "hollowing_required": 2
+          },
+          {
+            "draw": 3,
+            "hollowing_required": 6
+          },
+          {
+            "draw": 4,
+            "hollowing_required": 12
+          },
+          {
+            "draw": 5,
+            "hollowing_required": 15,
+            "note": "After this draw Yoel says 'you have attained ample strength' and dies on the next zone reload"
+          }
+        ]
+      },
+      "next_steps": [
+        "Yoel is at the far end of the hallway past Blacksmith Andre at Firelink — turn left at the end",
+        "Select 'Draw Out True Strength' each time your Hollowing meets the next threshold",
+        "Die intentionally near a bonfire to accumulate Hollowing quickly (e.g. jump off a ledge, respawn, repeat)",
+        "After the 5th draw, warp to any other location and return to Firelink — Yoel is dead and Yuria of Londor stands in his spot",
+        "CRITICAL: Do not fight the Abyss Watchers until all 5 draws are complete"
+      ],
+      "topic": "yoel_dark_sigils"
+    },
+    {
+      "id": "yoel_at_firelink_no_draws",
+      "label": "Yoel at Firelink — No Draws Yet",
+      "terminal": false,
+      "outcome": null,
+      "detection_confidence": "low",
+      "detection_note": "PLACEHOLDER — requires unconfirmed EMEVD flag 1041 (yoel_recruited_to_firelink). Without it this phase is indistinguishable from 'not_started'. The fallback covers both.",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_flag",
+            "flag_key": "yoel_recruited_to_firelink"
+          },
+          {
+            "check": "missing_flag",
+            "flag_key": "first_dark_sigil_drawn"
+          },
+          {
+            "check": "missing_item",
+            "item": "Dark Sigil"
+          }
+        ]
+      },
+      "status_message": "Yoel of Londor is at Firelink Shrine. Visit him and select 'Draw Out True Strength' to receive the first free level and Dark Sigil — no Hollowing is required for the first draw.",
+      "next_steps": [
+        "Find Yoel in the hallway past Blacksmith Andre at Firelink Shrine — turn left at the far end",
+        "Select 'Draw Out True Strength' — he gives you a free level up and brands you with a Dark Sigil",
+        "The first draw has no Hollowing requirement; the next four require 2, 6, 12, and 15 Hollowing respectively",
+        "CRITICAL: Complete all 5 draws before defeating the Abyss Watchers at the end of Farron Keep"
+      ],
+      "topic": "yoel_free_levels"
+    },
+    {
+      "id": "not_started",
+      "label": "Not Started — Yoel Not Yet Recruited",
+      "terminal": false,
+      "outcome": null,
+      "detection_confidence": "high",
+      "detection_note": "Fallback. Covers: Yoel still at Undead Settlement (not yet talked to or declined), Yoel accepted but not yet at Firelink (EMEVD flag unconfirmed), or Yoel dead at Hanging Bridge (premature death — same inventory state, indistinguishable from never recruited without EMEVD flags).",
+      "conditions": {
+        "fallback": true
+      },
+      "status_message": "Yoel of Londor's questline has not started (or Yoel may have died prematurely at the Hanging Bridge in Catacombs of Carthus). IMPORTANT: recruiting Yoel and drawing all 5 Dark Sigils before the Abyss Watchers boss is required for the Usurpation of Fire ending.",
+      "where_to_find_yoel": "From the Foot of the High Wall bonfire in the Undead Settlement, follow the path down toward the burning tree area. Before the long bridge with the large hollow congregation, look left for a group of dying pilgrims slumped against the wall. Yoel calls out to you — talk to him and accept his service.",
+      "next_steps": [
+        "Travel to the Undead Settlement — from the Foot of the High Wall bonfire, descend toward the burning tree",
+        "Find Yoel among the dying pilgrims before the long bridge (left side of the path) — accept his service",
+        "He moves to Firelink Shrine: hallway past Blacksmith Andre, left turn at the far end",
+        "Select 'Draw Out True Strength' — no Hollowing required for the first draw",
+        "CRITICAL: Complete all 5 draws BEFORE defeating the Abyss Watchers (Farron Keep boss)"
+      ]
+    }
+  ],
+  "always_check_warnings": [
+    {
+      "id": "warn_road_of_sacrifices_sigils_incomplete",
+      "urgency": "warning",
+      "label": "Approaching Farron Keep — Complete Sigil Draws Before Abyss Watchers",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_flag",
+            "flag_key": "first_dark_sigil_drawn"
+          },
+          {
+            "check": "has_item",
+            "item": "Dark Sigil"
+          },
+          {
+            "check": "has_bonfire_area",
+            "area": "Road of Sacrifices"
+          }
+        ]
+      },
+      "message": "WARNING: You are in the Road of Sacrifices and have begun Yoel's Dark Sigil draws. The Abyss Watchers boss is at the end of the next area (Farron Keep). Yoel of Londor dies permanently when you reach the Hanging Bridge in Catacombs of Carthus. If you have fewer than 5 Dark Sigils, return to Yoel at Firelink NOW and complete the remaining draws before progressing. Hollowing thresholds: 1st=free (done), 2nd=2, 3rd=6, 4th=12, 5th=15."
+    },
+    {
+      "id": "warn_farron_keep_last_chance",
+      "urgency": "warning",
+      "label": "Farron Keep — Final Warning Before Abyss Watchers",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_flag",
+            "flag_key": "first_dark_sigil_drawn"
+          },
+          {
+            "check": "has_item",
+            "item": "Dark Sigil"
+          },
+          {
+            "check": "has_bonfire_area",
+            "area": "Farron Keep"
+          }
+        ]
+      },
+      "message": "CRITICAL: You are in Farron Keep and the Abyss Watchers boss is ahead. This is your last chance to finish Yoel's Dark Sigil draws. Yoel dies permanently when you reach the Hanging Bridge in Catacombs of Carthus (accessible only after Abyss Watchers). If you have fewer than 5 Dark Sigils: warp back to Firelink Shrine RIGHT NOW, die enough times to hit the next Hollowing threshold, and draw from Yoel before coming back. Thresholds: 2nd draw at 2 Hollowing, 3rd at 6, 4th at 12, 5th at 15."
+    },
+    {
+      "id": "warn_fire_keeper_soul_cure_risk",
+      "urgency": "warning",
+      "label": "Fire Keeper Soul + Dark Sigil — Cure Risk",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_item",
+            "item": "Dark Sigil"
+          },
+          {
+            "check": "has_all_items",
+            "group": "sigil_cure_item"
+          }
+        ]
+      },
+      "message": "WARNING: You hold both a Fire Keeper Soul and Dark Sigils. Giving the Fire Keeper Soul to the Fire Keeper at Firelink Shrine will let her offer to heal your Dark Sigil — accepting permanently ends Yuria's questline and blocks the Usurpation of Fire ending for this cycle. Only do this if you deliberately want to abandon the Usurpation path. Note: Purging Stones safely reset your hollow appearance without touching the sigils."
+    },
+    {
+      "id": "warn_yoel_missed_lockout",
+      "urgency": "warning",
+      "label": "Possible Premature Yoel Death — No Sigils Past Abyss Watchers",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "missing_item",
+            "item": "Dark Sigil"
+          },
+          {
+            "check": "missing_flag",
+            "flag_key": "first_dark_sigil_drawn"
+          },
+          {
+            "check": "has_bonfire_area",
+            "area": "Catacombs of Carthus"
+          }
+        ]
+      },
+      "message": "WARNING: You are in the Catacombs of Carthus with no Dark Sigils and no record of drawing from Yoel of Londor. If you defeated the Abyss Watchers without recruiting Yoel — or without getting all 5 sigils — Yoel died at the Hanging Bridge and Yuria cannot appear this cycle. Check the Hanging Bridge in Catacombs of Carthus for Yoel's body. If he is dead there, the Usurpation of Fire ending is blocked for this playthrough. His Hollow's Ashes will appear in Untended Graves (dark Firelink Shrine) if he died prematurely."
+    },
+    {
+      "id": "warn_yuria_active_fire_keeper_soul",
+      "urgency": "warning",
+      "label": "Yuria Active + Fire Keeper Soul — Do NOT Cure",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_item",
+            "item": "Dark Sigil"
+          },
+          {
+            "check": "has_any_item",
+            "group": "yuria_exclusive_stock"
+          },
+          {
+            "check": "has_all_items",
+            "group": "sigil_cure_item"
+          }
+        ]
+      },
+      "message": "CRITICAL: Yuria of Londor is active and you have a Fire Keeper Soul. Giving the Fire Keeper Soul to the Fire Keeper will allow her to heal your Dark Sigil — this immediately causes Yuria to depart Firelink Shrine, permanently blocking the Usurpation of Fire ending this cycle. Do NOT give the Fire Keeper Soul to the Fire Keeper if you are pursuing the Usurpation path."
+    }
+  ],
+  "usurpation_lockout_reference": {
+    "summary": "The Usurpation of Fire ending is the most fragile ending in DS3. Five independent conditions must hold throughout the entire playthrough.",
+    "conditions_required": [
+      {
+        "condition": "Yoel recruited AND all 5 sigils drawn before Abyss Watchers",
+        "lockout_if_failed": "Yuria never appears; Usurpation impossible"
+      },
+      {
+        "condition": "Dark Sigil never healed via Fire Keeper",
+        "lockout_if_failed": "Yuria departs Firelink immediately; Usurpation impossible"
+      },
+      {
+        "condition": "Anri of Astora kept alive through their questline (Road of Sacrifices → Catacombs → Church of Yorshka)",
+        "lockout_if_failed": "Wedding ritual cannot be performed; Usurpation impossible (only 5 sigils, need 8)"
+      },
+      {
+        "condition": "Pilgrim assassin in Church of Yorshka (Irithyll) NOT killed",
+        "lockout_if_failed": "Yuria departs Firelink ('thou'st forsworn the Lord's Mark'); Usurpation impossible"
+      },
+      {
+        "condition": "Wedding ritual performed at Darkmoon Tomb (Anor Londo) before Soul of Cinder",
+        "lockout_if_failed": "Only 5 sigils — Yuria acknowledges the ending is still accessible with 5 sigils alone but without Anri's sigils the cutscene is truncated"
+      }
+    ],
+    "safe_actions": [
+      "Using Purging Stones to reset hollowing appearance — does NOT remove sigils",
+      "Killing Horace in Smouldering Lake — safe if done before telling Anri his location",
+      "Aggro-ing Yuria and then seeking Absolution at the Velka statue — allows both Pale Shade invasions AND Usurpation (advanced recovery technique)"
+    ]
+  },
+  "controlled_saves_needed": [
+    {
+      "purpose": "Confirm yoel_recruited_to_firelink flag ID (expected in range 1040–1059)",
+      "procedure": "Save BEFORE talking to Yoel at Undead Settlement. Accept his service. Rest at bonfire. Save again. Diff — look for a newly-set flag in NPC state range 1040–1059 (distinct from EzState bitfield at name_offset + 0x11660)."
+    },
+    {
+      "purpose": "Confirm 2nd–4th sigil draw flags (expected additional flags in range 1040–1059)",
+      "procedure": "For each draw: save before selecting 'Draw Out True Strength', take the draw, rest at bonfire, save. Diff each pair. Also look for new EzState flags near 34085 (e.g. 34086, 34087) — subsequent draws may have their own EzState flags."
+    },
+    {
+      "purpose": "Confirm yoel_dead (normal) and yuria_appeared flag IDs (range 1040–1059 and 1060–1079)",
+      "procedure": "After the 5th sigil draw, save. Warp to any other bonfire and return to Firelink — Yoel dies and Yuria appears. Save again. Diff — expect new flags for Yoel dead (1040–1059) and Yuria appeared (1060–1079) in the same diff."
+    },
+    {
+      "purpose": "Confirm yoel_dead (premature) flag and distinguish from normal death",
+      "procedure": "Separate playthrough: get only 1–3 sigils, defeat Abyss Watchers, cross the Hanging Bridge in Catacombs of Carthus. Save before crossing, save after crossing/resting. Diff — compare which flags in 1040–1059 fire differently from the normal-death scenario."
+    },
+    {
+      "purpose": "Confirm yuria_post_pontiff_dialogue flag (expected in 1060–1079)",
+      "procedure": "Defeat Pontiff Sulyvahn. Save before talking to Yuria. Talk to Yuria at Firelink (she mentions Anri). Save. Diff."
+    },
+    {
+      "purpose": "Confirm wedding_ceremony_complete flag ID (expected in 1060–1079)",
+      "procedure": "Save just before entering the Darkmoon Tomb via the illusory wall in Anor Londo. Perform the ceremony. Rest at a bonfire. Save. Diff — also expect 3 additional Dark Sigil key-item entries in the inventory (Anri's sigils absorbed), which would confirm item-count detection is feasible for this event."
+    }
+  ]
+}

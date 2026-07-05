@@ -1,0 +1,39 @@
+Icon,Sorcery,Description,FP Cost,Attunement Slots,Intelligence,Acquired From
+,Soul Arrow,Fires a soul arrow.,7,1,10,"Sold by Yoel of Londor for 1,000 souls Sold by Yuria of Londor for 1,000 souls Sold by Orbeck of Vinheim for 1,000 souls Starting Equipment for the Sorcerer"
+,Great Soul Arrow,Fires a more powerful soul arrow.,10,1,15,"Sold by Orbeck of Vinheim for 3,000 souls"
+,Heavy Soul Arrow,Fires a heavy soul arrow.,11,1,13,"Sold by Yoel of Londor for 2,000 souls Sold by Yuria of Londor for 2,000 souls Sold by Orbeck of Vinheim for 2,000 souls Starting Equipment for the Sorcerer"
+,Great Heavy Soul Arrow,Fires a more powerful heavy soul arrow.,14,1,18,"Sold by Orbeck of Vinheim for 4,000 souls"
+,Farron Dart,Fires a soul dart.,3,1,8,"Sold by Yoel of Londor for 1,000 souls Sold by Orbeck of Vinheim for 500 souls Sold by Shrine Handmaid for 1,000 souls"
+,Great Farron Dart,Fires a more powerful soul dart.,4,1,23,"Sold by Orbeck of Vinheim for 2,000 souls Requires Sage's Scroll"
+,Farron Hail,Fires a cascade of soul darts.,4,1,28,"Sold by Orbeck of Vinheim for 5,000 souls Requires Sage's Scroll"
+,Homing Soulmass,Releases a homing soulmass.,20,1,20,"Sold by Orbeck of Vinheim for 6,000 souls Requires Logan's Scroll"
+,Homing Crystal Soulmass,Releases a homing crystal soulmass. Crystal soulmass has piercing qualities.,43,1,30,"Sold by Orbeck of Vinheim for 18,000 souls Requires Crystal Scroll"
+,Crystal Hail,Casts a cascade of small crystal soulmasses from above. Crystal soulmasses have piercing qualities.,19,1,18,Obtained by Soul of a Crystal Sage Transposition
+,Soul Spear,Fires a soul spear.,32,1,32,"Sold by Orbeck of Vinheim for 5,000 souls. Requires Logan's Scroll"
+,Crystal Soul Spear,Fires a piercing crystal soul spear.,46,1,48,"Sold by Orbeck of Vinheim for 15,000 souls Requires Crystal Scroll"
+,White Dragon Breath,Emits crystal breath of Seath the Scaleless. Crystal breath has piercing qualities.,25,1,50,Obtained by Soul of Consumed Oceiros Transposition
+,Soul Stream,Fires a torrential volley of souls.,55,2,45,Found in Lothric Castle in the Grand Archives behind a hidden room with a Boreal Knight.
+,Soul Greatsword,Attacks with a greatsword formed from souls.,23,1,22,"Sold by Yoel of Londor for 5,000 souls Sold by Yuria of Londor for 5,000 souls Sold by Orbeck of Vinheim for 5,000 souls"
+,Farron Flashsword,Alteration of Soul Greatsword developed by sorcerers of the Undead Legion of Farron.,4,1,23,"Sold by Orbeck Of Vinheim for 3,000 souls"
+,Magic Weapon,Reinforce right weapon with magic.,25,1,10,"Sold by Yoel of Londor for 4,500 souls Sold by Yuria of Londor for 4,500 souls Sold by Orbeck of Vinheim for 3,000 souls"
+,Great Magic Weapon,Greatly reinforces right weapon with magic.,35,1,15,"From the Farron Keep Perimeter bonfire, turn around 180 and head towards the shortcut gate to Road of Sacrifices. The spell will be on a corpse at the gate."
+,Crystal Magic Weapon,Reinforces right weapon with crystal.,45,1,30,"Sold by Orbeck of Vinheim for 10,000 souls Requires Crystal Scroll"
+,Magic Shield,Reinforce left shield with magic.,30,1,10,"Sold by Yoel of Londor for 4,500 souls Sold by Yuria of Londor for 4,500 souls Sold by Orbeck of Vinheim for 3,000 souls"
+,Great Magic Shield,Greatly reinforce left shield with magic,60,1,18,Found in Irithyll Dungeon
+,Spook,Masks noises of the caster and prevents fall damage.,15,1,10,"Sold by Orbeck Of Vinheim for 2,000 souls"
+,Aural Decoy,Distracts foes with distant sound.,15,1,18,"Sold by Orbeck of Vinheim for 2,000 souls"
+,Pestilent Mist,"Releases dense mist that eats away at HP. Beware, as the caster is not immune to its effect.",13,1,30,"Sold by Orbeck Of Vinheim for 1,000 souls"
+,Cast Light,Casts a light to illuminate surroundings.,20,1,15,"Sold by Orbeck Of Vinheim for 1,000 souls Requires Golden Scroll"
+,Repair,Repairs equipped weapons and armor. Includes weapons with exhausted durability.,20,1,15,"Sold by Orbeck of Vinheim for 2,000 souls Requires Golden Scroll"
+,Hidden Weapon,Turns right weapon invisible.,25,1,12,"Sold by Orbeck of Vinheim for 1,500 souls Requires Golden Scroll"
+,Hidden Body,Turns body nearly invisible.,15,1,15,"Sold by Orbeck of Vinheim for 3,000 souls Requires Golden Scroll"
+,Chameleon,Transforms player into something inconspicuous. (The object will change depending on what area you're in.),20,1,12,Found near the Church of Yorshka bonfire in Irithyll of the Boreal Valley during Anri of Astora's questline. The spell will drop from an assassin disguised as a statue. Found in the Darkmoon Tomb from the assassin's corpse if not killed earlier.
+,Twisted Wall of Light,Distorts light to deflect magic.,10,1,27,"Sold by Orbeck of Vinheim for 6,000 souls Requires Golden Scroll"
+,Deep Soul,Fires dark soul dregs.,6,1,12,Obtained by Soul of the Deacons of the Deep Transposition
+,Great Deep Soul,Fires powerful darkened soul sediment.,9,1,20,Reward for reaching rank 1 in the covenant Aldrich Faithful.
+,Affinity,Casts a dark manifestation of humanity.,40,1,32,"Sold by Karla for 15,000 souls"
+,Dark Edge,Strikes with a blade formed of humanity's darkness.,26,1,30,"Sold by Karla for 8,000 souls"
+,Frozen Weapon,Imbues right-hand weapon with frost,30,1,15,Ashes of Ariandel DLC: Near the Giant Flies before the Rope Bridge Cave bonfire
+,Snap Freeze,Creates a cloud of near-freezing mist.,16,1,18,"Ashes of Ariandel DLC: From Depths of the Painting bonfire, turn left to where the crabs are and keep going until you reach the end of that path. The sorcery will be behind an aggressive Tree Woman"
+,Great Soul Dregs,Fires great soul dregs,30,1,40,The Ringed City DLC: Behind an illusory wall in The Dreg Heap
+,Old Moonlight,Conceive old moonlight sword and attack,23,1,25,The Ringed City DLC: Transposed with Soul of Darkeater Midir

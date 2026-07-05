@@ -1,0 +1,11 @@
+Name & Icon,Attack PowerDamage Reduction (%),Requirements Param Bonus,Durability / Weight - Attack Type - Skill,Physical ATK,col_5,col_6,col_7,col_8,Critical,col_10,Strength,Dexterity,Intelligence,Faith,Durability,Skill,Acquired From
+Battle Axe,125 45,0 30,0 25,0 25,0 30,100 30,-,12 D,8 D,0 -,0 -,80 4.0,20 ( -/ -) Warcry,Warrior starting weapon/Looted from a mimic at High Wall of Lothric(Deep Infused).,,,
+Hand Axe,110 45,0 30,0 25,0 25,0 30,100 30,-,9 D,8 D,0 -,0 -,60 2.5,20( -/ -) Warcry,Pyromancer starting weapon/ Looted at Undead Settlement,,,
+Thrall Axe,104 40,0 30,0 25,0 25,0 30,100 30,-,8 D,8 D,0 -,0 -,55 1.5,5 (-/-) Quickstep,Dropped from Thralls,,,
+Dragonslayer's Axe,90 45,0 30,0 25,90 25,0 30,100 30,-,18 D,14 E,0 -,0 -,70 4.0,20 ( -/ -) Warcry,Dropped by Creighton the Wanderer,,,
+Butcher Knife,95 60,0 40,0 30,0 30,0 40,100 35,-,24 A,0 -,0 -,0 -,75 7.0,18( -/ -) Sharpen,Dropped by enemy wielding it at Road of Sacrifices,,,
+Brigand Axe,124 45,0 30,0 25,0 25,0 30,100 30,-,14 D,8 D,0 -,0 -,75 3.0,20( -/ -) Warcry,Looted at Road of Sacrifices,,,
+Winged Knight Twinaxes,122 45,0 30,0 25,0 25,0 30,100 35,-,20 D,12 D,0 -,0 -,80 8.5,8 (-/17) Chain Spin,Dropped by Winged Knights,,,
+Eleonora,156 55,0 40,0 30,0 30,0 40,100 35,-,20 D,8 E,0 -,0 -,90 6.5,24 ( -/ -) Feast Bell,Dropped by hand-like enemy at Profaned Capital,,,
+Man Serpent Hatchet,125 45,0 30,0 25,0 25,0 30,100 30,-,16 D,13 D,0 -,0 -,80 4.0,20 ( -/ -) Warcry,Dropped by Man-Serpents,,,
+Millwood Battle Axe,135 45,0 30,0 25,0 25,0 30,100 35,-,15 C,10 E,0 -,0 -,80 6.5,20 ( -/ -) Warcry,Ashes of Ariandel DLC: Looted from a corpse in the tower.,,,

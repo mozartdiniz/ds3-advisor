@@ -1,0 +1,546 @@
+{
+  "_meta": {
+    "quest_id": "greirat_of_the_undead_settlement",
+    "version": "1.0",
+    "npc": "Greirat of the Undead Settlement",
+    "associated_npcs": [
+      "Siegward of Catarina",
+      "Unbreakable Patches",
+      "Shrine Handmaid"
+    ],
+    "starting_location": "High Wall of Lothric",
+    "description": "Free Greirat from his cell, help him honour Loretta, then send him on three scavenging missions. He survives the first automatically; the second (Irithyll) kills him unless Siegward or Patches are correctly set up; the third (Lothric Castle) always kills him.",
+    "wiki_source": "data/wiki/Greirat_of_the_Undead_Settlement.md, Side_Quests.md, Unbreakable_Patches.md, Greirat's_Ashes.md",
+    "evaluation": {
+      "rule": "Phases are evaluated top-to-bottom. First matching phase is current. Fallback phase always matches.",
+      "detection_gaps": "RESOLVED 2026-06-11: event flags are now read structurally and semantically. Outing transitions are visible via talk flags 74000300/302 and the Greirat commons state machine (1224->1225->1226 observed). Irithyll/Lothric outing states still need controlled saves to label."
+    }
+  },
+  "item_groups": {
+    "greirat_rescue_proof": {
+      "note": "Blue Tearstone Ring is given by Greirat the moment you accept his request in the cell. Greirat tells you to keep it after Loretta's Bone is delivered. Having it = Greirat has been rescued.",
+      "items": [
+        "Blue Tearstone Ring"
+      ]
+    },
+    "first_outing_new_stock": {
+      "note": "Items Greirat adds to his shop after returning from Undead Settlement. Divine Blessing is the most reliable proxy — not available from any vendor until after this outing.",
+      "items": [
+        "Divine Blessing",
+        "Zweihander",
+        "Lightning Urn",
+        "Estoc",
+        "Glaive",
+        "Priest's Chime"
+      ]
+    },
+    "second_outing_new_stock": {
+      "note": "Items Greirat adds to his shop after returning safely from Irithyll. Twinkling Titanite and Titanite Scale (sold in quantities of 3) are the clearest proxies since they are otherwise rare drops.",
+      "items": [
+        "Twinkling Titanite",
+        "Titanite Scale",
+        "Hidden Blessing",
+        "Lothric Knight Sword",
+        "Lothric Knight Greatsword",
+        "Scholar's Candlestick"
+      ]
+    },
+    "catarina_set": {
+      "note": "Patches sells Catarina Set after stealing it from Siegward. Buying this from Patches and giving it to Siegward is the primary path to having Siegward save Greirat. Buying the set locks out Patches as Greirat's saviour on the Irithyll outing.",
+      "items": [
+        "Catarina Helm",
+        "Catarina Armor",
+        "Catarina Gauntlets",
+        "Catarina Leggings"
+      ]
+    }
+  },
+  "flag_registry": {
+    "loretta_bone_given": {
+      "id": 74000300,
+      "system": "talk_flag",
+      "readable": true,
+      "confirmed": true,
+      "confirmed_via": "Structural flag reader (event_flag_start walk + semantic codec), validated vs play_00 40-save corpus + quest-track + greirat-quest corpora (2026-06-11)",
+      "label": "Loretta's Bone given to Greirat"
+    },
+    "greirat_sent_undead_settlement": {
+      "id": 74000302,
+      "system": "talk_flag",
+      "readable": true,
+      "confirmed": true,
+      "confirmed_via": "Structural flag reader (event_flag_start walk + semantic codec), validated vs play_00 40-save corpus + quest-track + greirat-quest corpora (2026-06-11)",
+      "label": "Greirat sent to scavenge Undead Settlement"
+    },
+    "greirat_recruited": {
+      "id": 1225,
+      "system": "npc_state_commons",
+      "readable": true,
+      "confirmed": true,
+      "confirmed_via": "quest-track 02->03 (Greirat freed): commons 1224 cleared, 1225 set",
+      "label": "Greirat recruited - moved to Firelink Shrine"
+    },
+    "greirat_returned_undead_settlement": {
+      "id": null,
+      "system": "emevd_npc_state",
+      "readable": true,
+      "confirmed": false,
+      "label": "Greirat returned from Undead Settlement scavenge (first outing complete)",
+      "how_to_confirm": "Controlled save: send on first outing, kill any boss, rest at bonfire → diff. Should be in range 1420-1439. Greirat commons state machine observed so far: 1224 -> 1225 (freed) -> 1226 (sent to US); next states likely 1227+."
+    },
+    "greirat_sent_irithyll": {
+      "id": null,
+      "system": "emevd_npc_state",
+      "readable": true,
+      "confirmed": false,
+      "label": "Greirat sent to scavenge Irithyll (second outing active)",
+      "how_to_confirm": "Controlled save: cross Boreal Valley bridge, return to Firelink, send Greirat → diff Greirat commons state machine observed so far: 1224 -> 1225 (freed) -> 1226 (sent to US); next states likely 1227+."
+    },
+    "greirat_returned_irithyll": {
+      "id": null,
+      "system": "emevd_npc_state",
+      "readable": true,
+      "confirmed": false,
+      "label": "Greirat returned from Irithyll safely (second outing complete)",
+      "how_to_confirm": "Controlled save: save Greirat via Siegward or Patches, kill Pontiff, rest → diff Greirat commons state machine observed so far: 1224 -> 1225 (freed) -> 1226 (sent to US); next states likely 1227+."
+    },
+    "greirat_dead": {
+      "id": 1438,
+      "system": "emevd_npc_state",
+      "readable": true,
+      "confirmed": false,
+      "confirmed_via": "EMEVD decompile (data/_emevd_flags.json), NPC range 1420-1439",
+      "label": "Greirat is dead",
+      "how_to_confirm": "Commons are now readable; flag 1438 from EMEVD still needs a controlled save (send to Irithyll unprotected, kill Pontiff) to confirm"
+    }
+  },
+  "phases": [
+    {
+      "id": "dead",
+      "label": "DEAD — Greirat's Ashes Collected",
+      "terminal": true,
+      "outcome": "dead",
+      "detection_confidence": "high",
+      "detection_note": "Greirat's Ashes appear in inventory when player collects them from his corpse. Cannot distinguish which outing killed him from ashes alone — location of corpse distinguishes (Irithyll sewers vs Grand Archives rooftop).",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_item",
+            "item": "Greirat's Ashes"
+          }
+        ]
+      },
+      "status_message": "Greirat has died. His ashes have been collected.",
+      "consequence": "Give his ashes to the Shrine Handmaid to unlock his full stock. Items unlocked depend on how far the questline progressed before his death.",
+      "ash_locations": {
+        "irithyll_outing": "Sewers below the kitchen in Irithyll, past the Distant Manor bonfire, surrounded by the long-haired centipede monsters.",
+        "lothric_outing": "Grand Archives rooftop — between the first and second Gargoyle encounters, drop down to the roof with Corvian worshippers."
+      },
+      "next_steps": [
+        "Give Greirat's Ashes to the Shrine Handmaid at Firelink Shrine to restore his vendor stock"
+      ]
+    },
+    {
+      "id": "third_outing_active",
+      "label": "Third Outing Active — Scavenging Lothric Castle (FATAL)",
+      "terminal": false,
+      "outcome": null,
+      "detection_confidence": "low",
+      "detection_note": "Requires unconfirmed EMEVD flag 'greirat_sent_irithyll' (second outing complete) AND some proxy for 'reached Lothric Castle'. Currently cannot be evaluated — PLACEHOLDER.",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_flag",
+            "flag_key": "greirat_returned_irithyll"
+          },
+          {
+            "check": "missing_item",
+            "item": "Greirat's Ashes"
+          }
+        ]
+      },
+      "status_message": "Greirat is scavenging Lothric Castle. There is no way to save him — he will die on this mission. His ashes will appear on the Grand Archives rooftop when you enter that area.",
+      "next_steps": [
+        "Kill at least Aldrich and Yhorm before retrieving his ashes — you need access to the Grand Archives",
+        "His ashes are on the Grand Archives rooftop: between the first and second Gargoyle encounters, drop down to the Corvian worshippers' roof",
+        "Give the ashes to the Shrine Handmaid to unlock Exploding Bolts, Splintering Bolts, and Lightning Urns (plus his full prior stock)"
+      ]
+    },
+    {
+      "id": "second_outing_complete_awaiting_third",
+      "label": "Returned from Irithyll — Third Outing Available",
+      "terminal": false,
+      "outcome": null,
+      "detection_confidence": "low",
+      "detection_note": "Requires unconfirmed flag 'greirat_returned_irithyll'. Currently cannot be evaluated — PLACEHOLDER. Proxy: second_outing_new_stock items in inventory (if purchased) + no ashes.",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_flag",
+            "flag_key": "greirat_returned_irithyll"
+          },
+          {
+            "check": "missing_item",
+            "item": "Greirat's Ashes"
+          }
+        ]
+      },
+      "status_message": "Greirat is safely back at Firelink Shrine after scavenging Irithyll. He now stocks Twinkling Titanite, Titanite Scales, and Lothric Knight weapons. He will soon ask to pillage Lothric Castle — there is no way to save him if you send him.",
+      "next_steps": [
+        "Buy anything you want from Greirat's Irithyll stock before proceeding",
+        "When he offers the Lothric Castle mission: sending him means he dies, but his ashes unlock final stock for the Shrine Handmaid",
+        "RECOMMENDED: Kill Aldrich and Yhorm before sending him so you have Grand Archives access to retrieve his ashes"
+      ]
+    },
+    {
+      "id": "second_outing_active",
+      "label": "Second Outing Active — Scavenging Irithyll",
+      "terminal": false,
+      "outcome": null,
+      "detection_confidence": "low",
+      "detection_note": "Requires unconfirmed flag 'greirat_sent_irithyll'. Cannot be evaluated yet — PLACEHOLDER. Most critical warning window for Greirat's survival.",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_flag",
+            "flag_key": "greirat_sent_irithyll"
+          },
+          {
+            "check": "missing_flag",
+            "flag_key": "greirat_returned_irithyll"
+          },
+          {
+            "check": "missing_item",
+            "item": "Greirat's Ashes"
+          }
+        ]
+      },
+      "status_message": "Greirat is currently scavenging Irithyll. He will die unless Siegward of Catarina is in the Irithyll kitchen OR Patches has been correctly set up. DO NOT enter Irithyll Dungeon or Profaned Capital before he returns.",
+      "survival_conditions": {
+        "via_siegward": "Siegward must be sitting in the kitchen near the Distant Manor bonfire in Irithyll. This requires: (1) Siegward's armor returned to him at the Cathedral well, (2) NOT talking to Siegward after the kitchen meeting (which makes him leave for his cell), (3) NOT killing Alva the Spurned before sending Greirat.",
+        "via_patches": "Patches must be at Firelink Shrine AND you must NOT have bought the Catarina armor from him. After sending Greirat, tell Patches where he went. Then kill any boss EXCEPT Pontiff Sulyvahn. If Pontiff is killed first, the window closes and Patches cannot save Greirat."
+      },
+      "next_steps": [
+        "DO NOT enter Irithyll Dungeon or Profaned Capital yet — this advances the area and blocks his rescue",
+        "VIA SIEGWARD: Do not talk to Siegward in the kitchen; just kill Pontiff Sulyvahn and Greirat will return safely",
+        "VIA PATCHES: If you haven't bought Catarina armor from Patches, tell him Greirat went to Irithyll, then kill any boss except Pontiff (e.g. Old Demon King works)",
+        "After Pontiff Sulyvahn is killed, Greirat returns to Firelink if rescue succeeded"
+      ]
+    },
+    {
+      "id": "first_outing_active",
+      "label": "First Outing Active — Scavenging Undead Settlement",
+      "terminal": false,
+      "outcome": null,
+      "detection_confidence": "high",
+      "detection_note": "Flag 34127 (sent to Undead Settlement) is confirmed readable. This phase is active from the moment he's sent until he returns. He returns automatically after any boss kill — no risk of death on this outing.",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_flag",
+            "flag_key": "greirat_sent_undead_settlement"
+          },
+          {
+            "check": "missing_item",
+            "item": "Greirat's Ashes"
+          }
+        ]
+      },
+      "status_message": "Greirat is scavenging the Undead Settlement. He will return automatically after any boss kill. There is no risk on this outing.",
+      "next_steps": [
+        "Kill any boss and Greirat will return to Firelink Shrine",
+        "After his return, his stock expands with Zweihander, Lightning Urns, Zweihander, Pontiff Knight weapons, and more",
+        "Once Irithyll of the Boreal Valley is accessible (cross the Boreal Valley bridge), return to Firelink and Greirat will ask for a second outing — read the Irithyll outing survival conditions BEFORE sending him"
+      ],
+      "topic": "greirat_first_outing"
+    },
+    {
+      "id": "loretta_bone_given_curl_up",
+      "label": "Loretta's Bone Delivered — Greirat Grieving",
+      "terminal": false,
+      "outcome": null,
+      "detection_confidence": "high",
+      "detection_note": "Flag 29064 (Loretta's Bone given) set. Flag 34127 (sent to Undead Settlement) not yet set. This is the 'curl up' interlude where Greirat grieves before asking for the first outing.",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_flag",
+            "flag_key": "loretta_bone_given"
+          },
+          {
+            "check": "missing_flag",
+            "flag_key": "greirat_sent_undead_settlement"
+          },
+          {
+            "check": "missing_item",
+            "item": "Greirat's Ashes"
+          }
+        ]
+      },
+      "status_message": "Loretta's Bone has been delivered. Greirat is grieving. After you reload the area (warp away and return), he will give you the Curl Up gesture and eventually ask to go scavenging.",
+      "next_steps": [
+        "Warp to another location and return to Firelink Shrine — Greirat will be curled up and gives the Curl Up gesture",
+        "Leave and return again: Greirat will ask for permission to scavenge the Undead Settlement",
+        "Grant him permission. He returns safely after any boss kill with an expanded shop"
+      ],
+      "topic": "greirat_first_outing"
+    },
+    {
+      "id": "loretta_bone_found_not_given",
+      "label": "Loretta's Bone Found — Deliver to Greirat",
+      "terminal": false,
+      "outcome": null,
+      "detection_confidence": "high",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_item",
+            "item": "Loretta's Bone"
+          },
+          {
+            "check": "missing_flag",
+            "flag_key": "loretta_bone_given"
+          }
+        ]
+      },
+      "status_message": "Loretta's Bone is in inventory. Return to Greirat at Firelink Shrine and give it to him.",
+      "next_steps": [
+        "Return to Firelink Shrine and talk to Greirat",
+        "Give him Loretta's Bone — he thanks you and tells you to keep the Blue Tearstone Ring",
+        "Warp away and return; Greirat will be in the curl-up position and eventually offer to scavenge"
+      ],
+      "topic": "greirat_deliver_loretta_bone"
+    },
+    {
+      "id": "rescued_awaiting_loretta",
+      "label": "Rescued — Waiting at Firelink, Loretta Not Found",
+      "terminal": false,
+      "outcome": null,
+      "detection_confidence": "high",
+      "detection_note": "Blue Tearstone Ring is given on rescue. Loretta's Bone flag not set and Loretta's Bone not in inventory — player hasn't found it yet.",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_item",
+            "item": "Blue Tearstone Ring"
+          },
+          {
+            "check": "missing_flag",
+            "flag_key": "loretta_bone_given"
+          },
+          {
+            "check": "missing_item",
+            "item": "Loretta's Bone"
+          },
+          {
+            "check": "missing_item",
+            "item": "Greirat's Ashes"
+          }
+        ]
+      },
+      "status_message": "Greirat is at Firelink Shrine. He asked you to deliver the Blue Tearstone Ring to Loretta in the Undead Settlement — but Loretta is already dead. Find her bone and bring it back to him instead.",
+      "next_steps": [
+        "Travel to the Undead Settlement bonfire",
+        "Enter the first building — walk out to the balcony overlooking the burning tree congregation",
+        "A corpse hangs from the balcony — attack it to drop it and collect Loretta's Bone",
+        "Return to Firelink Shrine and give Loretta's Bone to Greirat"
+      ],
+      "topic": "greirat_find_loretta_bone"
+    },
+    {
+      "id": "cell_key_found",
+      "label": "Cell Key Found — Free Greirat",
+      "terminal": false,
+      "outcome": null,
+      "detection_confidence": "high",
+      "detection_note": "Cell Key found but Blue Tearstone Ring not yet in inventory (Greirat gives BTR on acceptance). Cell Key stays in inventory after use.",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_item",
+            "item": "Cell Key"
+          },
+          {
+            "check": "missing_item",
+            "item": "Blue Tearstone Ring"
+          },
+          {
+            "check": "missing_item",
+            "item": "Greirat's Ashes"
+          }
+        ]
+      },
+      "status_message": "Cell Key is in inventory. Use it to open Greirat's cell below the Tower on the Wall bonfire in the High Wall of Lothric.",
+      "next_steps": [
+        "From the Tower on the Wall bonfire, descend one floor and follow the interior hallway of the tower",
+        "Greirat's cell is at the end of the hall — unlock it with the Cell Key",
+        "Talk to Greirat and accept his request — he gives you the Blue Tearstone Ring and moves to Firelink Shrine"
+      ],
+      "topic": "greirat_free_from_cell"
+    },
+    {
+      "id": "not_started",
+      "label": "Not Started",
+      "terminal": false,
+      "outcome": null,
+      "detection_confidence": "high",
+      "detection_note": "Fallback. Also covers the gap where the player is in the High Wall area but hasn't found the Cell Key yet.",
+      "conditions": {
+        "fallback": true
+      },
+      "status_message": "Greirat's questline not started. Find the Cell Key in the High Wall of Lothric to free him.",
+      "next_steps": [
+        "From the Tower on the Wall bonfire, exit through the door on the right into the rooftop area",
+        "Cross the rooftop past the Pus of Man, climb down the ladder into the building below",
+        "Deal with the spear-wielding Lothric Knight, then descend to the room guarded by dogs",
+        "Behind the black powder barrels is a semi-hidden staircase — the Cell Key is at the bottom",
+        "Return to Greirat's cell (one floor below the Tower on the Wall bonfire, along the interior hallway)"
+      ]
+    }
+  ],
+  "always_check_warnings": [
+    {
+      "id": "warn_irithyll_dungeon_too_early",
+      "urgency": "warning",
+      "label": "Irithyll Dungeon Risk — Greirat May Die",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_flag",
+            "flag_key": "greirat_sent_undead_settlement"
+          },
+          {
+            "check": "missing_item",
+            "item": "Greirat's Ashes"
+          },
+          {
+            "check": "has_bonfire_area",
+            "area": "Irithyll of the Boreal Valley"
+          }
+        ]
+      },
+      "message": "WARNING: You are in Irithyll and Greirat's first outing is complete. If you have sent or are about to send him to Irithyll, entering Irithyll Dungeon or Profaned Capital before he returns will kill him. Set up his rescue FIRST: either keep Siegward in the kitchen (do not talk to him after the kitchen meeting) OR set up Patches (tell him Greirat's location, then kill any boss except Pontiff)."
+    },
+    {
+      "id": "warn_patches_catarina_window",
+      "urgency": "warning",
+      "label": "Patches Rescue Window — Do Not Buy Catarina Armor Yet",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_flag",
+            "flag_key": "greirat_sent_undead_settlement"
+          },
+          {
+            "check": "missing_item",
+            "item": "Greirat's Ashes"
+          },
+          {
+            "check": "missing_all_items",
+            "group": "catarina_set"
+          }
+        ]
+      },
+      "message": "You have not bought the Catarina Set from Patches. This keeps the Patches rescue option open for Greirat's Irithyll outing. If Patches is your plan to save Greirat: do NOT buy the Catarina armor before sending Greirat to Irithyll, then tell Patches where Greirat went, then kill any boss except Pontiff Sulyvahn."
+    },
+    {
+      "id": "warn_loretta_before_first_outing",
+      "urgency": "reminder",
+      "label": "Give Loretta's Bone Before Sending Greirat",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_item",
+            "item": "Loretta's Bone"
+          },
+          {
+            "check": "missing_flag",
+            "flag_key": "loretta_bone_given"
+          },
+          {
+            "check": "has_item",
+            "item": "Blue Tearstone Ring"
+          }
+        ]
+      },
+      "message": "Greirat is at Firelink and Loretta's Bone is in your inventory. Give it to him now — this unlocks his first scavenging mission and is required to progress his questline.",
+      "topic": "greirat_deliver_loretta_bone"
+    },
+    {
+      "id": "warn_third_outing_is_fatal",
+      "urgency": "warning",
+      "label": "Third Outing to Lothric Castle Is Fatal",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_flag",
+            "flag_key": "greirat_returned_irithyll"
+          },
+          {
+            "check": "missing_item",
+            "item": "Greirat's Ashes"
+          }
+        ]
+      },
+      "message": "Greirat will ask to pillage Lothric Castle. There is NO way to save him on this outing. Sending him is worthwhile for the final vendor unlocks (Exploding Bolts, Splintering Bolts) but is irreversible. RECOMMENDED: kill Aldrich and Yhorm first so the Grand Archives is accessible to retrieve his ashes."
+    }
+  ],
+  "irithyll_survival_guide": {
+    "summary": "Greirat dies on the Irithyll outing unless exactly one of two rescue paths is active. Both paths require preparation BEFORE sending him.",
+    "path_a_siegward": {
+      "label": "Siegward rescue (most reliable)",
+      "requirement": "Siegward must be sitting in the kitchen near the Distant Manor bonfire in Irithyll when Greirat arrives.",
+      "how_to_achieve": [
+        "Complete Siegward's Cathedral of the Deep step: open Cathedral main doors, talk to Siegward in the well outside Cleansing Chapel, buy his Catarina Set from Patches, return it to Siegward",
+        "Progress to Irithyll. Find Siegward in the kitchen near the lake/Distant Manor area",
+        "CRITICAL: Do NOT exhaust Siegward's kitchen dialogue. You can accept his Estus Soup without completing the full dialogue. If you fully talk to him, he naps and cannot save Greirat",
+        "CRITICAL: Do NOT advance past Pontiff Sulyvahn into Irithyll Dungeon before Greirat returns — this moves Siegward to his cell, removing him from the kitchen",
+        "CRITICAL: Do NOT kill Alva the Spurned (invader just before Irithyll Dungeon bonfire) before sending Greirat — this can interfere with the questline",
+        "Kill Pontiff Sulyvahn. Greirat returns safely to Firelink"
+      ]
+    },
+    "path_b_patches": {
+      "label": "Patches rescue (requires specific conditions)",
+      "requirement": "Patches is at Firelink Shrine AND has not sold you the Catarina armor yet.",
+      "how_to_achieve": [
+        "Patches must already be at Firelink Shrine as a merchant",
+        "Do NOT buy the Catarina Set from Patches before sending Greirat to Irithyll",
+        "Send Greirat to Irithyll. Patches will then refuse to sell anything until you tell him where Greirat went",
+        "Tell Patches that Greirat went to Irithyll",
+        "Kill any boss EXCEPT Pontiff Sulyvahn (e.g. Old Demon King in Smouldering Lake works)",
+        "CRITICAL: Do NOT kill Pontiff before this boss kill — once Pontiff is dead, the Patches rescue window closes permanently",
+        "After the non-Pontiff boss kill, you can kill Pontiff and Greirat will return safely"
+      ]
+    },
+    "doomed_conditions": [
+      "You talked to Siegward and exhausted his kitchen dialogue (he naps, can't help)",
+      "You progressed into Irithyll Dungeon before Greirat returned",
+      "You killed Pontiff Sulyvahn before telling Patches where Greirat went",
+      "You bought the Catarina Set from Patches AND Siegward is unavailable",
+      "Siegward died in the Fire Demon fight in Undead Settlement (Patches also won't spawn)",
+      "You killed Alva the Spurned before sending Greirat (can affect the questline per wiki)"
+    ]
+  },
+  "controlled_saves_needed": [
+    {
+      "purpose": "Confirm greirat_recruited flag ID (EMEVD NPC state 1421)",
+      "procedure": "Open Greirat's cell. Talk to him, accept. Rest at bonfire. Save. Diff vs pre-rescue save — look for a bit flip in NPC state region (distinct from EzState FLAG_START_REL at 0x11660)."
+    },
+    {
+      "purpose": "Confirm greirat_returned_undead_settlement flag ID",
+      "procedure": "Send Greirat on first outing (flag 34127 already readable). Kill any boss. Rest at bonfire. Save. Diff vs post-send save."
+    },
+    {
+      "purpose": "Confirm greirat_sent_irithyll flag ID",
+      "procedure": "Cross Boreal Valley bridge, return to Firelink, send Greirat to Irithyll. Rest at bonfire. Save. Diff vs pre-send save."
+    },
+    {
+      "purpose": "Confirm greirat_returned_irithyll flag ID (requires Siegward or Patches set up first)",
+      "procedure": "With rescue path active, kill Pontiff. Greirat returns. Rest at bonfire. Save. Diff vs post-send save."
+    },
+    {
+      "purpose": "Confirm greirat_dead flag ID (EMEVD NPC state 1438)",
+      "procedure": "Send on Irithyll outing with NO rescue path. Kill Pontiff. Greirat's corpse appears in sewers. Rest at bonfire. Save. Diff vs post-send save."
+    }
+  ]
+}

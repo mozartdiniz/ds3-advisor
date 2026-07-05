@@ -1,0 +1,170 @@
+# Lothric Knight
+
+## Lothric Knight  
+  
+---  
+Red  Blue 
+
+## 
+
+##   
+  
+General Info  
+|  |   
+326-1289 | 220-4000 | [High Wall of Lothric](/High+Wall+of+Lothric "Dark Souls 3 High Wall of Lothric")  
+[Lothric Castle](/Lothric+Castle "Dark Souls 3 Lothric Castle")  
+[Grand Archives](/Grand+Archives "Dark Souls 3 Grand Archives")  
+Drops | [Lothric Knight Set](/Lothric+Knight+Set "Dark Souls 3 Lothric Knight Set")  
+[Knight's Crossbow](/Knight's+Crossbow "Dark Souls 3 Knight's Crossbow")  
+[Ember](/Ember "Dark Souls 3 Ember")  
+ _See below for unique drops_  
+Defences  
+Enemy Type | Hollow  
+Weak | [ Lightning](/Lightning "Dark Souls 3 Lightning")  
+[ Poison](/Poison "Dark Souls 3 Poison")  
+[ Toxic](/Toxic "Dark Souls 3 Toxic")  
+[ Frostbite](/Frostbite "Dark Souls 3 Frostbite")  
+[ Hollowslayer Greatsword](/Hollowslayer+Greatsword "Dark Souls 3 Hollowslayer Greatsword")  
+Resistant | [ Fire](/Fire "Dark Souls 3 Fire")  
+[ Bleed](/Bleed "Dark Souls 3 Bleed")  
+Immune | None  
+| [Alluring Skull](/Alluring+Skull "Dark Souls 3 Alluring Skull") **attracts** this enemy, making it vulnerable for a few seconds.  
+| [Rapport](/Rapport "Dark Souls 3 Rapport") **charms** this enemy, making it a temporary ally.  
+  
+**Lothric Knights** are a type of [Enemy](/Enemies "Dark Souls 3 Enemies") in **Dark Souls 3**
+
+### Lothric Knight Enemy Description
+
+Once famed and feared for their drake cavalry, the Lothric Knights fought bravely until slain, sworn faithful as one of the monarch's three pillars; for they who raise Lothric's banner are still to be feared, the cut of their [blade](/Lothric+Knight+Sword "Dark Souls 3 Lothric Knight Sword") as sweet, sudden and merciless as it ever was. These virtuous warriors have yet to cease patrolling Lothric and will test any fighter's mettle and resolve.
+
+Lothric Knights can be found from the beginning to the end and are most dangerous when their visors are raised. Blue coaks and royal armor announce the fiercest knights - felons and ill-doers - tread warily - as should any not abiding the rule of the three pillars.
+
+They are proficient in sword arts and can defend and attack in equal measure.
+
+### Lothric Knight Combat Information 
+
+  * Will use a [Shield Bash](/Shield+Bash "Dark Souls 3 Shield Bash") if fought in close proximity and when rolling behind them.
+  * Breaking their guard can be effective, particularly against the greatshield variant.
+  * Blue Cloak variants using swords will increase their sword's attack with [Blessed Weapon](/Blessed+Weapon "Dark Souls 3 Blessed Weapon").
+  * Blue Cloak variants met at Grand Archives using either [Lothric Knight Greatsword](/Lothric+Knight+Greatsword "Dark Souls 3 Lothric Knight Greatsword") or [Lothric Knight Long Spear](/Lothric+Knight+Long+Spear "Dark Souls 3 Lothric Knight Long Spear") may buff their weapon with [Crystal Magic Weapon](/Crystal+Magic+Weapon "Dark Souls 3 Crystal Magic Weapon").
+  * Variation using Lothric Straight Swords deals [Standard](/Standard+Damage "Dark Souls 3 Standard Damage"), [Thrust](/Thrust+Damage "Dark Souls 3 Thrust Damage") and [Strike](/Strike+Damage "Dark Souls 3 Strike Damage") damage.
+  * Variation using Lothric Knight Greatsword deals [Standard](/Standard+Damage "Dark Souls 3 Standard Damage"), [Thrust](/Thrust+Damage "Dark Souls 3 Thrust Damage"), [Lightning](/Lightning+Damage "Dark Souls 3 Lightning Damage") and - if his weapon is buffed - [Magic damage](/Magic+damage "Dark Souls 3 Magic damage"). 
+  * Variation using Lothric Knight Long Spear deals [Thrust](/Thrust+Damage "Dark Souls 3 Thrust Damage"), [Strike](/Strike+Damage "Dark Souls 3 Strike Damage") and - if their weapon is buffed - [Magic damage](/Magic+damage "Dark Souls 3 Magic damage").
+  * They are weak to [Hollowslayer Greatsword](/Hollowslayer+Greatsword "Dark Souls 3 Hollowslayer Greatsword"), [Frost](/Frost "Dark Souls 3 Frost"), [Poison](/Poison "Dark Souls 3 Poison")/[Toxic](/Toxic "Dark Souls 3 Toxic") and [Lightning](/Lightning+Damage "Dark Souls 3 Lightning Damage").
+  * Resistant to Physical-type damage, [Fire](/Fire+Damage "Dark Souls 3 Fire Damage") and [Bleed](/Bleed "Dark Souls 3 Bleed").
+  * Can be drawn by [Alluring Skulls](/Alluring+Skull "Dark Souls 3 Alluring Skull").
+  * They are affected by the [Rapport](/Rapport "Dark Souls 3 Rapport") pyromancy.
+  * Vulnerable to parrying, setup parries are especially effective due to their constant attacking.
+
+### Lothric Knight Notes & Trivia
+
+  * These knights are one of the "Three pillars of the king's rule" in lore, as mentioned in the [Knight's Ring](/Knight%27s+Ring "Dark Souls 3 Knight%27s Ring"), [Priestess Ring](/Priestess+Ring "Dark Souls 3 Priestess Ring") and [Scholar's Ring](/Scholar+Ring "Dark Souls 3 Scholar Ring") descriptions.
+  * The only enemy to drop [Sunlight Medal](/Sunlight+Medal "Dark Souls 3 Sunlight Medal").
+
+### Lothric Knight Drops
+
+**Item** | **Variant** | **Quantity** | **Probability** | **Luck**  
+---|---|---|---|---  
+[Lothric Knight Sword](/Lothric+Knight+Sword "Dark Souls 3 Lothric Knight Sword") |  Sword - High Wall of Lothric Sword - Exposed Face - High Wall of Lothric - Red-eyed Sword - Lothric Castle Sword - Lothric Castle - Red-eyed Sword - Grand Archives Sword - Exposed Face - Grand Archives - Red-eyed | 1 | 4% | Yes  
+[Lothric Knight Sword](/Lothric+Knight+Sword "Dark Souls 3 Lothric Knight Sword") |  Sword - Exposed Face - High Wall of Lothric - Red-eyed | 1 | 8% | Yes  
+[Lothric Knight Shield](/Lothric+Knight+Shield "Dark Souls 3 Lothric Knight Shield") |  Sword - High Wall of Lothric Sword - Lothric Castle Sword - Lothric Castle - Red-eyed | 1 | 3% | Yes  
+[Lothric Knight Shield](/Lothric+Knight+Shield "Dark Souls 3 Lothric Knight Shield") |  Sword - Exposed Face - High Wall of Lothric - Red-eyed Sword - Grand Archives Sword - Exposed Face - Grand Archives - Red-eyed | 1 | 4% | Yes  
+[Lothric Knight Shield](/Lothric+Knight+Shield "Dark Souls 3 Lothric Knight Shield") |  Sword - Exposed Face - High Wall of Lothric - Red-eyed | 1 | 6% | Yes  
+[Lothric Knight Helm](/Lothric+Knight+Helm "Dark Souls 3 Lothric Knight Helm") |  Sword - High Wall of Lothric Sword - Exposed Face - High Wall of Lothric - Red-eyed Spear - High Wall of Lothric Spear - Exposed Face - High Wall of Lothric - Red-eyed Sword - Lothric Castle Sword - Lothric Castle - Red-eyed Spear - Lothric Castle Spear - Lothric Castle - Red-eyed Sword - Grand Archives Sword - Exposed Face - Grand Archives - Red-eyed Spear - Grand Archives Spear - Exposed Face - Grand Archives - Red-eyed Sword - Exposed Face - Grand Archives - Red-eyed | 1 | 3% | Yes  
+[Lothric Knight Helm](/Lothric+Knight+Helm "Dark Souls 3 Lothric Knight Helm") |  Sword - Exposed Face - High Wall of Lothric - Red-eyed | 1 | 6% | Yes  
+[Lothric Knight Gauntlets](/Lothric+Knight+Gauntlets "Dark Souls 3 Lothric Knight Gauntlets") |  Sword - High Wall of Lothric Sword - Exposed Face - High Wall of Lothric - Red-eyed Spear - High Wall of Lothric Spear - Exposed Face - High Wall of Lothric - Red-eyed Sword - Lothric Castle Sword - Lothric Castle - Red-eyed Spear - Lothric Castle Spear - Lothric Castle - Red-eyed Sword - Grand Archives Sword - Exposed Face - Grand Archives - Red-eyed Spear - Grand Archives Spear - Exposed Face - Grand Archives - Red-eyed Sword - Exposed Face - Grand Archives - Red-eyed | 1 | 3% | Yes  
+[Lothric Knight Gauntlets](/Lothric+Knight+Gauntlets "Dark Souls 3 Lothric Knight Gauntlets") |  Sword - Exposed Face - High Wall of Lothric - Red-eyed | 1 | 6% | Yes  
+[Lothric Knight Leggings](/Lothric+Knight+Leggings "Dark Souls 3 Lothric Knight Leggings") |  Sword - High Wall of Lothric Sword - Exposed Face - High Wall of Lothric - Red-eyed Spear - High Wall of Lothric Spear - Exposed Face - High Wall of Lothric - Red-eyed Sword - Lothric Castle Sword - Lothric Castle - Red-eyed Spear - Lothric Castle Spear - Lothric Castle - Red-eyed Sword - Grand Archives Sword - Exposed Face - Grand Archives - Red-eyed Spear - Exposed Face - Grand Archives - Red-eyed Sword - Grand Archives Sword - Exposed Face - Grand Archives - Red-eyed | 1 | 3% | Yes  
+[Lothric Knight Leggings](/Lothric+Knight+Leggings "Dark Souls 3 Lothric Knight Leggings") |  Sword - Exposed Face - High Wall of Lothric - Red-eyed | 1 | 6% | Yes  
+[Titanite Shard](/Titanite+Shard "Dark Souls 3 Titanite Shard") |  Sword - High Wall of Lothric Sword - Exposed Face - High Wall of Lothric - Red-eyed Spear - High Wall of Lothric Spear - Exposed Face - High Wall of Lothric - Red-eyed | 1 | 4% | Yes  
+[Ember](/Ember "Dark Souls 3 Ember") |  Sword - High Wall of Lothric Sword - Exposed Face - High Wall of Lothric - Red-eyed Spear - High Wall of Lothric Spear - Exposed Face - High Wall of Lothric - Red-eyed Sword - Lothric Castle Sword - Lothric Castle - Red-eyed Spear - Lothric Castle Spear - Lothric Castle - Red-eyed Sword - Grand Archives Sword - Exposed Face - Grand Archives - Red-eyed Spear - Grand Archives Spear - Exposed Face - Grand Archives - Red-eyed Sword - Exposed Face - Grand Archives - Red-eyed | 1 | 5% | Yes  
+[Refined Gem](/Refined+Gem "Dark Souls 3 Refined Gem") |  Sword - Exposed Face - High Wall of Lothric - Red-eyed Spear - Exposed Face - High Wall of Lothric - Red-eyed Sword - Lothric Castle - Red-eyed Spear - Lothric Castle - Red-eyed | 1 | 2% | Yes  
+[Refined Gem](/Refined+Gem "Dark Souls 3 Refined Gem") |  Sword - Grand Archives Sword - Exposed Face - Grand Archives - Red-eyed Spear - Grand Archives Spear - Exposed Face - Grand Archives - Red-eyed | 1 | 4% | Yes  
+[Lothric Knight Long Spear](/Lothric+Knight+Long+Spear "Dark Souls 3 Lothric Knight Long Spear") |  Spear - High Wall of Lothric Spear - Exposed Face - High Wall of Lothric - Red-eyed Spear - Lothric Castle Spear - Lothric Castle - Red-eyed Spear - Grand Archives Spear - Exposed Face - Grand Archives - Red-eyed | 1 | 4% | Yes  
+[Large Titanite Shard](/Large+Titanite+Shard "Dark Souls 3 Large Titanite Shard") |  Sword - Lothric Castle Sword - Lothric Castle - Red-eyed Spear - Lothric Castle Spear - Lothric Castle - Red-eyed | 1 | 96% | No  
+[Large Titanite Shard](/Large+Titanite+Shard "Dark Souls 3 Large Titanite Shard") |  Sword - Grand Archives Sword - Exposed Face - Grand Archives - Red-eyed Spear - Grand Archives Spear - Exposed Face - Grand Archives - Red-eyed | 1 | 92% | No  
+[Titanite Chunk](/Titanite+Chunk "Dark Souls 3 Titanite Chunk") |  Sword - Lothric Castle Sword - Lothric Castle - Red-eyed Spear - Lothric Castle Spear - Lothric Castle - Red-eyed | 1 | 4% | Yes  
+[Titanite Chunk](/Titanite+Chunk "Dark Souls 3 Titanite Chunk") |  Sword - Grand Archives Sword - Exposed Face - Grand Archives - Red-eyed Spear - Grand Archives Spear - Exposed Face - Grand Archives - Red-eyed | 1 | 8% | Yes  
+[Sunlight Medal](/Sunlight+Medal "Dark Souls 3 Sunlight Medal") |  Sword - Lothric Castle Sword - Lothric Castle - Red-eyed Spear - Lothric Castle Spear - Lothric Castle - Red-eyed | 1 | 2% | Yes  
+[Lothric Knight Greatsword](/Lothric+Knight+Greatsword "Dark Souls 3 Lothric Knight Greatsword") |  Sword - Lothric Castle Sword - Lothric Castle - Red-eyed Sword - Grand Archives Sword - Exposed Face - Grand Archives - Red-eyed | 1 | 4% | Yes  
+[Lightning Gem](/Lightning+Gem "Dark Souls 3 Lightning Gem") |  Sword - Lothric Castle Sword - Lothric Castle - Red-eyed | 1 | 2% | Yes  
+[Lightning Gem](/Lightning+Gem "Dark Souls 3 Lightning Gem") |  Sword - Grand Archives Sword - Exposed Face - Grand Archives - Red-eyed | 1 | 4% | Yes  
+  
+### Lothric Knight Variations
+
+#### Sword or Spears
+
+Location |  |  | Drops  
+---|---|---|---  
+[High Wall of Lothric](/High+Wall+of+Lothric "Dark Souls 3 High Wall of Lothric") | 326 |  220 |  [Lothric Knight Set  
+](/Lothric+Knight+Set "Dark Souls 3 Lothric Knight Set")   
+[Lothric Knight Shield](/Lothric+Knight+Shield "Dark Souls 3 Lothric Knight Shield")   
+[Lothric Knight Greatshield](/Lothric+Knight+Greatshield "Dark Souls 3 Lothric Knight Greatshield")[  
+](/Lothric+Knight+Shield "Dark Souls 3 Lothric Knight Shield")   
+[Lothric Knight Sword](/Lothric+Knight+Sword "Dark Souls 3 Lothric Knight Sword")  
+[Lothric Knight Long Spear](/Lothric+Knight+Long+Spear "Dark Souls 3 Lothric Knight Long Spear")  
+[Knight's Crossbow  
+](/Knight's+Crossbow "Dark Souls 3 Knight's Crossbow")  
+[Titanite Shard  
+](/Titanite+Shard "Dark Souls 3 Titanite Shard")  
+[Ember  
+](/Ember "Dark Souls 3 Ember")  
+[Lothric Castle](/Lothric+Castle "Dark Souls 3 Lothric Castle") | 1079 | 2500 |  [Lothric Knight Set  
+](/Lothric+Knight+Set "Dark Souls 3 Lothric Knight Set")   
+[Lothric Knight Shield  
+](/Lothric+Knight+Shield "Dark Souls 3 Lothric Knight Shield")   
+[Lothric Knight Sword](/Lothric+Knight+Sword "Dark Souls 3 Lothric Knight Sword")  
+[Lothric Knight Long Spear](/Lothric+Knight+Long+Spear "Dark Souls 3 Lothric Knight Long Spear")  
+[Lothric Knight Greatsword](/Lothric+Knight+Greatsword "Dark Souls 3 Lothric Knight Greatsword")  
+[Knight's Crossbow  
+](/Knight's+Crossbow "Dark Souls 3 Knight's Crossbow")  
+[Large Titanite Shard](/Large+Titanite+Shard "Dark Souls 3 Large Titanite Shard")  
+[Titanite Chunk](/Titanite+Chunk "Dark Souls 3 Titanite Chunk")  
+[Sunlight Medal  
+](/Sunlight+Medal "Dark Souls 3 Sunlight Medal")  
+[Ember  
+](/Ember "Dark Souls 3 Ember")  
+[Grand Archives](/Grand+Archives "Dark Souls 3 Grand Archives") | 1289 | 4000 |  [Lothric Knight Set  
+](/Lothric+Knight+Set "Dark Souls 3 Lothric Knight Set")   
+[Lothric Knight Shield  
+](/Lothric+Knight+Shield "Dark Souls 3 Lothric Knight Shield")   
+[Lothric Knight Sword](/Lothric+Knight+Sword "Dark Souls 3 Lothric Knight Sword")  
+[Lothric Knight Long Spear](/Lothric+Knight+Long+Spear "Dark Souls 3 Lothric Knight Long Spear")  
+[Lothric Knight Greatsword](/Lothric+Knight+Greatsword "Dark Souls 3 Lothric Knight Greatsword")  
+[Knight's Crossbow  
+](/Knight's+Crossbow "Dark Souls 3 Knight's Crossbow")  
+[Large Titanite Shard](/Large+Titanite+Shard "Dark Souls 3 Large Titanite Shard")  
+[Titanite Chunk](/Titanite+Chunk "Dark Souls 3 Titanite Chunk")  
+[Ember](/Ember "Dark Souls 3 Ember")  
+  
+#### Red-Eyed Royal Guard
+
+#### 
+
+Location |  |  | Drops  
+---|---|---|---  
+[High Wall of Lothric](/High+Wall+of+Lothric "Dark Souls 3 High Wall of Lothric") | 656 | 1200 |  [Lothric Knight Set  
+](/Lothric+Knight+Set "Dark Souls 3 Lothric Knight Set")   
+[Lothric Knight Shield  
+](/Lothric+Knight+Shield "Dark Souls 3 Lothric Knight Shield")   
+[Lothric Knight Sword](/Lothric+Knight+Sword "Dark Souls 3 Lothric Knight Sword")  
+[Lothric Knight Long Spear](/Lothric+Knight+Long+Spear "Dark Souls 3 Lothric Knight Long Spear")  
+[Knight's Crossbow  
+](/Knight's+Crossbow "Dark Souls 3 Knight's Crossbow")   
+[Titanite Shard  
+](/Titanite+Shard "Dark Souls 3 Titanite Shard")  
+[Ember](/Ember "Dark Souls 3 Ember")  
+[Refined Gem](/Refined+Gem "Dark Souls 3 Refined Gem")  
+Prince Lothric Bridge Guard |  | 4000 |  [Lothric Knight Set](/Lothric+Knight+Set "Dark Souls 3 Lothric Knight Set")  
+[Lothric Knight Shield](/Lothric+Knight+Shield "Dark Souls 3 Lothric Knight Shield")  
+[Lothric Knight Sword](/Lothric+Knight+Sword "Dark Souls 3 Lothric Knight Sword")  
+[Lothric Knight Long Spear](/Lothric+Knight+Long+Spear "Dark Souls 3 Lothric Knight Long Spear")  
+[Lothric Knight Greatsword](/Lothric+Knight+Greatsword "Dark Souls 3 Lothric Knight Greatsword")  
+[Knight's Crossbow  
+](/Knight's+Crossbow "Dark Souls 3 Knight's Crossbow") [Large Titanite Shard](/Large+Titanite+Shard "Dark Souls 3 Large Titanite Shard")  
+[Titanite Chunk](/Titanite+Chunk "Dark Souls 3 Titanite Chunk")  
+[Ember](/Ember "Dark Souls 3 Ember") [Lightning Gem](/Lightning+Gem "Dark Souls 3 Lightning Gem")  
+  
+[Enemies](/Enemies "Dark Souls 3 Enemies")  
+---  
+[Ancient Wyvern (Mob)](//darksouls3.wiki.fextralife.com/Ancient+Wyvern+\(Mob\)) ♦ [Angel](//darksouls3.wiki.fextralife.com/Angel) ♦ [Ascended Winged Knight](//darksouls3.wiki.fextralife.com/Ascended+Winged+Knight) ♦ [Basilisk](//darksouls3.wiki.fextralife.com/Basilisk) ♦ [Black Knight](//darksouls3.wiki.fextralife.com/Black+Knight) ♦ [Boreal Outrider Knight](//darksouls3.wiki.fextralife.com/Boreal+Outrider+Knight) ♦ [Caged Hollow](//darksouls3.wiki.fextralife.com/Caged+Hollow) ♦ [Carthus Sandworm](//darksouls3.wiki.fextralife.com/Carthus+Sandworm) ♦ [Carthus Swordsman Skeleton](//darksouls3.wiki.fextralife.com/Carthus+Swordsman+Skeleton) ♦ [Cathedral Evangelist](//darksouls3.wiki.fextralife.com/Cathedral+Evangelist) ♦ [Cathedral Grave Warden](//darksouls3.wiki.fextralife.com/Cathedral+Grave+Warden) ♦ [Cathedral Knight](//darksouls3.wiki.fextralife.com/Cathedral+Knight) ♦ [Clawed Curse](//darksouls3.wiki.fextralife.com/Clawed+Curse) ♦ [Corvian](//darksouls3.wiki.fextralife.com/Corvian) ♦ [Corvian Knight](//darksouls3.wiki.fextralife.com/Corvian+Knight) ♦ [Corvian Settler (Enemy)](//darksouls3.wiki.fextralife.com/Corvian+Settler+\(Enemy\)) ♦ [Corvian Storyteller](//darksouls3.wiki.fextralife.com/Corvian+Storyteller) ♦ [Court Sorcerer](//darksouls3.wiki.fextralife.com/Court+Sorcerer) ♦ [Crystal Lizard](//darksouls3.wiki.fextralife.com/Crystal+Lizard) ♦ [Crystal Sage (Mob)](//darksouls3.wiki.fextralife.com/Crystal+Sage+\(Mob\)) ♦ [Darkwraith](//darksouls3.wiki.fextralife.com/Darkwraith) ♦ [Deacon](//darksouls3.wiki.fextralife.com/Deacon) ♦ [Deacon of the Deep](//darksouls3.wiki.fextralife.com/Deacon+of+the+Deep) ♦ [Deep Accursed](//darksouls3.wiki.fextralife.com/Deep+Accursed) ♦ [Demon](//darksouls3.wiki.fextralife.com/Demon) ♦ [Demon Statue](//darksouls3.wiki.fextralife.com/Demon+Statue) ♦ [Desert Pyromancer Zoey](//darksouls3.wiki.fextralife.com/Desert+Pyromancer+Zoey) ♦ [Devout Hollow](//darksouls3.wiki.fextralife.com/Devout+Hollow) ♦ [Devout of the Deep](//darksouls3.wiki.fextralife.com/Devout+of+the+Deep) ♦ [Drakeblood Knight](//darksouls3.wiki.fextralife.com/Drakeblood+Knight) ♦ [Elder Ghru](//darksouls3.wiki.fextralife.com/Elder+Ghru) ♦ [Elite Hollow Soldier](//darksouls3.wiki.fextralife.com/Elite+Hollow+Soldier) ♦ [Farron Follower](//darksouls3.wiki.fextralife.com/Farron+Follower) ♦ [Fire Witch](//darksouls3.wiki.fextralife.com/Fire+Witch) ♦ [Gargoyle](//darksouls3.wiki.fextralife.com/Gargoyle) ♦ [Ghru Conjurator](//darksouls3.wiki.fextralife.com/Ghru+Conjurator) ♦ [Ghru Grunt](//darksouls3.wiki.fextralife.com/Ghru+Grunt) ♦ [Ghru Leaper](//darksouls3.wiki.fextralife.com/Ghru+Leaper) ♦ [Giant Avelyn](//darksouls3.wiki.fextralife.com/Giant+Avelyn) ♦ [Giant Crab](//darksouls3.wiki.fextralife.com/Giant+Crab) ♦ [Giant Fly](//darksouls3.wiki.fextralife.com/Giant+Fly) ♦ [Giant Serpent-Man](//darksouls3.wiki.fextralife.com/Giant+Serpent-Man) ♦ [Giant Slave](//darksouls3.wiki.fextralife.com/Giant+Slave) ♦ [Grand Archives Scholar](//darksouls3.wiki.fextralife.com/Grand+Archives+Scholar) ♦ [Grave Warden](//darksouls3.wiki.fextralife.com/Grave+Warden) ♦ [Gravewarden Skeleton](//darksouls3.wiki.fextralife.com/Gravewarden+Skeleton) ♦ [Greater Crab](//darksouls3.wiki.fextralife.com/Greater+Crab) ♦ [Grotesque Londor Grower](//darksouls3.wiki.fextralife.com/Grotesque+Londor+Grower) ♦ [Harald Legion Knight](//darksouls3.wiki.fextralife.com/Harald+Legion+Knight) ♦ [Havel Knight](//darksouls3.wiki.fextralife.com/Havel+Knight) ♦ [Hollow](//darksouls3.wiki.fextralife.com/Hollow) ♦ [Hollow Assassin](//darksouls3.wiki.fextralife.com/Hollow+Assassin) ♦ [Hollow Cleric](//darksouls3.wiki.fextralife.com/Hollow+Cleric) ♦ [Hollow Manservant](//darksouls3.wiki.fextralife.com/Hollow+Manservant) ♦ [Hollow Priest](//darksouls3.wiki.fextralife.com/Hollow+Priest) ♦ [Hollow Slave](//darksouls3.wiki.fextralife.com/Hollow+Slave) ♦ [Hollow Soldier](//darksouls3.wiki.fextralife.com/Hollow+Soldier) ♦ [Infested Corpse](//darksouls3.wiki.fextralife.com/Infested+Corpse) ♦ [Irithyllian Slave](//darksouls3.wiki.fextralife.com/Irithyllian+Slave) ♦ [Iron Dragonslayer](//darksouls3.wiki.fextralife.com/Iron+Dragonslayer) ♦ [Jailer](//darksouls3.wiki.fextralife.com/Jailer) ♦ [Judicator](//darksouls3.wiki.fextralife.com/Judicator) ♦ [Large Hollow Soldier](//darksouls3.wiki.fextralife.com/Large+Hollow+Soldier) ♦ [Lesser Crab](//darksouls3.wiki.fextralife.com/Lesser+Crab) ♦ [Lothric Wyvern](//darksouls3.wiki.fextralife.com/Lothric+Wyvern) ♦ [Lycanthrope](//darksouls3.wiki.fextralife.com/Lycanthrope) ♦ [Lycanthrope Hunter](//darksouls3.wiki.fextralife.com/Lycanthrope+Hunter) ♦ [Mad Ghru](//darksouls3.wiki.fextralife.com/Mad+Ghru) ♦ [Madwoman](//darksouls3.wiki.fextralife.com/Madwoman) ♦ [Maggot-grub](//darksouls3.wiki.fextralife.com/Maggot-grub) ♦ [Man-grub](//darksouls3.wiki.fextralife.com/Man-grub) ♦ [Man-Serpent Summoner](//darksouls3.wiki.fextralife.com/Man-Serpent+Summoner) ♦ [Millwood Chieftain](//darksouls3.wiki.fextralife.com/Millwood+Chieftain) ♦ [Millwood Knight](//darksouls3.wiki.fextralife.com/Millwood+Knight) ♦ [Mimic](//darksouls3.wiki.fextralife.com/Mimic) ♦ [Monstrosity of Sin](//darksouls3.wiki.fextralife.com/Monstrosity+of+Sin) ♦ [Murkman](//darksouls3.wiki.fextralife.com/Murkman) ♦ [Murkmen](//darksouls3.wiki.fextralife.com/Murkmen) ♦ [Overgrown Lothric Knight](//darksouls3.wiki.fextralife.com/Overgrown+Lothric+Knight) ♦ [Overgrown Skeleton](//darksouls3.wiki.fextralife.com/Overgrown+Skeleton) ♦ [Peasant Hollow](//darksouls3.wiki.fextralife.com/Peasant+Hollow) ♦ [Poisonhorn Bug](//darksouls3.wiki.fextralife.com/Poisonhorn+Bug) ♦ [Pontiff Knight](//darksouls3.wiki.fextralife.com/Pontiff+Knight) ♦ [Pus of Man](//darksouls3.wiki.fextralife.com/Pus+of+Man) ♦ [Rapier Champion](//darksouls3.wiki.fextralife.com/Rapier+Champion) ♦ [Rat](//darksouls3.wiki.fextralife.com/Rat) ♦ [Ravenous Crystal Lizard](//darksouls3.wiki.fextralife.com/Ravenous+Crystal+Lizard) ♦ [Reanimated Corpse](//darksouls3.wiki.fextralife.com/Reanimated+Corpse) ♦ [Ringed Knight](//darksouls3.wiki.fextralife.com/Ringed+Knight) ♦ [Rock Lizard](//darksouls3.wiki.fextralife.com/Rock+Lizard) ♦ [Root Skeleton](//darksouls3.wiki.fextralife.com/Root+Skeleton) ♦ [Rotten Flesh of Aldrich](//darksouls3.wiki.fextralife.com/Rotten+Flesh+of+Aldrich) ♦ [Rotten Slug](//darksouls3.wiki.fextralife.com/Rotten+Slug) ♦ [Serpent-man](//darksouls3.wiki.fextralife.com/Serpent-man) ♦ [Sewer Centipede](//darksouls3.wiki.fextralife.com/Sewer+Centipede) ♦ [Silver Knight](//darksouls3.wiki.fextralife.com/Silver+Knight) ♦ [Skeleton](//darksouls3.wiki.fextralife.com/Skeleton) ♦ [Skeleton Ball](//darksouls3.wiki.fextralife.com/Skeleton+Ball) ♦ [Skeleton Elites](//darksouls3.wiki.fextralife.com/Skeleton+Elites) ♦ [Skeleton Wheel](//darksouls3.wiki.fextralife.com/Skeleton+Wheel) ♦ [Skeletons](//darksouls3.wiki.fextralife.com/Skeletons) ♦ [Smoldering Ghru](//darksouls3.wiki.fextralife.com/Smoldering+Ghru) ♦ [Smoldering Rotten Flesh](//darksouls3.wiki.fextralife.com/Smoldering+Rotten+Flesh) ♦ [Starved Hound](//darksouls3.wiki.fextralife.com/Starved+Hound) ♦ [Sulyvahn's Beast](//darksouls3.wiki.fextralife.com/Sulyvahn's+Beast) ♦ [Thrall](//darksouls3.wiki.fextralife.com/Thrall) ♦ [Tree Woman](//darksouls3.wiki.fextralife.com/Tree+Woman) ♦ [Winged Knight](//darksouls3.wiki.fextralife.com/Winged+Knight) ♦ [Wolf](//darksouls3.wiki.fextralife.com/Wolf) ♦ [Wretch](//darksouls3.wiki.fextralife.com/Wretch)

@@ -1,0 +1,23 @@
+[project]
+name = "ds3-companion"
+version = "0.0.0"
+description = "DS3 save-watching AI companion — design doc: ../ai_assistant_design.md"
+requires-python = ">=3.9"
+dependencies = [
+    "pycryptodome>=3.20",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["parser*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

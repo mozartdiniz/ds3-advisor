@@ -1,0 +1,8 @@
+Name & Icon,Attack PowerDamage Reduction (%),Requirements Param Bonus,Range / Durability / Weight - Attack Type - Skill,Physical ATK,col_5,col_6,col_7,col_8,Critical,col_10,Strength,Dexterity,Intelligence,Faith,col_15,Skill,Acquired From
+Light Crossbow,64 -,0 -,0 -,0 -,0 -,100 -,-,10 -,8 -,0 -,0 -,42 45 3.0,7( -/ -) Tackle,Dropped by the Undeads with Crossbows at the High Wall of Lothric.Sold by Greirat of the Undead Settlement.,,,
+Knight's Crossbow,40 -,0 -,0 -,40 -,0 -,100 -,-,12 -,8 -,0 -,0 -,42 50 4.0,7( -/ -) Tackle,Drops from Lothric Knights,,,
+Arbalest,78 -,0 -,0 -,0 -,0 -,100 -,-,18 -,8 -,0 -,0 -,50 50 6.0,7 (-/-) Tackle,Found on a corpse within the rooftop sections of the Cathedral of the Deep,,,
+Sniper Crossbow,70 -,0 -,0 -,0 -,0 -,100 -,-,18 -,16 -,0 -,0 -,59 55 7.5,7 (-/-) Tackle,Looted from a corpse at the top of a gatehouse just before the dragons in Lothric Castle,,,
+Avelyn,64 -,0 -,0 -,0 -,0 -,100 -,-,16 -,14 -,- -,- -,35 35 7.5,7 (-/-) Tackle,Found in a Chest atop a bookshelf in the Grand Archives,,,
+Heavy Crossbow,72 -,0 -,0 -,0 -,0 -,100 -,-,14 -,8 -,- -,- -,50 55 4.5,7 (-/-) Tackle,Dropped by the crossbow-wielding knight in Cathedral of the Deep,,,
+Repeating Crossbow,83 -,0 -,0 -,0 -,0 -,100 -,-,16 -,20 -,- -,- -,49 20 7.5,-(13/13) Repeat Fire,Transposed with Soul of Slave Knight Gael,,,

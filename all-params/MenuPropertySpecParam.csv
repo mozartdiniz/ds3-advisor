@@ -1,0 +1,192 @@
+ID,Name,CaptionTextID,IconID,RequiredPropertyID,CompareType,RequiredPropertyFormatId,AdhocCaption,
+0,Default,0,-1,0,0,0,
+100,Item common name,0,-1,0,0,0,名前
+101,Item Common - Description,0,-1,0,0,0,説明
+102,Item common - Unchiku,0,-1,0,0,0,うんちく
+103,Weight,11351,9003,0,2,0,重量
+110,No. Held,11004,9007,0,0,0,所持数
+111,Max No. Held,0,9007,0,0,0,最大所持数
+112,Stored,11005,9008,0,0,0,倉庫所持数
+113,Max Stored,0,9008,0,0,0,最大倉庫所持数
+120,Required souls,12000,8002,0,0,2,必要ソウル
+121,Soul value,12010,8038,0,0,0,獲得ソウル
+200,Item Type,11360,9033,0,0,90,使用タイプ
+201,STR Scaling,11310,8009,0,1,100,能力補正 筋力
+202,DEX Scaling,11311,8010,0,1,100,能力補正 技量
+203,INT Scaling,11312,8011,0,1,100,能力補正 理力
+204,FTH Scaling,11313,8012,0,1,100,能力補正 信仰
+205,FP cost,11041,9005,0,2,0,消費MP
+300,Weapon category,11001,9000,0,0,120,武器種別
+301,Attack type,11003,9001,0,0,2,攻撃属性
+302,Skill Type,11006,9031,0,1,2,戦技名
+310,Physical Damage,11010,9009,0,1,0,物理攻撃力
+311,Magic Damage,11011,9010,0,1,0,魔法攻撃力
+312,Fire Damage,11012,9011,0,1,0,炎攻撃力
+313,Lightning Damage,11013,9012,0,1,0,雷攻撃力
+314,Dark Damage,11014,9013,0,1,0,闇攻撃力
+315,Additional Physical Damage,0,-1,0,1,1,付加攻撃力：物理
+316,Additional Magic Damage,0,-1,0,1,1,付加攻撃力：魔法
+317,Additional Fire Damage,0,-1,0,1,1,付加攻撃力：炎
+318,Additional Lightning Damage,0,-1,0,1,1,付加攻撃力：雷
+319,Additional Dark Damage,0,-1,0,1,1,付加攻撃力：闇
+320,Range,11032,9016,0,1,0,射程距離
+321,Spell Buff,11033,9015,0,1,0,魔法威力修正
+322,Critical,11030,9014,0,1,0,致命
+330,Poison,11050,8027,0,1,0,毒効果
+331,Bleed,11051,8026,0,1,0,出血効果
+332,Sacred,11052,-1,0,1,0,神聖効果
+333,Curse,11053,-1,0,1,0,邪教効果
+334,Frost,11054,8029,0,1,0,冷気効果
+340,Physical Absorption,11020,9017,0,1,2,カット率 物理
+341,Magic Absorption,11021,9018,0,1,2,カット率 魔法
+342,Fire Absorption,11022,9019,0,1,2,カット率 炎
+343,Lightning Absorption,11023,9020,0,1,2,カット率 雷
+344,Dark Absorption,11024,9021,0,1,2,カット率 闇
+345,Physical Defense,0,-1,0,1,10,付加カット率 物
+346,Magic Defense,0,-1,0,1,10,付加カット率 魔
+347,Fire Defense,0,-1,0,1,10,付加カット率 炎
+348,Lightning Defense,0,-1,0,1,10,付加カット率 雷
+349,Dark Defense,0,-1,0,1,10,付加カット率 闇
+350,Stability,11031,9022,0,1,2,受け能力
+351,Stability Value,0,-1,0,1,1,付加受け能力
+360,STR Requirement,11300,8009,10103,2,0,必要能力値 筋力
+361,DEX Requirement,11301,8010,10104,2,0,必要能力値 技量
+362,INT Requirement,11302,8011,10106,2,0,必要能力値 理力
+363,FTH Requirement,11303,8012,10107,2,0,必要能力値 信仰
+365,STR Requirement Value - Curse,0,-1,0,2,0,能力解放値 筋力
+366,DEX Requirement Value,0,-1,0,2,0,能力解放値 技量
+367,INT Requirement Value,0,-1,0,2,0,能力解放値 理力
+368,FTH Requirement Value,0,-1,0,2,0,能力解放値 信仰
+370,STR Scaling,11310,8009,0,1,100,能力補正 筋力
+371,DEX Scaling,11311,8010,0,1,100,能力補正 技量
+372,INT Scaling,11312,8011,0,1,100,能力補正 理力
+373,FTH Scaling,11313,8012,0,1,100,能力補正 信仰
+380,Durability,11350,9002,0,1,0,耐久度
+381,Max Durability,11350,9002,0,1,0,耐久度
+390,FP cost L1,11034,9032,0,2,2,消費AP：L1
+391,FP cost L2,11034,9032,0,2,2,消費MP：L2
+392,FP cost R1,11034,9032,0,2,2,消費MP：R1
+393,FP cost R2,11034,9032,0,2,2,消費MP：R2
+400,Armor - Physical Defence,10530,8030,0,1,0,物理防御力
+401,Armor - Physical Strike Defence,10531,8031,0,1,0,物理防御力 打撃
+402,Armor - Physical Slash Defence,10532,8032,0,1,0,物理防御力 斬撃
+403,Armor - Physical Thrust Defence,10533,8033,0,1,0,物理防御力 刺突
+404,Armor - Magic Defence,10534,8034,0,1,0,魔法防御力
+405,Armor - Fire Defence,10535,8035,0,1,0,炎防御力
+406,Armor - Lightning Defence,10536,8036,0,1,0,雷防御力
+410,Armor - Poise,11200,8017,0,1,11,強靭度
+411,Armor - Poison,11190,8027,0,1,0,毒耐性
+412,Armor - Bleed,11191,8026,0,1,0,出血耐性
+413,Armor - Curse,11192,8028,0,1,0,呪い耐性
+414,Armor - Frost,11193,8029,0,1,0,冷気耐性
+415,Armor - Poise,11200,8017,0,2,20,新強靭度
+420,Armor - Durability,11350,9002,0,1,0,耐久度
+421,Armor - Max Durability,11350,9002,0,1,0,耐久度
+430,Armor - Physical Absorption,11180,9023,0,2,20,物理カット率
+431,Armor - Physical Strike Absorption,11181,9024,0,2,20,打撃カット率
+432,Armor - Physical Slash Absorption,11182,9025,0,2,20,斬撃カット率
+433,Armor - Physical Thrust Absorption,11183,9026,0,2,20,刺突カット率
+434,Armor - Magic Absorption,11184,9027,0,2,20,魔法カット率
+435,Armor - Fire Absorption,11185,9028,0,2,20,炎カット率
+436,Armor - Lightning Absorption,11186,9029,0,2,20,雷カット率
+437,Armor - Dark Absorption,11187,9030,0,2,20,闇カット率
+500,Spell - Type,11002,9004,0,0,0,スペル種別
+501,Spell - Attack Attribute,11003,9001,0,0,0,攻撃属性
+502,Spell - Slots Used,11040,9006,0,2,0,使用スロット数
+503,Spell - Number of Uses,11031,-1,0,1,0,使用回数
+504,Spell - INT Requirement,11302,8011,10106,2,0,必要能力値 理力
+505,Spell - FTH Requirement,11303,8012,10107,2,0,必要能力値 信仰
+520,Spell - FP Consumption,11041,9005,0,2,0,消費MP
+600,Arrow - Weapon type,11001,9000,0,0,120,武器種別
+601,Arrow - Attack attribute,11003,9001,0,0,0,攻撃属性
+610,Arrow - Physical Damage,11010,9009,0,1,0,物理攻撃力
+611,Arrow - Magic Damage,11011,9010,0,1,0,魔法攻撃力
+612,Arrow - Fire Damage,11012,9011,0,1,0,炎攻撃力
+613,Arrow - Lightning Damage,11013,9012,0,1,0,雷攻撃力
+614,Arrow - Critical,11030,9014,0,1,0,致命
+615,Arrow - Dark Damage,11014,9013,0,1,0,闇攻撃力
+620,Arrow - Poison,11050,8027,0,1,0,毒効果
+621,Arrow - Bleed,11051,8026,0,1,0,出血効果
+622,Arrow - <Sacred>,11052,-1,0,1,0,神聖効果
+623,Arrow - <Voodoo>,11053,-1,0,1,0,邪教効果
+624,Arrow - Frost,11054,8029,0,1,0,冷気効果
+10000,PC Basic Name,10100,-1,0,0,0,名前
+10001,PC Basic - Sex,10101,-1,0,0,0,性別
+10002,Basic PC - Feature,10102,-1,0,0,0,素性
+10003,PC Basic - Gift,10103,-1,0,0,0,贈り物
+10004,Basic PC - Body type,10104,-1,0,0,0,体型
+10005,PC Basic - Face,10105,-1,0,0,0,顔
+10006,PC Basic - Hairstyle,10106,-1,0,0,0,髪型
+10007,Basic PC - hair and pupil color,10107,-1,0,0,0,髪と瞳の色
+10008,Basic PC Level,10200,8000,0,1,0,レベル
+10009,PC Basic - Possession Soul,10201,8001,0,1,0,所持ソウル
+10010,PC Basic - required Seoul,10202,8002,0,0,2,必要ソウル
+10011,Basic PC Pledge,10300,8039,0,0,110,誓約
+10012,Basic PC - age group,10301,-1,0,0,0,年齢層
+10013,PC basic - dead degree,10203,8003,0,2,0,亡者度
+10100,PC1 Next - life force,10400,8004,0,1,0,生命力
+10101,PC1 Next - Endurance,10401,8005,0,1,0,持久力
+10102,PC1 Next - Memory,10402,8006,0,1,0,記憶力
+10103,PC1 Next - muscular strength,10403,8009,0,1,0,筋力
+10104,PC1 Next - Workmanship,10404,8010,0,1,0,技量
+10105,PC1 Next - Physical fitness,10405,8007,0,1,0,体力
+10106,PC1 Next - power of science,10406,8011,0,1,0,理力
+10107,PC1 Next - Faith,10407,8012,0,1,0,信仰
+10108,PC1 Next - human nature,10408,-1,0,1,0,人間性
+10109,PC1 Next - Luck,10409,8008,0,1,0,運
+10200,PC2 Next - HP Current Value,10500,8013,0,1,0,HP
+10201,PC2 Next - HP Max Value,10500,8013,0,1,0,HP
+10202,PC2 Next - MP Current Value,10501,8014,0,1,0,MP
+10203,PC2 Next - MP Max Value,10501,8014,0,1,0,MP
+10204,PC2 Next - Stamina,10502,8015,0,1,0,スタミナ
+10205,PC2 Next - equipment weight current value,10510,8016,0,2,0,装備重量
+10206,PC2 Next - equipment weight maximum,10510,8016,0,1,0,装備重量
+10207,PC2 Next - Right weapon 1 attack force,10520,8020,0,1,0,右武器１　攻撃力
+10208,PC2 Next - Right Weapon 2 attack force,10521,8021,0,1,0,右武器２　攻撃力
+10209,PC2 Next - Right Weapon 3 attack force,10522,8022,0,1,0,右武器３　攻撃力
+10210,PC2 Next - left Weapon 1 attack force,10523,8023,0,1,0,左武器１　攻撃力
+10211,PC2 Next - left Weapon 2 attack force,10524,8024,0,1,0,左武器２　攻撃力
+10212,PC2 Next - left Weapon 3 attack force,10525,8025,0,1,0,左武器３　攻撃力
+10213,PC2 Next - Defense Force: Physical,10530,9023,0,1,0,物理防御力
+10214,PC2 - defensive force: physical versus blow,10531,9024,0,1,0,物理防御力 打撃
+10215,PC2 - Defense Force: Physics vs. slashing,10532,9025,0,1,0,物理防御力 斬撃
+10216,PC2 - Defense Force: Physical vs. piercing,10533,9026,0,1,0,物理防御力 刺突
+10217,PC2 Next - Defense Force: Magic,10534,9027,0,1,0,魔法防御力
+10218,PC2 - Defense Force: Flame,10535,9028,0,1,0,炎防御力
+10219,PC2 - Defense Force: Thunder,10536,9029,0,1,0,雷防御力
+10220,PC2 - Resistant: Poison,10540,8027,0,1,0,毒耐性
+10221,PC2 - Resistant: bleeding,10541,8026,0,1,0,出血耐性
+10222,PC2 - Resistance: Curse,10542,8028,0,1,0,呪い耐性
+10223,PC2 Next - strong degree,11200,8017,0,1,11,強靭度
+10224,PC2 - Number of memory slots,10561,8018,0,1,0,記憶スロット数
+10225,PC2 Next - Item discovery Power,10562,8019,0,1,0,アイテム発見力
+10226,,10511,8040,0,2,0,荷重割合
+10227,,11200,8017,0,2,21,新強靭度
+10242,PC2 Next - armor damage cut: physical,11180,9023,0,2,22,カット 物理
+10243,PC2 Next - Armor damage Cut: Magic,11184,9027,0,2,22,カット 魔法
+10244,PC2 Next - armor damage cut: Flame,11205,9028,0,2,22,カット 炎
+10245,PC2 Next - Armor damage Cut: Thunder,11206,9029,0,2,22,カット 雷
+10258,PC2 Next - Dark Defense Force,10537,9030,0,1,0,闇防御力
+10259,PC2 Next - armor damage cut: physical versus blow,11201,9024,0,2,22,対打撃
+10260,PC2 Next - Armor damage cut: Physics vs slashing,11202,9025,0,2,22,対斬撃
+10261,PC2 Next - armor damage cut: physical vs. piercing,11203,9026,0,2,22,対刺突
+10262,PC2 Next - Armor damage Cut: Darkness,11207,9030,0,2,22,カット 闇
+10263,PC2 Next - Resistance: cold air,10543,8029,0,1,0,冷気耐性
+10264,PC2 - Armor resistance: bleeding,10541,8026,0,1,0,防具耐性：出血
+10265,PC2 - Armor Resistant: Poison,10540,8027,0,1,0,防具耐性：毒
+10266,PC2 Next - armor resistant: cold air,10543,8029,0,1,0,防具耐性：冷気
+10267,,10542,8028,0,1,0,防具耐性：呪い
+10270,【 PC2 Next 】 Arts point: Muscular strength Current value,11034,-1,0,1,0,戦技：筋力
+10271,【 PC2 Next 】 Arts point: Skill present Value,11034,-1,0,1,0,戦技：技量
+10272,【 PC2 Next 】 Arts point: Magic present Value,11034,-1,0,1,0,戦技：魔法
+10273,【 PC2 Next 】 Arts point: Miracle present Value,11034,-1,0,1,0,戦技：奇跡
+10280,【 PC2 Next 】 Arts point: Maximum muscle value,11034,-1,0,1,0,戦技：筋力最大値
+10281,【 PC2 Next 】 Arts point: Maximum skill level,11034,-1,0,1,0,戦技：技量最大値
+10282,【 PC2 Next 】 Arts point: Magic Max,11034,-1,0,1,0,戦技：魔法最大値
+10283,【 PC2 Next 】 Arts point: Miracle Maximum,11034,-1,0,1,0,戦技：奇跡最大値
+20300,,0,-1,0,1,0,攻撃力 合計
+20301,,0,-1,0,1,0,カット率 合計
+20302,,0,-1,0,1,0,効果別
+20400,,0,-1,0,1,0,カット率 合計
+20401,,0,-1,0,1,0,耐性 合計
+20600,,0,-1,0,1,0,攻撃力 合計

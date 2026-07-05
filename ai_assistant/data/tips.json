@@ -1,0 +1,575 @@
+{
+  "_meta": {
+    "source": "FightinCowboy 100% walkthrough transcript + DS3 wiki, hand-authored 2026-05-30",
+    "done_trigger": "completed_only flag controls whether [done] shows: true = show [done] when missing_items/missing_flags satisfied; false/absent = silently remove when area changes",
+    "schema": {
+      "triggers.bonfire_areas": "show when current bonfire is in this list (null = any area)",
+      "triggers.has_items": "ALL of these must be in inventory to show",
+      "triggers.missing_items": "NONE of these may be in inventory (tip is 'not done yet')",
+      "triggers.has_flags": "ALL flag IDs must be set",
+      "triggers.missing_flags": "NONE of these flag IDs may be set ('not done yet')",
+      "triggers.builds": "show only if player build matches one of these (null = show always)",
+      "triggers.min_level": "only show at or above this level",
+      "urgency": "info | reminder | warning  (warning = lockout risk)"
+    }
+  },
+  "tips": [
+    {
+      "id": "cemetery_crystal_lizard",
+      "category": "item",
+      "title": "Crystal Lizard near Cemetery of Ash",
+      "tip": "A Crystal Lizard hides on a side path in Cemetery of Ash. Killing it drops a Titanite Scale (used to upgrade boss/unique weapons). If it escapes, rest at any bonfire and it respawns.",
+      "urgency": "info",
+      "completed_only": true,
+      "triggers": {
+        "bonfire_areas": [
+          "Cemetery of Ash"
+        ],
+        "missing_items": [
+          "Titanite Scale"
+        ],
+        "has_items": null,
+        "has_flags": null,
+        "missing_flags": null,
+        "builds": null,
+        "min_level": null
+      }
+    },
+    {
+      "id": "missed_crystal_lizard_cemetery",
+      "category": "item",
+      "title": "Missed: Titanite Scale in Cemetery of Ash",
+      "tip": "You left Cemetery of Ash without the Titanite Scale from the Crystal Lizard. You can warp back to the Cemetery of Ash bonfire at any time - the lizard respawns when you rest. Titanite Scales are used to upgrade boss-soul and special weapons.",
+      "urgency": "reminder",
+      "completed_only": true,
+      "triggers": {
+        "bonfire_areas": [
+          "Firelink Shrine",
+          "High Wall of Lothric",
+          "Undead Settlement",
+          "Road of Sacrifices / Farron Keep"
+        ],
+        "missing_items": [
+          "Titanite Scale"
+        ],
+        "has_items": null,
+        "has_flags": [
+          14000800
+        ],
+        "missing_flags": null,
+        "builds": null,
+        "min_level": null
+      }
+    },
+    {
+      "id": "firelink_sword_master_uchigatana",
+      "category": "item",
+      "title": "Sword Master outside Firelink (Uchigatana)",
+      "tip": "The Sword Master NPC stands outside the left exit of Firelink Shrine. He drops the Uchigatana (great dex weapon) and Master's Attire when killed. You can cheese him by baiting him off the cliff edge.",
+      "urgency": "info",
+      "completed_only": true,
+      "triggers": {
+        "bonfire_areas": [
+          "Firelink Shrine"
+        ],
+        "missing_items": [
+          "Uchigatana"
+        ],
+        "has_items": null,
+        "has_flags": null,
+        "missing_flags": null,
+        "builds": [
+          "dex"
+        ],
+        "min_level": null
+      }
+    },
+    {
+      "id": "firelink_covetous_silver_serpent_ring",
+      "category": "item",
+      "title": "Covetous Silver Serpent Ring in Firelink rafters",
+      "tip": "The Covetous Silver Serpent Ring (+10% souls from enemies) is hidden behind an illusory wall in the rafters above Firelink. Access via the roof tree-jump trick, or buy the Tower Key for 20,000 souls later.",
+      "urgency": "info",
+      "completed_only": true,
+      "triggers": {
+        "bonfire_areas": [
+          "Firelink Shrine"
+        ],
+        "missing_items": [
+          "Covetous Silver Serpent Ring"
+        ],
+        "has_items": null,
+        "has_flags": [
+          14000800
+        ],
+        "missing_flags": null,
+        "builds": null,
+        "min_level": null
+      }
+    },
+    {
+      "id": "firelink_tower_key",
+      "category": "item",
+      "title": "Tower Key (Firekeeper Soul + Crow access)",
+      "tip": "The Shrine Handmaid sells the Tower Key for 20,000 souls. Inside: the Firekeeper Soul (permanent HP upgrade for your Estus), Firekeeper armor set, and access to the Picklepee crow trading nest on the roof.",
+      "urgency": "info",
+      "completed_only": false,
+      "triggers": {
+        "bonfire_areas": [
+          "Firelink Shrine"
+        ],
+        "missing_items": null,
+        "has_items": null,
+        "has_flags": null,
+        "missing_flags": null,
+        "builds": null,
+        "min_level": 20
+      }
+    },
+    {
+      "id": "high_wall_claymore",
+      "category": "item",
+      "title": "Claymore on the dragon bridge",
+      "tip": "The Claymore lies on the upper platform of the bridge where the dragon breathes fire. Sprint across to bait the flame downward, then grab it during the window. Excellent quality weapon (scales well with Str and Dex).",
+      "urgency": "info",
+      "completed_only": true,
+      "triggers": {
+        "bonfire_areas": [
+          "High Wall of Lothric"
+        ],
+        "missing_items": [
+          "Claymore"
+        ],
+        "has_items": null,
+        "has_flags": null,
+        "missing_flags": null,
+        "builds": [
+          "str",
+          "dex"
+        ],
+        "min_level": null
+      }
+    },
+    {
+      "id": "high_wall_deep_battle_axe",
+      "category": "item",
+      "title": "Deep Battle Axe from the Mimic",
+      "tip": "A Mimic chest in the room beneath the dragon drops the Deep Battle Axe. Watch for its open-animation tell or toss a Lloyd's Talisman to reveal it safely. Huge early damage boost.",
+      "urgency": "info",
+      "completed_only": true,
+      "triggers": {
+        "bonfire_areas": [
+          "High Wall of Lothric"
+        ],
+        "missing_items": [
+          "Deep Battle Axe"
+        ],
+        "has_items": null,
+        "has_flags": null,
+        "missing_flags": null,
+        "builds": [
+          "str"
+        ],
+        "min_level": null
+      }
+    },
+    {
+      "id": "high_wall_free_greirat",
+      "category": "npc",
+      "title": "Free Greirat from his cell",
+      "tip": "You have the Cell Key! Greirat's cell is at the bottom of the multi-level building on the High Wall. Free him and he'll move to Firelink as a merchant. He gives you the Blue Tearstone Ring.",
+      "urgency": "reminder",
+      "completed_only": true,
+      "triggers": {
+        "bonfire_areas": [
+          "High Wall of Lothric"
+        ],
+        "missing_items": [
+          "Blue Tearstone Ring"
+        ],
+        "has_items": [
+          "Cell Key"
+        ],
+        "has_flags": null,
+        "missing_flags": null,
+        "builds": null,
+        "min_level": null
+      }
+    },
+    {
+      "id": "high_wall_emma_banner",
+      "category": "npc",
+      "title": "Talk to Emma - required to progress",
+      "tip": "Emma, the High Priestess, is at the top of the High Wall cathedral. She gives you the Small Lothric Banner (required to proceed past the wall) and the Way of Blue covenant ring.",
+      "urgency": "reminder",
+      "completed_only": true,
+      "triggers": {
+        "bonfire_areas": [
+          "High Wall of Lothric"
+        ],
+        "missing_items": [
+          "Small Lothric Banner"
+        ],
+        "has_items": null,
+        "has_flags": null,
+        "missing_flags": null,
+        "builds": null,
+        "min_level": null
+      }
+    },
+    {
+      "id": "undead_settlement_yoel",
+      "category": "npc",
+      "title": "Recruit Yoel of Londor",
+      "tip": "Yoel is among the dead pilgrims at the broken bridge before the Undead Settlement entrance. Talk to him to recruit him to Firelink Shrine, where he offers up to 5 free levels in exchange for Hollowing.",
+      "urgency": "reminder",
+      "completed_only": false,
+      "triggers": {
+        "bonfire_areas": [
+          "Undead Settlement"
+        ],
+        "missing_items": null,
+        "has_items": null,
+        "has_flags": null,
+        "missing_flags": [
+          73100150
+        ],
+        "builds": null,
+        "min_level": null
+      }
+    },
+    {
+      "id": "undead_settlement_loretta_bone",
+      "category": "item",
+      "title": "Loretta's Bone - give to Greirat",
+      "tip": "Loretta's Bone is on a hanging corpse in the central Undead Settlement plaza. Picking it up lets you advance Greirat's questline - give it to him at Firelink to send him on his first scavenging run.",
+      "urgency": "reminder",
+      "completed_only": false,
+      "triggers": {
+        "bonfire_areas": [
+          "Undead Settlement"
+        ],
+        "missing_items": [
+          "Loretta's Bone"
+        ],
+        "has_items": null,
+        "has_flags": null,
+        "missing_flags": [
+          74000300
+        ],
+        "builds": null,
+        "min_level": null
+      }
+    },
+    {
+      "id": "undead_settlement_cornyx_cage",
+      "category": "npc",
+      "title": "Free Cornyx of the Great Swamp",
+      "tip": "Cornyx the pyromancer is locked in a hanging cage near the Cliff Underside area. Attack the cage to free him and he'll move to Firelink as your pyromancy vendor. He gives you the starting Pyromancy Flame.",
+      "urgency": "info",
+      "completed_only": true,
+      "triggers": {
+        "bonfire_areas": [
+          "Undead Settlement",
+          "Road of Sacrifices / Farron Keep"
+        ],
+        "missing_items": [
+          "Pyromancy Flame"
+        ],
+        "has_items": null,
+        "has_flags": null,
+        "missing_flags": [
+          74000450
+        ],
+        "builds": null,
+        "min_level": null
+      }
+    },
+    {
+      "id": "undead_settlement_hodrick_covenant",
+      "category": "npc",
+      "title": "Do NOT kill Hodrick yet - Mound-makers covenant",
+      "tip": "Holy Knight Hodrick invades near the Pit of Hollows. Do NOT kill him during his invasion - you need him alive to join the Mound-makers covenant. To join: talk to the cage-carrying enemy, hop into his cage, and speak to Hodrick in the Pit of Hollows.",
+      "urgency": "warning",
+      "completed_only": false,
+      "triggers": {
+        "bonfire_areas": [
+          "Undead Settlement"
+        ],
+        "missing_items": null,
+        "has_items": null,
+        "has_flags": null,
+        "missing_flags": [
+          13100800
+        ],
+        "builds": null,
+        "min_level": 14
+      }
+    },
+    {
+      "id": "undead_settlement_giant_archer",
+      "category": "npc",
+      "title": "Talk to the Giant Archer first",
+      "tip": "The Giant Archer in the tall tower shoots at you in the open white-birch graveyard. Climb the tower and talk to him FIRST to receive a Token of Friendship - his arrows will then kill hollows but ignore you, making item runs safe.",
+      "urgency": "warning",
+      "completed_only": false,
+      "triggers": {
+        "bonfire_areas": [
+          "Undead Settlement"
+        ],
+        "missing_items": [
+          "Mortician's Ashes"
+        ],
+        "has_items": null,
+        "has_flags": null,
+        "missing_flags": null,
+        "builds": null,
+        "min_level": 14
+      }
+    },
+    {
+      "id": "undead_settlement_morticians_ashes",
+      "category": "item",
+      "title": "Mortician's Ashes unlocks Grave Key",
+      "tip": "Mortician's Ashes are in the white-birch graveyard area (near the Giant Archer's zone). Give them to the Shrine Handmaid to unlock the Grave Key (1,500 souls) - needed to reach Irina of Carim in the sewers.",
+      "urgency": "reminder",
+      "completed_only": true,
+      "triggers": {
+        "bonfire_areas": [
+          "Undead Settlement"
+        ],
+        "missing_items": [
+          "Mortician's Ashes"
+        ],
+        "has_items": null,
+        "has_flags": null,
+        "missing_flags": [
+          73100100
+        ],
+        "builds": null,
+        "min_level": 14
+      }
+    },
+    {
+      "id": "undead_settlement_irina_sewer",
+      "category": "npc",
+      "title": "Free Irina of Carim - miracle vendor",
+      "tip": "You have the Grave Key! Use it on the door in the sewers below Dilapidated Bridge (drop into the rats area). Irina of Carim will move to Firelink as a miracle vendor. Eygon of Carim also spawns outside as a temporary ally.",
+      "urgency": "reminder",
+      "completed_only": true,
+      "triggers": {
+        "bonfire_areas": [
+          "Undead Settlement"
+        ],
+        "missing_items": null,
+        "has_items": [
+          "Grave Key"
+        ],
+        "has_flags": null,
+        "missing_flags": [
+          73100100
+        ],
+        "builds": null,
+        "min_level": null
+      }
+    },
+    {
+      "id": "undead_settlement_siegward_elevator",
+      "category": "npc",
+      "title": "Siegward elevator puzzle",
+      "tip": "Siegward (Onion Bro) is stuck at the tower elevator. Trick: step on the plate to trigger it, immediately step OFF so the second platform descends, then ride that up. He'll join you to fight the Fire Demon below - DO IT, you get Siegbrau which trades for Armor of the Sun at the crow nest.",
+      "urgency": "reminder",
+      "completed_only": true,
+      "triggers": {
+        "bonfire_areas": [
+          "Undead Settlement"
+        ],
+        "missing_items": [
+          "Siegbrau"
+        ],
+        "has_items": null,
+        "has_flags": null,
+        "missing_flags": null,
+        "builds": null,
+        "min_level": 14
+      }
+    },
+    {
+      "id": "firelink_give_loretta_to_greirat",
+      "category": "quest",
+      "title": "Give Loretta's Bone to Greirat",
+      "tip": "You have Loretta's Bone! Go talk to Greirat in Firelink Shrine. Giving it to him advances his questline and lets you eventually send him scavenging for items.",
+      "urgency": "reminder",
+      "completed_only": true,
+      "triggers": {
+        "bonfire_areas": [
+          "Firelink Shrine"
+        ],
+        "missing_items": null,
+        "has_items": [
+          "Loretta's Bone"
+        ],
+        "has_flags": null,
+        "missing_flags": [
+          74000300
+        ],
+        "builds": null,
+        "min_level": null
+      }
+    },
+    {
+      "id": "firelink_send_greirat_scavenging",
+      "category": "quest",
+      "title": "Send Greirat to scavenge Undead Settlement",
+      "tip": "Greirat can be sent to scavenge the Undead Settlement for items. Talk to him at Firelink and ask him to pillage - he'll return with new stock. Make sure Patches is recruited later before sending him to Irithyll.",
+      "urgency": "info",
+      "completed_only": false,
+      "triggers": {
+        "bonfire_areas": [
+          "Firelink Shrine"
+        ],
+        "missing_items": null,
+        "has_items": null,
+        "has_flags": [
+          74000300
+        ],
+        "missing_flags": [
+          74000302
+        ],
+        "builds": null,
+        "min_level": null
+      }
+    },
+    {
+      "id": "firelink_give_transposing_kiln",
+      "category": "quest",
+      "title": "Give Transposing Kiln to Ludleth",
+      "tip": "You have the Transposing Kiln (from Curse-Rotted Greatwood)! Give it to Ludleth on his throne in Firelink Shrine to unlock boss soul transposition - turning boss souls into unique weapons and spells.",
+      "urgency": "reminder",
+      "completed_only": true,
+      "triggers": {
+        "bonfire_areas": [
+          "Firelink Shrine"
+        ],
+        "missing_items": null,
+        "has_items": [
+          "Transposing Kiln"
+        ],
+        "has_flags": null,
+        "missing_flags": null,
+        "builds": null,
+        "min_level": null
+      }
+    },
+    {
+      "id": "firelink_yoel_free_levels",
+      "category": "npc",
+      "title": "Get free levels from Yoel of Londor",
+      "tip": "Yoel at Firelink offers up to 5 free levels via 'Draw Out True Strength'. Each draw increases Hollowing. Completing all 5 before Yoel dies (at Catacombs bonfire) unlocks Yuria of Londor and the Usurpation of Fire ending.",
+      "urgency": "info",
+      "completed_only": false,
+      "triggers": {
+        "bonfire_areas": [
+          "Firelink Shrine"
+        ],
+        "missing_items": null,
+        "has_items": null,
+        "has_flags": null,
+        "missing_flags": [
+          74000400
+        ],
+        "builds": null,
+        "min_level": 15
+      }
+    },
+    {
+      "id": "firelink_dark_sigil_warning",
+      "category": "quest",
+      "title": "Dark Sigil path active - Yuria questline",
+      "tip": "You have a Dark Sigil - you're on the Usurpation of Fire ending path. To complete it: reach 5 sigils from Yoel (before he dies at Catacombs bonfire), unlock Yuria, and perform the Anri of Astora questline ritual. Don't heal your Hollowing at the Fire Keeper or Yuria leaves.",
+      "urgency": "info",
+      "completed_only": false,
+      "triggers": {
+        "bonfire_areas": [
+          "Firelink Shrine"
+        ],
+        "missing_items": null,
+        "has_items": [
+          "Dark Sigil"
+        ],
+        "has_flags": null,
+        "missing_flags": null,
+        "builds": null,
+        "min_level": null
+      }
+    },
+    {
+      "id": "firelink_leonhard_cracked_eye_orbs",
+      "category": "npc",
+      "title": "Leonhard gave you Cracked Red Eye Orbs",
+      "tip": "Leonhard is at Firelink Shrine near Lothric's throne. He gives 5 Cracked Red Eye Orbs as a gift early on. Talk to him again after defeating a Darkwraith in High Wall to get a Red Eye Orb (unlimited invasions). His questline eventually leads to Rosaria's chamber.",
+      "urgency": "info",
+      "completed_only": false,
+      "triggers": {
+        "bonfire_areas": [
+          "Firelink Shrine"
+        ],
+        "missing_items": null,
+        "has_items": null,
+        "has_flags": [
+          74000850
+        ],
+        "missing_flags": null,
+        "builds": null,
+        "min_level": null
+      }
+    },
+    {
+      "id": "undead_settlement_butcher_knife",
+      "category": "item",
+      "title": "Butcher Knife - best early Strength weapon",
+      "tip": "The Butcher Knife is just past the Undead Settlement (Road of Sacrifices approach). From Cliff Underside bonfire, cross the bridge, take the elevator down, sprint past the Boreal Outrider Knight, and kill 'Mad Ghru' near the water. A-scaling in STR from base level, and its weapon art heals HP on each hit.",
+      "urgency": "info",
+      "completed_only": true,
+      "triggers": {
+        "bonfire_areas": [
+          "Undead Settlement",
+          "Road of Sacrifices / Farron Keep"
+        ],
+        "missing_items": [
+          "Butcher Knife"
+        ],
+        "has_items": null,
+        "has_flags": null,
+        "missing_flags": null,
+        "builds": [
+          "str"
+        ],
+        "min_level": 14
+      }
+    },
+    {
+      "id": "firelink_cornyx_pyromancy",
+      "category": "npc",
+      "title": "Talk to Cornyx at Firelink",
+      "tip": "Cornyx is now at Firelink Shrine. Talk to him to get the Pyromancy Flame and start buying pyromancies. Give him pyromancy tomes to expand his stock.",
+      "urgency": "reminder",
+      "completed_only": true,
+      "triggers": {
+        "bonfire_areas": [
+          "Firelink Shrine"
+        ],
+        "missing_items": [
+          "Pyromancy Flame"
+        ],
+        "has_items": null,
+        "has_flags": null,
+        "missing_flags": [
+          74000450
+        ],
+        "builds": null,
+        "min_level": null
+      }
+    }
+  ]
+}

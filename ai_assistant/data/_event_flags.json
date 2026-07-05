@@ -1,0 +1,1424 @@
+{
+  "_source": "https://soulsmodding.com/doku.php?id=ds3-refmat:event-flag-list",
+  "_license": "CC BY-SA 4.0",
+  "_extracted": "2026-05-28",
+  "_count": 354,
+  "flags": {
+    "50": {
+      "label": "Playthrough Lap: 0",
+      "category": "Event Flags (DS3)"
+    },
+    "51": {
+      "label": "Playthrough Lap: 1",
+      "category": "Event Flags (DS3)"
+    },
+    "52": {
+      "label": "Playthrough Lap: 2",
+      "category": "Event Flags (DS3)"
+    },
+    "53": {
+      "label": "Playthrough Lap: 3",
+      "category": "Event Flags (DS3)"
+    },
+    "54": {
+      "label": "Playthrough Lap: 4",
+      "category": "Event Flags (DS3)"
+    },
+    "55": {
+      "label": "Playthrough Lap: 5",
+      "category": "Event Flags (DS3)"
+    },
+    "56": {
+      "label": "Playthrough Lap: 6",
+      "category": "Event Flags (DS3)"
+    },
+    "57": {
+      "label": "Playthrough Lap: 7",
+      "category": "Event Flags (DS3)"
+    },
+    "58": {
+      "label": "Playthrough Lap: 8",
+      "category": "Event Flags (DS3)"
+    },
+    "200": {
+      "label": "Is Host",
+      "category": "Event Flags (DS3)"
+    },
+    "201": {
+      "label": "Is Guest",
+      "category": "Event Flags (DS3)"
+    },
+    "230": {
+      "label": "Ceremony Change: Eclipse in Sky",
+      "category": "Event Flags (DS3)"
+    },
+    "711": {
+      "label": "Story: Warp to Grand Archives",
+      "category": "Event Flags (DS3)"
+    },
+    "1420": {
+      "label": "State: High Priestess Emma - Character State Reset",
+      "category": "Event Flags (DS3)"
+    },
+    "1421": {
+      "label": "State: High Priestess Emma - Dead",
+      "category": "Event Flags (DS3)"
+    },
+    "1422": {
+      "label": "State: High Priestess Emma - ?",
+      "category": "Event Flags (DS3)"
+    },
+    "1423": {
+      "label": "State: High Priestess Emma - ?",
+      "category": "Event Flags (DS3)"
+    },
+    "1424": {
+      "label": "State: High Priestess Emma - ?",
+      "category": "Event Flags (DS3)"
+    },
+    "1425": {
+      "label": "State: High Priestess Emma - ?",
+      "category": "Event Flags (DS3)"
+    },
+    "1426": {
+      "label": "State: High Priestess Emma - ?",
+      "category": "Event Flags (DS3)"
+    },
+    "1427": {
+      "label": "State: High Priestess Emma - ?",
+      "category": "Event Flags (DS3)"
+    },
+    "1428": {
+      "label": "State: High Priestess Emma - ?",
+      "category": "Event Flags (DS3)"
+    },
+    "1429": {
+      "label": "State: High Priestess Emma - ?",
+      "category": "Event Flags (DS3)"
+    },
+    "1430": {
+      "label": "State: High Priestess Emma - ?",
+      "category": "Event Flags (DS3)"
+    },
+    "1431": {
+      "label": "State: High Priestess Emma - ?",
+      "category": "Event Flags (DS3)"
+    },
+    "1432": {
+      "label": "State: High Priestess Emma - ?",
+      "category": "Event Flags (DS3)"
+    },
+    "1433": {
+      "label": "State: High Priestess Emma - ?",
+      "category": "Event Flags (DS3)"
+    },
+    "1434": {
+      "label": "State: High Priestess Emma - ?",
+      "category": "Event Flags (DS3)"
+    },
+    "1435": {
+      "label": "Progression: High Priestess Emma - Progression Flags Reset",
+      "category": "Event Flags (DS3)"
+    },
+    "1436": {
+      "label": "Progression: High Priestess Emma - ?",
+      "category": "Event Flags (DS3)"
+    },
+    "1437": {
+      "label": "Progression: High Priestess Emma - ?",
+      "category": "Event Flags (DS3)"
+    },
+    "1438": {
+      "label": "Progression: High Priestess Emma - Basin of Vows has been given",
+      "category": "Event Flags (DS3)"
+    },
+    "1439": {
+      "label": "Progression: High Priestess Emma - ?",
+      "category": "Event Flags (DS3)"
+    },
+    "2000": {
+      "label": "System: Is in Multiplayer Session",
+      "category": "Event Flags (DS3)"
+    },
+    "2001": {
+      "label": "System: Is not in Multiplayer Session",
+      "category": "Event Flags (DS3)"
+    },
+    "2010": {
+      "label": "System: Is Host",
+      "category": "Event Flags (DS3)"
+    },
+    "2011": {
+      "label": "System: Is Guest",
+      "category": "Event Flags (DS3)"
+    },
+    "2020": {
+      "label": "System: Is Local Player Normal",
+      "category": "Event Flags (DS3)"
+    },
+    "2021": {
+      "label": "System: Is Local Player Friendly Phantom",
+      "category": "Event Flags (DS3)"
+    },
+    "2022": {
+      "label": "System: Is Local Player Hostile Phantom",
+      "category": "Event Flags (DS3)"
+    },
+    "2030": {
+      "label": "Hide Loading Screen",
+      "category": "Event Flags (DS3)"
+    },
+    "2040": {
+      "label": "Flag for PlayGo",
+      "category": "Event Flags (DS3)"
+    },
+    "2052": {
+      "label": "Unknown",
+      "category": "Event Flags (DS3)"
+    },
+    "6000": {
+      "label": "Always OFF",
+      "category": "Event Flags (DS3)"
+    },
+    "6001": {
+      "label": "Always ON",
+      "category": "Event Flags (DS3)"
+    },
+    "6079": {
+      "label": "Gesture Pickup: Path of the Dragon",
+      "category": "Event Flags (DS3)"
+    },
+    "6100": {
+      "label": "Defeated the Abyss Watchers",
+      "category": "Event Flags (DS3)"
+    },
+    "6101": {
+      "label": "Defeated Yhorm the Giant",
+      "category": "Event Flags (DS3)"
+    },
+    "6102": {
+      "label": "Defeated Aldrich",
+      "category": "Event Flags (DS3)"
+    },
+    "6103": {
+      "label": "Defeated the Twin Princes",
+      "category": "Event Flags (DS3)"
+    },
+    "6104": {
+      "label": "Defeated Iudex Gundyr",
+      "category": "Event Flags (DS3)"
+    },
+    "6105": {
+      "label": "Defeated Boreal Valley Vordt",
+      "category": "Event Flags (DS3)"
+    },
+    "6106": {
+      "label": "Defeated the Crystal Sage",
+      "category": "Event Flags (DS3)"
+    },
+    "6107": {
+      "label": "Defeated the Deacons of the Deep",
+      "category": "Event Flags (DS3)"
+    },
+    "6108": {
+      "label": "Defeated High Lord Wolnir",
+      "category": "Event Flags (DS3)"
+    },
+    "6109": {
+      "label": "Defeated Pontiff Sulyvahn",
+      "category": "Event Flags (DS3)"
+    },
+    "6110": {
+      "label": "Defeated the Dancer of the Boreal Valley",
+      "category": "Event Flags (DS3)"
+    },
+    "6111": {
+      "label": "Defeated the Dragonslayer Armour",
+      "category": "Event Flags (DS3)"
+    },
+    "6112": {
+      "label": "Game Clear",
+      "category": "Event Flags (DS3)"
+    },
+    "6300": {
+      "label": "Boss Victory: Dancer of the Boreal Valley",
+      "category": "Event Flags (DS3)"
+    },
+    "6301": {
+      "label": "Boss Victory: Vordt of the Boreal Valley",
+      "category": "Event Flags (DS3)"
+    },
+    "6302": {
+      "label": "Boss Victory: Oceiros, the Consumed King",
+      "category": "Event Flags (DS3)"
+    },
+    "6303": {
+      "label": "Boss Victory: Curse-rotted Greatwood",
+      "category": "Event Flags (DS3)"
+    },
+    "6304": {
+      "label": "Boss Victory: Nameless King",
+      "category": "Event Flags (DS3)"
+    },
+    "6305": {
+      "label": "Boss Victory: Ancient Wyvern",
+      "category": "Event Flags (DS3)"
+    },
+    "6306": {
+      "label": "Boss Victory: Crystal Sage",
+      "category": "Event Flags (DS3)"
+    },
+    "6307": {
+      "label": "Boss Victory: Abyss Watchers",
+      "category": "Event Flags (DS3)"
+    },
+    "6308": {
+      "label": "Boss Victory: Dragonslayer Armour",
+      "category": "Event Flags (DS3)"
+    },
+    "6309": {
+      "label": "Boss Victory: Twin Princes",
+      "category": "Event Flags (DS3)"
+    },
+    "6311": {
+      "label": "Boss Victory: Deacons of the Deep",
+      "category": "Event Flags (DS3)"
+    },
+    "6313": {
+      "label": "Boss Victory: Aldrich, Devourer of Gods",
+      "category": "Event Flags (DS3)"
+    },
+    "6314": {
+      "label": "Boss Victory: Pontiff Sulyvahn",
+      "category": "Event Flags (DS3)"
+    },
+    "6315": {
+      "label": "Boss Victory: High Lord Wolnir",
+      "category": "Event Flags (DS3)"
+    },
+    "6317": {
+      "label": "Boss Victory: Old Demon King",
+      "category": "Event Flags (DS3)"
+    },
+    "6318": {
+      "label": "Boss Victory: Yhorm the Giant",
+      "category": "Event Flags (DS3)"
+    },
+    "6319": {
+      "label": "Boss Victory: Iudex Gundyr",
+      "category": "Event Flags (DS3)"
+    },
+    "6320": {
+      "label": "Boss Victory: Champion Gundyr",
+      "category": "Event Flags (DS3)"
+    },
+    "6321": {
+      "label": "Boss Victory: Soul of Cinder",
+      "category": "Event Flags (DS3)"
+    },
+    "6322": {
+      "label": "Boss Victory: Sister Friede",
+      "category": "Event Flags (DS3)"
+    },
+    "6323": {
+      "label": "Boss Victory: Champion&#039;s Gravetender &amp; Gravetender Greatwolf",
+      "category": "Event Flags (DS3)"
+    },
+    "6324": {
+      "label": "Boss Victory: Demon Prince",
+      "category": "Event Flags (DS3)"
+    },
+    "6325": {
+      "label": "Boss Victory: Halflight, Spear of the Church",
+      "category": "Event Flags (DS3)"
+    },
+    "6326": {
+      "label": "Boss Victory: Darkeater Midir",
+      "category": "Event Flags (DS3)"
+    },
+    "6327": {
+      "label": "Boss Victory: Slave Knight Gael",
+      "category": "Event Flags (DS3)"
+    },
+    "6330": {
+      "label": "Boss Victory: Demon",
+      "category": "Event Flags (DS3)"
+    },
+    "6331": {
+      "label": "Boss Victory: Stray Demon",
+      "category": "Event Flags (DS3)"
+    },
+    "6400": {
+      "label": "Enter New Journey",
+      "category": "Event Flags (DS3)"
+    },
+    "6700": {
+      "label": "Warrior of Sunlight: Initial Unlock",
+      "category": "Event Flags (DS3)"
+    },
+    "6701": {
+      "label": "Warrior of Sunlight: Rank 1 Unlock",
+      "category": "Event Flags (DS3)"
+    },
+    "6702": {
+      "label": "Warrior of Sunlight: Rank 2 Unlock",
+      "category": "Event Flags (DS3)"
+    },
+    "6710": {
+      "label": "Mound-makers: Initial Unlock",
+      "category": "Event Flags (DS3)"
+    },
+    "6711": {
+      "label": "Mound-makers: Rank 1 Unlock",
+      "category": "Event Flags (DS3)"
+    },
+    "6712": {
+      "label": "Mound-makers: Rank 2 Unlock",
+      "category": "Event Flags (DS3)"
+    },
+    "6720": {
+      "label": "Watchdogs of Farron: Initial Unlock",
+      "category": "Event Flags (DS3)"
+    },
+    "6721": {
+      "label": "Watchdogs of Farron: Rank 1 Unlock",
+      "category": "Event Flags (DS3)"
+    },
+    "6722": {
+      "label": "Watchdogs of Farron: Rank 2 Unlock",
+      "category": "Event Flags (DS3)"
+    },
+    "6730": {
+      "label": "Aldrich Faithful: Initial Unlock",
+      "category": "Event Flags (DS3)"
+    },
+    "6731": {
+      "label": "Aldrich Faithful: Rank 1 Unlock",
+      "category": "Event Flags (DS3)"
+    },
+    "6732": {
+      "label": "Aldrich Faithful: Rank 2 Unlock",
+      "category": "Event Flags (DS3)"
+    },
+    "6740": {
+      "label": "Blue Sentinels: Initial Unlock",
+      "category": "Event Flags (DS3)"
+    },
+    "6741": {
+      "label": "Blue Sentinels: Rank 1 Unlock",
+      "category": "Event Flags (DS3)"
+    },
+    "6742": {
+      "label": "Blue Sentinels: Rank 2 Unlock",
+      "category": "Event Flags (DS3)"
+    },
+    "6750": {
+      "label": "Blade of the Darkmoon: Initial Unlock",
+      "category": "Event Flags (DS3)"
+    },
+    "6751": {
+      "label": "Blade of the Darkmoon: Rank 1 Unlock",
+      "category": "Event Flags (DS3)"
+    },
+    "6752": {
+      "label": "Blade of the Darkmoon: Rank 2 Unlock",
+      "category": "Event Flags (DS3)"
+    },
+    "6760": {
+      "label": "Rosaria&#039;s Fingers: Initial Unlock",
+      "category": "Event Flags (DS3)"
+    },
+    "6761": {
+      "label": "Rosaria&#039;s Fingers: Rank 1 Unlock",
+      "category": "Event Flags (DS3)"
+    },
+    "6762": {
+      "label": "Rosaria&#039;s Fingers: Rank 2 Unlock",
+      "category": "Event Flags (DS3)"
+    },
+    "6770": {
+      "label": "Way of Blue: Initial Unlock",
+      "category": "Event Flags (DS3)"
+    },
+    "6771": {
+      "label": "Way of Blue: Rank 1 Unlock",
+      "category": "Event Flags (DS3)"
+    },
+    "6772": {
+      "label": "Way of Blue: Rank 2 Unlock",
+      "category": "Event Flags (DS3)"
+    },
+    "6780": {
+      "label": "Item Lot: Red Eye Orb",
+      "category": "Event Flags (DS3)"
+    },
+    "6830": {
+      "label": "Spears of the Church: Initial Unlock",
+      "category": "Event Flags (DS3)"
+    },
+    "6831": {
+      "label": "Spears of the Church: Rank 1 Unlock",
+      "category": "Event Flags (DS3)"
+    },
+    "6832": {
+      "label": "Spears of the Church: Rank 2 Unlock",
+      "category": "Event Flags (DS3)"
+    },
+    "8221": {
+      "label": "Unknown",
+      "category": "Event Flags (DS3)"
+    },
+    "9300": {
+      "label": "Boss Victory: Dancer of the Boreal Valley",
+      "category": "Event Flags (DS3)"
+    },
+    "9301": {
+      "label": "Boss Victory: Vordt of the Boreal Valley",
+      "category": "Event Flags (DS3)"
+    },
+    "9302": {
+      "label": "Boss Victory: Oceiros, the Consumed King",
+      "category": "Event Flags (DS3)"
+    },
+    "9303": {
+      "label": "Boss Victory: Curse-rotted Greatwood",
+      "category": "Event Flags (DS3)"
+    },
+    "9304": {
+      "label": "Boss Victory: Nameless King",
+      "category": "Event Flags (DS3)"
+    },
+    "9305": {
+      "label": "Boss Victory: Ancient Wyvern",
+      "category": "Event Flags (DS3)"
+    },
+    "9306": {
+      "label": "Boss Victory: Crystal Sage",
+      "category": "Event Flags (DS3)"
+    },
+    "9307": {
+      "label": "Boss Victory: Abyss Watchers",
+      "category": "Event Flags (DS3)"
+    },
+    "9308": {
+      "label": "Boss Victory: Dragonslayer Armour",
+      "category": "Event Flags (DS3)"
+    },
+    "9309": {
+      "label": "Boss Victory: Twin Princes",
+      "category": "Event Flags (DS3)"
+    },
+    "9311": {
+      "label": "Boss Victory: Deacons of the Deep",
+      "category": "Event Flags (DS3)"
+    },
+    "9313": {
+      "label": "Boss Victory: Aldrich, Devourer of Gods",
+      "category": "Event Flags (DS3)"
+    },
+    "9314": {
+      "label": "Boss Victory: Pontiff Sulyvahn",
+      "category": "Event Flags (DS3)"
+    },
+    "9315": {
+      "label": "Boss Victory: High Lord Wolnir",
+      "category": "Event Flags (DS3)"
+    },
+    "9317": {
+      "label": "Boss Victory: Old Demon King",
+      "category": "Event Flags (DS3)"
+    },
+    "9318": {
+      "label": "Boss Victory: Yhorm the Giant",
+      "category": "Event Flags (DS3)"
+    },
+    "9319": {
+      "label": "Boss Victory: Iudex Gundyr",
+      "category": "Event Flags (DS3)"
+    },
+    "9320": {
+      "label": "Boss Victory: Champion Gundyr",
+      "category": "Event Flags (DS3)"
+    },
+    "9321": {
+      "label": "Boss Victory: Soul of Cinder",
+      "category": "Event Flags (DS3)"
+    },
+    "9322": {
+      "label": "Boss Victory: Sister Friede",
+      "category": "Event Flags (DS3)"
+    },
+    "9323": {
+      "label": "Boss Victory: Champion&#039;s Gravetender &amp; Gravetender Greatwolf",
+      "category": "Event Flags (DS3)"
+    },
+    "9324": {
+      "label": "Boss Victory: Demon Prince",
+      "category": "Event Flags (DS3)"
+    },
+    "9326": {
+      "label": "Boss Victory: Darkeater Midir",
+      "category": "Event Flags (DS3)"
+    },
+    "9327": {
+      "label": "Boss Victory: Slave Knight Gael",
+      "category": "Event Flags (DS3)"
+    },
+    "9330": {
+      "label": "Boss Victory: Demon",
+      "category": "Event Flags (DS3)"
+    },
+    "9331": {
+      "label": "Boss Victory: Stray Demon",
+      "category": "Event Flags (DS3)"
+    },
+    "13000800": {
+      "label": "Boss Dead: Vordt of the Boreal Valley",
+      "category": "Event Flags (DS3)"
+    },
+    "13000830": {
+      "label": "Boss Dead: Oceiros, the Consumed King",
+      "category": "Event Flags (DS3)"
+    },
+    "13000890": {
+      "label": "Boss Dead: Dancer of the Boreal Valley",
+      "category": "Event Flags (DS3)"
+    },
+    "13010800": {
+      "label": "Boss Dead: Dragonslayer Armour",
+      "category": "Event Flags (DS3)"
+    },
+    "13100800": {
+      "label": "Boss Dead: Curse-rotted Greatwood",
+      "category": "Event Flags (DS3)"
+    },
+    "13200800": {
+      "label": "Boss Dead: Ancient Wyvern",
+      "category": "Event Flags (DS3)"
+    },
+    "13200850": {
+      "label": "Boss Dead: Nameless King",
+      "category": "Event Flags (DS3)"
+    },
+    "13300800": {
+      "label": "Boss Dead: Abyss Watchers",
+      "category": "Event Flags (DS3)"
+    },
+    "13300850": {
+      "label": "Boss Dead: Crystal Sage",
+      "category": "Event Flags (DS3)"
+    },
+    "13410830": {
+      "label": "Boss Dead: The Twin Princes",
+      "category": "Event Flags (DS3)"
+    },
+    "13500800": {
+      "label": "Boss Dead: Deacons of the Deep",
+      "category": "Event Flags (DS3)"
+    },
+    "13700800": {
+      "label": "Boss Dead: Pontiff Sulyvahn",
+      "category": "Event Flags (DS3)"
+    },
+    "13700850": {
+      "label": "Boss Dead: Aldrich, Devourer of Gods",
+      "category": "Event Flags (DS3)"
+    },
+    "13800800": {
+      "label": "Boss Dead: High Lord Wolnir",
+      "category": "Event Flags (DS3)"
+    },
+    "13800830": {
+      "label": "Boss Dead: Old Demon King",
+      "category": "Event Flags (DS3)"
+    },
+    "13900800": {
+      "label": "Boss Dead: Yhorm the Giant",
+      "category": "Event Flags (DS3)"
+    },
+    "14000800": {
+      "label": "Boss Dead: Iudex Gundyr",
+      "category": "Event Flags (DS3)"
+    },
+    "14000830": {
+      "label": "Boss Dead: Champion Gundyr",
+      "category": "Event Flags (DS3)"
+    },
+    "14100800": {
+      "label": "Boss Dead: Soul of Cinder",
+      "category": "Event Flags (DS3)"
+    },
+    "14500800": {
+      "label": "Boss Dead: Sister Friede",
+      "category": "Event Flags (DS3)"
+    },
+    "14500860": {
+      "label": "Boss Dead: Champion&#039;s Gravetender &amp; Gravetender Greatwolf",
+      "category": "Event Flags (DS3)"
+    },
+    "15000800": {
+      "label": "Boss Dead: Demon Prince",
+      "category": "Event Flags (DS3)"
+    },
+    "15100800": {
+      "label": "Boss Dead: Halflight, Spear of the Church",
+      "category": "Event Flags (DS3)"
+    },
+    "15100850": {
+      "label": "Boss Dead: Darkeater Midir",
+      "category": "Event Flags (DS3)"
+    },
+    "15110800": {
+      "label": "Boss Dead: Slave Knight Gael",
+      "category": "Event Flags (DS3)"
+    },
+    "50002000": {
+      "label": "Boss Lot: Boreal Valley Vordt",
+      "category": "Event Flags (DS3)"
+    },
+    "50002010": {
+      "label": "Boss Lot: Dancer of the Boreal Valley",
+      "category": "Event Flags (DS3)"
+    },
+    "50002020": {
+      "label": "Boss Lot: Oceiros, the Consumed King",
+      "category": "Event Flags (DS3)"
+    },
+    "50002030": {
+      "label": "Boss Lot: Dragonslayer Armour",
+      "category": "Event Flags (DS3)"
+    },
+    "50002040": {
+      "label": "Boss Lot: Twin Princes",
+      "category": "Event Flags (DS3)"
+    },
+    "50002050": {
+      "label": "Boss Lot: Unused",
+      "category": "Event Flags (DS3)"
+    },
+    "50002060": {
+      "label": "Boss Lot: Curse-rotted Greatwood",
+      "category": "Event Flags (DS3)"
+    },
+    "50002070": {
+      "label": "Boss Lot: Ancient Dragon",
+      "category": "Event Flags (DS3)"
+    },
+    "50002080": {
+      "label": "Boss Lot: Nameless King",
+      "category": "Event Flags (DS3)"
+    },
+    "50002090": {
+      "label": "Boss Lot: Crystal Sage",
+      "category": "Event Flags (DS3)"
+    },
+    "50002100": {
+      "label": "Boss Lot: Abyss Watchers",
+      "category": "Event Flags (DS3)"
+    },
+    "50002110": {
+      "label": "Boss Lot: Deacons of the Deep (Small Doll)",
+      "category": "Event Flags (DS3)"
+    },
+    "50002111": {
+      "label": "Boss Lot: Deacons of the Deep",
+      "category": "Event Flags (DS3)"
+    },
+    "50002120": {
+      "label": "Boss Lot: Pontiff Sulyvahn",
+      "category": "Event Flags (DS3)"
+    },
+    "50002130": {
+      "label": "Boss Lot: Aldrich",
+      "category": "Event Flags (DS3)"
+    },
+    "50002140": {
+      "label": "Boss Lot: High Lord Wolnir",
+      "category": "Event Flags (DS3)"
+    },
+    "50002150": {
+      "label": "Boss Lot: Old Demon King",
+      "category": "Event Flags (DS3)"
+    },
+    "50002160": {
+      "label": "Boss Lot: Unused",
+      "category": "Event Flags (DS3)"
+    },
+    "50002170": {
+      "label": "Boss Lot: Yhorm the Giant",
+      "category": "Event Flags (DS3)"
+    },
+    "50002180": {
+      "label": "Boss Lot: Iudex Gundyr",
+      "category": "Event Flags (DS3)"
+    },
+    "50002190": {
+      "label": "Boss Lot: Champion Gundyr",
+      "category": "Event Flags (DS3)"
+    },
+    "50002200": {
+      "label": "Boss Lot: Soul of Cinder",
+      "category": "Event Flags (DS3)"
+    },
+    "50002300": {
+      "label": "Boss Lot: Sister Friede",
+      "category": "Event Flags (DS3)"
+    },
+    "50002310": {
+      "label": "Boss Lot: Champion&#039;s Bones",
+      "category": "Event Flags (DS3)"
+    },
+    "50002320": {
+      "label": "Boss Lot: Champion&#039;s Gravetender",
+      "category": "Event Flags (DS3)"
+    },
+    "50002330": {
+      "label": "Boss Lot: Demon Prince",
+      "category": "Event Flags (DS3)"
+    },
+    "50002340": {
+      "label": "Boss Lot: Halflight (Titanite Slab)",
+      "category": "Event Flags (DS3)"
+    },
+    "50002341": {
+      "label": "Boss Lot: Halflight",
+      "category": "Event Flags (DS3)"
+    },
+    "50002350": {
+      "label": "Boss Lot: Darkeater Midir",
+      "category": "Event Flags (DS3)"
+    },
+    "50002360": {
+      "label": "Boss Lot: Slave Knight Gael",
+      "category": "Event Flags (DS3)"
+    },
+    "50002500": {
+      "label": "Interactable Lot: Coiled Sword",
+      "category": "Event Flags (DS3)"
+    },
+    "50004300": {
+      "label": "Crow Exchange Lot: 1",
+      "category": "Event Flags (DS3)"
+    },
+    "50004301": {
+      "label": "Crow Exchange Lot: 2",
+      "category": "Event Flags (DS3)"
+    },
+    "50004302": {
+      "label": "Crow Exchange Lot: 3",
+      "category": "Event Flags (DS3)"
+    },
+    "50004303": {
+      "label": "Crow Exchange Lot: 4",
+      "category": "Event Flags (DS3)"
+    },
+    "50004304": {
+      "label": "Crow Exchange Lot: 5",
+      "category": "Event Flags (DS3)"
+    },
+    "50004305": {
+      "label": "Crow Exchange Lot: 6",
+      "category": "Event Flags (DS3)"
+    },
+    "50004306": {
+      "label": "Crow Exchange Lot: 7",
+      "category": "Event Flags (DS3)"
+    },
+    "50004307": {
+      "label": "Crow Exchange Lot: 8",
+      "category": "Event Flags (DS3)"
+    },
+    "50004308": {
+      "label": "Crow Exchange Lot: 9",
+      "category": "Event Flags (DS3)"
+    },
+    "50004309": {
+      "label": "Crow Exchange Lot: 10",
+      "category": "Event Flags (DS3)"
+    },
+    "50004310": {
+      "label": "Crow Exchange Lot: 11",
+      "category": "Event Flags (DS3)"
+    },
+    "50004311": {
+      "label": "Crow Exchange Lot: 12",
+      "category": "Event Flags (DS3)"
+    },
+    "50004312": {
+      "label": "Crow Exchange Lot: 13",
+      "category": "Event Flags (DS3)"
+    },
+    "50004313": {
+      "label": "Crow Exchange Lot: 14",
+      "category": "Event Flags (DS3)"
+    },
+    "50004314": {
+      "label": "Crow Exchange Lot: 15",
+      "category": "Event Flags (DS3)"
+    },
+    "50004315": {
+      "label": "Crow Exchange Lot: 16",
+      "category": "Event Flags (DS3)"
+    },
+    "50004316": {
+      "label": "Crow Exchange Lot: 17",
+      "category": "Event Flags (DS3)"
+    },
+    "50004317": {
+      "label": "Crow Exchange Lot: 18",
+      "category": "Event Flags (DS3)"
+    },
+    "50004318": {
+      "label": "Crow Exchange Lot: 19",
+      "category": "Event Flags (DS3)"
+    },
+    "50004319": {
+      "label": "Crow Exchange Lot: 20",
+      "category": "Event Flags (DS3)"
+    },
+    "50004320": {
+      "label": "Crow Exchange Lot: 21",
+      "category": "Event Flags (DS3)"
+    },
+    "50004321": {
+      "label": "Crow Exchange Lot: 22",
+      "category": "Event Flags (DS3)"
+    },
+    "50004322": {
+      "label": "Crow Exchange Lot: 23",
+      "category": "Event Flags (DS3)"
+    },
+    "50004323": {
+      "label": "Crow Exchange Lot: 24",
+      "category": "Event Flags (DS3)"
+    },
+    "50004324": {
+      "label": "Crow Exchange Lot: 25",
+      "category": "Event Flags (DS3)"
+    },
+    "50004325": {
+      "label": "Crow Exchange Lot: 26",
+      "category": "Event Flags (DS3)"
+    },
+    "50004326": {
+      "label": "Crow Exchange Lot: 27",
+      "category": "Event Flags (DS3)"
+    },
+    "50004327": {
+      "label": "Crow Exchange Lot: 28",
+      "category": "Event Flags (DS3)"
+    },
+    "50004328": {
+      "label": "Crow Exchange Lot: 29",
+      "category": "Event Flags (DS3)"
+    },
+    "50004329": {
+      "label": "Crow Exchange Lot: 30",
+      "category": "Event Flags (DS3)"
+    },
+    "50004330": {
+      "label": "Crow Exchange Lot: 31",
+      "category": "Event Flags (DS3)"
+    },
+    "50004331": {
+      "label": "Crow Exchange Lot: 32",
+      "category": "Event Flags (DS3)"
+    },
+    "50004332": {
+      "label": "Crow Exchange Lot: 33",
+      "category": "Event Flags (DS3)"
+    },
+    "50004333": {
+      "label": "Crow Exchange Lot: 34",
+      "category": "Event Flags (DS3)"
+    },
+    "50004334": {
+      "label": "Crow Exchange Lot: 35",
+      "category": "Event Flags (DS3)"
+    },
+    "50004335": {
+      "label": "Crow Exchange Lot: 36",
+      "category": "Event Flags (DS3)"
+    },
+    "50004336": {
+      "label": "Crow Exchange Lot: 37",
+      "category": "Event Flags (DS3)"
+    },
+    "50004337": {
+      "label": "Crow Exchange Lot: 38",
+      "category": "Event Flags (DS3)"
+    },
+    "50004338": {
+      "label": "Crow Exchange Lot: 39",
+      "category": "Event Flags (DS3)"
+    },
+    "50004339": {
+      "label": "Crow Exchange Lot: 40",
+      "category": "Event Flags (DS3)"
+    },
+    "50004700": {
+      "label": "Itemlot: Titanite Slab",
+      "category": "Event Flags (DS3)"
+    },
+    "50006020": {
+      "label": "Quest Lot: Fire Keeper - Eyes of a Fire Keeper",
+      "category": "Event Flags (DS3)"
+    },
+    "50006030": {
+      "label": "Quest Lot: Anri of Astora - Anri&#039;s Straight Sword",
+      "category": "Event Flags (DS3)"
+    },
+    "50006031": {
+      "label": "Quest Lot: Ludleth of Courland - Skull Ring",
+      "category": "Event Flags (DS3)"
+    },
+    "50006040": {
+      "label": "Quest Lot: Yuria of Londor - Morion Blade",
+      "category": "Event Flags (DS3)"
+    },
+    "50006041": {
+      "label": "Quest Lot: Yuria of Londor - Darkdrift (Lord of Hollow)",
+      "category": "Event Flags (DS3)"
+    },
+    "50006042": {
+      "label": "Quest Lot: Yuria of Londor - Yuria&#039;s Set (Lord of Hollow)",
+      "category": "Event Flags (DS3)"
+    },
+    "50006043": {
+      "label": "Quest Lot: Yuria of Londor - Yuyia&#039;s Ashes",
+      "category": "Event Flags (DS3)"
+    },
+    "50006060": {
+      "label": "Quest Lot: Company Captain Yorshka - Yorshka&#039;s Chime",
+      "category": "Event Flags (DS3)"
+    },
+    "50006070": {
+      "label": "Quest Lot: Hawkwood the Deserter - Heavy Gem",
+      "category": "Event Flags (DS3)"
+    },
+    "50006071": {
+      "label": "Quest Lot: Archdragon Peak Altar - Twinkling Dragon Torso Stone",
+      "category": "Event Flags (DS3)"
+    },
+    "50006072": {
+      "label": "Quest Lot: Hawkwood the Deserter - Twinkling Dragon Torso Stone",
+      "category": "Event Flags (DS3)"
+    },
+    "50006073": {
+      "label": "Quest Lot: Hawkwood the Deserter - Farron Ring",
+      "category": "Event Flags (DS3)"
+    },
+    "50006074": {
+      "label": "Quest Lot: Hawkwood the Deserter - Hawkwood Shield",
+      "category": "Event Flags (DS3)"
+    },
+    "50006080": {
+      "label": "Quest Lot: Sirris of the Sunless Realms - Silvercat Ring &amp; Blessed Mail Breaker",
+      "category": "Event Flags (DS3)"
+    },
+    "50006081": {
+      "label": "Quest Lot: Sirris of the Sunless Realms - Sunset Shield",
+      "category": "Event Flags (DS3)"
+    },
+    "50006082": {
+      "label": "Quest Lot: Sirris of the Sunless Realms - Sunless Talisman",
+      "category": "Event Flags (DS3)"
+    },
+    "50006083": {
+      "label": "Quest Lot: Sirris of the Sunless Realms - Sunset Set",
+      "category": "Event Flags (DS3)"
+    },
+    "50006090": {
+      "label": "Quest Lot: Ringfinger Leonhard - Red Eye Orb",
+      "category": "Event Flags (DS3)"
+    },
+    "50006091": {
+      "label": "Quest Lot: Ringfinger Leonhard - Silver Mask",
+      "category": "Event Flags (DS3)"
+    },
+    "50006092": {
+      "label": "Quest Lot: Ringfinger Leonhard - Black Eye Orb",
+      "category": "Event Flags (DS3)"
+    },
+    "50006093": {
+      "label": "Quest Lot: Ringfinger Leonhard - Soul of Rosaria &amp; Crescent Moon Sword &amp; Silver Mask",
+      "category": "Event Flags (DS3)"
+    },
+    "50006100": {
+      "label": "Quest Lot: Andre - Hawkwood&#039;s Swordgrass",
+      "category": "Event Flags (DS3)"
+    },
+    "50006110": {
+      "label": "Quest Lot: Shrine Handmaid - Princess Ring",
+      "category": "Event Flags (DS3)"
+    },
+    "50006120": {
+      "label": "Quest Lot: Greirat - Blue Tearstone Ring",
+      "category": "Event Flags (DS3)"
+    },
+    "50006121": {
+      "label": "Quest Lot: Greirat - Greirat&#039;s Ashes",
+      "category": "Event Flags (DS3)"
+    },
+    "50006130": {
+      "label": "Quest Lot: Orbeck of Vinheim - Young Dragon Ring",
+      "category": "Event Flags (DS3)"
+    },
+    "50006131": {
+      "label": "Quest Lot: Orbeck of Vinheim - Slumbering Dragoncrest Ring",
+      "category": "Event Flags (DS3)"
+    },
+    "50006132": {
+      "label": "Quest Lot: Orbeck of Vinheim - Orbeck&#039;s Ashes",
+      "category": "Event Flags (DS3)"
+    },
+    "50006140": {
+      "label": "Quest Lot: Cornyx of the Great Swamp - Pyromancy Flame",
+      "category": "Event Flags (DS3)"
+    },
+    "50006141": {
+      "label": "Quest Lot: Cornyx of the Great Swamp - Cornyx&#039;s Set",
+      "category": "Event Flags (DS3)"
+    },
+    "50006142": {
+      "label": "Quest Lot: Cornyx of the Great Swamp - Cornyx&#039;s Ashes",
+      "category": "Event Flags (DS3)"
+    },
+    "50006150": {
+      "label": "Quest Lot: Karla - Karla&#039;s Set",
+      "category": "Event Flags (DS3)"
+    },
+    "50006151": {
+      "label": "Quest Lot: Karla - Karla&#039;s Ashes",
+      "category": "Event Flags (DS3)"
+    },
+    "50006160": {
+      "label": "Quest Lot: Irina of Carim - Tower Key",
+      "category": "Event Flags (DS3)"
+    },
+    "50006161": {
+      "label": "Quest Lot: Irina of Carim - Saint&#039;s Talisman",
+      "category": "Event Flags (DS3)"
+    },
+    "50006162": {
+      "label": "Quest Lot: Irina of Carim - Deep Braille Divine Tome",
+      "category": "Event Flags (DS3)"
+    },
+    "50006163": {
+      "label": "Quest Lot: Irina of Carim - Londor Braille Divine Tome",
+      "category": "Event Flags (DS3)"
+    },
+    "50006164": {
+      "label": "Quest Lot: Irina of Carim - Irina&#039;s Ashes",
+      "category": "Event Flags (DS3)"
+    },
+    "50006170": {
+      "label": "Quest Lot: Eygon of Carim - Morne&#039;s Great Hammer &amp; Moaning Shield",
+      "category": "Event Flags (DS3)"
+    },
+    "50006190": {
+      "label": "Quest Lot: Anri of Astora - Ring of the Evil Eye",
+      "category": "Event Flags (DS3)"
+    },
+    "50006193": {
+      "label": "Quest Lot: Anri of Astora - Dark Sigil",
+      "category": "Event Flags (DS3)"
+    },
+    "50006200": {
+      "label": "Quest Lot: Unbreakable Patches - Rusted Coin",
+      "category": "Event Flags (DS3)"
+    },
+    "50006201": {
+      "label": "Quest Lot: Unbreakable Patches - Rusted Gold Coin",
+      "category": "Event Flags (DS3)"
+    },
+    "50006202": {
+      "label": "Quest Lot: Unbreakable Patches - Winged Spear &amp; Horsehoof Ring",
+      "category": "Event Flags (DS3)"
+    },
+    "50006203": {
+      "label": "Quest Lot: Unbreakable Patches - Patches&#039; Ashes",
+      "category": "Event Flags (DS3)"
+    },
+    "50006210": {
+      "label": "Quest Lot: Siegward of Catarina - Siegbräu (1)",
+      "category": "Event Flags (DS3)"
+    },
+    "50006211": {
+      "label": "Quest Lot: Siegward of Catarina - Siegbräu (2)",
+      "category": "Event Flags (DS3)"
+    },
+    "50006212": {
+      "label": "Quest Lot: Siegward of Catarina - Siegbräu (3)",
+      "category": "Event Flags (DS3)"
+    },
+    "50006213": {
+      "label": "Quest Lot: Siegward of Catarina - Kukri",
+      "category": "Event Flags (DS3)"
+    },
+    "50006214": {
+      "label": "Quest Lot: Siegward of Catarina - Emit Force",
+      "category": "Event Flags (DS3)"
+    },
+    "50006215": {
+      "label": "Quest Lot: Siegward of Catarina - Titanite Slab",
+      "category": "Event Flags (DS3)"
+    },
+    "50006216": {
+      "label": "Quest Lot: Siegward of Catarina - Storm Ruler",
+      "category": "Event Flags (DS3)"
+    },
+    "50006217": {
+      "label": "Quest Lot: Siegward of Catarina - Catarina Set",
+      "category": "Event Flags (DS3)"
+    },
+    "50006218": {
+      "label": "Quest Lot: Siegward of Catarina - Storm Ruler &amp; Pierce Shield",
+      "category": "Event Flags (DS3)"
+    },
+    "50006230": {
+      "label": "Quest Lot: High Priestess Emma - Basin of Vows",
+      "category": "Event Flags (DS3)"
+    },
+    "50006232": {
+      "label": "Quest Lot: High Priestess Emma - Small Lothric Banner",
+      "category": "Event Flags (DS3)"
+    },
+    "50006250": {
+      "label": "Quest Lot: Tower Giant - Young White Branch",
+      "category": "Event Flags (DS3)"
+    },
+    "50006251": {
+      "label": "Quest Lot: Tower Giant - Hawk Ring",
+      "category": "Event Flags (DS3)"
+    },
+    "50006260": {
+      "label": "Quest Lot: Horace the Hushed - Llewellyn Shield",
+      "category": "Event Flags (DS3)"
+    },
+    "50006300": {
+      "label": "Quest Lot: Londor Pilgrim - Chameleon",
+      "category": "Event Flags (DS3)"
+    },
+    "50006301": {
+      "label": "Quest Lot: Londor Pilgrim - Sword of Avowal",
+      "category": "Event Flags (DS3)"
+    },
+    "50006311": {
+      "label": "Quest Lot: Drowsy Forlorn - Homeward Bone",
+      "category": "Event Flags (DS3)"
+    },
+    "50006520": {
+      "label": "Quest Lot: Sir Vilhelm - Contraption Key",
+      "category": "Event Flags (DS3)"
+    },
+    "50006521": {
+      "label": "Quest Lot: Sir Vilhelm - Onyx Blade",
+      "category": "Event Flags (DS3)"
+    },
+    "50006540": {
+      "label": "Quest Lot: Forlorn Corvian Settler - Titanite Slab",
+      "category": "Event Flags (DS3)"
+    },
+    "50006550": {
+      "label": "Quest Lot: Sister Friede - Chillbite Ring",
+      "category": "Event Flags (DS3)"
+    },
+    "50006620": {
+      "label": "Quest Lot: Amnesiac Lapp - Siegbräu (1)",
+      "category": "Event Flags (DS3)"
+    },
+    "50006621": {
+      "label": "Quest Lot: Amnesiac Lapp - Titanite Slab",
+      "category": "Event Flags (DS3)"
+    },
+    "50006622": {
+      "label": "Quest Lot: Amnesiac Lapp - Siegbräu (2)",
+      "category": "Event Flags (DS3)"
+    },
+    "50006623": {
+      "label": "Quest Lot: Amnesiac Lapp - Champion&#039;s Bones",
+      "category": "Event Flags (DS3)"
+    },
+    "50006624": {
+      "label": "Quest Lot: Amnesiac Lapp - Lapp&#039;s Set",
+      "category": "Event Flags (DS3)"
+    },
+    "50006630": {
+      "label": "Quest Lot: Shira, Knight of Filianore - Sacred Chime of Filianore",
+      "category": "Event Flags (DS3)"
+    },
+    "50006631": {
+      "label": "Quest Lot: Shira, Knight of Filianore - Titanite Slab",
+      "category": "Event Flags (DS3)"
+    },
+    "50006632": {
+      "label": "Quest Lot: Shira, Knight of Filianore - Crucifix of the Mad King",
+      "category": "Event Flags (DS3)"
+    },
+    "50006660": {
+      "label": "Quest Lot: Stone-humped Hag - Old Woman&#039;s Ashes",
+      "category": "Event Flags (DS3)"
+    },
+    "50006700": {
+      "label": "One-time Lot: Black Hand Gotthard - Grand Archives Key",
+      "category": "Event Flags (DS3)"
+    },
+    "50006705": {
+      "label": "One-time Lot: Black Hand Kamui - Onikiri and Ubadachi",
+      "category": "Event Flags (DS3)"
+    },
+    "50006710": {
+      "label": "One-time Lot: Havel the Rock - Dragon Tooth &amp; Havel&#039;s Greatshield",
+      "category": "Event Flags (DS3)"
+    },
+    "50006720": {
+      "label": "One-time Lot: Sword Master - Uchigatana &amp; Master&#039;s Set",
+      "category": "Event Flags (DS3)"
+    },
+    "50006730": {
+      "label": "One-time Lot: Brigand (Road of Sacrifices) - Spider Shield",
+      "category": "Event Flags (DS3)"
+    },
+    "50006740": {
+      "label": "One-time Lot: Drakeblood Knight - Drakeblood Greatsword",
+      "category": "Event Flags (DS3)"
+    },
+    "50006750": {
+      "label": "One-time Lot: Naked Fencer (Archdragon Peak) - Ricard&#039;s Rapier",
+      "category": "Event Flags (DS3)"
+    },
+    "50006760": {
+      "label": "One-time Lot: Exile Watchdog - Exile Greatsword",
+      "category": "Event Flags (DS3)"
+    },
+    "50006770": {
+      "label": "One-time Lot: Exile Watchdog - Great Club",
+      "category": "Event Flags (DS3)"
+    },
+    "50006780": {
+      "label": "One-time Lot: Yellowfinger Heysel - Heysel Pick &amp; Xanthous Crown",
+      "category": "Event Flags (DS3)"
+    },
+    "50006790": {
+      "label": "One-time Lot: Londor Pale Shade - Manikin Claws",
+      "category": "Event Flags (DS3)"
+    },
+    "50006800": {
+      "label": "One-time Lot: Lion Knight Albert - Golden Wing Crest Shield",
+      "category": "Event Flags (DS3)"
+    },
+    "50006810": {
+      "label": "One-time Lot: Daughter of Crystal Kriemhild - Sage&#039;s Crystal Staff",
+      "category": "Event Flags (DS3)"
+    },
+    "50006820": {
+      "label": "One-time Lot: Court Sorcerer - Logan&#039;s Scroll",
+      "category": "Event Flags (DS3)"
+    },
+    "50006830": {
+      "label": "One-time Lot: Drang Knight - Drang Twinspears",
+      "category": "Event Flags (DS3)"
+    },
+    "50006840": {
+      "label": "One-time Lot: Knight Slayer Tsorig - Knight Slayer&#039;s Ring",
+      "category": "Event Flags (DS3)"
+    },
+    "50006845": {
+      "label": "One-time Lot: Knight Slayer Tsorig - Fume Ultra Greatsword &amp; Black Iron Greatshield",
+      "category": "Event Flags (DS3)"
+    },
+    "50006850": {
+      "label": "One-time Lot: Creighton the Wanderer - Dragonslayer&#039;s Axe",
+      "category": "Event Flags (DS3)"
+    },
+    "50006860": {
+      "label": "One-time Lot: Alva, Seeker of the Spurned - Murakumo",
+      "category": "Event Flags (DS3)"
+    },
+    "50006870": {
+      "label": "One-time Lot: Longfinger Kirk - Barbed Straight Sword &amp; Spiked Shield",
+      "category": "Event Flags (DS3)"
+    },
+    "50006880": {
+      "label": "One-time Lot: Isabella the Mad - Butcher Knife",
+      "category": "Event Flags (DS3)"
+    },
+    "50006920": {
+      "label": "One-time Lot: Livid Pyromancer Dunnel - Floating Chaos",
+      "category": "Event Flags (DS3)"
+    },
+    "50006939": {
+      "label": "One-time Lot: Shira, Knight of Filianore - Crucifix of the Mad King",
+      "category": "Event Flags (DS3)"
+    },
+    "50006940": {
+      "label": "One-time Lot: Shira, Knight of Filianore - White Birch Bow",
+      "category": "Event Flags (DS3)"
+    },
+    "50006950": {
+      "label": "One-time Lot: Desert Pyromancer Zoey - Flame Fan",
+      "category": "Event Flags (DS3)"
+    },
+    "50006960": {
+      "label": "One-time Lot: Silver Knight Ledo - Ledo&#039;s Great Hammer",
+      "category": "Event Flags (DS3)"
+    },
+    "50006970": {
+      "label": "One-time Lot: Alva, Seeker of the Spurned - Wolf Ring+3",
+      "category": "Event Flags (DS3)"
+    },
+    "50006980": {
+      "label": "One-time Lot: Moaning Knight - Blindfold Mask",
+      "category": "Event Flags (DS3)"
+    },
+    "54004010": {
+      "label": "Covenant Lot: Rosaria&#039;s Fingers",
+      "category": "Event Flags (DS3)"
+    },
+    "70000100": {
+      "label": "Shop Visibility: Mortician&#039;s Ashes",
+      "category": "Event Flags (DS3)"
+    },
+    "70000101": {
+      "label": "Shop Visibility: Dreamchaser Ashes",
+      "category": "Event Flags (DS3)"
+    },
+    "73000170": {
+      "label": "Dialogue: High Priestess Emma - Attacked",
+      "category": "Event Flags (DS3)"
+    },
+    "73000180": {
+      "label": "Dialogue: High Priestess Emma - Conversation End (Animation)",
+      "category": "Event Flags (DS3)"
+    },
+    "73000181": {
+      "label": "Dialogue: High Priestess Emma - Conversation End (Basin of Vows)",
+      "category": "Event Flags (DS3)"
+    },
+    "73000182": {
+      "label": "Dialogue: High Priestess Emma - Damaged",
+      "category": "Event Flags (DS3)"
+    },
+    "73501010": {
+      "label": "Quest Lot: Unbreakable Patches - Catarina Helm",
+      "category": "Event Flags (DS3)"
+    },
+    "73501020": {
+      "label": "Quest Lot: Unbreakable Patches - Catarina Armor",
+      "category": "Event Flags (DS3)"
+    },
+    "73501030": {
+      "label": "Quest Lot: Unbreakable Patches - Catarina Gauntlets",
+      "category": "Event Flags (DS3)"
+    },
+    "73501040": {
+      "label": "Quest Lot: Unbreakable Patches - Catarina Leggings",
+      "category": "Event Flags (DS3)"
+    },
+    "73501050": {
+      "label": "Quest Lot: Unbreakable Patches - Pierce Shield",
+      "category": "Event Flags (DS3)"
+    }
+  }
+}

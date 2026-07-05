@@ -1,0 +1,494 @@
+{
+  "_meta": {
+    "quest_id": "irina_of_carim",
+    "version": "1.0",
+    "npc": "Irina of Carim",
+    "associated_npcs": [
+      "Eygon of Carim",
+      "Shrine Handmaid",
+      "Karla the Witch"
+    ],
+    "starting_location": "Undead Settlement",
+    "description": "Rescue Irina from her cell and guide her to become a Firekeeper. Giving her dark tomes and buying dark miracles corrupts her, triggers Eygon hostility, and permanently locks the good ending.",
+    "evaluation": {
+      "rule": "Phases are evaluated top-to-bottom. The FIRST phase whose conditions match the current save state is the active phase.",
+      "fallback": "The last phase ('not_started') has no conditions and always matches — it is the default."
+    },
+    "flag_systems": {
+      "ezstate": {
+        "description": "EzState dialogue flags — set when NPC dialogue nodes fire.",
+        "readable": true,
+        "reader": "parser/flags.py:read_flag(payload, name_offset, flag_id)",
+        "offset": "name_offset + 0x11660"
+      },
+      "emevd_npc_state": {
+        "description": "NPC quest state machine flags — set by SetNetworkconnectedEventFlag in EMEVD scripts.",
+        "readable": false,
+        "reader": null,
+        "note": "Region not yet located. IDs known from EMEVD decompile but cannot be read from save yet."
+      },
+      "emevd_boss": {
+        "description": "Boss defeat flags — set by SetEventFlag in EMEVD scripts.",
+        "readable": false,
+        "reader": null,
+        "note": "Region not yet located."
+      }
+    },
+    "item_name_note": "Item names must match the resolved strings from data/_goods_magic.json, data/_weapons.json, data/_ring.json. Verify against those files if a condition never fires."
+  },
+  "item_groups": {
+    "dark_miracles": {
+      "note": "Miracles unlocked ONLY by Deep or Londor Braille Tomes. Buying any one of these from Irina permanently locks the Firekeeper ending.",
+      "items": [
+        "Gnaw",
+        "Dorhy's Gnawing",
+        "Vow of Silence",
+        "Lifehunt Scythe"
+      ]
+    },
+    "dark_tomes": {
+      "note": "Giving these to Irina is safe (Eygon stays friendly) — the lockout only triggers if you then BUY a dark miracle from her.",
+      "items": [
+        "Deep Braille Divine Tome",
+        "Londor Braille Divine Tome"
+      ]
+    },
+    "holy_tomes": {
+      "note": "Safe tomes. Giving these to Irina and buying all their miracles is required for the Firekeeper ending.",
+      "items": [
+        "Braille Divine Tome of Carim",
+        "Lothric Braille Divine Tome"
+      ]
+    },
+    "holy_miracles_carim_tome": {
+      "note": "Unlocked by Braille Divine Tome of Carim. VERIFY exact names against data/_goods_magic.json.",
+      "items": [
+        "Tears of Denial",
+        "Force",
+        "Med Heal",
+        "Caressing Tears"
+      ]
+    },
+    "holy_miracles_lothric_tome": {
+      "note": "Unlocked by Lothric Braille Divine Tome. VERIFY exact names against data/_goods_magic.json.",
+      "items": [
+        "Bountiful Light",
+        "Blessed Weapon",
+        "Sacred Oath"
+      ]
+    },
+    "eygon_drops": {
+      "note": "Dropped by Eygon of Carim when defeated. Reliable proxy for 'Eygon has been killed'.",
+      "items": [
+        "Morne's Great Hammer",
+        "Moaning Shield"
+      ]
+    }
+  },
+  "flag_registry": {
+    "irina_first_talk_cell": {
+      "id": 73100100,
+      "system": "talk_flag",
+      "readable": true,
+      "confirmed": true,
+      "confirmed_via": "Structural flag reader (event_flag_start walk + semantic codec), validated vs play_00 40-save corpus + quest-track + greirat-quest corpora (2026-06-11)",
+      "label": "Talked to Irina of Carim (sewer cell)"
+    },
+    "irina_first_talk_secondary": {
+      "id": 73100101,
+      "system": "talk_flag",
+      "readable": true,
+      "confirmed": true,
+      "confirmed_via": "Structural flag reader (event_flag_start walk + semantic codec), validated vs play_00 40-save corpus + quest-track + greirat-quest corpora (2026-06-11)",
+      "label": "Talked to Irina of Carim (sewer cell, secondary)"
+    },
+    "irina_at_firelink": {
+      "id": 1463,
+      "system": "emevd_npc_state",
+      "readable": true,
+      "confirmed": false,
+      "confirmed_via": "EMEVD decompile (data/_emevd_flags.json), NPC range 1460-1479",
+      "label": "Irina at Firelink Shrine",
+      "how_to_confirm": "Commons readable now. Candidates observed at quest-track step 08 (freed+accepted): 1305 (1304 cleared), 1325 (1324 cleared). EMEVD suggested 1463 - not observed. Needs a finer controlled pair."
+    },
+    "irina_corrupt_hostile": {
+      "id": null,
+      "system": "emevd_npc_state",
+      "readable": true,
+      "confirmed": false,
+      "label": "Irina corrupted / Eygon hostile (bought dark miracle)",
+      "how_to_confirm": "Controlled save: rescue Irina → give Deep Braille Tome → buy Gnaw → save → diff against pre-purchase save"
+    },
+    "irina_firekeeper_moved": {
+      "id": null,
+      "system": "emevd_npc_state",
+      "readable": true,
+      "confirmed": false,
+      "label": "Irina moved to Gundyr tower (all holy miracles purchased)",
+      "how_to_confirm": "Controlled save: buy last holy miracle → save → diff against pre-purchase save"
+    },
+    "eygon_hostile": {
+      "id": null,
+      "system": "emevd_npc_state",
+      "readable": true,
+      "confirmed": false,
+      "label": "Eygon of Carim is hostile (waiting at Gundyr arena)",
+      "how_to_confirm": "Same controlled save as irina_corrupt_hostile — Eygon's state should flip simultaneously"
+    },
+    "irina_talked_firelink": {
+      "id": 74000350,
+      "system": "talk_flag",
+      "readable": true,
+      "confirmed": true,
+      "confirmed_via": "Structural flag reader (event_flag_start walk + semantic codec), validated vs play_00 40-save corpus + quest-track + greirat-quest corpora (2026-06-11); fires play_00 step 39",
+      "label": "Talked to Irina of Carim (at Firelink)"
+    },
+    "eygon_talked_cell": {
+      "id": 73100300,
+      "system": "talk_flag",
+      "readable": true,
+      "confirmed": true,
+      "confirmed_via": "Structural flag reader (event_flag_start walk + semantic codec), validated vs play_00 40-save corpus + quest-track + greirat-quest corpora (2026-06-11); fires play_00 step 28",
+      "label": "Talked to Eygon of Carim (at Irina's cell)"
+    }
+  },
+  "phases": [
+    {
+      "id": "failed_direct_kill",
+      "label": "FAIL — Irina Killed Directly",
+      "terminal": true,
+      "outcome": "fail",
+      "path": null,
+      "detection_confidence": "high",
+      "detection_note": "Irina's Ashes in inventory + no dark miracles → direct kill, not dark-path mercy kill.",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_item",
+            "item": "Irina's Ashes"
+          },
+          {
+            "check": "missing_all_items",
+            "group": "dark_miracles"
+          }
+        ]
+      },
+      "status_message": "Irina was killed directly before the quest resolved. Quest is permanently failed.",
+      "consequence": "Eygon of Carim is now permanently hostile. He drops Morne's Great Hammer and Moaning Shield.",
+      "next_steps": []
+    },
+    {
+      "id": "dark_path_complete",
+      "label": "Dark Path — Complete",
+      "terminal": true,
+      "outcome": "complete_dark",
+      "path": "dark",
+      "detection_confidence": "high",
+      "detection_note": "Irina's Ashes + dark miracles in inventory → completed the dark path mercy kill.",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_item",
+            "item": "Irina's Ashes"
+          },
+          {
+            "check": "has_any_item",
+            "group": "dark_miracles"
+          }
+        ]
+      },
+      "status_message": "Dark path complete. Irina was killed while wearing Morne's Gauntlets.",
+      "consequence": "Quest concluded on the dark narrative arc.",
+      "next_steps": []
+    },
+    {
+      "id": "dark_path_post_eygon",
+      "label": "Dark Path — Eygon Defeated, Buy Remaining Miracles",
+      "terminal": false,
+      "outcome": null,
+      "path": "dark",
+      "detection_confidence": "high",
+      "detection_note": "Eygon's drops (Morne's Great Hammer or Moaning Shield) + any dark miracle in inventory.",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_any_item",
+            "group": "eygon_drops"
+          },
+          {
+            "check": "has_any_item",
+            "group": "dark_miracles"
+          }
+        ]
+      },
+      "status_message": "Eygon has been defeated. Irina has returned to Firelink Shrine. Buy all remaining dark miracles to finish this path.",
+      "next_steps": [
+        "Buy all remaining dark miracles from Irina at Firelink Shrine (Gnaw, Dorhy's Gnawing, Vow of Silence, Lifehunt Scythe)",
+        "Purchase Morne's Gauntlets from the Shrine Handmaid",
+        "Equip Morne's Gauntlets and interact with Irina — she will mistake you for Eygon and ask to be killed",
+        "Kill Irina to complete the dark narrative arc and receive Irina's Ashes"
+      ]
+    },
+    {
+      "id": "dark_path_triggered",
+      "label": "Dark Path — Dark Miracle Purchased, Eygon Now Hostile",
+      "terminal": false,
+      "outcome": null,
+      "path": "dark",
+      "detection_confidence": "high",
+      "detection_note": "Having any dark miracle in inventory means it was purchased from Irina. Firekeeper ending is permanently locked.",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_any_item",
+            "group": "dark_miracles"
+          },
+          {
+            "check": "missing_item",
+            "item": "Irina's Ashes"
+          },
+          {
+            "check": "missing_all_items",
+            "group": "eygon_drops"
+          }
+        ]
+      },
+      "status_message": "A dark miracle was purchased from Irina. Eygon has taken her to safety and is waiting at the Iudex Gundyr arena to attack you. The Firekeeper ending (Route A) is permanently locked.",
+      "next_steps": [
+        "Travel to the Iudex Gundyr arena entrance (Cemetary of Ash, large fog gate doors)",
+        "Eygon of Carim will be waiting and will attack on sight — defeat him",
+        "Eygon drops: Morne's Great Hammer and Moaning Shield",
+        "Talk to Irina nearby after the fight — she returns to Firelink Shrine",
+        "Buy all remaining dark miracles from Irina at Firelink",
+        "Purchase Morne's Gauntlets from Shrine Handmaid, equip them, and interact with Irina"
+      ]
+    },
+    {
+      "id": "light_path_complete",
+      "label": "Light Path — Irina Became a Firekeeper",
+      "terminal": true,
+      "outcome": "complete_light",
+      "path": "light",
+      "detection_confidence": "low",
+      "detection_note": "REQUIRES unconfirmed flag 'irina_firekeeper_moved'. Cannot be evaluated until that flag ID is found via a controlled save. Placeholder only.",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_flag",
+            "flag_key": "irina_firekeeper_moved"
+          },
+          {
+            "check": "missing_all_items",
+            "group": "dark_miracles"
+          }
+        ]
+      },
+      "status_message": "Irina achieved her dream and became a Firekeeper. She can level up your character from the tower near Gundyr's arena.",
+      "next_steps": []
+    },
+    {
+      "id": "rescued_dark_tome_risk",
+      "label": "Rescued — Dark Tome in Inventory (HIGH RISK)",
+      "terminal": false,
+      "outcome": null,
+      "path": "light_or_dark",
+      "detection_confidence": "high",
+      "detection_note": "Rescue flag set + dark tome still in inventory + no dark miracles purchased yet. Critical warning window.",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_flag",
+            "flag_key": "irina_first_talk_cell"
+          },
+          {
+            "check": "has_any_item",
+            "group": "dark_tomes"
+          },
+          {
+            "check": "missing_all_items",
+            "group": "dark_miracles"
+          }
+        ]
+      },
+      "status_message": "Irina is at Firelink Shrine and you hold a Dark Braille Tome. Giving it to her is reversible — but buying ANY dark miracle from her is not. The Firekeeper ending will be permanently locked the moment you purchase Gnaw, Dorhy's Gnawing, Vow of Silence, or Lifehunt Scythe.",
+      "next_steps": [
+        "SAFE: Give only Braille Divine Tome of Carim and Lothric Braille Divine Tome to Irina",
+        "SAFE ALTERNATIVE: Give dark tomes to Karla the Witch (rescued from Irithyll Dungeon) instead — she sells the same dark miracles",
+        "DANGER: If you give Irina the Dark Braille Tome, do NOT purchase any dark miracle from her"
+      ]
+    },
+    {
+      "id": "rescued_at_firelink",
+      "label": "Rescued — At Firelink Shrine",
+      "terminal": false,
+      "outcome": null,
+      "path": null,
+      "detection_confidence": "high",
+      "detection_note": "Rescue dialogue flag set, no dark miracles yet, quest still in play.",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_flag",
+            "flag_key": "irina_first_talk_cell"
+          },
+          {
+            "check": "missing_all_items",
+            "group": "dark_miracles"
+          },
+          {
+            "check": "missing_item",
+            "item": "Irina's Ashes"
+          }
+        ]
+      },
+      "status_message": "Irina has been rescued and is at Firelink Shrine. Give her Holy Braille Tomes to unlock miracles for purchase.",
+      "next_steps": [
+        "Find Braille Divine Tome of Carim on Road of Sacrifices — give it to Irina to unlock holy miracles",
+        "Find Lothric Braille Divine Tome in Lothric Castle — give it to Irina to unlock more holy miracles",
+        "Buy ALL holy miracles from both tomes to trigger the Firekeeper ending",
+        "DO NOT purchase dark miracles (Gnaw, Dorhy's Gnawing, Vow of Silence, Lifehunt Scythe) — this locks out the good ending permanently",
+        "Dark tomes can safely be given to Karla the Witch (Irithyll Dungeon) instead of Irina"
+      ]
+    },
+    {
+      "id": "grave_key_in_hand",
+      "label": "Grave Key Obtained — Open the Cell",
+      "terminal": false,
+      "outcome": null,
+      "path": null,
+      "detection_confidence": "high",
+      "detection_note": "Grave Key stays in inventory permanently after opening the door. Must come AFTER rescued_at_firelink in evaluation order — the rescue flag disambiguates.",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_item",
+            "item": "Grave Key"
+          },
+          {
+            "check": "missing_flag",
+            "flag_key": "irina_first_talk_cell"
+          }
+        ]
+      },
+      "status_message": "Grave Key is in inventory. Head to the Dilapidated Bridge bonfire in Undead Settlement to open Irina's cell.",
+      "next_steps": [
+        "Travel to the Dilapidated Bridge bonfire (Undead Settlement)",
+        "Enter the sewer beneath the settlement (rat-infested tunnel)",
+        "Use the Grave Key on the locked door at the end of the sewer",
+        "Follow the path through the chasm — collect the Llewellyn Shield along the way",
+        "Enter Irina's cell: select 'Touch', then accept her services",
+        "Speak with Eygon of Carim outside the cell (he becomes an ally and a summon)"
+      ],
+      "topic": "irina_free_from_sewer"
+    },
+    {
+      "id": "morticians_ashes_found",
+      "label": "Mortician's Ashes Found — Deliver to Handmaid",
+      "terminal": false,
+      "outcome": null,
+      "path": null,
+      "detection_confidence": "high",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_item",
+            "item": "Mortician's Ashes"
+          },
+          {
+            "check": "missing_flag",
+            "flag_key": "irina_first_talk_cell"
+          }
+        ]
+      },
+      "status_message": "Mortician's Ashes found. Deliver them to the Shrine Handmaid at Firelink Shrine to add the Grave Key to her shop.",
+      "next_steps": [
+        "Return to Firelink Shrine",
+        "Give Mortician's Ashes to the Shrine Handmaid",
+        "Purchase the Grave Key from her shop for 1,500 souls"
+      ]
+    },
+    {
+      "id": "not_started",
+      "label": "Not Started",
+      "terminal": false,
+      "outcome": null,
+      "path": null,
+      "detection_confidence": "high",
+      "detection_note": "Fallback — matches when no earlier phase did. Also covers the gap state where ashes were delivered (so not in inventory) but Grave Key not yet purchased.",
+      "conditions": {
+        "fallback": true
+      },
+      "status_message": "Quest not started. Find Mortician's Ashes in Undead Settlement to unlock the Grave Key.",
+      "next_steps": [
+        "Travel to Undead Settlement — find Mortician's Ashes near the graveyard where the Giant Archer fires spears from the tower",
+        "Return to Firelink Shrine and give the ashes to the Shrine Handmaid",
+        "Purchase the Grave Key from her shop for 1,500 souls",
+        "Alternative (risky): drop into the canyon beside the Eerie Tower using the Spook spell or Silvercat Ring to bypass the locked door"
+      ]
+    }
+  ],
+  "always_check_warnings": [
+    {
+      "id": "warn_dark_tome_about_to_be_given",
+      "urgency": "warning",
+      "label": "Dark Tome Risk — Do Not Buy Dark Miracles",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_flag",
+            "flag_key": "irina_first_talk_cell"
+          },
+          {
+            "check": "has_any_item",
+            "group": "dark_tomes"
+          },
+          {
+            "check": "missing_all_items",
+            "group": "dark_miracles"
+          }
+        ]
+      },
+      "message": "You carry a Dark Braille Tome while Irina is alive. Purchasing any dark miracle from her (Gnaw, Dorhy's Gnawing, Vow of Silence, Lifehunt Scythe) locks out the Firekeeper ending forever. Consider giving dark tomes to Karla the Witch instead."
+    },
+    {
+      "id": "warn_eygon_summon_window",
+      "urgency": "info",
+      "label": "Eygon Available as Summon",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_flag",
+            "flag_key": "irina_first_talk_cell"
+          },
+          {
+            "check": "missing_all_items",
+            "group": "dark_miracles"
+          },
+          {
+            "check": "missing_all_items",
+            "group": "eygon_drops"
+          },
+          {
+            "check": "missing_item",
+            "item": "Irina's Ashes"
+          }
+        ]
+      },
+      "message": "Eygon of Carim is currently an ally. His summon sign appears before Crystal Sage (Road of Sacrifices) and Dragonslayer Armour (Lothric Castle)."
+    }
+  ],
+  "controlled_saves_needed": [
+    {
+      "purpose": "Confirm irina_at_firelink flag (EMEVD NPC state ID 1463)",
+      "procedure": "Save just before touching Irina in cell. Touch her, accept services. Rest at bonfire. Save again. Run diff_controlled_saves.py — look for a bit flip in the NPC state region (distinct from FLAG_START_REL 0x11660 region)."
+    },
+    {
+      "purpose": "Confirm eygon_hostile + irina_corrupt_hostile flag IDs",
+      "procedure": "Rescue Irina. Give her the Deep Braille Divine Tome. Save. Purchase Gnaw from her. Rest at bonfire. Save. Diff the two saves."
+    },
+    {
+      "purpose": "Confirm irina_firekeeper_moved flag ID",
+      "procedure": "Rescue Irina. Give only holy tomes. Buy all holy miracles EXCEPT the last one. Save. Buy the final holy miracle. Rest at bonfire. Save. Diff."
+    }
+  ]
+}

@@ -1,0 +1,448 @@
+{
+  "_meta": {
+    "source": "Reworked from tips.json (FightinCowboy 100% walkthrough + DS3 wiki) for the retrospective advisor, 2026-06-11",
+    "policies": {
+      "retrospective": "Surface only after the player's furthest progression has moved PAST the checkpoint's area. Tone: 'by the way, you missed X back in <area> - here is how to go back for it.' Never shown while the player is still inside the area.",
+      "proactive": "Surface as soon as the player's furthest progression REACHES the checkpoint's area and the condition is unmet. Reserved for quest-breaking or permanently-missable content - the only case where we hint ahead of time.",
+      "reactive": "Surface whenever the detection conditions are met, regardless of area. Used for 'you have item/flag X, now do Y' quest steps."
+    },
+    "detection_schema": {
+      "has_items": "ALL of these must be in inventory",
+      "missing_items": "NONE of these may be in inventory",
+      "has_flags": "ALL of these semantic flag IDs must be set",
+      "missing_flags": "NONE of these flag IDs may be set",
+      "builds": "only relevant for these detected builds (omit = everyone)",
+      "min_level": "only at or above this level"
+    },
+    "topic": "Optional per-checkpoint field. Findings sharing a topic (here or in decision_making_files phases/warnings) describe the same quest beat: the engine surfaces one message per topic, ever, picking the best source."
+  },
+  "progression": [
+    "Cemetery of Ash",
+    "Firelink Shrine",
+    "High Wall of Lothric",
+    "Undead Settlement",
+    "Road of Sacrifices / Farron Keep",
+    "Cathedral of the Deep",
+    "Catacombs of Carthus / Smouldering Lake",
+    "Irithyll of the Boreal Valley",
+    "Irithyll Dungeon / Profaned Capital",
+    "Lothric Castle",
+    "Grand Archives",
+    "Archdragon Peak",
+    "Kiln of the First Flame"
+  ],
+  "checkpoints": [
+    {
+      "id": "cemetery_crystal_lizard",
+      "area": "Cemetery of Ash",
+      "category": "item",
+      "policy": "retrospective",
+      "urgency": "reminder",
+      "title": "Missed: Titanite Scale from the Cemetery Crystal Lizard",
+      "detail": "A Crystal Lizard on a side path in the Cemetery of Ash drops a Titanite Scale (used to upgrade boss-soul and special weapons). You left the area without it.",
+      "where": "Warp back to the Cemetery of Ash bonfire at any time - the lizard respawns when you rest. It is on the small side path to the left before Iudex Gundyr's arena.",
+      "detection": {
+        "missing_items": [
+          "Titanite Scale"
+        ]
+      }
+    },
+    {
+      "id": "firelink_sword_master_uchigatana",
+      "area": "Firelink Shrine",
+      "category": "item",
+      "policy": "retrospective",
+      "urgency": "info",
+      "title": "Missed: Uchigatana from the Sword Master",
+      "detail": "The Sword Master NPC outside the left exit of Firelink Shrine drops the Uchigatana (a great dex weapon) and the Master's Attire when killed. You can fight him any time - he is still there.",
+      "where": "From the Firelink Shrine bonfire, take the left exit toward the tower. He stands near the tower door; you can bait him off the cliff edge to make it easy.",
+      "detection": {
+        "missing_items": [
+          "Uchigatana"
+        ],
+        "builds": [
+          "dex"
+        ]
+      }
+    },
+    {
+      "id": "firelink_covetous_silver_serpent_ring",
+      "area": "Firelink Shrine",
+      "category": "item",
+      "policy": "retrospective",
+      "urgency": "info",
+      "title": "Missed: Covetous Silver Serpent Ring in the Firelink rafters",
+      "detail": "The Covetous Silver Serpent Ring (+10% souls from kills) is hidden behind an illusory wall in the rafters above Firelink Shrine. Worth picking up early - it pays for itself fast.",
+      "where": "Two routes: the free one is a run-and-jump from the roof onto the tree branch and through the upper window (roof access via the Tower Key path or the tree-jump trick); otherwise buy the Tower Key (20,000 souls) from the Shrine Handmaid and cross the bridge to the roof.",
+      "detection": {
+        "missing_items": [
+          "Covetous Silver Serpent Ring"
+        ]
+      }
+    },
+    {
+      "id": "firelink_tower_key",
+      "area": "Firelink Shrine",
+      "category": "item",
+      "policy": "retrospective",
+      "urgency": "info",
+      "title": "Tower Key: Estus upgrade waiting at Firelink",
+      "detail": "The Shrine Handmaid sells the Tower Key for 20,000 souls. The tower holds the Fire Keeper Soul (a permanent Estus heal upgrade when given to the Fire Keeper), the Fire Keeper armor set, and access to the crow's nest for item trading.",
+      "where": "Buy the Tower Key from the Shrine Handmaid at Firelink, then take the left exit to the tower behind the shrine.",
+      "detection": {
+        "min_level": 20
+      }
+    },
+    {
+      "id": "high_wall_claymore",
+      "area": "High Wall of Lothric",
+      "category": "item",
+      "policy": "retrospective",
+      "urgency": "info",
+      "title": "Missed: Claymore on the dragon bridge",
+      "detail": "The Claymore - an excellent quality weapon that scales with both Str and Dex - is still on the High Wall, on the platform where the dragon breathes fire.",
+      "where": "Warp to the Tower on the Wall bonfire, head to the dragon bridge, sprint across to bait the flame downward, then grab the Claymore on the upper platform during the window.",
+      "detection": {
+        "missing_items": [
+          "Claymore"
+        ],
+        "builds": [
+          "str",
+          "dex"
+        ]
+      }
+    },
+    {
+      "id": "high_wall_deep_battle_axe",
+      "area": "High Wall of Lothric",
+      "category": "item",
+      "policy": "retrospective",
+      "urgency": "info",
+      "title": "Missed: Deep Battle Axe from the High Wall Mimic",
+      "detail": "A Mimic chest in the room beneath the dragon on the High Wall drops the Deep Battle Axe - a huge early-game damage boost for strength builds.",
+      "where": "Warp to the Tower on the Wall bonfire and descend to the room beneath the dragon. Watch for the chest's open-mouth tell, or toss a Lloyd's Talisman at it to reveal the Mimic safely.",
+      "detection": {
+        "missing_items": [
+          "Deep Battle Axe"
+        ],
+        "builds": [
+          "str"
+        ]
+      }
+    },
+    {
+      "id": "high_wall_greirat_not_freed",
+      "area": "High Wall of Lothric",
+      "category": "quest",
+      "policy": "retrospective",
+      "urgency": "warning",
+      "title": "Greirat is still locked in his cell on the High Wall",
+      "detail": "You moved past the High Wall without freeing Greirat. He is a merchant with a full questline (scavenging runs that expand his shop) - leaving him in the cell means missing all of it.",
+      "where": "The Cell Key is behind the black powder barrels guarded by dogs, down a semi-hidden staircase (descend from the Tower on the Wall bonfire through the rooftop building). Greirat's cell is at the end of the interior hallway one floor below the Tower on the Wall bonfire.",
+      "detection": {
+        "missing_items": [
+          "Blue Tearstone Ring",
+          "Greirat's Ashes"
+        ],
+        "missing_flags": [
+          63000156
+        ]
+      },
+      "topic": "greirat_free_from_cell"
+    },
+    {
+      "id": "high_wall_free_greirat",
+      "area": "High Wall of Lothric",
+      "category": "npc",
+      "policy": "reactive",
+      "urgency": "reminder",
+      "title": "You have the Cell Key - free Greirat",
+      "detail": "The Cell Key opens Greirat's cell at the bottom of the multi-level building on the High Wall (one floor below the Tower on the Wall bonfire, along the interior hallway). Free him and he moves to Firelink as a merchant - he also gives you the Blue Tearstone Ring and starts his questline.",
+      "detection": {
+        "has_items": [
+          "Cell Key"
+        ],
+        "missing_items": [
+          "Blue Tearstone Ring"
+        ],
+        "missing_flags": [
+          63000156
+        ]
+      },
+      "topic": "greirat_free_from_cell"
+    },
+    {
+      "id": "high_wall_emma_banner",
+      "area": "High Wall of Lothric",
+      "category": "npc",
+      "policy": "proactive",
+      "urgency": "reminder",
+      "title": "Talk to Emma - required to progress",
+      "detail": "Emma, the High Priestess, sits at the top of the High Wall cathedral. She gives you the Small Lothric Banner - required to leave the High Wall - and the Way of Blue covenant ring.",
+      "detection": {
+        "missing_items": [
+          "Small Lothric Banner",
+          "Way of Blue"
+        ]
+      }
+    },
+    {
+      "id": "undead_settlement_yoel",
+      "area": "Undead Settlement",
+      "category": "quest",
+      "policy": "proactive",
+      "urgency": "warning",
+      "title": "Don't miss Yoel among the dying pilgrims",
+      "detail": "Yoel of Londor is the one living pilgrim among the dead ones at the broken bridge just before the Undead Settlement entrance (where you arrive from the banner). If you progress without talking to him you lose his free levels, Yuria of Londor, and the entire Usurpation of Fire ending path. Talk to him before moving on - he then waits at Firelink.",
+      "detection": {
+        "missing_flags": [
+          73100150
+        ]
+      }
+    },
+    {
+      "id": "undead_settlement_loretta_bone",
+      "area": "Undead Settlement",
+      "category": "quest",
+      "policy": "proactive",
+      "urgency": "reminder",
+      "title": "Greirat's request: find Loretta's Bone here",
+      "detail": "Greirat asked you to deliver the Blue Tearstone Ring to Loretta in the Undead Settlement - but Loretta is dead. Her bone is on a hanging corpse on the balcony of the first building, overlooking the burning-tree congregation. Attack the corpse to drop it, then bring the bone back to Greirat at Firelink.",
+      "detection": {
+        "has_items": [
+          "Blue Tearstone Ring"
+        ],
+        "missing_items": [
+          "Loretta's Bone"
+        ],
+        "missing_flags": [
+          74000300
+        ]
+      },
+      "topic": "greirat_find_loretta_bone"
+    },
+    {
+      "id": "undead_settlement_hodrick_covenant",
+      "area": "Undead Settlement",
+      "category": "quest",
+      "policy": "proactive",
+      "urgency": "warning",
+      "title": "Do NOT kill Hodrick when he invades",
+      "detail": "Holy Knight Hodrick invades near the Pit of Hollows in the Undead Settlement. Do not kill him during the invasion - you need him alive to join the Mound-makers covenant. To join: talk to the giant cage-carrying enemy, climb into his cage, and you'll be carried to Hodrick in the Pit of Hollows.",
+      "detection": {
+        "missing_items": [
+          "Mound-makers"
+        ],
+        "missing_flags": [
+          13100800,
+          73100400
+        ],
+        "min_level": 14
+      }
+    },
+    {
+      "id": "undead_settlement_giant_archer",
+      "area": "Undead Settlement",
+      "category": "quest",
+      "policy": "proactive",
+      "urgency": "warning",
+      "title": "Talk to the Giant Archer before farming the graveyard",
+      "detail": "A Giant in the tall tower fires huge arrows into the white-birch graveyard. Climb his tower and talk to him FIRST to receive a Token of Friendship - from then on his arrows kill hollows but ignore you, making the graveyard items (including the Mortician's Ashes) safe to grab.",
+      "detection": {
+        "missing_items": [
+          "Mortician's Ashes"
+        ],
+        "min_level": 14
+      }
+    },
+    {
+      "id": "undead_settlement_morticians_ashes",
+      "area": "Undead Settlement",
+      "category": "quest",
+      "policy": "retrospective",
+      "urgency": "reminder",
+      "title": "Missed: Mortician's Ashes (gates Irina's questline)",
+      "detail": "You left the Undead Settlement without the Mortician's Ashes. Giving them to the Shrine Handmaid unlocks the Grave Key (1,500 souls), which you need to reach Irina of Carim in the sewers - a miracle vendor with her own questline.",
+      "where": "Warp back to the Undead Settlement. The ashes are in the white-birch graveyard where the Giant's arrows land (talk to the Giant in the tower first so he covers you).",
+      "detection": {
+        "missing_items": [
+          "Mortician's Ashes",
+          "Grave Key"
+        ],
+        "missing_flags": [
+          73100100
+        ]
+      }
+    },
+    {
+      "id": "undead_settlement_irina_sewer",
+      "area": "Undead Settlement",
+      "category": "npc",
+      "policy": "reactive",
+      "urgency": "reminder",
+      "title": "You have the Grave Key - free Irina of Carim",
+      "detail": "The Grave Key opens the sewer door below the Dilapidated Bridge bonfire (drop down into the rat area). Irina of Carim is locked in a cell down there - talk to her and accept her service to recruit a miracle vendor to Firelink. Eygon of Carim waits outside her cell.",
+      "detection": {
+        "has_items": [
+          "Grave Key"
+        ],
+        "missing_flags": [
+          73100100
+        ]
+      },
+      "topic": "irina_free_from_sewer"
+    },
+    {
+      "id": "undead_settlement_siegward_elevator",
+      "area": "Undead Settlement",
+      "category": "quest",
+      "policy": "proactive",
+      "urgency": "reminder",
+      "title": "Siegward at the tower elevator (questline start)",
+      "detail": "Siegward of Catarina (Onion Knight) is stuck at the tower elevator near the Giant's tower. Elevator trick: step on the pressure plate, immediately step OFF so the second platform descends, then ride the other one. Join him to fight the Fire Demon below - you get a Siegbrau, and his questline (which later determines whether Greirat survives Irithyll) only advances if he wins this fight with you.",
+      "detection": {
+        "missing_items": [
+          "Siegbrau"
+        ],
+        "missing_flags": [
+          73100363
+        ],
+        "min_level": 14
+      }
+    },
+    {
+      "id": "undead_settlement_cornyx_cage",
+      "area": "Undead Settlement",
+      "category": "npc",
+      "policy": "retrospective",
+      "urgency": "reminder",
+      "title": "Missed: Cornyx the pyromancer is still caged",
+      "detail": "You moved past the Undead Settlement without freeing Cornyx of the Great Swamp. He hangs in a cage near the Cliff Underside area - free him and he becomes your pyromancy vendor at Firelink and gives you a free Pyromancy Flame.",
+      "where": "Warp to the Cliff Underside bonfire (or cross from the burning-tree plaza); his hanging cage is visible from the wooden walkways. Attack the cage door to open it.",
+      "detection": {
+        "missing_items": [
+          "Pyromancy Flame"
+        ],
+        "missing_flags": [
+          74000450
+        ]
+      }
+    },
+    {
+      "id": "undead_settlement_butcher_knife",
+      "area": "Undead Settlement",
+      "category": "item",
+      "policy": "retrospective",
+      "urgency": "info",
+      "title": "Missed: Butcher Knife (top early Strength weapon)",
+      "detail": "The Butcher Knife has A-scaling in Strength from the start and its weapon art heals you on hit - one of the best early Strength weapons, and you passed its location.",
+      "where": "From the Cliff Underside bonfire, cross the bridge, take the elevator down, sprint past the Boreal Outrider Knight, and kill the 'Mad Ghru' wandering near the water on the Road of Sacrifices approach.",
+      "detection": {
+        "missing_items": [
+          "Butcher Knife"
+        ],
+        "builds": [
+          "str"
+        ],
+        "min_level": 14
+      }
+    },
+    {
+      "id": "firelink_give_loretta_to_greirat",
+      "area": "Firelink Shrine",
+      "category": "quest",
+      "policy": "reactive",
+      "urgency": "reminder",
+      "title": "You have Loretta's Bone - give it to Greirat",
+      "detail": "Take Loretta's Bone to Greirat at Firelink Shrine. Delivering it advances his questline: he grieves, gives you the Curl Up gesture, and then offers to scavenge the Undead Settlement for new shop stock.",
+      "detection": {
+        "has_items": [
+          "Loretta's Bone"
+        ],
+        "missing_flags": [
+          74000300
+        ]
+      },
+      "topic": "greirat_deliver_loretta_bone"
+    },
+    {
+      "id": "firelink_send_greirat_scavenging",
+      "area": "Firelink Shrine",
+      "category": "quest",
+      "policy": "reactive",
+      "urgency": "info",
+      "title": "Greirat can be sent scavenging (first run is safe)",
+      "detail": "After receiving Loretta's Bone, Greirat will offer to pillage the Undead Settlement. The first outing is completely safe - he returns with expanded stock after you kill any boss. (His LATER outing to Irithyll is dangerous; we'll warn you before that one.)",
+      "detection": {
+        "has_flags": [
+          74000300
+        ],
+        "missing_flags": [
+          74000302
+        ]
+      },
+      "topic": "greirat_first_outing"
+    },
+    {
+      "id": "firelink_give_transposing_kiln",
+      "area": "Firelink Shrine",
+      "category": "quest",
+      "policy": "reactive",
+      "urgency": "reminder",
+      "title": "You have the Transposing Kiln - give it to Ludleth",
+      "detail": "Give the Transposing Kiln (dropped by the Curse-Rotted Greatwood) to Ludleth on his throne at Firelink Shrine. This unlocks transposition: turning boss souls into unique weapons, spells and rings instead of consuming them.",
+      "detection": {
+        "has_items": [
+          "Transposing Kiln"
+        ]
+      }
+    },
+    {
+      "id": "firelink_yoel_free_levels",
+      "area": "Firelink Shrine",
+      "category": "quest",
+      "policy": "reactive",
+      "urgency": "info",
+      "title": "Yoel offers free levels at Firelink (time-limited)",
+      "detail": "Yoel of Londor now waits in the Firelink back hall. 'Draw Out True Strength' gives up to 5 free levels, each adding a Dark Sigil (Hollowing). His offer is time-limited: he dies after you progress further into the game (around the Catacombs), and only if you took all 5 levels before that does Yuria of Londor appear - she is required for the Usurpation of Fire ending. Take the free levels as you naturally level up; dying speeds up the next offer.",
+      "detection": {
+        "has_flags": [
+          73100150
+        ],
+        "missing_flags": [
+          74000400
+        ]
+      },
+      "topic": "yoel_free_levels"
+    },
+    {
+      "id": "firelink_dark_sigil_warning",
+      "area": "Firelink Shrine",
+      "category": "quest",
+      "policy": "reactive",
+      "urgency": "info",
+      "title": "Dark Sigil acquired - Usurpation path is active",
+      "detail": "You now carry a Dark Sigil, which puts you on the Usurpation of Fire ending path. To keep it alive: draw all 5 levels from Yoel before he dies, meet Yuria afterward, and do NOT heal the Dark Sigil with the Fire Keeper (that ends the path and Yuria leaves). Hollowing is cosmetic and reversible with a Purging Stone.",
+      "detection": {
+        "has_items": [
+          "Dark Sigil"
+        ]
+      },
+      "topic": "yoel_dark_sigils"
+    },
+    {
+      "id": "firelink_leonhard_questline",
+      "area": "Firelink Shrine",
+      "category": "npc",
+      "policy": "reactive",
+      "urgency": "info",
+      "title": "Leonhard's questline has started",
+      "detail": "You talked to Leonhard by Lothric's empty throne and received Cracked Red Eye Orbs. Next step: after defeating a Darkwraith (the first reachable one is behind the locked cell in High Wall - Lift Chamber Key from the Handmaid after talking to Leonhard again), he rewards the Red Eye Orb. His questline later involves Rosaria's Fingers.",
+      "detection": {
+        "has_flags": [
+          74000850
+        ]
+      }
+    }
+  ]
+}

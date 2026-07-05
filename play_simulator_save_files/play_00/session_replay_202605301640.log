@@ -1,0 +1,431 @@
+
+============================================================
+  DS3 Play Simulator - play_00
+  40 saves  |  interval: 3.0s  |  slot: auto  |  log: session_replay_202605301640.log
+============================================================
+  [auto-detected slot 4 (changed between saves 1 and 2)]
+
+------------------------------------------------------------
+  Step 01: created character nothing done
+  QA  |  Level 9  |  0 souls  |  Cemetery of Ash
+------------------------------------------------------------
+  Rested at Cemetery of Ash
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 02: Loot the Ashen Estus Flask
+  QA  |  Level 9  |  44 souls  |  Cemetery of Ash
+------------------------------------------------------------
+  Souls: 0 -> 44  (+44)
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 03: Light the Cemetery of Ash Bonfire
+  QA  |  Level 9  |  64 souls  |  Cemetery of Ash
+------------------------------------------------------------
+  Souls: 44 -> 64  (+20)
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 04: Defeat Iudex Gundyr
+  QA  |  Level 9  |  3,168 souls  |  Cemetery of Ash
+------------------------------------------------------------
+  Souls: 64 -> 3,168  (+3,104)
+  Got Coiled Sword
+  Killed Iudex Gundyr
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 05: Light the Iudex Gundyr Bonfire
+  QA  |  Level 9  |  3,168 souls  |  Cemetery of Ash
+------------------------------------------------------------
+  (no changes detected)
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 06: Enter Firelink Shrine Talk to the Fire Keeper
+  QA  |  Level 9  |  3,248 souls  |  Firelink Shrine
+------------------------------------------------------------
+  Rested at Firelink Shrine  (from Cemetery of Ash)
+  Souls: 3,168 -> 3,248  (+80)
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 07: Talk to Hawkwood
+  QA  |  Level 9  |  3,248 souls  |  Firelink Shrine
+------------------------------------------------------------
+  Talked to Hawkwood
+  Talked to Hawkwood (secondary)
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 08: Talk to Blacksmith Andre
+  QA  |  Level 9  |  3,248 souls  |  Firelink Shrine
+------------------------------------------------------------
+  Talked to Blacksmith Andre
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 09: Talk to the Shrine Handmaid
+  QA  |  Level 9  |  3,248 souls  |  Firelink Shrine
+------------------------------------------------------------
+  (no changes detected)
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 10: Plant the Coiled Sword
+  QA  |  Level 9  |  3,248 souls  |  Firelink Shrine
+------------------------------------------------------------
+  Lost Coiled Sword
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 11: Light the Tower on the Wall Bonfire
+  QA  |  Level 9  |  3,248 souls  |  High Wall of Lothric
+------------------------------------------------------------
+  Rested at High Wall of Lothric  (from Firelink Shrine)
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 12: Tower on the Wall Bonfire
+  QA  |  Level 13  |  879 souls  |  High Wall of Lothric
+------------------------------------------------------------
+  Level up: 9 -> 13  (+4)
+  Souls: 3,248 -> 879  (-2,369)
+  Got Lothric Knight Armor
+  Got Soul of a Deserted Corpse
+  Got Throwing Knife x5
+  Unequipped Knight Shield (left hand)
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 13: Loot the Cell Key
+  QA  |  Level 13  |  0 souls  |  High Wall of Lothric
+------------------------------------------------------------
+  Souls: 879 -> 0  (-879)
+  Got Broadsword
+  Got Broken Straight Sword
+  Got Cell Key
+  Got Large Soul of a Deserted Corpse
+  Got Soul of a Deserted Corpse x2
+  Got Throwing Knife x5
+  Got Undead Hunter Charm x2
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 14: Talk to Greirat of the Undead Settlement
+  QA  |  Level 13  |  200 souls  |  High Wall of Lothric
+------------------------------------------------------------
+  Souls: 0 -> 200  (+200)
+  Got Blue Tearstone Ring
+  Got Firebomb x3
+  Got Mail Breaker
+  Got Throwing Knife x8
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 15: Talk to Emma
+  QA  |  Level 13  |  858 souls  |  High Wall of Lothric
+------------------------------------------------------------
+  Souls: 200 -> 858  (+658)
+  Got Black Firebomb x3
+  Got Ember
+  Got Firebomb x3
+  Got Green Blossom x3
+  Got Rapier
+  Got Raw Gem
+  Got Small Lothric Banner
+  Got Soul of a Deserted Corpse x2
+  Got Throwing Knife x6
+  Got Way of Blue
+  Talk to Emma - received Small Lothric Banner
+  Talk to Emma (secondary flag)
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 16: Defeat Vordt of the Boreal Valley
+  QA  |  Level 13  |  3,858 souls  |  High Wall of Lothric
+------------------------------------------------------------
+  Souls: 858 -> 3,858  (+3,000)
+  Got Soul of Boreal Valley Vordt
+  Killed Vordt of the Boreal Valley
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 17: Light the Vordt of the Boreal Valley Bonfire
+  QA  |  Level 13  |  3,858 souls  |  High Wall of Lothric
+------------------------------------------------------------
+  (no changes detected)
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 18: Light the Foot of the High Wall Bonfire
+  QA  |  Level 13  |  3,638 souls  |  Undead Settlement
+------------------------------------------------------------
+  Rested at Undead Settlement  (from High Wall of Lothric)
+  Souls: 3,858 -> 3,638  (-220)
+  right hand: Long Sword -> item_00001eab91
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 19: Talk to Yoel of Londor
+  QA  |  Level 13  |  3,678 souls  |  Undead Settlement
+------------------------------------------------------------
+  Souls: 3,638 -> 3,678  (+40)
+  Got Alluring Skull x2
+  Got Large Soul of a Deserted Corpse
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 20: Light the Undead Settlement Bonfire
+  QA  |  Level 13  |  3,798 souls  |  Undead Settlement
+------------------------------------------------------------
+  Souls: 3,678 -> 3,798  (+120)
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 21: Loot Lorettas Bone
+  QA  |  Level 13  |  4,262 souls  |  Undead Settlement
+------------------------------------------------------------
+  Souls: 3,798 -> 4,262  (+464)
+  Got Charcoal Pine Bundle x4
+  Got Loretta's Bone
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 22: Light the Cliff Underside Bonfire
+  QA  |  Level 13  |  5,874 souls  |  Undead Settlement
+------------------------------------------------------------
+  Souls: 4,262 -> 5,874  (+1,612)
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 23: Talk to Cornyx of the Great Swamp
+  QA  |  Level 13  |  6,054 souls  |  Undead Settlement
+------------------------------------------------------------
+  Souls: 5,874 -> 6,054  (+180)
+  Got Hand Axe
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 24: Light the Dilapidated Bridge Bonfire
+  QA  |  Level 13  |  7,354 souls  |  Undead Settlement
+------------------------------------------------------------
+  Souls: 6,054 -> 7,354  (+1,300)
+  Got Bloodbite Ring
+  Got Caestus
+  Got Fire Clutch Ring
+  Got Soul of an Unknown Traveler
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 25: Talk to Siegward of Catarina First Encounter
+  QA  |  Level 17  |  1,170 souls  |  Undead Settlement
+------------------------------------------------------------
+  Level up: 13 -> 17  (+4)
+  Souls: 7,354 -> 1,170  (-6,184)
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 26: Defeat the Fire Demon with Siegward
+  QA  |  Level 17  |  5,020 souls  |  Undead Settlement
+------------------------------------------------------------
+  Souls: 1,170 -> 5,020  (+3,850)
+  Got Fire Gem
+  Got item_00400001ce
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 27: Talk to Siegward Post Demon
+  QA  |  Level 17  |  5,020 souls  |  Undead Settlement
+------------------------------------------------------------
+  Got Homeward Bone
+  Got SiegbrÃ¤u
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 28: Talk to Eygon of Carim
+  QA  |  Level 17  |  20 souls  |  Undead Settlement
+------------------------------------------------------------
+  Souls: 5,020 -> 20  (-5,000)
+  Got Large Club
+  Got Northern Armor
+  Got Northern Gloves
+  Got Northern Helm
+  Got Northern Trousers
+  Got Pale Tongue
+  Got Red Bug Pellet x2
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 29: got Morticians Ashes
+  QA  |  Level 17  |  2,620 souls  |  Undead Settlement
+------------------------------------------------------------
+  Souls: 20 -> 2,620  (+2,600)
+  Got Cleric Blue Robe
+  Got Cleric Gloves
+  Got Cleric Hat
+  Got Cleric Trousers
+  Got Ember
+  Got Fading Soul
+  Got Great Machete
+  Got Large Soul of a Deserted Corpse
+  Got Mortician's Ashes
+  Got Reinforced Club
+  Got Rubbish x2
+  Got Undead Bone Shard
+  Got Worker Hat
+  Got Worker Trousers
+  Got item_00400001c6 x3
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 30: Got Grave Key
+  QA  |  Level 17  |  1,120 souls  |  Firelink Shrine
+------------------------------------------------------------
+  Rested at Firelink Shrine  (from Undead Settlement)
+  Souls: 2,620 -> 1,120  (-1,500)
+  Got Grave Key
+  Lost Mortician's Ashes
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 31: Talk to Irina of Carim
+  QA  |  Level 17  |  1,482 souls  |  Undead Settlement
+------------------------------------------------------------
+  Rested at Undead Settlement  (from Firelink Shrine)
+  Souls: 1,120 -> 1,482  (+362)
+  Got Loincloth (1)
+  Got Red Hilted Halberd
+  Got Saint's Talisman
+  Got Soul of a Deserted Corpse
+  Got Soul of an Unknown Traveler
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 32: Talk to Holy Knight Hodrick
+  QA  |  Level 17  |  816 souls  |  Undead Settlement
+------------------------------------------------------------
+  Souls: 1,482 -> 816  (-666)
+  Got Charcoal Pine Resin x2
+  Got Ember x2
+  Got Estus Shard
+  Got Fading Soul
+  Got Homeward Bone x3
+  Got Large Soul of a Deserted Corpse x2
+  Got Mound-makers
+  Got Whip
+  Got Worker Hat
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 33: Defeat the Curse Rotted Greatwood
+  QA  |  Level 17  |  10,968 souls  |  Undead Settlement
+------------------------------------------------------------
+  Souls: 816 -> 10,968  (+10,152)
+  Got Soul of the Rotted Greatwood
+  Got Transposing Kiln
+  Lost Charcoal Pine Bundle x2
+  Lost Homeward Bone
+  Equipped item_0000004ed4 (ring)
+  Curse-Rotted Greatwood: fog gate crossed
+  Curse-Rotted Greatwood: defeated
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 34: Light the Pit of Hollows Bonfire
+  QA  |  Level 17  |  10,968 souls  |  Undead Settlement
+------------------------------------------------------------
+  Pit of Hollows: bonfire lit
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 35: Talk to Leonhard
+  QA  |  Level 17  |  10,968 souls  |  Firelink Shrine
+------------------------------------------------------------
+  Rested at Firelink Shrine  (from Undead Settlement)
+  Got Cracked Red Eye Orb x5
+  Talked to Leonhard at Firelink Shrine
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 36: Give Lorettas Bone to Greirat
+  QA  |  Level 17  |  10,968 souls  |  Firelink Shrine
+------------------------------------------------------------
+  Lost Loretta's Bone
+  Loretta's Bone given to Greirat
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 37: Sent Greirat to scavenge
+  QA  |  Level 17  |  10,968 souls  |  Firelink Shrine
+------------------------------------------------------------
+  Greirat sent to scavenge Undead Settlement
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 38: Talk to Cornyx
+  QA  |  Level 17  |  10,968 souls  |  Firelink Shrine
+------------------------------------------------------------
+  Got Pyromancy Flame
+  Cornyx: talked to at Firelink Shrine
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 39: Talk to Irina
+  QA  |  Level 17  |  10,968 souls  |  Firelink Shrine
+------------------------------------------------------------
+  (no changes detected)
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 40: Talk to Yoel of Londor
+  QA  |  Level 18  |  10,968 souls  |  Firelink Shrine
+------------------------------------------------------------
+  Level up: 17 -> 18  (+1)
+  Got Dark Sigil
+  Dark Sigil drawn from Yoel of Londor
+
+============================================================
+  Done - 40 saves processed
+============================================================
+  Log saved to: C:\Users\user\Dev\dark-souls\DS3\play_simulator_save_files\play_00\session_replay_202605301640.log

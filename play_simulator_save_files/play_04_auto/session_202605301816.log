@@ -1,0 +1,113 @@
+  Recording to: C:\Users\user\Dev\dark-souls\DS3\play_simulator_save_files\play_04_auto
+  Log file:     session_202605301816.log
+  Slot: auto-detect (tracks whichever slot playtime changes)
+
+============================================================
+  DS3 Save Watcher  [RECORDING]
+  Save: C:\Users\user\AppData\Roaming\DarkSoulsIII\011000016f3aa67c\DS30000.sl2
+  Poll: 1.0s  |  Settle: 2.0s
+============================================================
+
+  Waiting for first save event... (rest at a bonfire in-game)
+
+  [recorded 01_202605301816.sl2]
+  [auto-detected slot 3 (min playtime)]
+
+============================================================
+  SAVE DETECTED  18:16:48
+  Clodoaldo  |  Level 9  |  100 souls  |  Cemetery of Ash
+============================================================
+  Rested at Cemetery of Ash
+  [recorded 02_202605301817.sl2]
+  [switched to slot 4]
+
+============================================================
+  SAVE DETECTED  18:17:05
+  Test_01  |  Level 9  |  0 souls  |  High Wall of Lothric
+============================================================
+  Rested at High Wall of Lothric
+  [recorded 03_202605301817.sl2]
+
+============================================================
+  SAVE DETECTED  18:17:12
+  Test_01  |  Level 9  |  0 souls  |  Cemetery of Ash
+============================================================
+  Rested at Cemetery of Ash  (from High Wall of Lothric)
+  [recorded 04_202605301817.sl2]
+
+============================================================
+  SAVE DETECTED  18:17:25
+  Test_01  |  Level 9  |  0 souls  |  Cemetery of Ash
+============================================================
+  (no changes detected)
+  [recorded 05_202605301817.sl2]
+
+============================================================
+  SAVE DETECTED  18:17:41
+  Test_01  |  Level 9  |  40 souls  |  Cemetery of Ash
+============================================================
+  Souls: 0 -> 40  (+40)
+  [recorded 06_202605301818.sl2]
+
+============================================================
+  SAVE DETECTED  18:18:24
+  Test_01  |  Level 9  |  80 souls  |  Cemetery of Ash
+============================================================
+  Souls: 40 -> 80  (+40)
+  [recorded 07_202605301820.sl2]
+
+============================================================
+  SAVE DETECTED  18:20:09
+  Test_01  |  Level 9  |  140 souls  |  Cemetery of Ash
+============================================================
+  Souls: 80 -> 140  (+60)
+  [recorded 08_202605301820.sl2]
+
+============================================================
+  SAVE DETECTED  18:20:16
+  Test_01  |  Level 9  |  0 souls  |  Cemetery of Ash
+============================================================
+  Souls: 140 -> 0  (-140)
+  [recorded 09_202605301820.sl2]
+
+============================================================
+  SAVE DETECTED  18:20:23
+  Test_01  |  Level 9  |  0 souls  |  Cemetery of Ash
+============================================================
+  (no changes detected)
+  [recorded 10_202605301821.sl2]
+
+============================================================
+  SAVE DETECTED  18:21:09
+  Test_01  |  Level 9  |  180 souls  |  Cemetery of Ash
+============================================================
+  Souls: 0 -> 180  (+180)
+  [recorded 11_202605301821.sl2]
+
+============================================================
+  SAVE DETECTED  18:21:48
+  Test_01  |  Level 9  |  180 souls  |  Cemetery of Ash
+============================================================
+  (no changes detected)
+  [recorded 12_202605301821.sl2]
+
+============================================================
+  SAVE DETECTED  18:21:58
+  Test_01  |  Level 9  |  0 souls  |  Cemetery of Ash
+============================================================
+  Souls: 180 -> 0  (-180)
+  [recorded 13_202605301822.sl2]
+
+============================================================
+  SAVE DETECTED  18:22:04
+  Test_01  |  Level 9  |  0 souls  |  Cemetery of Ash
+============================================================
+  (no changes detected)
+  [recorded 14_202605301822.sl2]
+
+============================================================
+  SAVE DETECTED  18:22:16
+  Test_01  |  Level 9  |  0 souls  |  Cemetery of Ash
+============================================================
+  (no changes detected)
+  Session log saved to: C:\Users\user\Dev\dark-souls\DS3\play_simulator_save_files\play_04_auto\session_202605301816.log

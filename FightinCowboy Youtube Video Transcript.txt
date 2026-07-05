@@ -1,0 +1,310 @@
+Video 1
+
+This is FightinCowboy’s classic introductory walkthrough for Dark Souls 3, covering the initial tutorial area (Cemetery of Ash) and the main hub zone (Firelink Shrine).
+
+Here is a breakdown of the key strategies, items, and progression routes he highlights in the video:
+
+Character Setup & Initial Decisions
+Class Recommendation: He recommends starting as either a Knight (for the extra physical armor) or a Warrior (which he selects). The Warrior starts with higher Vigor and Endurance, making it exceptional for a raw strength-focused build [04:45].
+
+Burial Gift: He chooses the Sovereignless Soul, which immediately grants 2,000 Souls upon starting to help kickstart early leveling [05:29].
+
+Cemetery of Ash
+Mechanics & Exploration: He emphasizes checking the orange floor messages for basic controls and points out the game's dynamic new Weapon Arts (skills like the Warrior's War Cry axe buff) which consume the blue FP bar [07:29, 08:18].
+
+The Ravenous Crystal Lizard: Tucked away in a side path, this mini-boss gets staggered and burst down quickly by the Warrior's heavy raw damage. Defeating it awards a valuable Titanite Scale (used for boss weapon upgrades later) and a massive chunk of early souls [08:36].
+
+Boss Fight: Iudex Gundyr
+Phase 1 Strategy: As soon as you pull the Coiled Sword from his chest, you can immediately begin dealing damage. He suggests casting a weapon buff right before pulling the sword to maximize this free damage window [11:20].
+
+Phase 2 (The Abyss Mutation): When Gundyr drops to 50% health, the Pus of Man parasite erupts from his back. The transition animation leaves him entirely vulnerable for roughly 5 to 6 seconds; he advises rushing in aggressively to whale on the boss and finish the fight before the mutation can execute its sweeping attacks [11:58].
+
+Firelink Shrine & Secrets
+The Sword Master (Uchi Katana): Outside the left exit of the shrine stands a hostile, fast-striking NPC wearing rags. While tough early on, FightinCowboy manages to cheese him by forcing him to fall off the cliff [16:29]. Resting at the bonfire resets the world and spawns his drops safely back at the top of the ridge: the Uchigatana and the Master's Attire [17:35].
+
+Locked Tower: He notes that the tower key costs 20,000 Souls from the Shrine Handmaid. Accessing this area later grants the Firekeeper Soul, the Firekeeper armor set, and access to the Picklepee/Snuggly crow trading nest [18:04, 19:04].
+
+Shrine NPC Rundown
+Firekeeper: Your primary source for leveling up [19:47].
+
+Shrine Handmaid: The main merchant; turning in Umbral Ashes found throughout the world expands her inventory [19:58].
+
+Blacksmith Andre: Handles weapon reinforcement, infusing, and turning in Estus Shards to increase your flask charges [20:08].
+
+Ludleth of Courland: The small Lord of Cinder sitting on his throne who will transpose boss souls into unique weapons once you bring him the Transposing Kiln later [22:26].
+
+Video 2
+
+Here are the key items and steps FightinCowboy details to get them early:
+
+1. The Tree Jump Skip
+The Method: Head up the interior right stairs of Firelink Shrine, exit out the upper archway, and locate the curved tree trunk near the roof overhang. You need to run directly up the trunk to get a brief vertical lift and perfectly time a sharp jump to the right to land on the edge of the stone roof [00:29].
+
+Note: This trick can take quite a few attempts to master, so be patient with the collision angles [01:06].
+
+2. Covetous Silver Serpent Ring
+Location: Once you are safely on the roof, enter the upper doorways to access the wooden rafters overlooking the inside of Firelink Shrine.
+
+The Illusory Wall: Walk along the top of the central rafter toward the back wall. Attack or roll into the blank stone wall directly ahead to reveal an illusory wall [02:32].
+
+The Reward: Drop down to the hidden platform directly behind the broken wall, follow it to the far end, and drop into a small room containing a chest. Inside is the Covetous Silver Serpent Ring, which grants an extra 10-11% Souls from every killed enemy—immensely powerful if grabbed right at the start of the game [02:40].
+
+3. Solaire’s Armor (Armor of the Sun) & Picklepee Nest
+The Nest: The roof skip also grants early access to the bird's nest (belonging to Picklepee/Snuggly the Crow) situated directly on the outdoor roof structure [01:39].
+
+Trading for the Armor: To get Solaire’s iconic Armor of the Sun, you must trade a unique beverage called Siegbräu.
+
+How to get Siegbräu: You receive this item from Siegward of Catarina a bit later in the Undead Settlement zone after teaming up with him to defeat the rogue Fire Demon [01:56].
+
+The Trade: Stand inside the nest, open your inventory, select the Siegbräu, and select "Leave". The item will immediately swap into the Armor of the Sun [02:16].
+
+Cowboy's Recommendation: Because you need to wait until the Undead Settlement to get the Siegbräu anyway, it's often easiest to just rush the tree jump early for the soul-boosting ring, and then return to the nest later once you've met up with Siegward [03:00].
+
+Using these techniques helps optimize early characters by maximizing soul generation through the early zones. Let me know if you want to jump into the standard area progression next!
+
+Video 3
+
+This is Part 2 of FightinCowboy's Dark Souls 3 walkthrough, covering the first half of the High Wall of Lothric. He collects several essential early-game items, unlocks a major shortcut, and picks up a crucial key item before a classic FromSoftware surprise cuts the run short.Key Items CollectedItemLocation / NoteTimestampBinocularsOn a platform overlooking the wall, guarded by a hollow spearman.[00:04:55]Deep Battle AxeDropped by the Mimic chest inside the room beneath the dragon.[00:07:46]ClaymoreFound on the upper platform being torched by the dragon.[00:11:00]BroadswordLocated inside the multi-level knight building, past the room with the Lothric Knight.[00:17:29]Silver Eagle Kite ShieldInside a chest in the building; provides 100% physical damage reduction.[00:18:06]Cell KeyFound at the bottom of the multi-level building with the explosive barrels.[00:20:27]Estus ShardSitting right next to the Cell Key on an anvil.[00:20:40]Run Highlights & ProgressionThe Mimic Alert: FightinCowboy takes on the area's first Mimic. He emphasizes watching out for its deadly grab attack [00:07:30], which can easily instantly kill early-game characters. He secures the Deep Battle Axe, which dramatically bumps his attack power from 145 to 207 [00:08:01].The Dragon Run: To grab the Claymore, he sprints across the lower platform to bait the dragon into changing its flame trajectory downwards [00:11:56], opening a brief window to safely collect the loot up top.The High Wall Bonfire: He quickly pushes past a roaming Lothric Knight to light the first internal progression bonfire [00:08:56] for safety.Environmental Kills: In the lower rooms of the large building, he uses a firebomb to detonate the explosive oil barrels [00:19:42], effortlessly wiping out the ambushing hollows below.Shortcut Unlocked & A Familiar Ending: After grabbing the Cell Key and Estus Shard, he takes the gated lift back up to the surface [00:21:50], unlocking the main shortcut back to the very first High Wall bonfire. Despite declaring earlier that he wouldn't die [00:05:51], he immediately gets swarmed and taken out by a pack of hounds [00:22:45], proving that souls dogs remain undefeated.
+
+Video 4
+
+This is Part 3 of FightinCowboy’s Dark Souls 3 Walkthrough, which focuses on wrapping up the High Wall of Lothric, acquiring key early-game items and covenants, and defeating Vordt of the Boreal Valley.
+
+Here is a breakdown of the path, key items, and strategies covered in this video:
+
+1. Key Items & NPC Progression
+Greirat of the Undead Settlement: At [05:53], Cowboy uses the Cell Key (found in the previous part) to unlock Greirat's cell. Accepting his request to deliver the Blue Tearstone Ring sends him back to Firelink Shrine as a merchant.
+
+Emma, High Priestess of Lothric: At [12:15], Cowboy visits Emma in the cathedral. Speaking to her grants you the Small Lothric Banner (required to progress past the high wall) and the Way of the Blue covenant insignia [13:17].
+
+Equipping Covenants: Cowboy notes at [13:22] that the Way of the Blue is an excellent safety net for new players. If a red phantom invades your world while it's equipped, a Blue Sentinel will automatically be summoned to defend you.
+
+Yoel of Londor: After defeating Vordt and raising the banner to reach the Undead Settlement, Cowboy recruits Yoel at [20:52] from among the dead pilgrims at the broken bridge.
+
+2. General Mechanics & Build Tips
+Weight Ratio & Roll Thresholds: At [10:20], Cowboy demonstrates the critical mechanics of equipment load:
+
+Keep your weight ratio below 70% to avoid slow, clunky "fat rolling."
+
+Dropping even lower (around the 30-40% threshold) grants a highly fluid, longer fast-roll.
+
+Ring of Sacrifice Trick: At [06:12], Cowboy explains that equipping a Ring of Sacrifice prevents you from losing your current soul pile if you die. It also preserves any bloodstain already on the ground from a previous death.
+
+Embers as a Full Heal: At [13:53], Cowboy highlights a great combat tactic: save your Embers during tough boss fights and pop them mid-fight after running out of Estus Flasks to instantly restore your health to full.
+
+3. Boss Fight: Vordt of the Boreal Valley
+Before entering the fog gate at [14:47], Cowboy consumes an Ember to reveal the NPC summon sign for the Sword Master (assuming you defeated him outside Firelink Shrine earlier).
+
+Strategy Provided:
+
+Phase 1 [16:13]: For massive bosses like Vordt, the safest strategy is to stay directly underneath or behind him. His wide forward swings will miss completely if you wedge yourself between his back legs.
+
+Frostbite Meter: Watch the blue status bar [16:33]. Vordt's attacks build up Frostbite, which chunks your health and slows stamina recovery if filled.
+
+Phase 2 [16:45]: Around 50% health, Vordt will begin to buff and charge aggressively. Dodge roll through the charges rather than blocking. When he pauses to breathe his frost blast [17:35], run in from the side or behind for free, uninterrupted damage to finish the fight.
+
+The video wraps up right after opening the gate to the Undead Settlement Foot of the High Wall bonfire [22:15], setting up the next phase of the walkthrough.
+
+vídeo 5
+
+Here is the full transcript from FightinCowboy's Dark Souls 3 Walkthrough Part 4: Undead Settlement.
+
+Firelink Shrine Prep & Crow Trading
+[00:00] What is happening guys, Cowboy here, and we are back. Today we're taking on Undead Settlement. So before that real quick, I did the tree trick to jump up onto the roof here. I've actually moved the video showing that into the number two slot of the playlist for the walkthrough.
+
+[00:17] So we're going to go up here, get the Estus Flask Shard as well as the Covetous Silver Serpent Ring.
+
+[00:27] Couple things we can drop off with the crows: leave one firebomb, should get a chunk. Leave a black firebomb, should get three chunks.
+
+[00:47] Leave a homeward bone... call over iron bracelets. Let's see what else could I drop? Never tried an ember before, let's try out an ember. All right, he doesn't want embers.
+
+[01:10] All right, so yeah, there's quite a few things you can give to the crow to get items with. Those are just a couple that I'm aware of. Feel free to just run through a bunch of items, try stuff out, and figure out what other goodies you can obtain.
+
+[01:32] Okay, that is secured. Ah, this guy's here now. You... what else? Should be saying thank you. He's actually kind of a dick later.
+
+[01:50] And now, before we go, that should give us two Estus shards now—both the one that we got in the previous area as well as the one we just picked up.
+
+[01:59] So what you have to do here is reinforce, and then you have to allot. So even though I've done that, you can see it says 3/1 still, even though I should be at 5/1. So what you're going to want to do is, after you have reinforced, talk to him, allot Estus, and now you see that you can split up how many you want and how you're going to use them.
+
+[02:33] It was also pointed out that there was an item I missed back on the bridge with the dragon breathing some fire. I have put a timestamp to it in that video in the comments. It's just a Large Deserted Soul, I think that adds up to about a thousand souls, maybe it's 800, right around there.
+
+Entering the Undead Settlement
+[02:50] But anyway, moving on to the Undead Settlement. So there's quite a few items we're going to be getting here. Going down the list briefly: we have Loretta's Bone, we have an Estus Shard, two covenants, the whip, a crystal lizard to hit, let's see, the Plank Shield, and your Pyromancer NPC. A second covenant, the War God Shield, Fire Clutch Ring, Bloodbite Ring, a shortcut to get to the butcher axe very early in the game, and a couple NPC interactions like this. This area is just loaded with stuff.
+
+[03:29] So anyway, to start things off, first thing we're going to do is we're going to go straight from here. Now this area has two paths that end up kind of converging, so I'm going to go through what I would consider to be the best way to run through this area just based on those paths.
+
+[03:53] Small leather... we want to walk out here, knock this down. This will contain Loretta's Bone. We want that to give to our NPC later. Please get out of the way, sir. Get our repair powder. His body just fell through the level.
+
+[04:24] I'm going to watch out for these sneaky little buggers. They are quite fast. You can backstab them and parry them and all that good stuff, even though they're as tiny as they are. Let's grab this. Now one of these is... no, it's not. You start encountering cage enemies relatively soon. I think the first one may be up ahead, I think I'm off on my remembrance of where exactly they were, but you do start encountering them.
+
+The Burning Tree & Evangelist Fight
+[05:05] Anyway, so with this room clear, we're going to go down. There's a couple things here you're going to want to know. Grab this. Now as you can see, we have these groups of enemies, and to make things a little bit easier for you, you want to just kind of aim like this and throw a firebomb. I aimed a little bit higher... and I'm terrible at aiming these. All right, let me get even higher here. There we go, that one worked well.
+
+[05:29] All right, same thing. Let's keep my head kind of even with the barrels. There we go. Here comes big fatty.
+
+[05:45] This particular enemy, in my experience, she is probably one of the most annoying enemies to deal with in the game. Best thing I can say is I would suggest just using your shield against her. Even then, as you can see, even with blocking the damage, she still began to build up bleed on me—just a very annoying enemy in general.
+
+[06:08] So first thing you're going to want to do is dispatch all the additional enemies. She will cast Gnaw at you, which you can see now. On top of that, she'll light herself on fire and try to give you a hug, and then lastly, she has this big old stick which she likes to beat people with. If you're close enough, she can actually hit you with her book as well. You don't see that one as often, but she can do it. So yeah, shield helps a ton against these enemies.
+
+Snagging the Estus Shard & Warriors of Sunlight Covenant
+[06:43] All right, grab our Estus Shard, couple items we're going to be snagging up. I'm getting quite a few drops. Luck is... just to put it in perspective, our luck is only 11 with this character compared to the other playthroughs where I was at, I think, seven and then six. You know, the amount of drops we're getting is quite high, I'd say. That ember... okay, where are you going? Come here. Finish off some enemies to make life easier.
+
+[07:35] We're going to go this way first. These two guys are basically waiting to drop down on you, so going up top will allow you to dispatch them before we head down that way. Don't drop down there just yet. So now go this way. There's an item up on our right we're going to snatch.
+
+[08:11] Now if you really like the axe, feel free to start upgrading it. I'm actually saving all the Titanite I get because we're going to be going for the butcher's knife very shortly, which is a great strength weapon, and I want to save enough to get that.
+
+[08:21] So we're going to drop that, get it. Now we're not going to go down here just yet, we're going to be taking basically a shortcut to get down there. Here is our first encounter with these enemies. They're actually very vulnerable to poke damage, so like stabbing with a katana or using a rapier will kill them very quickly. You can see a hole in the floor right here, so we want to go down into that hole.
+
+[08:45] Warrior of Sunlight! Sun bro covenant. We, of course, also have some Estus Soup right here. Okay, so now this is the room with the ladder right there, just to keep everything in perspective. This guy, he should come along, we're going to wait for him just so we don't have to fight him and the caged beasts at the same time.
+
+Navigating the Dark House & Missing a Crystal Lizard
+[09:43] All right, so this area can be a little bit tricky. I would suggest grabbing the enemy, pulling them back into this room, and from here you can avoid all of Doris's Gnaws that she's casting at you. Come on in, boys.
+
+[10:09] All right, now as we go up, there's going to be an enemy popping out from the left. We're also going to cut into there, just keep your shield up, get right past him, and this should give us the whip.
+
+[10:25] Go right. From here, we do have a crystal lizard coming up in a moment, so keep that in mind. Got to be on point if you want the crystal lizard. We're just going to ignore Doris for a moment here. Down, grab a Titanite Shard. All right, we're going to just run ahead real fast, go up here, and then go duke it out with her up top. Come on.
+
+[11:22] See, axe makes very quick work of those. Another shard. All right, now from here, where is that little bugger at? There he is, right down there. So what we're going to do first: we're going to hit this, jump there, and get that item. Crystal lizard, it's running! Grab it, run, run! Ah, he got away, that's fine.
+
+[11:59] So anytime you rest at a bonfire, it will respawn crystal lizards. For those new to the game, they usually contain rare upgrade materials, so it's always good to kill them off whenever you can. So we're going to rest real fast. That should get Hodrick to go away. I will deal with him later, it's an NPC invader, so he will reinvade.
+
+[12:27] But we want that crystal lizard. Run back. I did not rest enough for him to respawn, let's try it again. Showing back up... crystal lizard is not appearing, oddly enough, which makes no sense because we did exactly this on stream last night. But yeah, the crystal lizard here, respawn a couple times, he should show back up. Moving away and coming back is one way to ensure that it actually works.
+
+Finding the Mound-Makers Covenant
+[13:20] Actually, no, never mind! We don't want to kill him yet. Do not kill him yet! Do not kill him yet! Actually almost forgot, we need him to be alive to join that covenant. That would have been bad. Okay, so from here we're going to go back to the Undead Settlement, we're going to do the second half of this area, and we'll come back to this area later to get that crystal lizard. Man, that would have been a bad mistake killing Hodrick. I'm not entirely sure if when you kill him that's what flags his death in the actual game, but I know it's the NPC that we need to speak with to join the covenant that we're going to be joining. So better to play it safe than sorry, just not kill him right now.
+
+[14:10] Now, of course, we did pick up that Estus Shard, so if you want, feel free to travel back to Firelink at this point, use that Estus Shard. You can also give the bone to the NPC there to get some new inventory and stuff. I'll let you keep the ring I gave you anyway. But we're going to be running straight past this stuff—we already killed it, so unless you really feel the urge to do the farming, no real point. We're going to be taking this bridge over to the right.
+
+[14:45] Now I would suggest going through the house first. It doesn't take long to get through there and get to the door that we're trying to reach, so it's better to just get it out of the way now and then you don't have to worry about it later at all. We're just going to be going through up until we unlock the door, and then we'll be coming back this way. Additionally, anytime you see a body on the floor, good chance it's going to stand up, so kill it while you have the chance—make your life easier. We should have a little buddy drop down any second, there he is.
+
+[15:28] And we will open this up. Now if you're really, really low for whatever reason, there's a bonfire right down there you can grab. We're not going to go grab that just yet, we're going to grab this shield, now we're going to go back up top.
+
+[16:04] Now this area can be a little bit tricky, almost annoying in a sense, just because of all these enemies throwing shit. So shield is going to be your best friend here. Go this way first. All right, don't let it... don't chase that guy down there. You don't want to fall off these roofs, that'll put us back to where we were at. But we are going to run over here, grab the fire bomb, and we're going to run over here.
+
+[17:00] Grab Plank Shield and then talk to this: "Another Nana disappeared. Granddad carried a cage, he ever has his cage, and Nana's never coming back. So come into the cage and become Nana's shade." Yeah, so kind of a weird interaction there, and especially because it is, you know, one of the enemies we were fighting. What just happened? That dude bugged out. But talk to that guy first, it's very important that you talk to that NPC. After you talk to him, we can go up top, grab our Homeward Bone, and we're going to go this way and drop down right here.
+
+[17:51] So from here, since we talked to that dude, this guy will not be hostile to us. First thing we want to do is run over here, hit this... an item we'll get later. Oh, I could have grabbed it right then anyway. We'll approach that later. And then we're going to walk up behind this guy and hop into his cage. Pretty obscure, right?
+
+[19:12] All right, go talk to Hodrick over here. Like I said, not entirely sure, but I have a feeling if you kill him during his first invasion he would not show up here. "Well, what up? This pit is for Hollows, not for the likes of you sane folk. Or perhaps you... yes, yes, then we are just fine. It's important to know who you are, but we'll all be mad soon enough. And should you be, beware, you might need..."
+
+[19:37] So now we have the Mound-Makers covenant. If you talk to him more, we'll get the Homeward Bone, and we got the War God Wooden Shield here.
+
+Re-routing to the Cliff Underside Bonfire & Cornyx
+[19:58] All right, so at this point, we are going to bow on out. Oh, I went to the Shrine bonfire, darn it. Well, it's fine, we can spend that Estus Shard we picked up since we're going back anyway. Now this episode is definitely going to be a two-parter. This area is pretty large for how early it is in the game, and looking at my list, we are only about halfway through things. So we're going to grab our Estus real fast, get to a bonfire, and then we'll resume with the second half of this area in the next episode. Almost never use the mana, but it is good to have one just so I can continue to use my weapon arts if need be.
+
+[20:40] We're just going to do a quick sprint here and make it to the other bonfire that we need from the Undead Settlement bonfire. So just to catch you guys up on the remainder of the things we're going to grab: we still have most notable items with the Pyromancer NPC coming up, we also have the Cleric NPC coming up, the Bloodbite Ring, two different gestures, an item that's needed to obtain the sunbro armor, Flynn's Ring, Chloranthy Ring, our first piece of ashes. So quite a few things that we're going to be getting in this next episode. As I mentioned previously, it's a little bit absurd how much it happens to be in this area. A lot of it kind of, you know, I wouldn't say hidden, but rather tucked away, like the whole covenant thing we just joined—definitely a little bit awkward. You know, the sun bro one not that hard to find, but I could definitely see how it can be a little bit tricky. Make you just assume things connect and don't fall down, and all of a sudden you've missed a covenant, and the one we just went to being completely optional.
+
+[22:08] Oh, what am I doing? I did not need to come up here, we're going to my directions all mixed up. Please leave me alone, little dudes. All right, now we're good to go. You may remember we already opened this door, so that makes things a bit easier. Don't need to worry about getting hit while we're trying to open it. Run, kill this dude, grab that Titanite, and we reach the bonfire.
+
+[23:03] All right, now we're going to rest real fast. We got 23 minutes, I think I can make the connection quick enough to justify doing it. So we're going to be... actually, it might be better waiting, there's still quite a bit left. Screw it, we're already going, we're going to do it.
+
+[23:47] All right, so kill dudes here. Pyromancer! I had got him the hand axe. Just checking my list, making sure I'm not skipping anything. So now we're going to go down. All right, we'll take down pot guy. Now these guys are kind of mean—one of the very few enemies that could continually hit you while you're on the ground, whereas usually you kind of have like i-frames when you're sitting there.
+
+[24:27] Run out and get this—one of the best items in the game for a pyromancer: Fire Clutch Ring. Huge, huge boost to your fire damage. Bomb, kill you, go. Kill these two. Be a little dude around this corner that we're going to kill.
+
+The Sewer Shortcut & An NPC Fight
+[25:20] Now from here, we're going to be making a sprint. You can see there's some enemies that are patrolling here, we're going to ignore them for now, and we're going to be basically connecting the shortcut path. So we want to run straight over here. There should be a dog we need to kill... there's a dog.
+
+[26:00] You can't really see it in the fog, but we're going to be coming up to Mama Rat in a second. Now this path is what's going to lead us to the Cleric NPC. Before we can reach her though, we need to get Mortician's Ashes. We pick those up in just a little bit, so just keep that in mind—we're going to be coming back through this area a little bit later from now to secure that NPC.
+
+[26:30] Up this, and now the gate hasn't opened... hey, the crystal lizard's back too! We're going to take them out, and there's our bonfire. You got to be careful cuz pretty much as soon as you like... crystal lizard knows you're coming, it's going to book it. It's just going to haul ass. I don't have time for you, I want the lizard.
+
+[27:04] There we go, got ourselves the lizard, got the Sharp Gem, and we're good. So real fast, might as well wrap things up with Hodrick. Kind of hard to get backstabs on him too, and he heals, but he does run out of Estus though. He's going to stand up there and Warmth, you piece of shit. Now that dude's going to get evolved too, really don't feel like fighting both of them at the same time.
+
+[28:02] So instead, we'll just wrap up here. We're almost at 30 minutes, and I really don't want to go over that mark for these episodes. And we will continue on with this area in the next episode. We still have quite a bit left to do, and then we have to kill that NPC of course. Either way guys, thanks for coming by and we will catch you then with more Dark Souls 3.
+
+Video 6
+
+This video from FightinCowboy covers how to sprint through the early-game areas to pick up the Butcher Knife right at the start of the Road of Sacrifices.
+
+Run to the Road of Sacrifices
+Starting Point: The run begins at the Cliff Underside bonfire in the Undead Settlement [00:00:04].
+
+The Route: Cross the bridge, run past the pot-throwing enemies, and head straight for the tower elevator [00:00:28]. Take the elevator down to the bottom floor.
+
+Bypassing the Outrider Knight: A Boreal Outrider Knight guards the door at the bottom of the tower [00:01:47]. Instead of fighting it, sprint straight past it and open the doors. You maintain invincibility frames (i-frames) while opening the doors, allowing you to bypass the fight safely [00:02:03].
+
+The Next Bonfire: Light the first bonfire right outside the doors (the Halfway Fortress zone approach) to secure a spawn point [00:02:09].
+
+Defeating Mad Ghru & Obtaining the Knife
+Keep sprinting down the path through the wooded area to lose enemy aggro [00:02:35].
+
+Near the water, you will encounter an NPC-style enemy (referred to as "Little Melinda," an apparent nod to Maneater Mildred) [00:02:48].
+
+The Reward: Defeating this hostile NPC rewards you with the Butcher Knife [00:03:19]. Once it's in your inventory, you can safely use a Homeward Bone to get out [00:02:26].
+
+Weapon Stats & Benefits
+Strength Scaling: The weapon inherently features an A scaling in Strength right at base level 1, making it arguably the best early-game pure Strength option [00:03:59].
+
+Weapon Art (Sharpen): Activating the weapon art restores HP with every successful hit [00:04:05]. The video demonstrates that hitting multiple targets simultaneously multiplies the healing effect, offering high sustain during crowded encounters [00:05:14].
+
+Video 7
+
+This video is Part 5 of FightinCowboy’s walkthrough, covering the Cliff Underside path, Siegward's elevator puzzle, the Fire Demon battle, and navigating the Giant's giant arrow barrage.
+
+The Elevator Puzzle & Siegward of Catarina
+Starting Point: Departs from the Cliff Underside bonfire using the newly acquired Butcher Knife [00:00:18].
+
+Meeting Siegward: Inside the tower, the elevator brings down Siegward of Catarina ("Onion Bro") [00:03:23].
+
+How the Elevator Works: It is a double-deck elevator. To go up to the top tower level, step onto the pressure plate to trigger the mechanism, then immediately step off so the second platform descends [00:03:29]. Ride that second platform to the top.
+
+The Fire Demon & Exploring the Rooftops
+Befriending the Giant: At the top of the tower, talk to the Giant sniper to receive the "Token of Friendship," ensuring his giant arrows won't harm you later [00:04:09].
+
+The Secret Ledge: On the elevator ride back down, roll off onto a mid-level wooden platform [00:06:08]. Outside, Siegward is sitting on a ledge looking out at a nearby Fire Demon [00:06:20].
+
+Fire Demon Fight: Drop down and fight the demon. Siegward will jump down to assist [00:07:01]. Defeating it unlocks the Siegbräu item and two gestures: Toast and Sleep [00:07:56].
+
+Rooftop Loot: Thoroughly looting the hanging corpses and nearby buildings yields the Northern Armor Set, a Pale Tongue (used for stat reallocation) [00:08:33], Flynn’s Ring [00:12:33], and the Chloranthy Ring found after a precise jump into a tower structure [00:13:46].
+
+The Giant's Arrow Barrage & Key Quest Items
+Dilapidated Bridge: Teleport back to the Dilapidated Bridge bonfire [00:14:51].
+
+Mad King_Slayer Hodrick: On the way to the cemetery, Holy Knight Hodrick spawns as a red phantom invader; defeating him grants a Vertebra Shackle [00:15:34].
+
+Looting the White Birch Area: Head into the open graveyard where the Giant fires arrows [00:17:46]. Because you befriended him earlier, his arrows will selectively obliterate the hollows while ignoring you [00:18:10].
+
+Key Items Gathered:
+
+Mortician's Ashes: Unlocks important shop inventory back at Firelink Shrine [00:18:53].
+
+Undead Bone Shard: Crucial for reinforcing your Estus flask healing potency [00:19:06].
+
+Great Scythe: Located on a wooden balcony inside the adjoining house [00:19:35].
+
+Video 8
+
+This video covers Part 6 of FightinCowboy’s walkthrough, highlighting the rescue of Irina of Carim, setting up the Road of Sacrifices bonfire, defeating the Curse-rotted Greatwood, and managing Firelink Shrine NPCs.
+
+Rescuing Irina & Eygon's Alliance
+Grave Key: Buy the Grave Key from the Shrine Handmaid for 1,500 Souls using Mortician's Ashes [00:00:20].
+
+The Sewer Passage: From the Dilapidated Bridge bonfire, drop down into the rat-filled sewers and open the locked door [00:01:12]. Passing through leads to the Statue of Velka (used for Sin Absolution) [00:01:39].
+
+Saints and Titanite: Collect the Blessed Red and White Shield +1 hanging from a tree corpse [00:04:13], the Saint's Talisman, and two Titanite Shards (enough to get a standard weapon to +3) [00:03:20].
+
+Irina & Eygon: Talk to Irina of Carim at the end of the sewer cave and accept her service to send her to Firelink Shrine to sell Miracles [00:05:07]. Outside, Eygon of Carim will now offer his temporary alliance [00:05:29].
+
+Outrider Knight Gatekeeper & Road of Sacrifices Bonfire
+Before tackling the area boss, ride the tower elevator down to encounter the Boreal Outrider Knight [00:06:05].
+
+The Fight: Take advantage of high stability shields or heavy weapon staggering. Defeating him rewards the Irithyll Straight Sword (a unique Twinkling Titanite weapon that deals Frostbite damage) [00:07:21].
+
+Next Area Checkpoint: Open the heavy double doors behind the knight to light the first Road of Sacrifices bonfire, securing a direct spawn point for the next segment of the game [00:07:49].
+
+Boss Fight: Curse-rotted Greatwood
+Preparation: There are no summon signs available for this boss due to its unique target mechanics [00:11:21].
+
+Phase 1 (The Courtyard): Focus on killing the minor hollow enemies first, prioritizing the dangerous Red-Eyed Hollow [00:12:04]. Avoid the tree's heavy stomps, then attack the fluid-filled "pus sacks" on its lower midsection until they burst [00:12:29].
+
+Phase 2 (The Pit): The arena floor collapses into the Pit of Hollows [00:13:28]. Dodge the large central hand that reaches out to grab you [00:13:47]. Shatter the sack on its ankle, its lower back, and then focus down the central stomach sacks to defeat the boss [00:13:36].
+
+Reward: Grants the Transposing Kiln [00:16:01].
+
+Firelink Shrine Maintenance & NPC Updates
+Soul Transposition: Hand the Transposing Kiln to Ludleth of Courland on his throne to unlock boss weapon crafting [00:16:16].
+
+Greirat’s Questline: Give Loretta’s Bone to Greirat the Thief. He tells you to keep the Blue Tearstone Ring [00:18:31].
+
+Yoel of Londor: Yoel can now "Draw Out True Strength" to award free levels, which progresses Hollowing and unlocks the path to the game's third ending [00:19:07].

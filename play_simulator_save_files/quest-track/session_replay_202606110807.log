@@ -1,0 +1,229 @@
+
+============================================================
+  DS3 Play Simulator - quest-track
+  12 saves  |  interval: 0.5s  |  slot: auto  |  log: session_replay_202606110807.log
+============================================================
+  [auto-detected slot 4 (changed between saves 1 and 2)]
+
+------------------------------------------------------------
+  Step 01: Firelink Initial
+  quest_track  |  Level 9  |  3,148 souls  |  Firelink Shrine
+------------------------------------------------------------
+  Rested at Firelink Shrine
+
+  [waiting 0.5s...]
+
+------------------------------------------------------------
+  Step 02: Cell Key Found
+  quest_track  |  Level 13  |  0 souls  |  High Wall of Lothric
+------------------------------------------------------------
+  Level up: 9 -> 13  (+4)
+  Rested at High Wall of Lothric  (from Firelink Shrine)
+  Souls: 3,148 -> 0  (-3,148)
+  Got Black Firebomb x2
+  Got Broadsword
+  Got Cell Key
+  Got Dagger
+  Got Green Blossom x2
+  Got Halberd
+  Got Large Soul of a Deserted Corpse
+  Got Lothric Knight Armor
+  Got Raw Gem
+  Got Steel Soldier Helm x2
+  Got Undead Hunter Charm x2
+
+  [waiting 0.5s...]
+
+------------------------------------------------------------
+  Step 03: Greirat Freed
+  quest_track  |  Level 13  |  200 souls  |  High Wall of Lothric
+------------------------------------------------------------
+  Souls: 0 -> 200  (+200)
+  Got Blue Tearstone Ring
+  Got Throwing Knife x8
+
+  [waiting 0.5s...]
+
+------------------------------------------------------------
+  Step 04: Talk to Yoel among the dying pilgrims
+  quest_track  |  Level 16  |  420 souls  |  Undead Settlement
+------------------------------------------------------------
+  Level up: 13 -> 16  (+3)
+  Rested at Undead Settlement  (from High Wall of Lothric)
+  Souls: 200 -> 420  (+220)
+  Got Alluring Skull x2
+  Got Ember x2
+  Got Firebomb x6
+  Got Rapier
+  Got Small Lothric Banner
+  Got Soul of Boreal Valley Vordt
+  Killed Vordt of the Boreal Valley
+  Got Throwing Knife x11
+  Got Way of Blue
+
+  [waiting 0.5s...]
+
+------------------------------------------------------------
+  Step 05: Get Lorettas bone
+  quest_track  |  Level 16  |  1,280 souls  |  Undead Settlement
+------------------------------------------------------------
+  Souls: 420 -> 1,280  (+860)
+  Got Charcoal Pine Bundle x4
+  Got Firebomb
+  Got Loretta's Bone
+  Got Rubbish
+  Got Worker Gloves
+
+  [waiting 0.5s...]
+
+------------------------------------------------------------
+  Step 06: Find Morticians Ashes
+  quest_track  |  Level 17  |  718 souls  |  Undead Settlement
+------------------------------------------------------------
+  Level up: 16 -> 17  (+1)
+  Souls: 1,280 -> 718  (-562)
+  Got Bloodbite Ring
+  Got Caestus
+  Got Large Soul of a Deserted Corpse
+  Got Mortician's Ashes
+
+  [waiting 0.5s...]
+
+------------------------------------------------------------
+  Step 07: Give Lorettas bone + Buy cell key + First Sigil Draw
+  quest_track  |  Level 18  |  574 souls  |  Firelink Shrine
+------------------------------------------------------------
+  Level up: 17 -> 18  (+1)
+  Rested at Firelink Shrine  (from Undead Settlement)
+  Souls: 718 -> 574  (-144)
+  Got Dark Sigil
+  Got Ember
+  Got Grave Key
+  Got item_00400001ce
+  Lost Black Firebomb x2
+  Lost Loretta's Bone
+  Lost Mortician's Ashes
+
+  [waiting 0.5s...]
+
+------------------------------------------------------------
+  Step 08: Free Irina + accept her services + Second Sigil Draw
+  quest_track  |  Level 19  |  0 souls  |  Firelink Shrine
+------------------------------------------------------------
+  Level up: 18 -> 19  (+1)
+  Souls: 574 -> 0  (-574)
+  Got Dark Sigil
+  Got Loincloth (1)
+  Got Saint's Talisman
+  Got Soul of an Unknown Traveler
+  Loretta's Bone given to Greirat
+  Greirat sent to scavenge Undead Settlement
+
+  [waiting 0.5s...]
+
+------------------------------------------------------------
+  Step 09: Third Sigil Draw
+  quest_track  |  Level 20  |  0 souls  |  Firelink Shrine
+------------------------------------------------------------
+  Level up: 19 -> 20  (+1)
+  Got Dark Sigil
+
+  [waiting 0.5s...]
+
+------------------------------------------------------------
+  Step 10: Fourth Sigil Draw
+  quest_track  |  Level 21  |  0 souls  |  Firelink Shrine
+------------------------------------------------------------
+  Level up: 20 -> 21  (+1)
+  Got Dark Sigil
+
+  [waiting 0.5s...]
+
+------------------------------------------------------------
+  Step 11: Kill the tree boss + Fifth Sigil Draw + Greirat sent
+  quest_track  |  Level 67  |  38,644 souls  |  Firelink Shrine
+------------------------------------------------------------
+  Level up: 21 -> 67  (+46)
+  Souls: 0 -> 38,644  (+38,644)
+  Got Alluring Skull x8
+  Got Bandit's Knife
+  Got Bastard Sword
+  Got Binoculars
+  Got Black Firebomb x10
+  Got Blessed Gem x10
+  Got Blood Gem x10
+  Got Blooming Purple Moss Clump x99
+  Got Carthus Rouge x5
+  Got Chaos Gem x10
+  Got Charcoal Pine Resin x5
+  Got Coiled Sword Fragment
+  Got Cracked Red Eye Orb
+  Got Crystal Gem x10
+  Got Dark Gem x10
+  Got Dark Sigil
+  Got Deep Gem x10
+  Got Divine Blessing
+  Got Dried Finger
+  Got Ember x96
+  Got Estus Shard x88
+  Got Fading Soul
+  Got Fire Gem x10
+  Got Firebomb x13
+  Got Gold Pine Resin x5
+  Got Heavy Gem x10
+  Got Hidden Blessing
+  Got Hollow Gem x10
+  Got Homeward Bone x99
+  Got Human Pine Resin x5
+  Got Kukri x30
+  Got Large Titanite Shard x63
+  Got Light Crossbow
+  Got Lightning Gem x10
+  Got Long Sword
+  Got Mace
+  Got Poison Gem x10
+  Got Purging Stone x99
+  Got Purple Moss Clump x99
+  Got Raw Gem x10
+  Got Refined Gem x10
+  Got Reinforced Club
+  Got Repair Powder x20
+  Got Roster of Knights
+  Got Rotten Pine Resin x5
+  Got Seed of a Giant Tree
+  Got Sharp Gem x10
+  Got Shriving Stone x10
+  Got Simple Gem x10
+  Got Soul of a Great Champion x86
+  Got Soul of the Rotted Greatwood
+  Got Spear
+  Got Titanite Chunk x63
+  Got Titanite Scale x99
+  Got Titanite Slab (MAX IS 15) x96
+  Got Transposing Kiln
+  Got Twinkling Titanite x10
+  Got Undead Bone Shard x89
+  Got item_00001ed2aa
+  Got item_00002e14ea
+  Got item_0040000064
+  Got item_0040000065
+  Got item_0040000066
+  Got item_0040000105 x10
+  Got item_00400001c6
+  Got item_00400007dd
+  Lost Broadsword
+  Lost Rapier
+  right hand: Long Sword -> Long Sword +10
+
+  [waiting 0.5s...]
+
+------------------------------------------------------------
+  Step 12: Yoel Dead Yuria Appeared
+  quest_track  |  Level 67  |  38,644 souls  |  Firelink Shrine
+------------------------------------------------------------
+  (no changes detected)
+
+============================================================
+  Done - 12 saves processed
+============================================================
+  Log saved to: C:\Users\user\Dev\dark-souls\DS3\play_simulator_save_files\quest-track\session_replay_202606110807.log

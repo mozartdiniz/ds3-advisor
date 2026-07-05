@@ -1,0 +1,451 @@
+  Recording to: C:\Users\user\Dev\dark-souls\DS3\play_simulator_save_files\play_01_auto
+  Log file:     session_202605301756.log
+  Slot: auto-detect (tracks whichever slot playtime changes)
+
+============================================================
+  DS3 Save Watcher  [RECORDING]
+  Save: C:\Users\user\AppData\Roaming\DarkSoulsIII\011000016f3aa67c\DS30000.sl2
+  Poll: 1.0s  |  Settle: 2.0s
+============================================================
+
+  Waiting for first save event... (rest at a bonfire in-game)
+
+  [recorded 01_202605301756.sl2]
+  [auto-detected slot 3 (min playtime)]
+
+============================================================
+  SAVE DETECTED  17:56:14
+  Clodoaldo  |  Level 9  |  100 souls  |  Cemetery of Ash
+============================================================
+  Rested at Cemetery of Ash
+  [recorded 02_202605301757.sl2]
+
+============================================================
+  SAVE DETECTED  17:57:15
+  Clodoaldo  |  Level 9  |  100 souls  |  Cemetery of Ash
+============================================================
+  (no changes detected)
+  [recorded 03_202605301757.sl2]
+
+============================================================
+  SAVE DETECTED  17:57:38
+  Clodoaldo  |  Level 9  |  100 souls  |  Cemetery of Ash
+============================================================
+  (no changes detected)
+  [recorded 04_202605301757.sl2]
+  [switched to slot 9]
+
+============================================================
+  SAVE DETECTED  17:57:57
+  Test6  |  Level 9  |  0 souls  |  Cemetery of Ash
+============================================================
+  Rested at Cemetery of Ash
+  [recorded 05_202605301758.sl2]
+
+============================================================
+  SAVE DETECTED  17:58:05
+  Test6  |  Level 9  |  0 souls  |  Cemetery of Ash
+============================================================
+  (no changes detected)
+  [recorded 06_202605301758.sl2]
+
+============================================================
+  SAVE DETECTED  17:58:22
+  Test6  |  Level 9  |  0 souls  |  Cemetery of Ash
+============================================================
+  (no changes detected)
+  [recorded 07_202605301758.sl2]
+
+============================================================
+  SAVE DETECTED  17:58:44
+  Test6  |  Level 9  |  40 souls  |  Cemetery of Ash
+============================================================
+  Souls: 0 -> 40  (+40)
+  [recorded 08_202605301759.sl2]
+
+============================================================
+  SAVE DETECTED  17:59:11
+  Test6  |  Level 9  |  80 souls  |  Cemetery of Ash
+============================================================
+  Souls: 40 -> 80  (+40)
+  [recorded 09_202605301759.sl2]
+
+============================================================
+  SAVE DETECTED  17:59:33
+  Test6  |  Level 9  |  80 souls  |  Cemetery of Ash
+============================================================
+  (no changes detected)
+  [recorded 10_202605301759.sl2]
+
+============================================================
+  SAVE DETECTED  17:59:48
+  Test6  |  Level 9  |  100 souls  |  Cemetery of Ash
+============================================================
+  Souls: 80 -> 100  (+20)
+  [recorded 11_202605301801.sl2]
+
+============================================================
+  SAVE DETECTED  18:01:09
+  Test6  |  Level 9  |  144 souls  |  Cemetery of Ash
+============================================================
+  Souls: 100 -> 144  (+44)
+  Got Coiled Sword
+  Killed Iudex Gundyr
+  [recorded 12_202605301801.sl2]
+
+============================================================
+  SAVE DETECTED  18:01:22
+  Test6  |  Level 9  |  3,144 souls  |  Cemetery of Ash
+============================================================
+  Souls: 144 -> 3,144  (+3,000)
+  [recorded 13_202605301801.sl2]
+
+============================================================
+  SAVE DETECTED  18:01:44
+  Test6  |  Level 9  |  3,144 souls  |  Firelink Shrine
+============================================================
+  Rested at Firelink Shrine  (from Cemetery of Ash)
+  [recorded 14_202605301802.sl2]
+
+============================================================
+  SAVE DETECTED  18:02:21
+  Test6  |  Level 9  |  3,144 souls  |  Firelink Shrine
+============================================================
+  Lost Coiled Sword
+  [recorded 15_202605301802.sl2]
+
+============================================================
+  SAVE DETECTED  18:02:27
+  Test6  |  Level 9  |  3,144 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 16_202605301802.sl2]
+
+============================================================
+  SAVE DETECTED  18:02:32
+  Test6  |  Level 9  |  3,144 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 17_202605301802.sl2]
+
+============================================================
+  SAVE DETECTED  18:02:35
+  Test6  |  Level 9  |  3,144 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 18_202605301802.sl2]
+
+============================================================
+  SAVE DETECTED  18:02:44
+  Test6  |  Level 12  |  657 souls  |  Firelink Shrine
+============================================================
+  Level up: 9 -> 12  (+3)
+  Souls: 3,144 -> 657  (-2,487)
+  [recorded 19_202605301802.sl2]
+
+============================================================
+  SAVE DETECTED  18:02:51
+  Test6  |  Level 12  |  657 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 20_202605301803.sl2]
+
+============================================================
+  SAVE DETECTED  18:03:12
+  Test6  |  Level 12  |  657 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 21_202605301803.sl2]
+
+============================================================
+  SAVE DETECTED  18:03:16
+  Test6  |  Level 12  |  657 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 22_202605301803.sl2]
+
+============================================================
+  SAVE DETECTED  18:03:21
+  Test6  |  Level 12  |  657 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 23_202605301803.sl2]
+
+============================================================
+  SAVE DETECTED  18:03:35
+  Test6  |  Level 12  |  657 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 24_202605301803.sl2]
+
+============================================================
+  SAVE DETECTED  18:03:40
+  Test6  |  Level 12  |  657 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 25_202605301803.sl2]
+
+============================================================
+  SAVE DETECTED  18:03:44
+  Test6  |  Level 12  |  657 souls  |  High Wall of Lothric
+============================================================
+  Rested at High Wall of Lothric  (from Firelink Shrine)
+  [recorded 26_202605301805.sl2]
+
+============================================================
+  SAVE DETECTED  18:05:39
+  Test6  |  Level 12  |  657 souls  |  High Wall of Lothric
+============================================================
+  (no changes detected)
+  [recorded 27_202605301806.sl2]
+
+============================================================
+  SAVE DETECTED  18:06:05
+  Test6  |  Level 12  |  843 souls  |  High Wall of Lothric
+============================================================
+  Souls: 657 -> 843  (+186)
+  Got Soul of a Deserted Corpse
+  Talk to Emma - received Small Lothric Banner
+  Talk to Emma (secondary flag)
+  [recorded 28_202605301806.sl2]
+
+============================================================
+  SAVE DETECTED  18:06:52
+  Test6  |  Level 12  |  1,053 souls  |  High Wall of Lothric
+============================================================
+  Souls: 843 -> 1,053  (+210)
+  Got Soul of a Deserted Corpse
+  [recorded 29_202605301809.sl2]
+
+============================================================
+  SAVE DETECTED  18:09:01
+  Test6  |  Level 12  |  1,323 souls  |  High Wall of Lothric
+============================================================
+  Souls: 1,053 -> 1,323  (+270)
+  [recorded 30_202605301809.sl2]
+
+============================================================
+  SAVE DETECTED  18:09:10
+  Test6  |  Level 12  |  1,323 souls  |  High Wall of Lothric
+============================================================
+  (no changes detected)
+  [recorded 31_202605301809.sl2]
+
+============================================================
+  SAVE DETECTED  18:09:16
+  Test6  |  Level 12  |  1,323 souls  |  High Wall of Lothric
+============================================================
+  (no changes detected)
+  [recorded 32_202605301809.sl2]
+
+============================================================
+  SAVE DETECTED  18:09:25
+  Test6  |  Level 12  |  1,323 souls  |  High Wall of Lothric
+============================================================
+  (no changes detected)
+  [recorded 33_202605301809.sl2]
+
+============================================================
+  SAVE DETECTED  18:09:30
+  Test6  |  Level 12  |  1,323 souls  |  High Wall of Lothric
+============================================================
+  (no changes detected)
+  [recorded 34_202605301809.sl2]
+
+============================================================
+  SAVE DETECTED  18:09:33
+  Test6  |  Level 12  |  1,323 souls  |  Firelink Shrine
+============================================================
+  Rested at Firelink Shrine  (from High Wall of Lothric)
+  [recorded 35_202605301809.sl2]
+
+============================================================
+  SAVE DETECTED  18:09:49
+  Test6  |  Level 12  |  1,323 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 36_202605301809.sl2]
+
+============================================================
+  SAVE DETECTED  18:09:58
+  Test6  |  Level 13  |  285 souls  |  Firelink Shrine
+============================================================
+  Level up: 12 -> 13  (+1)
+  Souls: 1,323 -> 285  (-1,038)
+  [recorded 37_202605301810.sl2]
+
+============================================================
+  SAVE DETECTED  18:10:05
+  Test6  |  Level 13  |  285 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 38_202605301810.sl2]
+
+============================================================
+  SAVE DETECTED  18:10:09
+  Test6  |  Level 13  |  285 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 39_202605301810.sl2]
+
+============================================================
+  SAVE DETECTED  18:10:14
+  Test6  |  Level 13  |  285 souls  |  High Wall of Lothric
+============================================================
+  Rested at High Wall of Lothric  (from Firelink Shrine)
+  [recorded 40_202605301810.sl2]
+
+============================================================
+  SAVE DETECTED  18:10:52
+  Test6  |  Level 13  |  411 souls  |  High Wall of Lothric
+============================================================
+  Souls: 285 -> 411  (+126)
+  Got Soul of a Deserted Corpse
+  [recorded 41_202605301811.sl2]
+
+============================================================
+  SAVE DETECTED  18:11:14
+  Test6  |  Level 13  |  411 souls  |  High Wall of Lothric
+============================================================
+  Got Large Soul of a Deserted Corpse
+  Got Raw Gem
+  Talk to Emma - received Small Lothric Banner
+  Talk to Emma (secondary flag)
+  [recorded 42_202605301811.sl2]
+
+============================================================
+  SAVE DETECTED  18:11:31
+  Test6  |  Level 13  |  519 souls  |  High Wall of Lothric
+============================================================
+  Souls: 411 -> 519  (+108)
+  Got Black Firebomb x3
+  [recorded 43_202605301811.sl2]
+
+============================================================
+  SAVE DETECTED  18:11:53
+  Test6  |  Level 13  |  609 souls  |  High Wall of Lothric
+============================================================
+  Souls: 519 -> 609  (+90)
+  Got Throwing Knife x5
+  Talked to Hawkwood (secondary)
+  [recorded 44_202605301811.sl2]
+
+============================================================
+  SAVE DETECTED  18:11:58
+  Test6  |  Level 13  |  609 souls  |  High Wall of Lothric
+============================================================
+  Got Light Crossbow
+  [recorded 45_202605301812.sl2]
+
+============================================================
+  SAVE DETECTED  18:12:03
+  Test6  |  Level 13  |  609 souls  |  High Wall of Lothric
+============================================================
+  Got Undead Hunter Charm x2
+  Talked to Blacksmith Andre
+  Talked to Hawkwood
+  [recorded 46_202605301812.sl2]
+
+============================================================
+  SAVE DETECTED  18:12:26
+  Test6  |  Level 13  |  639 souls  |  High Wall of Lothric
+============================================================
+  Souls: 609 -> 639  (+30)
+  [recorded 47_202605301812.sl2]
+
+============================================================
+  SAVE DETECTED  18:12:33
+  Test6  |  Level 13  |  0 souls  |  High Wall of Lothric
+============================================================
+  Souls: 639 -> 0  (-639)
+  Talk to Emma (secondary flag)
+  [recorded 48_202605301812.sl2]
+
+============================================================
+  SAVE DETECTED  18:12:38
+  Test6  |  Level 13  |  0 souls  |  High Wall of Lothric
+============================================================
+  (no changes detected)
+  [recorded 49_202605301813.sl2]
+
+============================================================
+  SAVE DETECTED  18:13:10
+  Test6  |  Level 13  |  120 souls  |  High Wall of Lothric
+============================================================
+  Souls: 0 -> 120  (+120)
+  Got Steel Soldier Helm
+  [recorded 50_202605301813.sl2]
+
+============================================================
+  SAVE DETECTED  18:13:40
+  Test6  |  Level 13  |  288 souls  |  High Wall of Lothric
+============================================================
+  Souls: 120 -> 288  (+168)
+  Got Broken Straight Sword
+  [recorded 51_202605301813.sl2]
+
+============================================================
+  SAVE DETECTED  18:13:46
+  Test6  |  Level 13  |  927 souls  |  High Wall of Lothric
+============================================================
+  Souls: 288 -> 927  (+639)
+  [recorded 52_202605301813.sl2]
+
+============================================================
+  SAVE DETECTED  18:13:57
+  Test6  |  Level 13  |  927 souls  |  High Wall of Lothric
+============================================================
+  Got Green Blossom x2
+  [recorded 53_202605301814.sl2]
+
+============================================================
+  SAVE DETECTED  18:14:14
+  Test6  |  Level 13  |  957 souls  |  High Wall of Lothric
+============================================================
+  Souls: 927 -> 957  (+30)
+  Got Broadsword
+  [recorded 54_202605301814.sl2]
+
+============================================================
+  SAVE DETECTED  18:14:35
+  Test6  |  Level 13  |  957 souls  |  High Wall of Lothric
+============================================================
+  (no changes detected)
+  [recorded 55_202605301815.sl2]
+
+============================================================
+  SAVE DETECTED  18:15:15
+  Test6  |  Level 13  |  1,061 souls  |  High Wall of Lothric
+============================================================
+  Souls: 957 -> 1,061  (+104)
+  Got Estus Shard
+  Lost Black Firebomb x3
+  [recorded 56_202605301815.sl2]
+
+============================================================
+  SAVE DETECTED  18:15:42
+  Test6  |  Level 13  |  1,221 souls  |  High Wall of Lothric
+============================================================
+  Souls: 1,061 -> 1,221  (+160)
+  [recorded 57_202605301815.sl2]
+
+============================================================
+  SAVE DETECTED  18:15:49
+  Test6  |  Level 13  |  0 souls  |  High Wall of Lothric
+============================================================
+  Souls: 1,221 -> 0  (-1,221)
+  [recorded 58_202605301815.sl2]
+
+============================================================
+  SAVE DETECTED  18:15:53
+  Test6  |  Level 13  |  0 souls  |  High Wall of Lothric
+============================================================
+  (no changes detected)
+  [recorded 59_202605301816.sl2]
+
+============================================================
+  SAVE DETECTED  18:16:03
+  Test6  |  Level 13  |  0 souls  |  High Wall of Lothric
+============================================================
+  (no changes detected)
+  Session log saved to: C:\Users\user\Dev\dark-souls\DS3\play_simulator_save_files\play_01_auto\session_202605301756.log

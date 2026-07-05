@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+venv/
+.venv/
+.DS_Store
+.claude/settings.local.json
+
+# Save files: local test fixtures, never published (personal saves)
+*.sl2

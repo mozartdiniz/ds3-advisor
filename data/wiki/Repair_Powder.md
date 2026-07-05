@@ -1,0 +1,42 @@
+# Repair Powder
+
+**Repair Powder** is a [Consumable](/Consumables) in Dark Souls 3.
+
+### Repair Powder  
+  
+---  
+  
+
+> Lightly enchanted golden powder.  
+>   
+> Repairs equipped weapons and armor, as long as they haven't already broken.  
+>   
+> Use of a weapon depletes its durability, eventuallly causing it to break.  
+>   
+> As long as a weapon is not broken, its durability can be restored at a bonfire, but for distant journeys, one may wish to prepare ahead."   
+  
+### Repair Powder Usage
+
+  * Repairs equipped armor, weapons and shields.
+
+### Repair Powder Locations
+
+  * Sold by [Shrine Handmaid](/Shrine+Handmaid "Shrine Handmaid") for 600 souls
+  * Dropped by ??
+  * 2x Found at [Undead Settlement](/Undead+Settlement): Head left from the _Undead Settlement_ bonfire into a house. Go to the lower floor and head out into the balcony. On the right side corner of the balcony you will find them on a corpse by a wall. ()
+  * 4x Found in the [Farron Keep](/Farron+Keep "Farron Keep") swamp near the cave, in the [basilisk](/basilisk "basilisk") infested part beneath the keep ruins.
+  * 2x Found at [Cathedral of the Deep](/Cathedral+of+the+Deep "Cathedral of the Deep"), right next to the white birch outside the cathedral.
+
+### Notes
+
+  * Repair Powder restores durability, as long as the items have not fully broken (0 durability).
+  * Same effect as the [Repair](/Repair "Repair") sorcery spell, although the spell also repairs broken items.
+  * Durability in Dark Souls 3 is very high (and weapons almost never get broken) making this item almost useless.
+
+### Trivia
+
+  * Trivia goes here
+
+[Consumables](/Consumables)  
+---  
+[Alluring Skull](//darksouls3.wiki.fextralife.com/Alluring+Skull) ♦ [Ashen Estus Flask](//darksouls3.wiki.fextralife.com/Ashen+Estus+Flask) ♦ [Black Bug Pellet](//darksouls3.wiki.fextralife.com/Black+Bug+Pellet) ♦ [Black Eye Orb](//darksouls3.wiki.fextralife.com/Black+Eye+Orb) ♦ [Bloodred Moss Clump](//darksouls3.wiki.fextralife.com/Bloodred+Moss+Clump) ♦ [Blooming Purple Moss Clump](//darksouls3.wiki.fextralife.com/Blooming+Purple+Moss+Clump) ♦ [Blue Bug Pellet](//darksouls3.wiki.fextralife.com/Blue+Bug+Pellet) ♦ [Budding Green Blossom](//darksouls3.wiki.fextralife.com/Budding+Green+Blossom) ♦ [Carthus Rouge](//darksouls3.wiki.fextralife.com/Carthus+Rouge) ♦ [Charcoal Pine Resin](//darksouls3.wiki.fextralife.com/Charcoal Pine Resin) ♦ [Church Guardian Shiv](//darksouls3.wiki.fextralife.com/Church+Guardian+Shiv) ♦ [Cracked Red Eye Orb](//darksouls3.wiki.fextralife.com/Cracked+Red+Eye+Orb) ♦ [Divine Blessing](//darksouls3.wiki.fextralife.com/Divine+Blessing) ♦ [Divine Spear Fragment](//darksouls3.wiki.fextralife.com/Divine+Spear+Fragment) ♦ [Dragon Stone Torso](//darksouls3.wiki.fextralife.com/Dragon+Stone+Torso) ♦ [Dragon Torso Stone](//darksouls3.wiki.fextralife.com/Dragon+Torso+Stone) ♦ [Duel Charm](//darksouls3.wiki.fextralife.com/Duel+Charm) ♦ [Ember](//darksouls3.wiki.fextralife.com/Ember) ♦ [Estus Flask](//darksouls3.wiki.fextralife.com/Estus+Flask) ♦ [Estus Shard](//darksouls3.wiki.fextralife.com/Estus+Shard) ♦ [Filanore's Spear Ornament](//darksouls3.wiki.fextralife.com/Filanore's+Spear+Ornament) ♦ [Forked Pale Tongue](//darksouls3.wiki.fextralife.com/Forked+Pale+Tongue) ♦ [Gold Pine Bundle](//darksouls3.wiki.fextralife.com/Gold+Pine+Bundle) ♦ [Gold Pine Resin](//darksouls3.wiki.fextralife.com/Gold+Pine+Resin) ♦ [Green Blossom](//darksouls3.wiki.fextralife.com/Green+Blossom) ♦ [Hidden Blessing](//darksouls3.wiki.fextralife.com/Hidden+Blessing) ♦ [Homeward Bone](//darksouls3.wiki.fextralife.com/Homeward+Bone) ♦ [Human Pine Resin](//darksouls3.wiki.fextralife.com/Human+Pine+Resin) ♦ [Mossfruit](//darksouls3.wiki.fextralife.com/Mossfruit) ♦ [Pale Pine Resin](//darksouls3.wiki.fextralife.com/Pale+Pine+Resin) ♦ [Purging Stone](//darksouls3.wiki.fextralife.com/Purging+Stone) ♦ [Red Bug Pellet](//darksouls3.wiki.fextralife.com/Red+Bug+Pellet) ♦ [Rime-Blue Moss Clump](//darksouls3.wiki.fextralife.com/Rime-Blue+Moss+Clump) ♦ [Ritual Spear Fragment](//darksouls3.wiki.fextralife.com/Ritual+Spear+Fragment) ♦ [Rotten Pine Resin](//darksouls3.wiki.fextralife.com/Rotten+Pine+Resin) ♦ [Rusted Coin](//darksouls3.wiki.fextralife.com/Rusted+Coin) ♦ [Rusted Gold Coin](//darksouls3.wiki.fextralife.com/Rusted+Gold+Coin) ♦ [Siegbrau](//darksouls3.wiki.fextralife.com/Siegbrau) ♦ [Soul of a Nameless Soldier](//darksouls3.wiki.fextralife.com/Soul+of+a+Nameless+Soldier) ♦ [Twinkling Dragon Head Stone](//darksouls3.wiki.fextralife.com/Twinkling+Dragon+Head+Stone) ♦ [Undead Bone Shard](//darksouls3.wiki.fextralife.com/Undead+Bone+Shard) ♦ [Way of White Circlet](//darksouls3.wiki.fextralife.com/Way+of+White+Circlet) ♦ [Yellow Bug Pellet](//darksouls3.wiki.fextralife.com/Yellow+Bug+Pellet) ♦ [Young White Branch](//darksouls3.wiki.fextralife.com/Young+White+Branch)

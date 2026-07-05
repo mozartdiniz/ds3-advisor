@@ -1,0 +1,44 @@
+# Moaning Knight
+
+## Moaning Knight  
+  
+---  
+General Info  
+|  | Location | Drops  
+???? | 16,272 | [The Ringed City](/The+Ringed+City+\(Location\)) | [Blindfold Mask](/Blindfold+Mask)  
+  
+  
+**Moaning Knight** is an invading NPC in Dark Souls 3.
+
+## Moaning Knight Information
+
+  * Can be killed.
+  * Invades in the spiral tower protected by [Darkeater Midir](/Darkeater+Midir) known as the Shared Grave.
+  * He sadly doesn't actually moan.
+
+### Location
+
+  * The Moaning Knight appears in the Ringed City DLC area, near the Shared Grave bonfire. He is after the bridge protected by [Darkeater Midir](/Darkeater+Midir) inside the spiral tower. When entering the tower go left. You'll see a lizard. Going after the lizard will cause you to fall when the stairs collapse, where he will invade you shortly afterward. [Video Location](https://www.youtube.com/watch?v=LDT1DcX12a4)
+  * He will invade your world regardless of whether or not you are embered. If you decide to run from him, you will stand near the edge of the collapsed stairway. You can easily kill him from the other side with bows, firebombs, etc, which will likely be necessary since he'll prevent you from resting at the nearby bonfire. There are likewise multiple spots on the staircase where it is possible to knock him off with Wrath of The Gods, a backstab, or a kick, but beware as his weapon art can do the same.
+
+### Drops
+
+  * Souls: NG (16,272), NG+ (??), NG++ (??), NG+3 (??), NG+6 (??), NG+9 (??)
+  * [Blindfold Mask](/Blindfold+Mask)
+
+### Combat Information
+
+  * Use [Morne's Great Hammer](/Morne's+Great+Hammer) (RH) and [Moaning Shield](/Moaning+Shield) (LH).
+  * Weak to Lightning Damage.
+  * Should the fight enter the staircase, it would be wise to bring a spear class weapon or any weapon good for tight spots due to the narrowness.
+
+### 
+
+### Trivia
+
+  * Judging by his equipment, the Moaning Knight appears to be a Knight of Carim. However, since he possesses and is named after The [Moaning Shield](/Moaning+Shield), which is stated in its item description to be modeled on Eygon of Carim's sister, it is very likely Eygon, or perhaps another of his siblings.
+  * The mask that the Moaning Knight drops appeared in Dark Souls II previously as the [Black Witch Domino Mask](https://darksouls2.wiki.fextralife.com/Black+Witch+Domino+Mask), an item associated with Zullie the Witch, whose equipment can be found throughout the Ringed City and who is a phantom summoned by the Adjucator Giants.
+
+[NPCs](/NPCs)  
+---  
+[Alva, Seeker of the Spurned](//darksouls3.wiki.fextralife.com/Alva,+Seeker+of+the+Spurned) ♦ [Anri of Astora](//darksouls3.wiki.fextralife.com/Anri+of+Astora) ♦ [Archdeacon McDonnell](//darksouls3.wiki.fextralife.com/Archdeacon+McDonnell) ♦ [Black Hand Gotthard](//darksouls3.wiki.fextralife.com/Black+Hand+Gotthard) ♦ [Black Hand Kamui](//darksouls3.wiki.fextralife.com/Black+Hand+Kamui) ♦ [Blacksmith Andre](//darksouls3.wiki.fextralife.com/Blacksmith+Andre) ♦ [Company Captain Yorshka](//darksouls3.wiki.fextralife.com/Company+Captain+Yorshka) ♦ [Cornyx of the Great Swamp](//darksouls3.wiki.fextralife.com/Cornyx+of+the+Great+Swamp) ♦ [Corvian Settler](//darksouls3.wiki.fextralife.com/Corvian+Settler) ♦ [Creighton the Wanderer](//darksouls3.wiki.fextralife.com/Creighton+the+Wanderer) ♦ [Daughter of Crystal Kriemhild](//darksouls3.wiki.fextralife.com/Daughter+of+Crystal+Kriemhild) ♦ [Daughter of Crystal Kriemhild](//darksouls3.wiki.fextralife.com/Daughter+of Crystal+Kriemhild) ♦ [Emma](//darksouls3.wiki.fextralife.com/Emma) ♦ [Eygon of Carim](//darksouls3.wiki.fextralife.com/Eygon+of+Carim) ♦ [Filianore](//darksouls3.wiki.fextralife.com/Filianore) ♦ [Fire Keeper](//darksouls3.wiki.fextralife.com/Fire+Keeper) ♦ [Giant of the Undead Settlement](//darksouls3.wiki.fextralife.com/Giant+of+the+Undead+Settlement) ♦ [Great Swamp Cuculus](//darksouls3.wiki.fextralife.com/Great+Swamp+Cuculus) ♦ [Greirat of the Undead Settlement](//darksouls3.wiki.fextralife.com/Greirat+of+the+Undead+Settlement) ♦ [Hawkwood](//darksouls3.wiki.fextralife.com/Hawkwood) ♦ [Holy Knight Hodrick](//darksouls3.wiki.fextralife.com/Holy+Knight+Hodrick) ♦ [Horace the Hushed](//darksouls3.wiki.fextralife.com/Horace+the+Hushed) ♦ [Irina of Carim](//darksouls3.wiki.fextralife.com/Irina+of+Carim) ♦ [Jailer](//darksouls3.wiki.fextralife.com/Jailer) ♦ [Judicator Argo](//darksouls3.wiki.fextralife.com/Judicator+Argo) ♦ [Karla](//darksouls3.wiki.fextralife.com/Karla) ♦ [Knight Slayer Tsorig](//darksouls3.wiki.fextralife.com/Knight+Slayer+Tsorig) ♦ [Lapp](//darksouls3.wiki.fextralife.com/Lapp) ♦ [Leonhard](//darksouls3.wiki.fextralife.com/Leonhard) ♦ [Lion Knight Albert](//darksouls3.wiki.fextralife.com/Lion+Knight+Albert) ♦ [Livid Pyromancer Dunnel](//darksouls3.wiki.fextralife.com/Livid+Pyromancer+Dunnel) ♦ [Locust Preacher](//darksouls3.wiki.fextralife.com/Locust+Preacher) ♦ [Londor Pale Shade](//darksouls3.wiki.fextralife.com/Londor+Pale+Shade) ♦ [Longfinger Kirk](//darksouls3.wiki.fextralife.com/Longfinger+Kirk) ♦ [Lords of Cinder](//darksouls3.wiki.fextralife.com/Lords+of+Cinder) ♦ [Ludleth of Courland](//darksouls3.wiki.fextralife.com/Ludleth+of+Courland) ♦ [Old Wolf of Farron](//darksouls3.wiki.fextralife.com/Old+Wolf+of+Farron) ♦ [Orbeck of Vinheim](//darksouls3.wiki.fextralife.com/Orbeck+of+Vinheim) ♦ [Painting Woman](//darksouls3.wiki.fextralife.com/Painting+Woman) ♦ [Pickle Pee, Pump-a-Rum Crow](//darksouls3.wiki.fextralife.com/Pickle+Pee,+Pump-a-Rum+Crow) ♦ [Pilgrim from Londor](//darksouls3.wiki.fextralife.com/Pilgrim+from+Londor) ♦ [Ringed City Hollow](//darksouls3.wiki.fextralife.com/Ringed+City+Hollow) ♦ [Rosaria, Mother of Rebirth](//darksouls3.wiki.fextralife.com/Rosaria,+Mother+of+Rebirth) ♦ [Seeker of the Spurned](//darksouls3.wiki.fextralife.com/Seeker+of+the+Spurned) ♦ [Shira](//darksouls3.wiki.fextralife.com/Shira) ♦ [Shrine Handmaid](//darksouls3.wiki.fextralife.com/Shrine+Handmaid) ♦ [Silver Knight Ledo](//darksouls3.wiki.fextralife.com/Silver+Knight+Ledo) ♦ [Sir Vilhelm](//darksouls3.wiki.fextralife.com/Sir+Vilhelm) ♦ [Sirris of the Sunless Realms](//darksouls3.wiki.fextralife.com/Sirris+of+the+Sunless+Realms) ♦ [Slave Knight Gael](//darksouls3.wiki.fextralife.com/Slave+Knight+Gael) ♦ [Snuggly](//darksouls3.wiki.fextralife.com/Snuggly) ♦ [Stone-humped Hag](//darksouls3.wiki.fextralife.com/Stone-humped+Hag) ♦ [Sword Master](//darksouls3.wiki.fextralife.com/Sword+Master) ♦ [The Painter](//darksouls3.wiki.fextralife.com/The+Painter) ♦ [Unbreakable Patches](//darksouls3.wiki.fextralife.com/Unbreakable+Patches) ♦ [Velka the Goddess of Sin](//darksouls3.wiki.fextralife.com/Velka+the+Goddess+of+Sin) ♦ [Yellowfinger Heysel](//darksouls3.wiki.fextralife.com/Yellowfinger+Heysel) ♦ [Yoel of Londor](//darksouls3.wiki.fextralife.com/Yoel+of+Londor) ♦ [Yuria of Londor](//darksouls3.wiki.fextralife.com/Yuria+of+Londor)

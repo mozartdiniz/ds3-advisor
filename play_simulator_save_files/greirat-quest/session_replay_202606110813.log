@@ -1,0 +1,57 @@
+
+============================================================
+  DS3 Play Simulator - greirat-quest
+  5 saves  |  interval: 0.5s  |  slot: auto  |  log: session_replay_202606110813.log
+============================================================
+  [auto-detected slot 5 (changed between saves 1 and 2)]
+
+------------------------------------------------------------
+  Step 01:   cell key in hand cell not yet opened
+  Greirat  |  Level 107  |  32,441 souls  |  Firelink Shrine
+------------------------------------------------------------
+  Rested at Firelink Shrine
+
+  [waiting 0.5s...]
+
+------------------------------------------------------------
+  Step 02:   greirat freed BTR received
+  Greirat  |  Level 107  |  32,593 souls  |  Firelink Shrine
+------------------------------------------------------------
+  Souls: 32,441 -> 32,593  (+152)
+  Got Black Firebomb x3
+  Got Blue Tearstone Ring
+
+  [waiting 0.5s...]
+
+------------------------------------------------------------
+  Step 03:   DS30000
+  Greirat  |  Level 107  |  32,593 souls  |  Firelink Shrine
+------------------------------------------------------------
+  (no changes detected)
+
+  [waiting 0.5s...]
+
+------------------------------------------------------------
+  Step 04:   loretta bone in inventory
+  Greirat  |  Level 107  |  36,425 souls  |  Firelink Shrine
+------------------------------------------------------------
+  Souls: 32,593 -> 36,425  (+3,832)
+  Got Loretta's Bone
+  Got Small Lothric Banner
+  Got Soul of Boreal Valley Vordt
+  Killed Vordt of the Boreal Valley
+  Got Soul of a Deserted Corpse
+  Got Way of Blue
+
+  [waiting 0.5s...]
+
+------------------------------------------------------------
+  Step 05:   Loretta Bone given
+  Greirat  |  Level 107  |  36,425 souls  |  Firelink Shrine
+------------------------------------------------------------
+  Lost Loretta's Bone
+
+============================================================
+  Done - 5 saves processed
+============================================================
+  Log saved to: C:\Users\user\Dev\dark-souls\DS3\play_simulator_save_files\greirat-quest\session_replay_202606110813.log

@@ -1,0 +1,7 @@
+ID,Name,isUseOption,pad1,
+80,Front unprotected directing camera,1,[0|0|0|0|0|0|0|0|0|0|0|0|0|0|0]
+81,Front unprotected production camera (pull out),1,[0|0|0|0|0|0|0|0|0|0|0|0|0|0|0]
+82,Front unprotected production camera (for mallet thrown),1,[0|0|0|0|0|0|0|0|0|0|0|0|0|0|0]
+83,Front unprotected production camera (for large sword),1,[0|0|0|0|0|0|0|0|0|0|0|0|0|0|0]
+90,Rear unprotected directing camera,1,[0|0|0|0|0|0|0|0|0|0|0|0|0|0|0]
+92,Rear unprotected directing camera (for Mallet),1,[0|0|0|0|0|0|0|0|0|0|0|0|0|0|0]

@@ -1,0 +1,1493 @@
+﻿# Dark Souls 3 - CSV Data Tables
+
+> **CONTEXT FOR AI:** All tables in this file are exclusively about **Dark Souls 3**.
+
+---
+
+== [DS3] achievements ==
+
+Icon and Title,Description,Quality
+The Dark Soul,Complete all achievements.,
+To Link the First Flame,"Reach ""To Link the First Flame"" ending.",
+The End of Fire,"Reach ""The End of Fire"" ending.",
+The Usurpation of Fire,"Reach ""The Usurpation of Fire"" ending.",
+Lords of Cinder: Abyss Watchers,"Defeat the Abyss Watchers, Lords of Cinder.",
+Lord of Cinder: Yhorm the Giant,"Defeat Yhorm the Giant, Lord of Cinder.",
+"Lord of Cinder: Aldrich, Devourer of Gods","Defeat Aldritch, Devourer of Gods, Lord of Cinder.",
+"Lord of Cinder: Lothric, Younger Prince","Defeat Lothric, Younger Prince, Lord of Cinder.",
+Supreme Weapon Reinforcement,Reinforce any weapon to the highest level.,
+Master of Infusion,Perform all forms of infusion.,
+Master of Sorceries,Acquire all sorceries.,
+Master of Pyromancies,Acquire all pyromancies.,
+Master of Miracles,Acquire all miracles.,
+Master of Rings,Acquire all rings.,
+Master of Expression,Learn all gestures.,
+Ultimate Bonfire,Reinforce a bonfire to the highest level.,
+Ultimate Estus,Reinforce the Estus Flask to the highest level.,
+Covenant: Warrior of Sunlight,Discover Warrior of Sunlight covenant.,
+Covenant: Way of Blue,Discover Way of Blue covenant.,
+Covenant: Blue Sentinels,Discover Blue Sentinels covenant.,
+Covenant: Blade of the Darkmoon,Discover Blade of the Darkmoon covenant.,
+Covenant: Rosaria's Fingers,Discover Rosaria's Fingers covenant.,
+Covenant: Mound-makers,Discover Mound-makers covenant.,
+Covenant: Watchdogs of Farron,Discover Watchdogs of Farron covenant.,
+Covenant: Aldritch Faithful,Discover Aldritch Faithful covenant.,
+Untended Graves,Reach the Untended Graves.,
+Archdragon Peak,Reach Archdragon Peak.,
+Iudex Gundyr,"Defeat ""Heir of Fire"" Iudex Gundyr",
+Vordt of the Boreal Valley,Defeat Vordt of the Boreal Valley.,
+Curse-rotted Greatwood,Defeat the Curse-rotted Greatwood.,
+Crystal Sage,Defeat Crystal Sage.,
+Deacons of the Deep,Defeat the Deacons of the Deep.,
+High Lord Wolnir,Defeat High Lord Wolnir.,
+Pontiff Sulyvahn,Defeat Pontiff Sulyvahn.,
+Dancer of the Boreal Valley,Defeat Dancer of the Boreal Valley.,
+Dragonslayer Armour,Defeat Dragonslayer Armour.,
+Old Demon King,Defeat Old Demon King.,
+"Oceiros, the Consumed King","Defeat Oceiros, the Consumed King.",
+Champion Gundyr,Defeat Champion Gundyr.,
+Ancient Wyvern,Defeat Ancient Wyvern.,
+The Nameless King,Defeat Nameless King.,
+Enkindle,Light a bonfire flame for the first time.,
+Embrace the Flame,Become a Host of Embers for the first time.,
+
+
+== [DS3] ammunition ==
+
+Name & Icon,Usage,DamageDealt,Cost,Location
+Standard Bolt,Ammo for Crossbows.Standard bolts.,48p,30 Souls,Greirat of the Undead Settlement
+Exploding Bolt,Ammo for Crossbows.Bolts that explode on impact. Deals area fire damage in the immediate vicinity.,140f,300 Souls,Shrine Handmaid (With Greirat's Ashes)
+Wood Bolt,Ammo for Crossbows.Weaker bolts that can be easily purchased in bulk.,38p,10 Souls,Shrine Handmaid
+Heavy Bolt,Ammo for Crossbows.More powerful but have shorter range due to their weight.,64p,100 Souls,Greirat of the Undead Settlement (After 1st Expedition)
+Lightning Bolt,Ammo for Crossbows.Bolts imbued with Lightning damage.,110l,300 Souls,Greirat of the Undead Settlement (After 2nd Expedition)
+Sniper Bolt,Ammo for Crossbows.Their long range makes them ideal for distant targets.,53p,150 Souls,Greirat of the Undead Settlement (After 1st Expedition)
+Splintering Bolt,"Ammo for Crossbows.Bolts that explode immediately after being shot, causing immense Bleeding.",20p7 bl,280 Souls,Shrine Handmaid (With Greirat's Ashes)
+Standard Arrow,Ammo for Bows.Standard arrows used with bows.,45p,10 Souls,Greirat of the Undead Settlement
+Wood Arrow,Ammo for Bows.Weaker arrows that can be easily purchased in bulk.,30p,5 Souls,Shrine Handmaid
+Fire Arrow,Ammo for Bows.Arrows with burning tips to deal fire damage.,25p40f,100 Souls,Greirat of the Undead Settlement
+Poison Arrow,Ammo for Bows.Inflict poison damage that gradually wears down foes.,10p30po,120 Souls,Unbreakable Patches Shrine Handmaid (After given Patches' Ashes)
+Moonlight Arrow,Ammo for Bows.Arrows that inflict Magic damage.,75m,500 Souls,Greirat of the Undead Settlement (After 2nd Expedition)
+Dark Arrow,Ammo for Bows.Arrows that inflict Dark damage. Has homing properties.,65d,200 souls,Shrine Handmaid (with Easterner's Ashes )
+Feather Arrow,Ammo for Bows.Their long range makes them ideal for distant targets.,40p,100 Souls,Shrine Handmaid (With Dreamchaser Ashes)
+Large Arrow,"Ammo for Bows.More powerful arrows, but with a shorter range due to their weight.",55p,50 Souls,Greirat of the Undead Settlement (After 1st Expedition)
+Dragonslayer Lightning Arrow,Ammo for Greatbows.Inflicts Lightning damage.,90l,750 Souls,Greirat of the Undead Settlement (After 2nd Expedition)
+Dragonslayer Greatarrow,Ammo for Greatbows.Easily pierces human flesh.,90p,500 Souls,Greirat of the Undead Settlement (After 2nd Expedition)
+Onislayer Greatarrow,Ammo for Greatbows.Used to destroy giant horned oni. Very accurate.,60p,600 Souls,Shrine Handmaid (With Easterner's Ashes )
+Millwood Greatarrow,Ammo for Greatbows,97p,800 Souls,Shrine Handmaid (With Captain's Ashes)
+
+
+== [DS3] ashes ==
+
+Name & Icon,Usage,Location
+Greirat's Ashes,"Unlocks Bloodred Moss Clump, Throwing Knife, Rope Firebomb, Bandit’s Knife, Longsword, Bastard Sword, Mace, Spear, Light Crossbow, Buckler, Elkhorn Round Shield, Round Shield, Kite Shield, Leather Armor, Leather Gloves, Leather Boots, Standard Helm, Hard Leather Armor Set, Chain Helm, Chain Armor, Thief Mask, Fire Arrow and Standard Bolt from the Shrine Handmaid. Also adds 6 Embers.","Kill Greirat, or loot off his body if he dies while scavenging"
+Irina's Ashes,"Unlocks Heal, Caressing Tears, Homeward, Replenishment, and Saint's Ring at the Shrine Handmaid",Kill Irina
+Yuria's Ashes,"Unlocks Purging Stone, Poison Throwing Knife, Londor Braille Divine Tome, Dark Hand, Untrue Dark Ring, Untrue White Ring and Ring of Sacrifice at the Shrine Handmaid",Kill Yuria
+Mortician's Ashes,"Unlocks Charcoal Pine Resin, Charcoal Pine Bundle and Grave Key from Shrine Handmaid. Also adds 3 Embers.","Undead Settlement, Dilapidated Bridge bonfire, by the White Birch tree fired upon by the Giant Archer."
+Grave Warden's Ashes,"Unlocks Yellow Bug Pellet, Carthus Rouge, Kukri and Titanite Shards from Shrine Handmaid. Also adds 3 Embers.",Catacombs of Carthus
+Paladin's Ashes,"Unlocks Undead Hunter Charm, Duel Charm, Morning Star, Crescent Axe, Canvas Talisman and Lloyd's Shield Ring from the Shrine Handmaid","Cathedral of the Deep, follow left path to a dead end, on a corpse behind enemy"
+Excrement-covered Ashes,"Unlocks Blue Bug Pellet, Blooming Purple Moss Clump and Dung Pie from the Shrine Handmaid","Irithyll of the Boreal Valley, in the sewers with the Sewer Centipede, in a short dead-end alcove"
+Xanthous Ashes,"Unlocks the Xanthous Set, Gold Pine Resin, Gold Pine Bundles, and Young White Branch at the Shrine Handmaid","Irithyll Dungeon, in a cell at the bottom being guarded by enemies"
+Dreamchaser's Ashes,"Unlocks Hidden Blessing, Green Blossom, Black Bug Pellet, Gold Pine Resin, Gold Pine Bundle, Rotten Pine Resin, Titanite Shards, Composite Bow, Feather Arrow and Life Ring at the Shrine Handmaid",Behind an illusory wall near the Watchdogs of Farron covenant location
+Prisoner Chief's Ashes,"Unlocks Rime-Blue Moss Clump, Pale Pine Resin and Karla's Set at the Shrine Handmaid","Irithyll Dungeon, from bonfire, drop down, cell on the right"
+Dragon Chaser's Ashes,"Unlocks Mossfruit, Titanite Chunk, Twinkling Titanite and Titanite Scale at the Shrine Handmaid","Archdragon Peak, on the path to where you get the twinkling dragon body stone, on a hidden ledge on the left side"
+Karla's Ashes,"Unlocks her shop items, Affinity and Dark Edge at the Shrine Handmaid",Kill Karla
+Cornyx's Ashes,"Unlocks Fireball, Fire Surge, Great Combustion, Poison Mist, Flash Sweat and Pyromancer Set at the Shrine Handmaid",Kill Cornyx of the Great Swamp
+Easterner's Ashes,"Unlocks Large Titanite Shard, Washing Pole, Dark Arrow, Onislayer Greatarrow, Eastern Armor Set and Eastern Shield at the Shrine Handmaid","Irithyll of the Boreal Valley, corpse on the roof where the archer enemies are"
+Patches' Ashes,"Unlocks Red Bug Pellet, Black Firebomb, Rope Black Firebomb, Human Pine Resin, Alluring Skull, Rusted Coin, Rubbish, Parrying Dagger, Shotel, Winged Spear, Poison Arrow and Black Leather Set at the Shrine Handmaid.",Kill Unbreakable Patches
+Hollow's Ashes,"Unlocks Purging Stone, Poison Throwing Knife, and Ring of Sacrifice (x3) at the Shrine Handmaid.","Dark Firelink Shrine, on a corpse in the corner Yoel of Londer normally resides. Or kill Yoel."
+Orbeck's Ashes,"Unlocks Great Soul Arrow, Heavy Soul Arrow, Great Heavy Soul Arrow, Soul Greatsword, Farron Flashsword, Magic Weapon, Magic Shield, Spook and Aural Decoy at the Shrine Handmaid. Or you can give his ashes to Yuria to be rewarded with Morion Blade.","Kill Orbeck of Vinheim Alternatively, find all scrolls (such as Sage's Scroll) and give them to Orbeck. Upon buying all sorceries, exhausting all dialogue and reloading the shrine, his ashes can be found in the Grand Archives."
+Captain's Ashes,"Unlocks Millwood Set, Millwood Greatarrow",On a corpse on top of the tower in Painted World of Ariandel
+Old Woman's Ashes,"Unlocks Rusted Coin and Splitleaf Greatsword for purchase at the Shrine Handmaid, also adds 1 Divine Blessing, 1 Hidden Blessing, 5 Ember, and 3 Rusted Gold Coin to the Shrine Handmaid's inventory",Looted from the corpse of the pilgrim near the Dreg Heap bonfire. You can obtain this by killing her yourself or she will die naturally if you complete The Ringed City and you can return to where she was to pick up the ashes.
+
+
+== [DS3] axes ==
+
+Name & Icon,Attack PowerDamage Reduction (%),Requirements Param Bonus,Durability / Weight - Attack Type - Skill,Physical ATK,col_5,col_6,col_7,col_8,Critical,col_10,Strength,Dexterity,Intelligence,Faith,Durability,Skill,Acquired From
+Battle Axe,125 45,0 30,0 25,0 25,0 30,100 30,-,12 D,8 D,0 -,0 -,80 4.0,20 ( -/ -) Warcry,Warrior starting weapon/Looted from a mimic at High Wall of Lothric(Deep Infused).,,,
+Hand Axe,110 45,0 30,0 25,0 25,0 30,100 30,-,9 D,8 D,0 -,0 -,60 2.5,20( -/ -) Warcry,Pyromancer starting weapon/ Looted at Undead Settlement,,,
+Thrall Axe,104 40,0 30,0 25,0 25,0 30,100 30,-,8 D,8 D,0 -,0 -,55 1.5,5 (-/-) Quickstep,Dropped from Thralls,,,
+Dragonslayer's Axe,90 45,0 30,0 25,90 25,0 30,100 30,-,18 D,14 E,0 -,0 -,70 4.0,20 ( -/ -) Warcry,Dropped by Creighton the Wanderer,,,
+Butcher Knife,95 60,0 40,0 30,0 30,0 40,100 35,-,24 A,0 -,0 -,0 -,75 7.0,18( -/ -) Sharpen,Dropped by enemy wielding it at Road of Sacrifices,,,
+Brigand Axe,124 45,0 30,0 25,0 25,0 30,100 30,-,14 D,8 D,0 -,0 -,75 3.0,20( -/ -) Warcry,Looted at Road of Sacrifices,,,
+Winged Knight Twinaxes,122 45,0 30,0 25,0 25,0 30,100 35,-,20 D,12 D,0 -,0 -,80 8.5,8 (-/17) Chain Spin,Dropped by Winged Knights,,,
+Eleonora,156 55,0 40,0 30,0 30,0 40,100 35,-,20 D,8 E,0 -,0 -,90 6.5,24 ( -/ -) Feast Bell,Dropped by hand-like enemy at Profaned Capital,,,
+Man Serpent Hatchet,125 45,0 30,0 25,0 25,0 30,100 30,-,16 D,13 D,0 -,0 -,80 4.0,20 ( -/ -) Warcry,Dropped by Man-Serpents,,,
+Millwood Battle Axe,135 45,0 30,0 25,0 25,0 30,100 35,-,15 C,10 E,0 -,0 -,80 6.5,20 ( -/ -) Warcry,Ashes of Ariandel DLC: Looted from a corpse in the tower.,,,
+
+
+== [DS3] boss_soul_weapons ==
+
+Icon & Name,Boss Soul Required,Cost
+Hollowslayer Greatsword,Soul of Rotted Greatwood,1000
+Arstor's Spear,Soul of Rotted Greatwood,1000
+Vordt's Great Hammer,Soul of Boreal Valley Vordt,0
+Crystal Sage's Rapier,Soul of a Crystal Sage,0
+Farron Greatsword,Soul of the Blood of the Wolf,0
+Wolf Knight's Greatsword,Soul of the Blood of the Wolf,10000
+Dancer's Enchanted Swords,Soul of the Dancer,0
+Wolnir's Holy Sword,Soul of High Lord Wolnir,0
+Demon's Greataxe,Soul of a Demon,0
+Demon's Fist,Soul of a Demon,0
+Old King's Great Hammer,Soul of the Old Demon King,0
+Greatsword of Judgement,Soul of Pontiff Sulyvahn,"3,000"
+Profaned Greatsword,Soul of Pontiff Sulyvahn,"3,000"
+Yhorm's Great Machete,Soul of Yhorm the Giant,0
+Cleric's Candlestick,Soul of the Deacons of the Deep,0
+Dragonslayer Greataxe,Soul of Dragonslayer Armour,0
+Moonlight Greatsword,Soul of Consumed Oceiros,10000
+Gundyr's Halberd,Soul of Champion Gundyr,0
+Lothric's Holy Sword,Soul of the Twin Princes,"5,000"
+Lorian's Greatsword,Soul of the Twin Princes,0
+Twin Princes' Greatsword,Lorian's Greatsword + Lothric's Holy Sword,
+Storm Curved Sword,Soul of the Nameless King,5000
+Dragonslayer Swordspear,Soul of the Nameless King,10000
+Firelink Greatsword,Soul of the Lords,15000
+Friede's Great Scythe,Soul of Sister Friede,10000
+Rose of Ariandel,Soul of Sister Friede,3000
+Valorheart,Drop from Champion's Gravetender & Gravetender Greatwolf boss fight,
+Demon's Scar,Soul of the Demon Prince,"10,000"
+Frayed Blade,Soul of Darkeater Midir,"5,000"
+Gael's Greatsword,Soul of Slave Knight Gael,"20,000"
+Crystal Hail,Soul of a Crystal Sage,"1,500"
+Deep Soul,Soul of the Deacons of the Deep,0
+Black Serpent,Soul of High Lord Wolnir,0
+Chaos Bed Vestiges,Soul of the Old Demon King,"5,000"
+Lifehunt Scythe,Soul of Aldrich,"5,000"
+Soothing Sunlight,Soul of the Dancer,"5,000"
+White Dragon Breath,Soul of Consumed Oceiros,"10,000"
+Lightning Storm,Soul of the Nameless King,"5,000"
+Sunlight Spear,Soul of the Lords,"10,000"
+Seething Chaos,Soul of the Demon Prince,"10,000"
+Old Moonlight,Soul of Darkeater Midir,"15,000"
+Darkmoon Longbow,Soul of Aldrich,"5,000"
+Repeating Crossbow,Soul of Slave Knight Gael,"5,000"
+Yhorm's Greatshield,Soul of Yhorm the Giant,0
+Dragonslayer Greatshield,Soul of Dragonslayer Armour,0
+
+
+== [DS3] boss_souls ==
+
+Soul,Item 1,Item 2,Item 3,Souls Gained If Consumed
+Soul of Boreal Valley Vordt,Vordt's Great Hammer (0 Souls),Pontiff's Left Eye (0 Souls),-,"2,000"
+Soul of the Rotted Greatwood,"Hollowslayer Greatsword (1,000 Souls)","Arstor's Spear (1,000 Souls)",-,"3,000"
+Soul of a Crystal Sage,"Crystal Sage's Rapier (1,500 Souls)","Crystal Hail (1,500 Souls)",-,"3,000"
+Soul of the Blood of the Wolf,Farron Greatsword (0 Souls),"Wolf Knight's Greatsword (10,000 Souls)",-,"20,000"
+Soul of Rosaria,Bountiful Sunlight (0 Souls),-,-,"5,000"
+Soul of the Deacons of the Deep,Deep Soul (0 Souls),Cleric's Candlestick (0 Souls),-,"20,000"
+Soul of High Lord Wolnir,Wolnir's Holy Sword (0 Souls),Black Serpent (0 Souls),-,"10,000"
+Soul of the Old Demon King,"Chaos Bed Vestiges (5,000 Souls)",Old King's Great Hammer (0 Souls),-,"10,000"
+Soul of a Demon,Demon's Greataxe (0 Souls),Demon's Fist (0 Souls),-,"20,000"
+Soul of Pontiff Sulyvahn,"Greatsword of Judgment (3,000 Souls)","Profaned Greatsword (3,000 Souls)",-,"12,000"
+Soul of Yhorm the Giant,Yhorm's Great Machete (0 Souls),Yhorm's Greatshield (0 Souls),-,"20,000"
+Soul of Aldrich,"Lifehunt Scythe (5,000 Souls)","Darkmoon Longbow (5,000 Souls)",-,"15,000"
+Soul of the Dancer,"Soothing Sunlight (5,000 Souls)",Dancer's Enchanted Swords (0 Souls),-,"10,000"
+Soul of Dragonslayer Armour,Dragonslayer Greataxe (0 Souls),Dragonslayer Greatshield ( 0 Souls),-,"15,000"
+Soul of Consumed Oceiros,"White Dragon Breath (10,000 souls)","Moonlight Greatsword (10,000 souls)",-,"12,000"
+Soul of Champion Gundyr,Gundyr's Halberd (0 Souls),Prisoner's Chain (0 Souls),-,"20,000"
+Soul of the Twin Princes,"Lothric's Holy Sword (5,000 Souls)",Lorian's Greatsword (0 Souls),-,"20,000"
+Soul of the Nameless King,"Storm Curved Sword (5,000 Souls)","Dragonslayer Swordspear (10,000 Souls)","Lightning Storm (5,000 Souls)","16,000"
+Soul of a Stray Demon,"Havel's Ring (5,000 Souls)",Boulder Heave (0 Souls),-,"20,000"
+Soul of the Lords,"Sunlight Spear (10,000 Souls)","Firelink Greatsword (15,000 Souls)",-,"20,000"
+Soul of Sister Friede,"Friede's Great Scythe (10,000 Souls)","Rose of Ariandel (3,000 Souls)",-,"20,000"
+Soul of the Demon Prince,"Seething Chaos (10,000 Souls)","Demon's Scar (10,000 Souls)",-,"20,000"
+Soul of Darkeater Midir,"Frayed Blade (5,000 Souls)","Old Moonlight (15,000 Souls)",-,"20,000"
+Soul of Slave Knight Gael,"Gael's Greatsword (20,000 Souls)","Repeating Crossbow (5,000 Souls)",-,"20,000"
+
+
+== [DS3] bows ==
+
+Name & Icon,Attack PowerDamage Reduction (%),RequirementsParam Bonus,Durability / Weight - Attack Type - Skill - Range,Physical ATK,col_5,col_6,col_7,col_8,Critical,col_10,Strength,Dexterity,Intelligence,Faith,col_15,Durability,Skill,Acquired From
+Short Bow,77 -,- -,- -,- -,- -,100 -,- - -,7 E,12 D,- -,- -,42,40 2.0,-(4/4) Rapid Fire,Starting Equipment: Thief Buy: Merchant Greirat's expanded inventory,,,
+Longbow,82 -,- -,- -,- -,- -,100 -,- - -,9 E,14 D,- -,- -,50,50 4.0,-(9/9) Puncture,High Wall of Lothric,,,
+Black Bow of Pharis,67 -,- -,- -,- -,- -,100 63,- - -,9 E,18 C,- -,- -,63,65 3.0,-(7/7) Pharis Triple-Shot,"Dropped by Elder Ghru, Farron Keep. There are 3 around a soul to the left of the second bonfire in this area. One of them drops it",,,
+Dragonrider Bow,110 -,- -,- -,- -,- -,100 63,- - -,19 D,15 E,- -,- -,50,75 6.5,-(9/9) Puncture,Smouldering Lake,,,
+Composite Bow,73 -,- -,- -,- -,- -,100 42,- - -,12 D,12 D,- -,- -,42,65 3.5,-(4/4) Rapid Fire,"Bought from the Shrine Handmaid for 3,500 souls after giving her the Dreamchaser's Ashes.",,,
+Darkmoon Longbow,36 -,44 -,- -,- -,- -,100 50,- - -,7 -,16 E,10 C,- -,50,50 4.5,-(10/10) Darkmoon Arrow,Soul Transposition using Soul of Aldrich,,,
+White Birch Bow,82 -,- -,- -,- -,- -,100 -,- -,8 E,20 D,- -,- -,49,50 2.5,-(6/6) Unseen Arrow,The Ringed City - Found on the swamp's cliffside past the Inner Wall area.,,,
+
+
+== [DS3] chest_armor ==
+
+Name & Icon,Physical Def,Strength,Slash Def,Thrust Def,Magic Def,Fire Def,Lightning Def,Dark Def,Bleed Res,Poison Res,Curse Res,Poise,Weight,Durability
+Hard Leather Armor,10.3,59,10.3,10.3,8.7,9.4,7.0,8.7,47,64,52,6.8,8.3,280
+Brigand Armor,9.0,57,9.0,9.0,5.9,7.3,8.2,5.9,37,59,37,2.9,4.8,250
+Mirrah Vest,10.5,54,8.2,8.2,10.6,9.9,12.8,9.9,54,64,60,4.2,7.0,270
+Chain Armor,11.1,33,13.2,10.0,8.3,6.6,4.2,9.0,63,33,22,6.8,8.8,350
+Northern Armor,12.6,64,12.1,11.6,7.7,11.1,4.4,6.8,60,38,27,10.7,10.6,370
+Mirrah Chain Mail,12.7,37,14.9,10.5,11.7,11.2,7.4,9.1,51,33,26,11.3,10.4,370
+Armor of the Sun,11.2,31,10.9,11.2,10.5,10.5,9.8,10.5,37,28,26,10.3,8.6,350
+Sellsword Armor,12.2,35,12.2,12.2,11.1,9.1,7.3,10.5,59,39,26,11.5,10.6,370
+Drang Armor,9.3,66,7.7,5.5,9.7,7.5,10.9,9.7,42,62,45,0.8,5.1,250
+Undead Legion Armor,10.4,65,5.9,9.0,12.6,13.0,13.2,10.4,39,51,42,4.9,7.6,280
+Herald Armor,12.4,36,12.9,11.9,9.2,8.4,3.8,8.4,52,30,19,9.5,8.6,350
+Knight Armor,13.1,38,13.0,12.4,7.6,11.0,6.7,8.4,45,36,24,12.4,10.6,360
+Nameless Knight Armor,11.7,35,12.7,11.1,7.6,11.0,8.4,7.6,61,38,21,8.7,9.3,360
+Fallen Knight Armor,12.7,39,10.0,11.1,8.3,12.5,10.4,9.0,43,28,22,8.7,9.2,360
+Elite Knight Armor,12.1,33,12.1,11.1,9.2,10.6,6.8,8.5,46,32,18,8.8,8.9,350
+Alva Armor,12.4,37,12.4,11.4,9.5,11.4,9.5,10.9,59,35,21,11.0,9.0,360
+Drakeblood Armor,14.2,46,16.9,13.6,13.2,12.6,11.6,11.6,78,43,33,16.4,13.9,410
+Faraam Armor,13.9,60,13.9,12.8,10.7,12.2,11.2,11.2,59,40,27,17.3,12.7,400
+Sunset Armor,14.3,39,15.6,14.3,9.8,11.7,9.1,11.2,63,58,42,16.5,13.3,400
+Sunless Armor,11.7,33,12.2,11.7,11.2,9.8,6.0,11.7,43,25,37,8.5,9.2,360
+Brass Armor,13.3,36,13.3,11.8,13.6,10.0,6.9,10.0,60,33,27,9.9,10.5,370
+Embraced Armor of Favor,13.2,51,13.2,13.7,11.1,11.6,8.5,11.6,63,46,35,18.3,12.8,400
+Eastern Armor,12.6,43,16.9,11.5,7.6,11.5,5.3,6.7,87,37,25,12.6,10.8,370
+Armor of Thorns,11.0,33,14.2,11.5,7.3,7.3,7.3,5.9,66,27,22,7.5,8.5,350
+Catarina Armor,18.3,57,18.5,17.5,11.9,12.9,15.0,13.3,74,57,33,23.8,17.1,460
+Morne's Armor,17.4,60,17.4,16.6,13.9,13.6,13.3,9.3,67,39,37,20.6,15.5,450
+Lothric Knight Armor,16.0,58,18.4,15.3,12.6,13.8,10.2,11.9,75,43,34,20.8,15.0,430
+Cathedral Knight Armor,17.8,62,15.6,18.8,14.8,13.6,14.4,12.7,66,62,47,23.6,17.0,470
+Winged Knight Armor,17.5,68,17.5,16.8,14.3,14.0,15.0,16.7,73,60,45,24.9,18.2,480
+Outrider Knight Armor,14.4,91,13.8,13.8,9.7,11.4,9.7,7.5,50,43,22,12.5,12.0,380
+Pontiff Knight Armor,9.3,81,9.3,8.6,12.9,9.3,11.9,13.3,40,36,29,6.0,7.3,280
+Fire Witch Armor,13.2,36,10.6,10.6,12.1,12.3,8.5,11.1,47,34,27,9.8,10.9,370
+Dancer's Armor,10.5,55,12.2,11.7,8.3,6.0,9.1,9.8,41,33,22,6.7,7.3,280
+Dark Armor,12.6,33,11.6,11.1,9.2,7.7,4.4,9.2,38,30,14,8.8,9.1,350
+Black Knight Armor,15.8,39,14.4,13.8,11.0,14.1,10.5,12.0,58,42,39,15.8,13.4,410
+Silver Knight Armor,14.3,50,17.0,16.3,13.1,12.9,11.9,11.9,65,55,39,19.9,14.4,420
+Dragonslayer Armor,15.6,43,17.0,17.0,12.9,13.8,13.8,10.7,64,40,36,19.1,13.8,420
+Wolf Knight Armor,11.8,33,11.8,11.8,7.8,11.2,5.5,10.0,46,32,33,8.0,9.0,360
+Smough's Armor,18.8,69,18.3,16.0,13.3,13.0,13.8,13.1,69,69,62,27.1,23.0,500
+Lorian's Armor,16.6,61,16.6,15.9,13.3,11.2,11.2,13.6,67,41,50,18.4,14.7,420
+Dragonscale Armor,14.9,46,14.3,12.2,10.6,13.7,7.5,10.6,62,43,28,16.6,12.4,380
+Firelink Armor,11.9,43,12.9,10.2,6.9,10.7,5.5,5.5,47,30,19,8.9,8.6,350
+Black Iron Armor,18.1,57,18.1,18.1,12.2,15.8,11.5,12.2,65,51,35,20.9,15.8,460
+Executioner Armor,18.3,61,17.5,18.3,13.5,14.5,11.4,13.3,65,58,42,21.4,16.0,460
+Exile Armor,18.2,62,16.6,15.9,12.4,14.3,12.6,13.1,97,74,50,23.1,17.3,470
+Gundyr's Armor,16.9,62,19.7,16.2,13.2,13.7,13.0,13.2,86,62,62,24.6,17.2,470
+Havel's Armor,18.5,69,18.4,17.5,14.1,16.2,12.8,14.1,72,69,61,27.4,21.6,500
+Assassin Armor,8.6,47,8.6,9.3,10.4,11.4,10.4,9.0,40,62,52,4.8,6.9,270
+Black Hand Armor,9.0,51,11.5,9.7,12.6,12.8,10.4,9.0,46,67,58,4.9,7.8,280
+Black Leather Armor,8.7,55,9.4,6.9,8.6,7.8,10.4,8.2,46,65,46,5.2,5.9,260
+Shadow Garb,6.8,38,4.4,6.8,4.2,5.2,6.6,4.2,27,40,34,2.2,3.7,220
+Leonhard's Garb,9.8,62,9.1,9.8,12.2,12.7,9.8,8.3,41,55,55,6.0,6.9,270
+Pale Shade Robe,4.3,32,4.3,3.3,13.4,12.8,11.8,12.3,35,60,70,2.0,3.6,220
+Black Dress,7.7,47,10.0,6.8,9.7,12.5,10.9,12.1,40,60,71,5.6,6.5,270
+Painting Guardian Gown,4.4,36,4.4,4.4,11.1,4.4,5.4,4.4,59,71,60,0.5,3.5,220
+Sorcerer Robe,4.5,33,4.5,3.8,13.1,12.4,12.6,13.1,25,40,71,1.7,4.1,230
+Clandestine Coat,4.2,30,4.2,3.6,13.5,12.9,13.1,13.5,25,36,65,0.9,3.0,210
+Old Sorcerer Coat,3.6,35,3.1,3.6,12.7,11.6,12.1,12.7,32,40,70,1.0,3.7,220
+Court Sorcerer Robe,3.6,32,3.6,4.4,12.3,11.6,13.5,13.2,29,46,74,1.6,4.2,230
+Karla's Coat,3.9,31,3.9,2.9,14.1,13.3,13.8,13.8,20,35,53,1.3,3.6,220
+Antiquated Dress,3.2,27,3.2,3.2,12.3,13.9,11.8,13.2,21,38,86,1.2,3.1,210
+Xanthous Overcoat,10.1,33,10.7,9.4,11.7,5.5,10.0,11.7,39,46,22,7.7,8.6,350
+Scholar's Robe,6.9,39,4.5,5.6,13.3,11.2,12.8,12.6,36,43,71,3.6,4.2,230
+Pyromancer Garb,4.4,43,3.7,3.7,12.0,13.1,12.0,14.1,22,50,74,0.9,4.2,230
+Cornyx's Garb,4.1,30,4.8,3.5,13.0,13.7,12.8,13.2,22,40,88,4.9,4.1,230
+Conjurator Robe,3.8,44,3.8,3.2,11.7,13.6,13.3,12.2,31,63,61,1.1,4.2,230
+Cleric Blue Robe,4.9,49,6.0,4.2,12.8,12.3,13.2,13.2,45,61,68,1.4,6.0,260
+Maiden Robe,3.5,30,3.5,3.1,13.7,12.8,13.0,13.7,19,38,75,0.7,3.5,220
+Evangelist Robe,12.8,36,12.3,11.6,10.6,12.3,9.9,6.8,49,42,35,12.5,11.9,380
+Deacon Robe,3.6,33,4.4,3.6,12.5,12.7,11.6,13.2,19,40,79,1.0,3.5,220
+Archdeacon Holy Garb,3.7,37,4.4,4.4,12.4,11.5,12.4,13.7,18,39,83,3.4,4.2,230
+Jailer Robe,8.2,32,8.2,6.0,13.5,13.1,11.4,13.5,24,37,87,2.0,4.8,230
+Robe of Prayer,3.6,24,3.6,3.2,13.5,13.1,13.1,14.6,13,61,89,1.3,3.4,220
+Fire Keeper Robe,5.7,49,7.1,8.0,7.1,11.9,8.8,12.4,36,54,42,1.9,5.1,250
+Master's Attire,2.7,22,2.7,2.1,9.1,7.6,8.4,9.1,37,62,74,0.0,2.0,100
+Worker Garb,4.4,43,5.5,5.5,6.6,5.2,5.2,10.9,34,68,60,2.3,4.2,230
+Grave Warden Robe,4.1,13,8.1,4.8,9.0,9.0,11.1,3.6,63,59,51,1.0,3.6,220
+Deserter Armor,11.7,36,11.7,11.1,6.6,7.5,4.2,10.4,50,33,22,8.6,8.6,350
+Leather Armor,6.8,58,6.8,6.8,8.3,9.0,9.7,8.3,36,58,43,3.3,5.4,250
+Follower Armor,7.1,65,8,9.5,10.2,8.8,10.9,8.8,37,59,48,2.7,5.6,??
+Slave Knight Armor,13.5,35,13.5,10.2,5.7,8.0,5.7,7.1,61,34,20,9.1,8.7,350
+Vilhelm's Armor,12.9,37,12.9,14.6,9.5,12.4,5.7,11.4,44,35,31,13.0,10.8,370
+Millwood Knight Armor,18.3,69,17.5,15.3,13.0,12.6,13.0,12.6,67,61,37,20.2,15.6,450
+Ordained Dress,5.7,48,8.0,2.9,14.5,11.4,12.6,12.6,20,53,69,2.7,4.4,230
+Shira's Armor,7.7,61,7.7,10.0,11.1,11.7,11.1,8.6,38,62,62,3.7,6.7,270
+Lapp's Armor,18.2,54,18.2,18.2,12.3,12.7,11.2,12.3,77,61,38,20.7,15.6,450
+Harald Legion Armor,18.3,61,18.6,18.3,12.6,12.7,12.2,13.6,68,62,60,20.7,17.2,470
+Ruin Armor,13.7,35,16.3,13.7,12.8,11.6,12.2,10.5,62,60,32,17.4,12.9,400
+Ringed Knight Armor,14.9,40,16.3,14.3,11.1,13.2,12.2,9.8,60,36,34,14.9,12.6,400
+Iron Dragonslayer Armor,15.7,60,16.5,17.2,9.9,11.6,13.8,13.2,81,54,29,20.1,14.8,450
+Antiquated Plain Garb,3.7,25,2.7,2.4,12.7,11.1,12.2,12.3,30,47,60,0.9,3.1,210
+Black Witch Garb,3.7,28,4.2,2.7,13.8,13.5,13.5,14.1,15,39,69,0.5,3.6,220
+Desert Pyromancer Garb,3.7,25,2.4,2.4,10.5,11.1,12.7,11.7,16,64,66,0.9,2.3,200
+
+
+== [DS3] consumables ==
+
+Icon,Name,Usage,Location
+,Estus Flask,Use to restore some HP.,Starting equipment
+,Ashen Estus Flask,Use to restore some FP.,Found on a body at the very beginning of the game
+,Divine Blessing,Use to fully restore HP and cure all ailments.,"Burial Gift One can be bought by Greirat for 8,000 souls after a scavenging trip. Dropped by a Silver Knight in the manor. 1x in a chest in Irithyll of the Boreal Valley, on the top floor of the manor. 1x at Grand Archives."
+,Hidden Blessing,Fully recover FP,Burial Gift
+,Siegbrau,Restores 20% of maximum HP + 100 HP. + Temporarily boosts frost resistance by 150 for 60 seconds.,Given by Siegward of Catarina
+,Green Blossom,Use to increase your Stamina regeneration (+6) for 60 seconds.,High Wall of Lothric (2x) Road of Sacrifices (2x) Sold by Shrine Handmaid
+,Budding Green Blossom,Use to increase your Stamina regeneration (+9) for 60 seconds.,Found in Irithyll of the Boreal Valley. Extremely rare drop from Sewer Centipedes in Irithyll sewers. A unique version can be bought from the Shrine Handmaid during Sirris' questline.
+,Repair Powder,Repairs equipped weapons and armor.,Sold by Shrine Handmaid for 600 souls 2x Found at Undead Settlement: Head left from the Undead Settlement bonfire into a house. Go to the lower floor and head out into the balcony. On the right side corner of the balcony you will find them on a corpse by a wall. 4x Found in the Farron Keep swamp near the Golden Scroll.
+,Blue Bug Pellet,15% boost in magic damage absorption for 120 seconds.,Road of Sacrifices
+,Yellow Bug Pellet,15% boost in lightning damage absorption for 120 seconds.,Catacombs of Carthus Smouldering Lake
+,Red Bug Pellet,15% boost in fire damage absorption for 120 seconds.,Sold by Unbreakable Patches for 1000 Souls.
+,Black Bug Pellet,15% boost in dark damage absorption for 120 seconds.,"Sold by the Shrine Handmaid for 1,500 souls. (after giving her the Dreamchaser's Ashes) Found on top of the small hill right in front of the Abyss Watchers arena (x3). Found in the Catacombs of Carthus before the suspension bridge (x2). Dropped by Ghru (leaper) in Farron Keep."
+,Mossfruit,"Temporarily boosts bleed, poison, frost and curse resistance for 60 seconds.","Rare drop from Basilisks Sold by the Shrine Handmaid for 1.500 souls, after giving her the Dragon Chaser's Ashes."
+,Bloodred Moss Clump,Reduces bleeding build-up.,Sold by Greirat of the Undead Settlement for 500 souls. Rare drop from Lesser Crabs. Found in the Catacombs of Carthus (x3).
+,Purple Moss Clump,Reduces poison build-up. Cures poison.,"6x Sold by Shrine Handmaid for 500 souls. Infinite supply sold by Shrine Handmaid after giving her Paladin's Ashes. Rare drop from lesser crabs in Road of Sacrifices. 3x Found along the wall in the swamp, to the right of the Farron Keep bonfire exit. 4x Found on top of a broken walkway path near the first extinguishable fire in Farron Keep. 2x Found right in front of the second extinguishable fire in Farron Keep."
+,Blooming Purple Moss Clump,Reduces poison and toxin build-up. Cures poison and toxin.,"Sold by Shrine Handmaid for 1000 souls after giving her Excrement-Covered Ashes. 3x Found in Profaned Capital, on a plank walkway overlooking the toxic swamp. Dropped by Lesser Crab in Catacombs of Carthus."
+,Rime-Blue Moss Clump,Reduces frost build up. Cures frostbite status.,"Sold by Shrine Handmaid for 500 souls after giving her Prisoner Chief's Ashes. 1x Found on a corpse next to the Irithyll of the Boreal Valley bonfire. 2x Found beside a tree, across the road of the second Fire Witch in Irithyll of the Boreal Valley. Dropped by Lesser Crab in Catacombs of Carthus."
+,Purging Stone,Reduces undead curse build-up. Cures hollowing.,Purchase from Yuria of Londor for 4500 souls. Profaned Capital Purchase form merchant at Untended Graves for ?? souls.
+,Charcoal Pine Resin,Applies +85 fire damage to right-hand weapon for 60 seconds.,Sold by Shrine Handmaid for 500 soul after giving her Mortician's Ashes. Dropped by peasant hollows in Undead Settlement.
+,Charcoal Pine Bundle,Applies +110 fire damage to right-hand weapon for 10 seconds.,Sold by Shrine Handmaid for 300 soul after giving her Mortician's Ashes. Dropped by sickle-wielding hollows in Undead Settlement. 4x found in Undead Settlement
+,Gold Pine Resin,Applies +95 lightning damage to right-hand weapon for 60 seconds.,3x Sold by Shrine Handmaid after giving her Dreamchaser's Ashes. 2x at High Wall of Lothric Sold by Shrine Handmaid after giving her Xanthous Ashes.
+,Gold Pine Bundle,Applies +120 lightning damage to right-hand weapon for 10 seconds.,"6x Sold by Shrine Handmaid after giving her Dreamchaser's Ashes. 6x Found in Farron Keep, near the white birch and the Large Crab. Sold by Shrine Handmaid for 600 souls after giving her Xanthous Ashes."
+,Pale Pine Resin,Applies +90 magic damage to right-hand weapon for 60 seconds.,"Sold by Shrine Handmaid for 1000 souls, after giving her Prisoner Chief's Ashes."
+,Human Pine Resin,Applies +95 dark damage to right-hand weapon for 60 seconds.,Sold by Unbreakable Patches for 1500 Souls. 1x on a corpse near the group of slugs in Consumed King's Graden. 2x on a corpse beside a staircase past the slugs in Consumed King's Garden. Dropped by skeleton at Undead Settlement behind the locked door.
+,Rotten Pine Resin,Applies +45 poison effect to right-hand weapon for 60 seconds.,Sold by Shrine Handmaid
+,Carthus Rouge,Applies +20 bleed damage to right-hand weapon for 60 seconds.,Catacombs of Carthus
+,Duel Charm,Temporarily disables special effects in vicinity.,Cathedral of the Deep
+,Rusted Coin,Increases Item Discovery by 50 for 60 seconds.,Can be purchased from Unbreakable Patches for 200 souls each. 1x Can be found above and to the left of the bonfire at the Dilapidated Bridge in the Undead Settlement 2x Found behind some crates to the left of the main gate in the Cathedral of the Deep. 2x Found at the top of a short ladder right below the Profaned Capital bonfire.
+,Rusted Gold Coin,Increases Item Discovery by 100 for 60 seconds.,"7x can be obtained as a Burial Gift. 1x Found in Farron Keep, hidden behind the wall next to the third extinguishable fire, where Heysel invades. Found at Irithyll of the Boreal Valley: while on the way to the Irithyll Dungeon from Church of Yorshka bonfire, found on a corpse next to a couple of wolves. 2x Dropped by a mimic in the left treasure room before Yhorm the Giant. 1x Found at Profaned Capital, at the end of the narrow hallway that leads to the toxic area. Very rare drop from white-robed Handmaids in Profaned Capital"
+,Young White Branch,Makes you harder to be spotted. One use only.The Giant Sniper in Undead Settlement will not target you while carrying one of these.,"1x can be obtained as a Burial Gift. Sold by Shrine Handmaid for 1,000 souls after giving her the Xanthous Ashes. A unique white branch can be obtained by speaking with the Giant of the Undead Settlement and making peace with him. 3x Found at Undead Settlement in the graveyard by the white tree. 2x Found at Cathedral of the Deep by the white tree in a graveyard. 2x Found in the Farron Keep ruins by a white tree."
+,Prism Stone,Toss to leave a colored light marker on the ground. ORTrade at Crow's Nest (Pickle-Pee) for a Twinkling Titanite.,"Sold by Shrine Handmaid for 10 souls. 10x Found in the poison swamp of Farron Keep, near the first bonfire."
+,Homeward Bone,Returns player to last bonfire or the one in Firelink Shrine,Cathedral of the Deep Undead Settlement Smouldering Lake Cemetery of Ash Sold by Shrine Handmaid
+,Seed of a Giant Tree,Enemies react to invaders.,One can be held at a time by checking the giant tree in Firelink Shrine.
+,Divine Spear Fragment,Summon a row of upwardly thrusting ritual spears.,Spears of the Church covenant reward for turning in 30 Filianore's Spear Ornament
+,Ritual Spear Fragment,Summon a row of upwardly thrusting ritual spears.,Can be found behind the Spears of the Church Shrine. Which is just before the Cathedral Ringed knight.
+
+
+== [DS3] crossbows ==
+
+Name & Icon,Attack PowerDamage Reduction (%),Requirements Param Bonus,Range / Durability / Weight - Attack Type - Skill,Physical ATK,col_5,col_6,col_7,col_8,Critical,col_10,Strength,Dexterity,Intelligence,Faith,col_15,Skill,Acquired From
+Light Crossbow,64 -,0 -,0 -,0 -,0 -,100 -,-,10 -,8 -,0 -,0 -,42 45 3.0,7( -/ -) Tackle,Dropped by the Undeads with Crossbows at the High Wall of Lothric.Sold by Greirat of the Undead Settlement.,,,
+Knight's Crossbow,40 -,0 -,0 -,40 -,0 -,100 -,-,12 -,8 -,0 -,0 -,42 50 4.0,7( -/ -) Tackle,Drops from Lothric Knights,,,
+Arbalest,78 -,0 -,0 -,0 -,0 -,100 -,-,18 -,8 -,0 -,0 -,50 50 6.0,7 (-/-) Tackle,Found on a corpse within the rooftop sections of the Cathedral of the Deep,,,
+Sniper Crossbow,70 -,0 -,0 -,0 -,0 -,100 -,-,18 -,16 -,0 -,0 -,59 55 7.5,7 (-/-) Tackle,Looted from a corpse at the top of a gatehouse just before the dragons in Lothric Castle,,,
+Avelyn,64 -,0 -,0 -,0 -,0 -,100 -,-,16 -,14 -,- -,- -,35 35 7.5,7 (-/-) Tackle,Found in a Chest atop a bookshelf in the Grand Archives,,,
+Heavy Crossbow,72 -,0 -,0 -,0 -,0 -,100 -,-,14 -,8 -,- -,- -,50 55 4.5,7 (-/-) Tackle,Dropped by the crossbow-wielding knight in Cathedral of the Deep,,,
+Repeating Crossbow,83 -,0 -,0 -,0 -,0 -,100 -,-,16 -,20 -,- -,- -,49 20 7.5,-(13/13) Repeat Fire,Transposed with Soul of Slave Knight Gael,,,
+
+
+== [DS3] curved_greatswords ==
+
+Name & Icon,Attack PowerDamage Reduction (%),Requirements Param Bonus,Durability / Weight - Attack Type - Skill,Physical ATK,col_5,col_6,col_7,col_8,Critical,col_10,Strength,Dexterity,Intelligence,Faith,Durability,Skill,Acquired From
+Murakumo,132 55,0 40,0 35,0 35,0 40,100 45,-,20 D,18 C,0 -,0 -,105 11.0,9 ( -/15) Spin Slash,"Dropped by Alva, Seeker of the Spurned at the entrance of Irithyll Dungeon",,,
+Carthus Curved Greatsword,122 50,0 40,0 35,0 35,0 40,100 40,34,18 D,22 C,0 -,0 -,85 10.5,9 (- / 13) Spin Slash,Dropped by Skeletons wielding it at Catacombs of Carthus,,,
+Exile Greatsword,148 65,0 50,0 45,0 45,0 50,100 45,-,24 D,16 D,0 -,0 -,120 17.0,12 ( -/13) Spin Slash,Dropped by Exiled Warriors at Road of Sacrifices,,,
+Old Wolf Curved Sword,155 55,0 45,0 40,0 40,0 45,100 45,-,19 D,25 D,0 -,0 -,95 13.0,10 ( -/ 15) Wolf Leap,Rank 1 of Watchdogs of Farron,,,
+Harald Curved Greatsword,140 60,0 50,0 40,0 40,0 50,100 45,-,22 D,18 D,0 -,0 -,120 14.0,0(20/9) Sever,"The Ringed City, On the left end of the swamp after the Earthen Peak bonfire, past the flying hollow.",,,
+
+
+== [DS3] curved_swords ==
+
+Name & Icon,Attack PowerDamage Reduction (%),Requirements Param Bonus,Durability / Weight - Attack Type - Skill,Physical ATK,col_5,col_6,col_7,col_8,Critical,col_10,Strength,Dexterity,Intelligence,Faith,Durability,Skill,Acquired From
+Scimitar,90 40,0 30,0 25,0 25,0 30,100 25,-,7 E,13 B,0 -,0 -,60 2.5,4 Spin Slash,Sold by Shrine Handmaid,,,
+Pontiff Knight Curved Sword,123 45,0 30,0 25,0 25,0 30,100 30,-,12 D,18 D,10 -,- -,90 3.5,8 ( -/14) Frost Blade,Sold by Greirat/ Dropped by Pontiff Knights at Irythill of the Boral Valley,,,
+Falchion,117 45,0 30,0 25,0 25,0 30,100 35,-,9 D,13 D,0 -,0 -,70 4.0,6 ( -/ 12) Spin Slash,Dropped by the Skeletons wielding it at Catacombs of Carthus,,,
+Sellsword Twinblades,99 40,0 30,0 25,0 25,0 30,100 25,-,10 E,16 C,0 -,0 -,55 5.5,4( -/12) Spin Slash,Mercenary starting weapons/ Looted at Road of Sacrifices,,,
+Warden Twinblades,93 40,0 35,0 25,0 25,0 35,100 30,33,10 D,18 D,0 -,0 -,70 6.5,7 Spin Slash,Dropped by Grave Wardens at Cathedral of the Deep and Untended Graves,,,
+Shotel,104 40,0 30,0 25,0 25,0 30,100 25,-,9 E,14 C,0 -,0 -,55 2.5,5 (-/12) Spin Slash,Sold by Unbreakable Patches,,,
+Dancer's Enchanted Swords,79 50,62 40,62 35,0 25,0 30,100 35,-,12 D,20 D,9 D,9 D,80 8.5,6 ( -/ 17) Dancer's Grace,Soul Transposition using Soul of the Dancer,,,
+Storm Curved Sword,110 50,0 35,0 30,0 30,0 35,100 35,-,14 D,20 C,0 -,0 -,85 5,7 Tornado,Soul Transposition using Soul of the Nameless King,,,
+Carthus Curved Sword,115 55.0,0 35,0 30,0 30,0 35,100 35,33,15 D,18 D,0 -,0 -,80 5.5,6 (-/12) Spin Slash,Dropped by the Shield Skeletons wielding it at Catacombs of Carthus,,,
+Carthus Shotel,106 40.0,0 35,0 25,0 25,0 35,100 30,33,12 E,19 C,0 -,0 -,55 3,5 ( -/ 12) Spin Slash,Dropped by Kukri-throwing Skeletons wielding them at Catacombs of Carthus,,,
+Rotten Ghru Curved Sword,103 40,0 30,0 25,0 25,0 25,100 0,33,10 E,13 C,0 -,0 -,0 2,6 ( -/ 12) Spin Slash,Dropped by Ghrus wielding them at Farron Keep.,,,
+Painting Guardian's Curved Sword,88 35,0 25,0 25,0 25,0 25,100 25,33,7 E,19 B,0 -,0 -,55 1.5,5( -/ 15) Chained Dance,Looted below the Prison Tower bonfire near Anor Londo.,,,
+Crescent Moon Sword,78 40,78 30,0 25,0 25,0 30,100 25,-,10 -,16 C,0 D,0 -,70 2.5,15 ( -/ -) Crescent Blade,Dropped by Ringfinger Leonhard,,,
+Follower Sabre,112 40,0 30,0 25,0 25,0 30,100 30,-,9 D,14 D,0 -,0 -,70 4,9 ( -/ 9) Prying Wedge,Ashes of Ariandel DLC: Halfway down the path of roots to the depths of the Painted World.,,,
+Demon's Scar,0 25,- 35,99 65,- 30,- 35,110 30,-,0 -,16 E,17 D,17 D,70 0.5,7( -/20) Spin Slash,Obtained via Soul Transposition with the Soul of the Demon Prince,,,
+
+
+== [DS3] daggers ==
+
+Name & Icon,Attack PowerDamage Reduction (%),Requirements Param Bonus,Durability / Weight - Attack Type - Skill,Physical ATK,col_5,col_6,col_7,col_8,Critical,col_10,Strength,Dexterity,Intelligence,Faith,Durability,Skill,Acquired From
+Parrying Dagger,60 30,- 20,- 15,- 15,- 20,110 15,-,5 E,14 C,- -,- -,40 1.0,- Parry,Sold by Unbreakable Patches,,,
+Harpe,62 35,- 20,- 15,- 15,- 20,100 15,-,8 E,10 C,- -,- -,45 1.5,5 (-/-) Quickstep,Dropped by the red-eyed enemies at Undead Settlement,,,
+Dagger,65 35,- 20,- 15,- 15,- 20,130 15,-,5 E,9 C,- -,- -,50 1.5,5 (-/-) Quickstep,Sold by the Shrine Handmaid/ Dropped by undead in High Wall of Lothric,,,
+Brigand Twindaggers,55 35,- 20,- 15,- 15,- 20,125 15,-,10 D,18 D,- -,- -,50 2.5,5 (-/-) Quickstep,Looted at Road of Sacrifices,,,
+Scholar's Candlestick,58 35,- 20,- 15,- 15,- 20,115 15,-,7 E,- C,- -,16 -,40 1.5,5 (-/-) Guiding Light,Drops from Wax Scholars at Grand Archives,,,
+Bandit's Knife,79 35,- 20,- 15,- 15,- 20,110 15,30,6 D,12 D,- -,- -,50 1.5,5 (-/-) Quickstep,Starting equipment: Thief Sold by Shrine Handmaid after giving Greirat's Ashes Sold by Greirat of the Undead Settlement,,,
+Handmaid's Dagger,85 30,- 20,- 15,- 15,- 20,110 15,-,4 E,8 E,- -,- -,40 0.5,10 (-/-) Blind Spot,Drops from Handmaids in the Profaned Capital,,,
+Mail Breaker,89 35,- 20,- 15,- 15,- 20,125 15,-,7 E,12 D,- -,- -,50 1.5,12 (-/-) Shield Splitter,Sorcerer starting weapon Looted at High Wall of Lothric,,,
+Corvian Greatknife,93 40,- 25,- 20,- 20,- 25,110 20,-,12 E,16 E,- -,- -,55 2.5,10 (-/-) Blind Spot,Dropped by dagger-wieldind Corvians at Road of Sacrifices,,,
+Tailbone Short Sword,106 35,- 20,- 15,- 15,- 20,110 20,-,8 E,14 E,- -,- -,50 2.0,25 (-/-) Unleash Dragon,Dropped by enemies at Irythyll Dungeon,,,
+Rotten Ghru Dagger,64 35,- 20,- 15,- 15,- 20,100 15,36,10 E,8 C,- -,- -,45 2.0,5 (-/-) Quickstep,Dropped by Ghru at Farron Keep,,,
+Murky Hand Scythe,72 35,- 20,- 15,- 15,22 20,100 15,-,6 D,11 D,11 E,11 E,50 2.0,5(-/-) Quickstep,Found on a corpse in The Dreg Heap.,,,
+Aquamarine Dagger,67 35,67 20,- 15,- 15,- 20,100 15,-,5 E,14 D,18 D,- -,50 1.5,2/3 Crystal Blade,"From The Dreg Heap bonfire, drop down and head across the bridge and left up the stairs.",,,
+
+
+== [DS3] fist_claws ==
+
+Name & Icon,Attack PowerDamage Reduction (%),Requirements Param Bonus,Durability / Weight - Attack Type - Skill,Physical ATK,col_5,col_6,col_7,col_8,Critical,col_10,Strength,Dexterity,Intelligence,Faith,Durability,Skill,Acquired From
+Caestus,91 -,0 -,0 -,0 -,0 -,100 -,-,5 D,8 D,0 -,0 -,60 0.5,7( -/ -) Perseverance,"Looted from a corpse in the sewers of Undead Settlement, right before the Giant Undead Rat.",,,
+Demon's Fist,111 -,- -,77 -,- -,- -,100 -,-,20 D,8 -,9 E,9 E,100 8.0,10 Flame Whirlwind,Transposable from Soul of a Demon,,,
+Dark Hand,88 65,- 65,- 65,- 65,150 65,100 30,-,0 E,0 E,0 C,0 C,55 0.0,18 Lifedrain,"Sold by Yuria of Londor for 12,000 souls.",,,
+Claw,86 -,0 -,0 -,0 -,0 -,110 -,30,6 E,14 C,0 -,0 -,55 1.5,10 (-/-) Leaping Slash,Picked up from beneath the central platform patrolled by Dark Masses in Consumed King's Garden,,,
+Manikin Claws,81 -,0 -,0 -,0 -,0 -,110 -,30,8 E,18 C,0 -,0 -,60 2.0,4( -/ -) Quickstep,Dropped by Dark Spirit of Londor that invades you in Irithyll of The Boreal Valley right after the Silver Knights room,,,
+Crow Talons,91 -,0 -,0 -,0 -,0 -,110 -,30,6 E,19 C,0 -,0 -,65 3.0,15( -/ -) Raptor Flurry,Ashes of Ariandel DLC: Rooftop in the Corvian Settlement,,,
+
+
+== [DS3] flames ==
+
+Name & Icon,Attack PowerDamage Reduction (%),Requirements Param Bonus,Durability / Weight - Attack Type - Skill,Physical ATK,col_5,col_6,col_7,col_8,Critical,col_10,col_11,Strength,Dexterity,Intelligence,Faith,Durability,Skill,Acquired From
+Pyromancy Flame,0 -,0 -,100 -,0 -,0 -,100 -,0 0 0,118,0 -,0 -,0 C,0 C,50 0.0,12(-/-) Combustion,Cornyx of the Great Swamp Starting gear for the Pyromancer Class,,,
+Pyromancer's Parting Flame,0 -,0 -,110 -,0 -,0 -,100 -,0 0 0,130,15 -,0 -,13 D,13 D,65 0.0,25(-/-) Parting Flame,Ashes of Ariandel DLC: At the bottom of the Path of Roots behind the illusory wall.,,,
+Demon's Scar,0 25,- 35,99 65,- 30,- 35,110 30,-,120,0 -,16 E,17 D,17 D,70 0.5,7(-/20) Spin Slash,The Ringed City DLC: Transposable from the Soul of the Demon Prince,,,
+
+
+== [DS3] gauntlets ==
+
+Name & Icon,Physical Def,Strength,Slash Def,Thrust Def,Magic Def,Fire Def,Lightning Def,Dark Def,Bleed Res,Poison Res,Curse Res,Poise,Weight,Durability
+Hard Leather Gauntlets,2.1,21,2.1,2.1,1.5,1.7,1.0,1.5,16,22,17,0.8,2.0,270
+Brigand Gauntlets,2.5,19,2.5,2.5,1.9,2.1,2.3,1.9,14,20,14,1.0,2.4,280
+Mirrah Gloves,2.1,17,1.5,1.5,1.9,1.7,2.5,1.7,17,21,19,0.2,2.1,260
+Leather Gauntlets,2.2,16,2.9,2.0,3.2,2.6,3.2,3.3,18,18,16,1.1,2.5,270
+Northern Gloves,2.2,24,2.2,2.2,0.8,2.5,2.0,0.8,15,19,19,0.7,2.3,270
+Mirrah Chain Gloves,3.2,14,3.8,2.6,2.8,2.8,1.7,2.2,18,13,11,2.5,3.3,360
+Iron Bracelets,2.4,10,2.4,2.4,2.2,2.2,2.0,2.2,11,9,9,2.2,2.9,350
+Sellsword Gauntlet,1.4,11,0.8,1.6,0.6,0.8,0.8,0.6,15,10,8,0.3,1.4,230
+Drang Gauntlets,2.1,21,1.7,1.1,2.0,1.4,2.3,2.0,13,19,14,0.3,1.7,250
+Undead Legion Gauntlet,2.3,24,1.2,2.0,2.9,3.0,3.0,2.3,16,20,17,0.8,2.4,280
+Herald Gloves,3.1,12,3.1,2.9,1.7,2.1,0.7,1.5,16,12,8,1.6,2.9,350
+Knight Gauntlets,3.6,11,3.5,3.4,2.3,2.9,2.1,2.5,14,12,7,2.5,3.5,370
+Nameless Knight Gauntlets,3.0,9,3.3,2.9,2.1,3.1,2.3,2.1,19,10,6,2.2,2.8,350
+Fallen Knight Gauntlets,3.3,10,2.6,2.9,2.4,3.7,3.0,2.2,11,5,4,2.1,3.1,350
+Elite Knight Gauntlets,3.4,14,3.5,3.4,2.6,3.0,2.0,2.4,18,13,9,2.3,3.4,350
+Alva Gauntlets,3.1,15,3.1,2.8,2.3,2.8,2.3,2.7,22,14,10,2.5,3.3,360
+Drakeblood Gauntlets,3.5,14,4.3,3.3,3.1,2.9,2.7,2.7,25,13,9,3.8,4.6,420
+Faraam Gauntlets,3.6,22,3.6,3.3,3.0,3.3,3.1,3.1,21,16,11,4.5,4.7,410
+Sunset Gauntlets,4.1,16,4.1,3.9,2.6,3.1,2.4,3.0,24,22,17,4.0,4.4,400
+Sunless Gauntlets,2.6,9,2.8,2.6,2.5,2.2,1.4,2.6,13,7,7,1.7,3.5,370
+Brass Gauntlets,3.5,11,3.5,3.1,3.6,2.7,1.9,2.7,19,10,8,2.4,3.4,370
+Gauntlets of Favor,3.5,14,3.5,3.5,3.0,3.1,2.2,3.1,19,13,10,4.0,4.0,380
+Eastern Gauntlets,2.8,11,3.8,2.5,1.8,3.1,1.5,1.8,25,9,7,2.6,2.9,360
+Gauntlets of Thorns,2.8,10,3.6,2.9,1.9,1.9,1.9,1.6,21,8,7,1.8,2.8,350
+Catarina Gauntlets,4.8,22,4.9,4.8,3.1,3.3,3.9,3.4,29,22,14,5.3,5.7,470
+Morne's Gauntlets,3.8,18,3.8,3.7,3.1,3.1,3.0,1.7,21,12,11,4.1,4.8,420
+Lothric Knight Gauntlets,3.8,19,4.6,3.6,3.1,3.3,2.3,2.8,25,15,12,4.5,4.8,420
+Cathedral Knight Gauntlets,4.3,21,3.8,4.9,3.7,3.5,3.6,3.1,22,21,15,5.3,5.3,450
+Winged Knight Gauntlets,4.8,21,4.8,4.4,3.5,4.0,3.8,4.5,22,21,13,5.5,6.0,470
+Outrider Knight Gauntlets,3.4,25,3.3,3.4,2.4,3.0,2.4,1.6,12,10,4,2.7,2.9,360
+Pontiff Knight Gauntlets,2.1,28,2.1,1.9,3.6,2.6,3.3,3.7,14,13,10,0.7,2.2,280
+Fire Witch Gauntlets,2.8,12,2.4,2.2,2.4,2.6,1.4,2.2,15,10,9,1.5,2.6,350
+Dancer's Gauntlets,2.8,20,3.2,3.1,2.2,1.7,2.4,2.6,15,12,9,1.7,2.4,280
+Dark Gauntlets,3.5,10,3.2,3.1,2.6,2.2,1.4,2.6,12,9,4,2.3,3.2,350
+Black Knight Gauntlets,3.8,11,4.0,3.3,2.7,3.5,2.5,2.9,18,12,11,3.7,3.9,400
+Silver Knight Gauntlets,3.6,17,4.3,4.1,3.1,2.9,2.7,2.7,22,18,14,3.8,4.6,400
+Dragonslayer Gauntlets,3.7,14,4.1,4.1,3.3,3.7,3.7,2.6,21,13,12,4.2,4.1,400
+Wolf Knight Gauntlets,3.2,14,3.2,3.2,2.0,3.1,1.4,2.7,18,13,14,1.6,3.1,360
+Smough's Gauntlets,4.8,20,4.6,4.0,3.3,3.2,3.4,3.5,20,20,18,6.9,9.4,500
+Lorian's Gauntlets,3.2,11,3.0,2.9,2.9,1.5,1.5,2.9,16,7,10,1.8,3.0,360
+Golden Bracelets,1.7,16,1.5,0.9,1.7,2.3,1.7,1.7,10,18,13,0.2,1.5,250
+Firelink Gauntlets,2.3,24,2.7,1.9,3.0,3.3,3.1,2.5,16,22,21,1.4,2.7,280
+Black Iron Gauntlets,4.6,20,4.6,4.4,2.8,3.8,2.8,3.1,24,16,14,4.4,5.1,450
+Executioner Gauntlets,4.6,23,4.6,4.2,3.3,3.6,2.8,3.3,24,22,17,4.9,5.3,460
+Exile Gauntlets,4.8,22,4.1,4.0,3.3,3.7,3.3,3.4,33,25,17,5.0,5.5,460
+Gundyr's Gauntlets,4.4,21,5.1,4.1,3.4,3.5,3.4,3.4,29,21,21,6.0,5.8,470
+Havel's Gauntlets,4.7,23,4.6,4.4,3.5,4.0,3.2,3.5,24,23,20,7.2,9.1,500
+Assassin Gloves,2.0,13,2.3,1.8,2.6,2.7,1.9,1.5,12,20,16,0.4,2.0,0.6
+Black Leather Gloves,2.2,18,2.3,1.8,2.1,1.9,2.9,2.3,14,20,14,1.7,2.3,270
+Shadow Gauntlets,1.6,14,1.6,1.6,1.6,1.9,2.2,1.6,10,15,13,1.1,1.3,220
+Leonhard's Gauntlets,2.6,18,2.8,2.6,3.4,3.4,2.8,2.4,12,18,18,1.9,2.8,280
+Pale Shade Gloves,1.2,8,1.2,1.1,3.6,3.3,3.1,3.2,9,17,21,0.2,1.0,210
+Black Gauntlets,3.2,11,3.4,2.9,2.1,3.2,2.2,3.4,19,13,15,2.3,3.5,360
+Painting Guardian Gloves,0.8,13,0.8,0.8,2.5,0.8,1.1,0.8,21,25,21,0.2,1.3,220
+Sorcerer Gloves,1.3,10,1.3,1.1,3.5,3.3,3.4,3.5,8,13,23,0.6,1.3,230
+Old Sorcerer Gauntlets,0.9,12,0.8,0.9,3.2,2.9,3.1,3.2,11,14,24,0.0,1.3,220
+Court Sorcerer Gloves,1.0,7,1.0,1.1,3.2,3.0,3.6,3.5,7,12,21,0.5,1.0,210
+Karla's Gloves,0.8,10,0.9,0.9,3.5,3.3,3.4,3.4,7,12,18,0.3,1.2,220
+Antiquated Gloves,0.9,10,0.9,0.9,3.3,3.7,3.2,3.6,8,13,29,0.6,1.1,210
+Xanthous Gloves,1.8,22,1.2,1.8,2.7,1.2,2.9,2.6,15,22,18,0.8,2.0,260
+Pyromancer Wrap,1.4,11,1.2,1.2,3.5,3.6,3.5,3.6,6,14,22,0.8,1.5,230
+Cornyx's Wrap,0.9,11,1.1,0.8,3.6,3.4,3.3,3.4,7,13,26,0.8,1.3,220
+Conjurator Manchettes,0.8,15,0.8,0.6,2.7,3.2,3.1,2.9,10,21,20,0.1,1.4,230
+Cleric Gloves,1.1,11,0.7,0.9,2.8,2.1,2.8,2.9,17,21,25,0.5,1.5,230
+Maiden Gloves,0.9,11,0.9,0.8,3.5,3.3,3.4,3.5,8,14,26,0.3,1.3,220
+Evangelist Gloves,1.8,19,1.6,1.4,2.4,2.8,2.8,1.4,13,22,21,0.7,2.4,270
+Jailer Gloves,1.7,13,1.7,1.1,2.7,2.6,2.2,2.7,10,15,32,0.3,1.6,230
+Fire Keeper Gloves,0.8,11,1.1,0.7,3.1,3.3,2.9,3.6,9,15,23,0.2,1.3,220
+Master's Gloves,0.4,9,0.4,0.3,1.9,1.5,1.7,1.9,14,22,26,0.0,0.3,100
+Worker Gloves,0.9,14,1.1,1.1,1.2,0.9,0.9,2.3,11,22,19,0.8,1.4,230
+Grave Warden Wrap,0.8,3,1.8,1.0,1.9,1.9,2.5,0.6,20,18,16,0.0,1.2,220
+Leather Gloves,1.4,17,1.4,1.4,1.9,2.1,2.3,1.9,11,18,13,0.1,1.5,230
+Follower Gloves,1.7,22,1.9,2.3,2.5,2.1,2.7,2.1,12,20,16,0.6,1.7,260
+Slave Knight Gauntlets,3.3,12,3.3,2.5,1.4,1.9,1.4,1.7,20,11,7,2.0,3.0,350
+Vilhelm's Gauntlets,3.2,12,3.2,3.6,2.3,3.1,1.4,2.8,15,12,10,2.9,3.7,370
+Millwood Knight Gauntlets,4.6,23,4.4,3.8,3.2,3.1,3.2,3.1,22,20,12,4.7,5.3,450
+Shira's Gloves,1.7,19,1.7,2.3,2.7,2.8,2.7,1.9,11,19,19,0.7,2.1,260
+Lapp's Gauntlets,4.6,17,4.6,4.6,3.1,3.2,2.8,3.1,24,19,11,4.9,5.1,450
+Harald Legion Gauntlets,1.9,15,2.1,2.1,1.7,1.7,2.1,2.4,10,19,19,0.5,1.9,260
+Ruin Gauntlets,3.6,10,4.2,3.6,3.4,3.0,3.2,2.7,19,19,9,4.1,4.2,400
+Ringed Knight Gauntlets,3.9,15,4.2,3.7,2.9,3.5,3.2,2.6,21,13,13,3.2,4.4,400
+Iron Dragonslayer Gauntlets,3.7,19,3.9,4.1,2.2,2.6,3.2,3.0,26,17,8,4.8,5.1,450
+Violet Wrappings,0.7,10,0.4,0.4,3.0,2.5,2.8,2.9,11,17,21,0.1,0.9,210
+Black Witch Wrappings,0.5,9,1.2,0.7,3.4,3.3,3.3,3.5,5,13,23,0.1,1.2,220
+Desert Pyromancer Gloves,1.1,11,1.0,0.9,3.0,2.8,3.4,2.9,9,25,25,0.3,1.1,210
+
+
+== [DS3] gestures ==
+
+Icon and Name,Location
+Point forward,Automatically received.
+Point up,Automatically received.
+Point down,Automatically received.
+Wave,Automatically received.
+Beckon,Received from Yoel of Londor. Talk to him near the Foot of the High Wall bonfire and take him into your service. Talk to him again in Firelink Shrine to get the gesture.
+Call over,Received after you trade a Homeward Bone with the Pump-a-Rum Crow.
+Welcome,"Received from Cornyx of the Great Swamp. Talk to him in the Undead Settlement and accept his services. Then talk to him in Firelink Shrine, leave the conversation, and talk to him again to receive this gesture."
+Applause,Received from Ringfinger Leonhard: Talk to him once he appears in Firelink Shrine. He will give you five Cracked Red Eye Orbs. Talk to him again after acquiring a Pale Tongue and he will give you the Lift Chamber Key. Unlock the door at the lowest level below the Tower on the Wall bonfire and descend the lift. Kill the Darkwraith to receive a Red Eye Orb. Talk to Leonhard afterward and he will give you the gesture.
+Quiet Resolve,"Received from Anri of Astora near the Church of Yorshka bonfire in Irithyll of the Boreal Valley, if you are following his/her questline."
+Jump for joy,Automatically received.
+Joy,Automatically received.
+Rejoice,Received from Siegward of Catarina after you give him his armor just outside the Cleansing Chapel in the Cathedral of the Deep.
+Hurrah!,Received after selecting 'Talk' twice to Blacksmith Andre.
+Praise the Sun,Received after praying at the Altar of Sunlight in Lothric Castle. [Video Location]
+My thanks!,"Received from Knight Slayer Tsorig upon killing him or being killed by him, either as an invader in the Catacombs of Carthus or as an NPC in Smouldering Lake near the lake of fire with the bridge leading to a ladder to the ballista above it."
+Bow,Automatically received.
+Proper bow X,"Received upon summoning Yellowfinger Heysel in Farron Keep: Offer a Pale Tongue to Rosaria, Mother of Rebirth. Yellowfinger Heysel's summon sign will appear next to the tower full of slugs near the Keep Ruins bonfire. Notes: Abyss Watchers must still be alive. Giving a Pale Tongue to Rosaria, Mother of Rebirth will cause Sirris of the Sunless Realms' questline to fail and you will not be able to receive the Silvercat Ring, Sunset Armor Set, Sunset Shield, Sunless Talisman, Dragonslayer's Axe, or the Mirrah Chain Set (and Darkmoon Loyalty, if you didn't get it before) until the next NG cycle. However, she can be killed in Firelink Shrine to receive the Sunless Set and Sunless Talisman from the Shrine Handmaid if her quest has failed. There is a cap of 99 Pale Tongues you can offer. If you reach this limit, you can't offer more, and, consequently, you can't gain this gesture anymore. Pale Tongues used for respecs don't count toward the 99 limit."
+Dignified bow,Received from talking to Yuria of Londor.
+Duel bow X,"Received upon summoning the Londor Pale Shade once you have five Dark Sigils. Can be summoned near the Farron Keep Perimeter bonfire for the Abyss Watchers fight, or outside the fog gate for the Pontiff Sulyvahn fight if you are following the Lord of Hollows questline. Note that while the Londor Pale Shade can be summoned for the Soul of Cinder fight, doing this will not grant you the gesture."
+Legion Etiquette,Received from the Old Wolf of Farron after praying to it near the Old Wolf of Farron bonfire within Farron Keep.
+Darkmoon Loyalty,"Received from speaking with Sirris of the Sunless Realms in Firelink Shrine after giving the Dreamchaser's Ashes to the Shrine Handmaid, if done before offering a Pale Tongue to Rosaria"
+By my sword X,"Received from summoning Black Hand Gotthard, either before the Abyss Watchers or Pontiff Sulyvahn fights."
+Prayer,"Received from Irina of Carim. Talk to her for the first time in the Undead Settlement, and agree to touch her."
+Silent Ally,"Received from Orbeck of Vinheim after purchasing Aural Decoy, Farron Flashsword, Pestilent Mist, and Spook. Talk to him again after purchasing these spells, and he will give you this gesture."
+Rest,Received after resting at a bonfire for the first time.
+Collapse,Received from Hawkwood the Deserter after talking to him for the first time.
+Patches Squat,"Received from Unbreakable Patches. Talk to him in Firelink Shrine, then reload the area and he will be in this pose; talk to him to receive the gesture. Can also be received from Lapp at the beginning of the Shared Grave in The Ringed City at the bottom of the staircase."
+Prostration X,"Received from Unbreakable Patches, after replying ""No"" when he asks for forgiveness in Firelink Shrine, or after confronting him in the Cathedral of the Deep after he lowers the bridge with ""You know who I am""."
+Toast,"Received from Siegward of Catarina. Talk to him after defeating the Demon in the Undead Settlement, or talk to him in the kitchen near the Distant Manor bonfire in Irithyll of the Boreal Valley if previously missed."
+Sleep,"Received from Siegward of Catarina. Talk to him after receiving the 'Toast' gesture after defeating the Demon in the Undead Settlement, or talk to him in the kitchen near the Distant Manor bonfire in Irithyll of the Boreal Valley after receiving the 'Toast' gesture if previously missed."
+Curl up,"Received from Greirat of the Undead Settlement. Give him Loretta's Bone in Firelink Shrine, then reload the area and talk to him to receive the gesture."
+Stretch out,Found in the Profaned Capital on poor Laddersmith Gilligan's corpse next to the Profaned Capital bonfire.
+Path of the Dragon,"Found on a Drakeblood Knight's corpse in the hallway past the Oceiros, the Consumed King fight. Gesture required to access Archdragon Peak. [Video Location]"
+
+
+== [DS3] great_hammers ==
+
+Name & Icon,Attack PowerDamage Reduction (%),Requirements Param Bonus,Durability / Weight - Attack Type - Skill,Physical ATK,col_5,col_6,col_7,col_8,Critical,col_10,Strength,Dexterity,Intelligence,Faith,Durability,Skill,Acquired From
+Large Club,148 50,0 35,0 45,0 40,0 35,100 40,0 0 0,22 C,0 -,0 -,0 -,125 10,20 (-/-) Warcry,Looted from a corpse near the place you and Siegward of Catarina defeated the Fire Demon in Undead Settlement.,,,
+Gargoyle Flame Hammer,122 55,0 40,100 35,0 35,0 40,100 53,0 0 0,22 D,0 -,9 E,9 E,150 11,(12 /15) Kindled Flurry,Dropped by Rock Gargoyles using this weapon in Profaned Capital or Grand Archives.,,,
+Great Club,152 55,0 40,0 45,0 40,0 40,100 40,0 0 0,28 C,0 -,0 -,0 -,280 12,20( -/ -/) Warcry,Drops from Watchdog of Farron NPC outside Farron Keep.,,,
+Vordt's Great Hammer,176 55,0 45,0 35,0 35,0 45,100 45,50 0 0,30 C,0 -,0 -,0 -,170 17,12 (-/-) Perseverance,Transposed from Soul of Boreal Valley Vordt.,,,
+Great Mace,185 55,0 45,0 50,0 45,0 45,100 45,0 0 0,32 D,0 -,0 -,0 -,150 18,12 (-/-) Perseverance,Dropped from Cathedral Knights wielding this weapon.,,,
+Morne's Great Hammer,200 70,0 50,0 45,0 45,0 45,100 45,0 0 0,50 D,0 -,0 -,30 D,250 24,50 Morne's Rage,Dropped by Eygon of Carim if killed.,,,
+Great Wooden Hammer,103 50,0 35,0 30,0 30,0 35,100 35,0 0 0,18 C,0 -,0 -,0 -,135 6,13 Spin Bash,Dropped by Villagers at the Undead Settlement wielding this item,,,
+Smough's Great Hammer,205 70,0 50,0 45,0 45,0 50,100 45,0 0 0,45 C,0 -,0 -,0 -,205 24,12( -/ -) Perseverance,"Found in a chest in Irithyll of the Boreal Valley in the building with the paintings and Silver Knights, on the second floor.",,,
+Old King's Great Hammer,180 60,0 45,69 40,0 40,0 45,100 45,0 0 0,30 D,0 -,10 D,10 D,185 18.5,12 (-/15) Molten Perseverance,Created with the Soul of the Old Demon King,,,
+Pickaxe,140 50,0 35,0 30,0 30,0 35,100 40,0 0 0,18 C,9 -,0 -,0 -,105 8,11( -/ -) Galvanize,Located on a corpse in Irithyll Dungeon (near the giant).,,,
+Dragon Tooth,188 60,0 45,0 40,0 40,0 45,100 45,0 0 0,40 C,0 -,0 -,0 -,340 21,12 (-/-) Perseverance,Dropped by Havel in Archdragon Peak.,,,
+Spiked Mace,149 55,0 40,0 35,0 35,0 40,100 40,0 0 33,21 C,13 -,0 -,0 -,140 16,13 ( -/ 10) Spin Bash,Dropped by Evangelists at Undead Settlement,,,
+Quakestone Hammer,189 55,0 40,0 35,0 35,0 40,100 40,0 0 0,40 C,0 -,0 -,0 -,150 15,12 ( -/ 10) Quake,"Ashes of Ariandel DLC: Snowy Mountain, at the top of a pass, guarded by a red eyed Millwood Knight.",,,
+Ledo's Great Hammer,170 85,0 55,0 60,0 55,0 55,100 50,0 0 0,60 B,0 -,0 -,0 -,310 28,25(-/25) Call to Stone,Dropped by Silver Knight Ledo when he invades you in The Ringed City (Location),,,
+
+
+== [DS3] greataxes ==
+
+Name & Icon,Attack PowerDamage Reduction (%),Requirements Param Bonus,Durability / Weight - Attack Type - Skill,Physical ATK,col_5,col_6,col_7,col_8,Critical,col_10,Strength,Dexterity,Intelligence,Faith,Durability,Skill,Acquired From
+Greataxe,188 55,0 45,0 40,0 40,0 45,100 40,-,32 D,8 E,0 -,0 -,135 16,20 (-/ -) Warcry,One can be found Above The Old Wolf of Farron (near the stone demon):And occasionally are dropped by hollows wielding them.,,,
+Demon's Greataxe,157 50,0 40,88 35,0 35,0 40,100 40,-,28 C,0 E,12 D,12 D,60 14.5,35 (-/-) Demonic Flare,Transpose Soul of a Demon,,,
+Great Machete,167 55,0 40,0 35,0 35,0 40,100 35,-,24 D,10 E,0 -,0 -,85 14,20 (-/-) Sharpen,Drops by the Saw/Pot wielding enemies at Undead Settlement and Road of Sacrifices,,,
+Yhorm's Great Machete,185 55,0 45,0 40,0 40,0 45,100 40,-,38 C,10 -,0 -,0 -,140 19,20 (-/-) Warcry,Transpose Soul of Yhorm the Giant,,,
+Dragonslayer Greataxe,203 55,0 45,0 40,74 40,0 45,100 40,-,40 D,0 E,0 -,0 D,165 20,35 (-/-) Falling Bolt,Transpose Soul of Dragonslayer Armour,,,
+Black Knight Greataxe,216 60,0 45,0 50,0 40,0 45,100 40,-,36 C,18 D,0 -,0 -,150 19.5,20 (-/-) Warcry,Dropped by Black Knights wielding the weapon,,,
+Earth Seeker,154 55,0 45,0 40,0 40,0 45,100 40,-,24 C,0 -,0 -,15 D,115 17,30 (-/-) Earthen Wrath,Ashes of Ariandel DLC: Bottom of ravine in snowy mountain area,,,
+
+
+== [DS3] greatbows ==
+
+Name & Icon,Attack PowerDamage Reduction (%),Requirements Param Bonus,Durability / Weight - Attack Type - Skill,Physical ATK,col_5,col_6,col_7,col_8,Critical,col_10,Strength,Dexterity,Intelligence,Faith,col_15,Durability,Skill,Acquired From
+Dragonslayer Greatbow,126 --,-- --,-- --,-- --,-- --,100 --,--,20 D,20 D,- -,- -,50,100 10,-(20/ 20) Puncturing Arrow,Anor Londo,,,
+Onislayer Greatbow,111 --,-- --,-- --,-- --,-- --,100 --,--,18 E,24 C,- -,- -,63,65 7.5,-(17/ 17) Puncturing Arrow,Profaned Capital,,,
+Millwood Greatbow,139 --,-- --,-- --,-- --,-- --,100 --,--,28 C,12 E,- -,- -,39,100 9.0,-(20/20) Pierce Earth,"Ashes of Ariandel DLC: Up the path near the Millwood Ruins, guarded by wolves and Knights.",,,
+
+
+== [DS3] greatshields ==
+
+Name & Icon,Attack PowerDamage Reduction (%),RequirementsParam Bonus,Durability / Weight - Attack Type - Skill,Physical ATK,col_5,col_6,col_7,col_8,Critical,col_10,Strength,Dexterity,Intelligence,Faith,Durability,Skill,Acquired From
+Bonewheel Shield,111 100,0 63,0 59,0 54,0 63,100 59,0 0 0,30 D,10 -,0 -,0 -,115 15,14 Wheel of Fate,Dropped by Bonewheel Skeletons in Catacombs of Carthus and Smouldering Lake.,,,
+Twin Dragon Greatshield,106 84,0 59,0 63,0 66,0 59,100 63,0 0 0,16 D,0 -,0 -,0 -,105 7,16 (-/-) Shield Bash,Road of Sacrifices: Looted from a corpse in the forest after the halfway Fortress bonfire,,,
+Moaning Shield,136 100,0 81,0 69,0 76,0 67,100 77,0 0 0,50 D,0 -,0 -,0 -,205 21.5,10 (-/-) Moan,Dropped by Eygon of Carim.Looted from Eygon of Carim's corpse late-game in the old cell of Irina of Carim.,,,
+Lothric Knight Greatshield,111 100,0 83,0 66,0 54,0 63,100 64,0 0 0,36 D,0 -,0 -,0 -,140 15,16 (-/-) Shield Bash,Dropped by Lothric Knights wielding this Shield. Sold by Greirat for 5000 souls (after sending him to scavenge at Irithyll Valley).,,,
+Curse Ward Greatshield,125 100,0 75,0 69,0 63,0 75,100 66,0 0 0,34 D,0 -,0 -,0 -,150 17,- Weapon Skill,Looted from a corpse on an alter near the first short cut at Cathedral of the Deep.,,,
+Black Iron Greatshield,112 100,0 69,0 83,0 53,0 69,100 64,0 0 0,32 D,0 -,0 -,0 -,150 14.5,- Shield Bash,Dropped by Knight Slayer Tsorig underneath the Smouldering Lake.,,,
+Yhorm's Greatshield,132 100,0 74,0 76,0 63,0 74,100 73,0 0 0,40 D,0 -,0 -,0 -,205 20.5,16 (-/-) Shield Bash,Transposed from the Soul of Yhorm the Giant,,,
+Dragonslayer Greatshield,134 100,0 71,0 70,0 95,0 77,100 74,0 0 0,38 D,0 -,0 -,0 -,190 26,16 (-/-) Shield Bash,Transposed from the Soul of Dragonslayer Armour,,,
+Stone Greatshield,115 100,0 75,0 71,0 71,0 75,100 67,0 0 0,38 D,0 -,0 -,0 -,170 18,16 (-/-) Shield Bash,Dropped by Elder Ghru in a circle in the swamp in Farron Keep,,,
+Greatshield of Glory,134 100,0 70,0 65,0 52,0 63,100 80,0 0 0,D 40,- 0,- 0,- 0,190 18.5,16 (-/-) Shield Bash,Dropped by a Mimic in the Profaned Capital (near boss fog).,,,
+Ancient Dragon Greatshield,87 77,0 45,0 43,0 46,0 45,100 54,0 0 0,D 16,- 0,- 0,- 0,105 6.5,- Weapon Skill,"Looted from a corpse in Archdragon peak, on the arch just after the first bonfire and before the boss fight.",,,
+Havel's Greatshield,143 100,0 83,0 83,0 82,0 83,100 75,0 0 0,D 40,- 0,- 0,- 0,270 28,16 (-/-) Stone Flesh,Dropped by Havel after defeating him in Archdragon Peak.,,,
+Wolf Knight's Greatshield,124 100,0 68,0 68,0 65,0 52,0 68,0 0 0,30 D,0 -,0 -,0 -,140 11,- Weapon Skill,Can be obtained by reaching rank 2 in the Watchdogs of Farron Covenant.,,,
+Cathedral Knight Greatshield,112 100,0 63,0 60,0 54,0 83,100 67,0 0 0,D 32,- 0,- 0,- 0,150 15.5,16 (-/-) Shield Bash,Dropped by Cathedral Knights wielding the Hammer and Greatshield.,,,
+Dragonhead Greatshield,145 100,0 55,0 90,0 30,0 55,100 60,0 0 0,D 35,- 0,- 0,E 15,150 18,16(-/-) Dragon Roar,"From the Ringed City Streets bonfire, head through the shortcut until you get to the bridge with the dragon in the distance. This shield is under the bridge.",,,
+Giant Door Shield,107 100,0 75,0 45,0 80,0 75,150 60,0 0 0,C 45,- 0,- 0,- 0,150 21.5,-(17/20) Lockout,"The Ringed City: Just past the Earthen Peak Ruins bonfire, to the right of the first flying hollow is a shack. Down the path to the left is a corpse with this shield. It is at the very end of the path near the cliff's edge",,,
+
+
+== [DS3] greatswords ==
+
+Name & Icon,Attack PowerDamage Reduction (%),Requirements Param Bonus,Durability / Weight - Attack Type - Skill,Physical ATK,col_5,col_6,col_7,col_8,Critical,col_10,Strength,Dexterity,Intelligence,Faith,Durability,Skill,Acquired From
+Claymore,138 50,0 35,0 30,0 30,0 35,100 35,-,16 D,13 D,0 -,0 -,75 9.0,- (17/20)Stance,In High Wall of Lothric. Beneath the living dragon. Dropped by enemies wielding it in Irithyll,,,
+Bastard Sword,138 50,0 35,0 30,0 30,0 35,100 35,-,16 D,10 D,0 -,0 -,75 8.0,12 (-/15)Stomp,Sold by Greirat of the Undead Settlement,,,
+Hollowslayer Greatsword,145 50,0 35,0 30,0 30,0 35,100 35,-,14 D,18 C,0 -,0 -,70 8.5,- (17/20) Stance,"Soul Transposition using Soul of Rotted Greatwood for 1,000 Souls",,,
+Executioner's Greatsword,131 50,0 35,0 30,0 30,0 35,100 40,-,19 C,13 E,0 -,0 -,85 9.0,12 (-/-) Stomp,Looted at Cathedral of the Deep,,,
+Black Knight Sword,173 55,0 40,0 40,0 35,0 40,100 40,-,20 D,18 D,0 -,0 -,100 10.0,10 (-/-) Perseverance,Looted at Smouldering Lake,,,
+Flamberge,158 50,0 35,0 30,0 30,0 35,100 35,33,15 D,14 D,0 -,0 -,100 8.5,- (17/20) Stance,Dropped by the thieves wielding the sword at Undead Settlement,,,
+Wolf Knight's Greatsword,126 55,0 40,0 35,0 35,0 40,100 40,-,24 C,18 D,0 -,0 -,95 11.5,-(19/23) Wolf Sword,Soul Transposition using Soul of the Blood of the Wolf,,,
+Wolnir's Holy Sword,151 45,0 35,0 30,0 30,0 45,100 30,-,13 D,13 E,0 -,13 D,70 7.5,30( -/ -) Wrath of the Gods,Soul Transposition using Soul of High Lord Wolnir,,,
+Greatsword of Judgement,101 50,67 35,0 30,0 30,0 35,100 40,-,17 D,15 D,12 D,- -,85 9.0,Stance of Judgment,Soul Transposition using Soul of Pontiff Sulyvahn,,,
+Moonlight Greatsword,69 55,130 60,0 35,0 35,0 40,100 40,-,16 E,11 -,26 C,0 -,75 10.5,18(-/-) Moonlight Vortex,Soul Transposition using Soul of Consumed Oceiros,,,
+Storm Ruler,110 50,0 35,0 30,0 30,0 35,100 35,-,0 D,0 D,0 -,0 -,10 8.0,-(20/20) Storm King,Found in the boss room for Yhorm the Giant/ Completing Siegward of Catarina's questline,,,
+Firelink Greatsword,119 55,0 35,80 40,0 30,0 35,100 40,-,20 D,10 D,10 -,10 -,105 9.0,25(-/-) Ember (Skill),Soul Transposition using Soul of the Lords,,,
+Twin Princes' Greatsword,118 55,0 35,73 30,0 30,0 35,100 40,-,22 D,14 D,0 D,0 D,95 9.5,22 / 22 Sacred Light and Flame,Trading Lothric's Holy Sword and Lorian's Greatsword at Ludleth of Courland,,,
+Drakeblood Greatsword,83 50,65 35,0 30,65 30,0 35,100 35,-,18 D,16 D,0 -,0 -,75 6.0,- (17/20) Stance,Dropped by knight NPC in Archdragon Peak.,,,
+Onyx Blade,80 50,0 35,0 30,0 30,115 35,100 35,-,14 E,12 E,15 D,15 D,75 9.0,19 (-/-) Elfriede's Blackflame,Ashes of Ariandel DLC: Dropped by Sir Vilhelm,,,
+Gael's Greatsword,147 50,0 35,0 30,0 30,0 35,100 40,-,19 C,13 D,0 -,0 -,50 9.0,8(17/17) Blade of Peril,Obtained via Soul Transposition from the Soul of Slave Knight Gael,,,
+
+
+== [DS3] halberds ==
+
+Name & Icon,Attack PowerDamage Reduction (%),Requirements Param Bonus,Durability / Weight - Attack Type - Skill,Physical ATK,col_5,col_6,col_7,col_8,Critical,col_10,Strength,Dexterity,Intelligence,Faith,Durability,Skill,Acquired From
+Halberd,125 40,0 25,0 20,0 20,0 25,100 20,0 0 0,16 D,12 D,0 -,0 -,75 8.0,15( -/13) Charge,Sold by the Shrine Handmaid at Firelink Shrine for 1500 souls. Dropped by Hollow Soldiers with Halberds in High Wall of Lothric,,,
+Lucerne,126 40,0 25,0 20,0 20,0 25,100 20,0 0 0,15 D,13 D,0 -,0 -,75 7.5,8 (-/14) Spin Sweep,Looted from a corpse to the right of the entrance to Emma at her church in High Wall of Lothric.,,,
+Winged Knight Halberd,135 50,0 30,0 25,0 25,0 30,100 25,0 0 0,26 D,16 E,0 -,0 -,145 14,10(-/18) Chain Spin,Dropped by Winged Knights wielding this weapon (rare drop),,,
+Red Hilted Halberd,130 40,0 25,0 20,0 20,0 25,100 20,0 0 0,14 D,14 D,0 -,0 -,80 8.0,11 (-/-) Perseverance,"In the sewers of Undead Settlement, next to where you find the statue of Velka.",,,
+Black Knight Glaive,150 40,0 25,0 30,0 20,0 25,100 25,0 0 0,28 D,18 D,0 -,0 -,115 9.0,8 (-/14) Spin Sweep,Found in the boss arena for Champion Gundyr.,,,
+Gundyr's Halberd,145 45,0 30,0 25,0 25,0 30,100 25,0 0 0,30 C,15 E,0 -,0 -,500 13.0,15 (-/15) Champion's Charge,Craft via Soul Transposition from Soul of Champion Gundyr,,,
+Immolation Tinder,118 40,0 25,75 20,0 20,0 25,100 25,0 0 0,18 D,18 D,12 B,12 -,85 10.0,20(-/-) Punitive Flame,Drops from Fire Witches in Irithyll of the Boreal Valley.,,,
+Crescent Axe,119 40,0 25,0 20,0 20,0 25,100 20,-,14 D,12 D,0 -,0 -,75 6.0,20 (-/-) War Cry,Purchased from Shrine Handmaid after giving her Paladin's Ashes.,,,
+Glaive,141 45,0 30,0 25,0 25,0 30,100 25,-,17 D,11 E,0 -,0 -,95 11.0,8(-/14) Spin Sweep,Buy for 3500 souls from Greirat,,,
+Splitleaf Greatsword,132 40,0 25,0 20,0 20,0 25,100 20,0 0 0,26 C,16 E,0 -,0 -,90 13.5,17/20 Wind Wheel,Can be bought from the Stone-humped Hag at The Dreg Heap,,,
+Crucifix of the Mad King,124 45,0 30,0 25,0 25,0 25,74 25,0 0 0,19 D,0 -,10 E,14 D,80 12.0,-(-/17) Mad King's Folly,Drops from Shira when you face her in the final area of The Ringed City,,,
+
+
+== [DS3] hammers ==
+
+Name & Icon,Attack PowerDamage Reduction (%),Requirements Param Bonus,Durability / Weight - Attack Type - Skill,Physical ATK,col_5,col_6,col_7,col_8,Critical,col_10,Strength,Dexterity,Intelligence,Faith,Durability,Skill,Acquired From
+Mace,115 45,0 30,0 25,0 25,0 30,100 30,-,12 C,7 E,0 -,0 -,80 5.0,9 (-/ -) Perseverance,Cleric starting weapon/ Sold by Greirat,,,
+Club,108 40,0 25,0 35,0 30,0 25,100 30,-,10 C,0 -,0 -,0 -,90 2.5,20 (-/-) Warcry,Deprived starting weapon/ Dropped by hollows and also looted at High Wall of Lothric,,,
+Morning Star,122 45,0 30,0 25,0 25,0 30,100 30,33,11 D,9 E,0 -,0 -,?? 5.0,9 (-/ -) Perseverance,Sold by Shrine Handmaid after you give her the Paladin Ashes,,,
+Reinforced Club,110 45,0 30,0 30,0 30,0 30,100 30,33,12 C,0 -,0 -,0 -,45 4.0,20 (-/ -) Warcry,Looted at Undead Settlement,,,
+Drang Hammers,110 45,0 30,0 25,0 25,0 30,100 30,-,18 C,16 E,0 -,0 -,80 9.0,7 (-/15) Spin Bash,Looted at Cathedral of the Deep,,,
+Heysel Pick,93 50,70 30,0 25,0 25,0 30,100 35,-,12 D,10 E,19 C,0 -,70 4.5,9 (-/-) Steady Chant,Dropped by Yellowfinger Heysel at Road of Sacrifices,,,
+Blacksmith Hammer,105 45,0 30,0 25,0 25,0 30,100 30,-,13 C,13 -,0 -,0 -,95 5.0,9 (-/-) Perseverance,Looted at Untended Graves,,,
+Warpick,113 45,0 30,0 25,0 25,0 30,100 30,-,12 C,10 E,0 -,0 -,70 4.5,9 (-/-) Galvanize,Sold by Greirat after he returns from his first quest,,,
+
+
+== [DS3] helms ==
+
+Name & Icon,Physical Def,Strength,Slash Def,Thrust Def,Magic Def,Fire Def,Lightning Def,Dark Def,Bleed Res,Poison Res,Curse Res,Poise,Weight,Durability
+Standard Helm,3.7,27,3.7,3.7,3.0,3.3,2.4,3.0,22,29,24,2.5,3.7,280
+Brigand Hood,3.5,28,3.5,3.5,2.7,3.0,3.3,2.7,19,29,19,1.4,2.7,260
+Lucatiel Mask,3.9,22,3.0,2.8,4.0,3.8,4.8,3.8,22,26,24,1.6,3.3,270
+Chain Helm,3.8,15,4.6,3.4,2.6,2.0,1.1,2.9,28,15,11,1.9,3.9,350
+Northern Helm,4.8,26,4.6,4.4,2.9,4.2,1.8,2.6,24,15,10,4.0,4.8,370
+Creighton's Steel Mask,4.5,19,6.0,4.1,3.9,4.2,2.5,4.1,26,19,12,6.6,5.7,410
+Iron Helm,4.9,17,4.7,4.7,4.8,4.8,4.7,4.8,17,17,15,6.6,5.8,380
+Sellsword Helm,3.1,16,3.6,3.9,2.7,2.7,2.7,2.7,27,17,12,3.5,3.1,350
+Undead Legion Helm,3.8,29,2.6,3.5,4.7,4.8,4.9,4.2,19,24,21,2.3,4.0,360
+Herald Helm,4.2,17,4.4,4.0,3.5,3.2,1.6,3.2,24,14,10,3.4,3.7,350
+Knight Helm,4.7,18,4.5,4.4,2.7,3.8,2.4,3.0,22,17,12,4.4,5.1,380
+Nameless Knight Helm,3.8,14,4.2,3.6,2.1,3.4,2.4,2.1,26,15,10,2.3,3.8,350
+Fallen Knight Helm,4.6,19,3.6,4.0,3.1,4.2,3.5,2.6,21,14,12,3.5,4.6,370
+Elite Knight Helm,4.9,15,4.9,4.5,3.9,4.2,3.3,3.7,24,15,9,4.7,5.2,380
+Alva Helm,4.4,19,4.4,4.0,3.4,4.0,3.4,3.8,28,18,12,3.7,4.2,360
+Drakeblood Helm,5.2,21,6.2,5.0,4.8,4.6,4.2,4.2,34,19,15,5.7,6.1,410
+Faraam Helm,5.6,28,5.6,5.1,4.2,4.4,4.3,4.3,27,22,14,7.0,6.3,430
+Sunset Helm,5.3,14,5.3,4.9,3.2,3.7,2.6,3.7,26,25,15,3.4,4.8,380
+Sunless Veil,1.7,10,1.2,1.3,5.2,4.7,4.8,5.3,7,14,30,0.7,1.8,230
+Brass Helm,4.7,17,4.7,4.1,4.7,3.4,2.3,3.4,27,15,13,3.1,4.7,370
+Helm of Favor,4.5,25,4.5,4.7,3.7,3.9,2.8,3.9,30,23,18,6.0,5.7,400
+Eastern Helm,4.1,15,5.6,3.7,1.6,3.4,1.2,1.6,32,12,9,3.3,3.9,360
+Helm of Thorns,3.7,15,4.9,3.9,2.3,2.3,2.3,1.8,30,13,11,2.2,3.8,350
+Catarina Helm,6.8,27,6.8,6.3,4.5,4.9,5.7,5.1,34,27,17,8.6,7.3,460
+Morne's Helm,6.8,27,6.8,6.8,5.5,5.4,5.2,4.0,31,17,17,8.0,7.7,470
+Lothric Knight Helm,5.2,22,6.3,5.0,4.2,4.7,3.1,3.8,31,18,14,6.3,5.8,410
+Cathedral Knight Helm,6.0,26,5.2,6.4,4.9,4.4,4.7,4.1,28,26,20,7.8,7.2,470
+Winged Knight Helm,6.7,29,6.7,6.3,4.3,5.0,4.7,5.7,31,29,18,6.9,7.0,470
+Outrider Knight Helm,4.4,32,4.2,4.4,2.3,3.1,2.3,1.1,17,12,5,2.8,3.8,360
+Pontiff Knight Crown,2.8,31,2.8,2.5,4.7,3.3,4.3,5.0,15,12,10,2.0,2.7,270
+Fire Witch Helm,4.7,15,3.7,3.7,4.1,4.5,2.8,3.9,18,13,11,3.0,3.9,350
+Dancer's Crown,3.3,23,4.4,4.0,2.7,2.2,2.5,2.8,14,10,7,1.5,2.8,270
+Dark Mask,4.3,15,3.9,3.7,3.1,2.5,1.3,3.1,18,14,7,2.7,4.0,350
+Black Knight Helm,5.3,19,4.8,4.6,3.4,4.6,3.2,3.8,27,19,19,4.6,5.4,400
+Silver Knight Helm,5.1,17,6.0,5.8,4.9,4.7,4.3,4.3,24,19,13,6.8,5.9,410
+Dragonslayer Helm,5.0,18,5.5,5.5,3.7,4.1,4.1,2.9,28,18,16,5.5,5.6,410
+Wolf Knight Helm,4.4,17,4.4,4.4,3.0,4.2,2.2,3.8,23,16,17,2.9,4.2,360
+Smough's Helm,6.8,27,6.7,5.8,4.7,4.6,4.9,4.9,27,27,24,9.9,11.8,500
+Lorian's Helm,5.4,17,5.4,3.8,4.8,3.6,3.6,4.8,24,12,15,4.6,5.5,380
+Golden Crown,3.6,28,3.0,2.2,4.2,4.8,3.8,4.2,21,29,27,2.2,3.5,280
+Firelink Helm,4.8,16,4.8,4.4,2.6,4.4,1.8,1.4,20,12,8,4.2,4.1,350
+Black Iron Helm,6.5,21,6.9,6.6,4.8,5.9,4.4,4.8,26,19,13,7.6,6.5,450
+Executioner Helm,6.7,29,6.7,6.1,4.9,5.0,4.0,4.7,31,28,21,7.5,6.8,460
+Exile Mask,6.5,24,7.0,5.9,4.4,5.0,3.6,4.5,39,29,19,8.7,7.1,470
+Gundyr's Helm,5.9,25,7.0,5.6,4.4,4.6,4.4,4.4,35,25,25,8.3,7.2,470
+Havel's Helm,6.7,30,6.7,6.3,5.0,5.8,4.6,5.0,31,30,26,10.2,10.8,500
+Assassin Hood,1.9,20,1.9,2.2,3.3,4.3,3.3,2.5,17,27,20,1.0,1.8,220
+Black Hand Hat,2.6,21,3.8,2.9,4.2,4.4,3.3,2.7,19,30,25,1.1,2.5,260
+Thief Mask,2.2,21,2.2,2.2,2.2,2.5,2.8,2.2,23,26,17,0.6,2.1,250
+Shadow Mask,2.5,20,1.7,2.5,2.0,1.5,2.0,1.1,15,18,18,0.4,1.5,210
+Silver Mask,3.3,28,3.3,3.3,3.5,4.2,3.3,2.8,19,27,27,1.9,3.3,280
+Sneering Mask,1.2,22,1.2,1.0,3.6,4.1,2.4,1.6,35,28,20,0.5,2.1,250
+Billed Mask,4.0,14,4.3,3.6,2.6,4.1,2.0,3.7,24,16,18,2.2,3.7,360
+Painting Guardian Hood,1.9,15,1.9,1.9,4.3,1.9,2.3,1.9,25,30,25,0.6,1.4,220
+Sorcerer Hood,1.0,14,1.0,0.9,4.4,4.0,4.2,4.5,11,18,30,0.1,1.4,210
+Old Sorcerer Hat,1.5,12,1.3,1.5,4.9,4.3,4.5,4.9,11,15,28,0.6,1.2,210
+Court Sorcerer Hood,0.9,15,0.9,1.1,4.1,3.7,4.5,4.4,14,21,33,0.1,1.5,220
+Karla's Pointed Hat,1.6,13,1.4,1.2,5.0,4.7,4.9,4.9,9,15,23,0.4,1.7,220
+Crown of Dusk,0.8,8,0.2,0.0,-30.0,4.0,3.0,3.2,5,12,33,0.0,1.0,200
+Xanthous Crown,2.1,24,2.6,2.1,4.6,2.2,4.8,4.6,21,27,27,1.3,3.0,270
+Sage's Big Hat,2.5,13,2.0,1.6,5.2,3.6,4.6,4.6,15,21,26,0.4,1.9,230
+Pyromancer Crown,0.7,15,0.7,0.7,4.2,4.8,3.6,4.0,9,14,21,0.0,1.1,200
+Old Sage's Blindfold,1.0,11,0.8,0.8,4.0,4.4,3.8,4.2,10,14,28,0.0,1.0,200
+Conjurator Hood,1.5,19,1.5,1.3,4.4,5.1,5.0,4.6,13,27,26,0.6,1.8,230
+Cleric Hat,1.9,12,1.4,1.6,5.0,3.8,4.9,5.0,18,25,29,0.5,1.4,220
+Maiden Hood,1.0,12,1.0,0.9,4.6,4.3,4.4,4.6,8,16,31,0.0,1.4,220
+Evangelist Hat,3.5,24,3.2,2.9,4.1,4.6,4.6,2.9,15,27,25,2.1,3.5,280
+Archdeacon White Crown,1.6,19,1.9,1.9,5.0,4.6,5.0,5.4,11,19,38,1.6,1.8,230
+Aristocrat's Mask,6.0,17,5.8,5.5,4.1,4.3,2.5,3.9,25,17,28,6.8,5.7,400
+Hood of Prayer,0.8,13,0.8,0.8,3.9,3.5,3.7,4.4,8,28,40,0.2,1.3,210
+Ragged Mask,1.1,7,1.1,1.1,3.8,3.2,3.5,3.8,13,25,29,0.4,0.7,100
+Worker Hat,1.9,20,2.2,2.2,3.0,2.5,2.5,4.5,16,31,27,1.1,2.3,230
+Grave Warden Hood,1.5,8,2.9,1.8,3.3,3.3,4.0,1.4,30,28,25,0.5,1.5,220
+Steel Soldier Helm,4.4,18,4.4,4.2,2.9,2.9,2.0,3.7,27,18,13,3.2,4.6,370
+Thrall Hood,2.0,19,1.6,1.2,4.2,3.8,4.0,4.2,17,28,38,0.8,1.5,220
+Pharis's Hat,2.7,24,2.7,2.7,3.6,3.9,4.1,3.6,17,26,20,1.4,2.3,250
+Wolnir's Crown,3.1,27,3.1,2.8,3.9,4.3,4.5,4.9,18,29,37,1.8,3.4,270
+Symbol of Avarice,5.8,27,5.0,4.4,4.1,3.4,4.8,3.8,27,27,22,8.9,10.6,500
+Follower Helm,4.2,21,4.4,4.5,3.4,3.1,2.5,2.8,21,14,10,3,3.7,??
+Slave Knight Hood,4.8,15,4.8,3.6,2.0,2.8,2.0,2.5,26,14,9,3.0,3.8,350
+Vilhelm's Helm,4.6,16,4.6,5.2,3.4,4.4,2.0,4.0,19,15,13,4.4,4.8,370
+Millwood Knight Helm,6.7,30,6.3,5.5,4.6,4.5,4.6,4.5,29,26,16,6.9,6.7,450
+Ordained Hood,2.0,21,2.8,1.0,5.2,4.0,4.6,4.5,9,19,32,0.4,1.9,230
+Lapp's Helm,6.8,22,6.8,6.8,4.6,4.7,4.2,4.6,31,25,15,7.3,6.5,450
+Ruin Helm,4.6,13,5.5,4.6,4.2,3.8,4.0,3.4,25,24,12,6.1,5.4,400
+Ringed Knight Hood,1.1,14,1.7,0.9,4.2,4.4,4.5,4.0,12,18,33,0.2,1.4,220
+Iron Dragonslayer Helm,6.1,24,6.4,6.6,3.9,4.5,5.3,5.1,33,22,11,7.0,6.3,450
+Black Witch Hat,1.9,12,1.1,1.4,4.9,4.8,4.8,5.0,6,17,30,0.2,1.8,230
+Black Witch Veil,0.8,8,0.8,0.8,4.7,4.5,4.6,4.9,4,14,44,0.0,1.4,210
+Desert Pyromancer Hood,1.9,13,1.2,1.2,3.6,4.5,4.2,4.7,10,30,31,0.3,1.2,210
+Shira's Crown,0.8,11,0.8,1.0,4.4,4.3,4.1,3.9,5,16,30,0.2,1.0,200
+Blindfold Mask,1.0,10,0.8,0.9,3.6,2.8,4.4,-30.0,6,15,32,0.0,1.1,200
+White Preacher Head,2.6,24,4.0,4.0,4.6,3.8,4.0,2.9,17,28,29,2.6,3.5,280
+
+
+== [DS3] katanas ==
+
+Name & Icon,Attack PowerDamage Reduction (%),Requirements Param Bonus,Durability / Weight - Attack Type - Skill,Physical ATK,col_5,col_6,col_7,col_8,Critical,col_10,Strength,Dexterity,Intelligence,Faith,Durability,Skill,Acquired From
+Darkdrift,134 40,0 25,0 20,0 20,0 25,100 30,34,10 E,28 D,0 -,0 -,35 3.5,20 (-/-) Darkdrift,Dropped by Yuria of Londor at Firelink Shrine,,,
+Washing Pole,121 55,0 30,0 25,0 25,0 30,100 35,33,18 D,20 D,0 -,0 -,20 8.5,- (22/8) Hold,"Sold by the Shrine Handmaid after giving her the Easterner's Ashes for 7,500 souls",,,
+Uchigatana,115 45,0 25,0 20,0 20,0 25,100 30,34,11 E,16 C,0 -,0 -,35 5.5,-(17/5) Hold,Dropped by Sword Master Saber just outside Firelink Shrine,,,
+Chaos Blade,103 45,0 25,0 20,0 20,0 25,100 30,35,16 E,14 A,0 -,0 -,35 6.0,-(17/5) Hold,"Outside of the Untended Graves, Firelink Shrine",,,
+Black Blade,122 50,0 30,0 25,0 25,0 30,100 35,33,18 E,18 C,0 -,0 -,50 6.5,-(17/5) Hold,Looted from a Mimic near the Flame Demon on the way to Smouldering Lake,,,
+Onikiri and Ubadachi,104 45,0 25,0 20,0 20,0 25,100 30,33,13 D,25 C,0 -,0 -,35 8.5,20 (-/-) Onislayer,Dropped by Black Hand Kamui at the top floor the Grand Archives,,,
+Bloodlust,105 45,0 25,0 25,0 25,0 25,100 30,34,11 E,24 C,0 -,0 -,40 5.0,10 ( -/ -) Bloodlust,Rank 1 reward in the Mound-Makers covenant,,,
+Frayed Blade,101 45,- 25,- 30,- 15,41 40,100 30,34,11 E,40 B,0 -,0 -,20 8.0,-(18/11) Hold,Transposed with Soul of Darkeater Midir,,,
+
+
+== [DS3] key_items ==
+
+Name & Icon,Usage,Location
+Dark Sigil,Enables Hollowing,Given by Yoel of Londor
+Tower Key,Opens the door to the Bell Tower in Firelink Shrine.,"Sold by the Shrine Handmaid in Firelink Shrine for 20,000 Souls"
+Small Lothric Banner,Bring to cliff in Vordt Boss room to take player to Undead Settlement,Given by Emma at High Wall of Lothric
+Great Swamp Pyromancy Tome,"Give to Cornyx to unlock Fire Orb, Bursting Fireball, Poison Mist, Profuse Sweat","Road of Sacrifices, Halfway Fortress, alongside lake drop down ledges, near the large crab"
+Lift Chamber Key,"Unlocks door in High Wall of Lothric (Tower on the Wall bonfire). You need to go downstairs, and drop two more floors down. There, where that door & elevator behind it, with Dark Wraith awaiting below.","Leonhard, after talking to him with, while atleast one Pale Tongue lies in your inventory."
+Braille Divine Tome of Carim,"Unlocks Med Heal, Tears of Denial, Force","Road of Sacrifices, drop down from bridge to ledge, in a nearby cave"
+Sage's Scroll,"Unlocks Great Farron Dart, Farron Hail, Pestilent Mist",Near the Keep Ruins bonfire on the Road of Sacrifices
+Cell Key,"Opens the cell to Greirat of the Undead Setlement, at the bottom of ""The tower on the wall"" bonfire.",High Wall of Lothric
+Fire Keeper Soul,Give to the Fire Keeper to enable healing of the Dark Sigil.,Top of Bell Tower after using Tower Key
+Grave Key,Opens a door in the sewer that leads to Irina of Carim.,Sold by Shrine Handmaidfor 1500 souls
+Londor Braille Divine Tome,"Unlocks Vow of Silence, Dark Blade, Dead Again",Sold by Yuria of Londor for 50 souls
+Deep Braille Divine Tome,Unlocks Deep Protection and Gnaw,Mimic in Cathedral of the Deep
+Small Doll,Used to break the seal which keeps players from passing the bridge which leads to Irithyll of the Boreal Valley.,Defeat Deacons of the Deep
+Cinders of a Lord,Place upon the thrones of the Lords of Cinder in Firelink Shrine after defeating them.,"Defeat Abyss Watchers Defeat Yhorm the Giant Defeat Aldrich, Devourer of Gods Defeat Lothric, Younger Prince"
+Carthus Pyromancy Tome,"Give to Cornyx to unlock Acid Surge, Carthus Beacon, Carthus Flame Arc","Catacombs of Carthus, behind illusory wall"
+Izalith Pyromancy Tome,"Give to Cornyx to unlock Chaos Storm, Great Chaos Fire Orb","Smouldering Lake, in a room with a demon statue with the tome lying in front."
+Loretta's Bone,Give to Greirat to complete his quest.,Undead Settlement
+Old Cell Key,Unlock cell in Irithyll Dungeon,Across the Mimic in Irithyll Dungeon
+Grand Archives Key,Key to the main entrance to the Grand Archives of Lothric.,On corpse outside Grand Archives
+Quelana Pyromancy Tome,"Give to Karla to unlock Fire Whip, Firestorm, Rapport","Catacombs of Carthus, behind illusory wall"
+Grave Warden Pyromancy Tome,"Give to Karla to unlock Black Flame, Black Fire Orb","Catacombs of Carthus, High Lord Wolnir bonfire room"
+Golden Scroll,"Unlocks Cast Light, Repair, Hidden Weapon, Hidden Body, Twisted Wall of Light","Road of Sacrifices, Keep ruins, poison swamp, in a cave by the basilisks"
+Braille Divine Tome of Lothric,"Unlocks Bountiful Light, Blessed Weapon, Magic Barrier","Lothric Castle, courtyard by Dragonslayer Armour, through broken wall, drop down into lower room"
+Basin of Vows,Trigger the boss fight with Dancer of the Boreal Valley.,Dropped by Emma on the High Wall of Lothric.
+Logan's Scroll,"Unlocks Soul Spear, Homing Soulmass","Irithyll Dungeon, poison swamp in Profaned Capital, building on roof, drops from NPC"
+Sword of Avowal,"Used to marry Anri of Astora, and thereby unlocking a different ending.",Given by the Pilgrim of Londor during Yuria's questline.
+Eyes of a Fire Keeper,"Give to the Fire Keeper to ""remove fire from the world"". This changes the firelink shrine music, as well as providing 2 more ending options when interacting with the fire keeper summon sign instead of the bonfire at the end of the game.",Behind an illusory wall in Untended Graves
+Crystal Scroll,"Unlocks Homing Crystal Soulmass, Crystal Soul Spear, Crystal Magic Weapon","Grand Archives, Top of Crystal Sage room, behind bookcase and lever."
+Jailbreaker's Key,Unlocks door dividing a hallway inside Irithyll Dungeon,"Irithyll Dungeon, in a cell on the right in the hallway you enter via the holes in adjacent cells."
+Jailer's Key Ring,"Unlocks cell in Irithyll Dungeon holding Karla, as well as 2 more cells in the dungeon containing items.","Profaned Capital to Irithyll Dungeon, take the staircase from the toxic pool up and to the left, past the 2 jailers and left on a corpse at the end of the path."
+Hawkwood's Swordgrass,Allows you to face Hawkwood at the Abyss Watchers bonfire in Farron Keep for a chance to acquire the Twinkling Dragon Head Stone.,"Blacksmith Andre, after finding the Twinkling Dragon Torso Stone."
+Contraption Key,Allows you to gain access to the attic in the Painted World of Ariandel,Dropped by Sir Vilhelm
+Small Envoy Banner,Place after you clear The Dreg Heap to be transported to The Ringed City (Location),Corpse after defeating the Demon Prince
+Young Grass Dew,Slightly increases absorption and stamina regeneration,Spears of the Church covenant reward for turning in 10 Filianore's Spear Ornament
+Blood of the Dark Soul,Can be given to Painting Woman if you have completed Ashes of Ariandel for extra dialogue.,Dropped by Slave Knight Gael (boss)
+
+
+== [DS3] leg_armor ==
+
+Name & Icon,Physical Def,Strength,Slash Def,Thrust Def,Magic Def,Fire Def,Lightning Def,Dark Def,Bleed Res,Poison Res,Curse Res,Poise,Weight,Durability
+Hard Leather Boots,5.1,35,5.1,5.1,4.1,4.6,2.8,4.1,26,38,29,2.9,4.7,270
+Brigand Trousers,6.0,41,6.0,6.0,4.8,5.2,5.6,4.8,32,43,32,3.1,5.0,280
+Mirrah Trousers,5.1,29,3.7,3.7,5.0,4.6,6.4,4.6,29,37,32,1.2,3.5,260
+Chain Leggings,6.7,17,7.9,6.0,5.5,4.5,3.1,5.9,36,17,10,4.9,5.1,350
+Northern Trousers,6.1,42,6.1,6.1,2.9,6.8,5.7,2.9,24,32,32,3.1,4.3,270
+Mirrah Chain Leggings,6.5,25,7.7,5.1,5.5,5.5,2.9,4.2,32,23,18,5.8,5.9,360
+Iron Leggings,5.9,19,5.9,5.9,5.5,5.5,5.1,5.5,21,17,16,6.4,5.0,350
+Sellsword Trousers,4.7,19,4.2,4.7,2.3,3.7,2.3,2.3,28,17,9,3.4,3.6,260
+Drang Shoes,4.7,39,5.2,5.2,6.3,5.0,7.0,6.3,24,37,26,1.3,4.2,250
+Undead Legion Leggings,5.6,43,3.1,4.8,6.9,7.1,7.2,5.6,27,35,29,2.6,4.6,280
+Herald Trousers,7.1,20,6.8,6.5,4.6,4.6,1.8,4.1,26,20,11,5.1,5.3,350
+Knight Leggings,8.1,22,7.4,7.7,4.9,6.2,4.4,5.4,26,23,13,7.4,6.6,370
+Nameless Knight Leggings,7.0,20,7.6,6.7,4.9,6.9,5.4,4.9,36,22,11,5.9,5.6,360
+Fallen Knight Trousers,7.3,20,5.6,6.4,5.0,7.8,6.3,5.5,22,10,9,4.9,5.3,350
+Elite Knight Leggings,8.3,26,8.3,7.4,6.8,7.4,5.7,6.5,38,25,16,7.0,6.8,370
+Alva Leggings,7.1,22,7.1,6.5,5.4,6.5,5.4,6.2,36,21,12,6.7,5.5,360
+Drakeblood Leggings,7.9,25,9.5,7.5,7.2,6.9,6.3,6.3,45,23,17,9.8,8.3,410
+Faraam Boots,7.2,37,7.2,6.6,5.6,6.4,5.6,5.6,34,24,15,8.2,6.7,370
+Sunset Leggings,7.2,26,7.8,7.2,4.6,5.5,3.3,5.1,40,35,26,5.8,7.0,370
+Sunless Leggings,6.2,21,6.5,6.2,5.9,5.1,2.9,6.2,27,18,18,4.7,5.7,360
+Brass Leggings,7.8,24,7.8,6.9,8.1,6.0,4.2,6.0,39,22,18,6.3,6.7,370
+Leggings of Favor,7.7,32,7.7,7.7,6.5,6.8,4.8,6.8,41,29,24,10.3,7.5,380
+Eastern Leggings,5.1,41,7.5,4.6,5.4,7.2,6.6,5.4,47,40,39,4.3,5.0,280
+Leggings of Thorns,6.0,22,7.9,6.3,3.8,3.8,3.8,3.0,42,18,15,4.2,5.4,350
+Catarina Leggings,10.6,35,10.9,10.6,6.3,6.7,8.0,6.9,47,35,21,14.8,10.6,470
+Morne's Leggings,9.8,36,9.8,9.3,8.1,7.9,7.8,5.2,40,23,22,12.8,9.3,430
+Lothric Knight Leggings,8.8,32,10.6,8.4,7.1,7.7,5.4,6.5,44,24,20,12.1,8.9,420
+Cathedral Knight Leggings,8.9,38,7.7,10.3,7.6,7.0,7.4,6.2,40,38,26,13.0,9.7,450
+Winged Knight Leggings,10.1,39,10.1,9.6,7.2,7.1,7.6,8.4,42,32,24,14.1,10.5,470
+Outrider Knight Leggings,7.9,55,7.6,7.9,5.9,6.7,5.5,3.7,32,24,14,7.2,6.8,370
+Pontiff Knight Leggings,5.1,48,5.1,4.7,7.6,5.5,7.0,7.8,23,21,16,2.8,4.3,280
+Fire Witch Leggings,7.4,20,5.7,5.7,6.5,7.1,4.3,6.1,24,16,13,5.3,5.5,350
+Dancer's Leggings,6.0,31,7.0,6.7,4.7,3.4,4.7,5.1,22,17,10,3.6,4.4,280
+Dark Leggings,7.8,23,7.1,6.8,6.1,5.3,2.9,6.1,26,20,10,6.4,6.1,350
+Black Knight Leggings,9.0,26,8.3,7.9,6.6,8.5,6.2,7.2,38,27,26,9.5,8.2,400
+Silver Knight Leggings,7.6,25,7.9,7.8,7.3,7.0,6.3,6.3,36,28,20,9.8,9.1,400
+Dragonslayer Leggings,8.1,24,8.9,8.9,6.3,6.9,6.9,4.9,38,23,21,10.3,8.1,410
+Wolf Knight Leggings,6.6,19,6.6,6.6,4.2,6.4,2.8,5.6,25,15,19,4.6,5.1,350
+Smough's Leggings,10.9,43,10.6,9.2,7.6,7.4,7.9,7.6,43,43,39,17.3,15.8,500
+Lorian's Leggings,8.2,27,8.2,7.5,7.4,5.2,5.2,7.5,38,21,25,6.3,6.9,370
+Dragonscale Waistcloth,7.1,22,6.8,5.9,4.1,6.8,1.8,4.1,31,21,10,7.6,6.3,360
+Firelink Leggings,5.4,44,6.2,4.5,6.0,7.3,7.0,5.6,28,40,37,3.5,4.8,280
+Black Iron Leggings,10.8,35,10.8,10.3,7.5,9.3,6.9,7.5,42,32,24,13.4,9.5,450
+Executioner Leggings,10.6,37,10.1,10.6,7.9,8.1,6.5,7.6,39,35,25,13.2,9.9,460
+Exile Leggings,10.8,35,9.8,9.3,7.4,8.5,7.5,7.8,57,43,28,14.8,10.4,470
+Gundyr's Leggings,9.0,36,10.7,8.6,7.1,7.4,7.0,7.1,48,36,36,14.4,9.8,460
+Havel's Leggings,10.7,43,10.6,10.1,8.1,9.3,7.3,8.1,45,43,38,17.6,15.4,500
+Assassin Trousers,5.2,32,6.0,4.8,6.6,6.9,5.2,4.3,29,43,38,2.1,4.3,270
+Black Leather Boots,4.8,31,5.2,3.8,4.8,4.3,5.6,4.3,25,37,25,2.3,3.6,260
+Shadow Leggings,4.2,23,2.9,4.2,3.1,3.7,4.5,3.1,16,24,21,2.1,2.3,230
+Leonhard's Trousers,4.2,34,4.2,4.7,6.2,6.5,4.7,3.7,21,28,28,2.3,3.6,260
+Pale Shade Trousers,1.8,18,1.8,1.2,7.0,6.7,6.1,6.4,20,35,44,1.0,2.2,220
+Black Leggings,5.2,32,6.4,4.7,6.7,8.1,7.3,7.8,26,38,46,2.8,4.5,280
+Painting Guardian Waistcloth,3.5,17,3.5,4.8,6.5,5.3,2.9,2.9,42,31,22,4.2,4.4,270
+Sorcerer Trousers,3.4,31,3.4,3.4,6.0,7.5,7.6,6.7,22,26,28,1.3,3.2,250
+Old Sorcerer Boots,2.1,20,1.8,2.1,7.3,6.7,7.0,7.3,18,23,42,1.1,2.3,220
+Court Sorcerer Trousers,2.2,21,2.2,2.5,7.4,6.8,8.0,7.9,19,29,47,1.1,2.2,220
+Karla's Trousers,2.6,21,2.6,1.9,8.3,7.7,8.1,8.1,14,23,36,1.1,2.6,230
+Antiquated Skirt,1.6,16,1.6,1.4,6.7,7.5,6.4,7.0,13,23,54,0.4,2.1,220
+Xanthous Trousers,4.6,35,3.4,4.6,7.0,3.4,7.4,6.7,22,35,28,1.5,3.9,260
+Pyromancer Trousers,2.7,26,2.2,2.2,7.1,8.1,7.5,7.8,14,43,47,1.2,2.6,230
+Cornyx's Skirt,1.7,18,1.7,1.5,6.9,7.1,6.6,7.0,15,24,48,1.4,2.0,210
+Conjurator Boots,2.3,27,2.3,2.0,7.0,8.1,7.9,7.3,19,39,38,1.0,2.6,230
+Cleric Trousers,2.4,18,1.6,1.9,6.9,5.0,6.8,7.0,26,36,42,0.7,2.1,220
+Maiden Skirt,1.7,20,1.7,1.5,7.5,7.0,7.1,7.5,13,25,48,0.1,2.3,220
+Evangelist Trousers,5.5,35,5.1,4.6,6.6,7.3,7.3,4.6,22,39,37,3.6,4.6,280
+Deacon Skirt,1.1,22,2.1,1.7,6.8,6.9,6.3,7.2,13,26,50,1.1,2.3,220
+Archdeacon Skirt,2.4,26,2.9,2.9,7.7,7.2,7.7,8.5,14,27,55,2.7,2.6,230
+Jailer Trousers,4.2,19,4.2,3.0,6.9,6.7,5.7,6.9,12,22,53,1.0,2.8,230
+Skirt of Prayer,1.6,18,1.6,1.4,6.9,6.7,6.7,7.6,14,39,58,0.0,2.0,220
+Fire Keeper Skirt,1.9,18,1.9,1.9,7.1,7.6,6.8,8.3,13,24,40,0.5,2.1,220
+Loincloth,1.9,10,1.9,1.6,5.8,4.9,5.4,5.8,20,35,43,0.4,1.1,100
+Worker Trousers,2.9,28,3.5,3.5,4.5,3.7,3.7,7.0,23,44,39,1.6,2.9,230
+Grave Warden Skirt,2.0,11,4.3,2.5,4.8,4.8,6.0,1.7,42,40,35,0.3,2.2,220
+Deserter Trousers,4.2,28,4.2,4.2,5.0,5.0,5.9,7.0,21,34,25,2.1,3.1,250
+Leather Boots,4.2,37,4.2,4.2,5.5,5.9,6.3,5.5,24,37,28,2.8,3.3,250
+Follower Boots,4.0,40,4.5,5.4,5.8,5.0,6.2,5.0,23,36,30,1.6,3.3,260
+Slave Knight Leggings,7.7,22,7.7,5.8,3.2,4.5,3.2,4.0,38,21,12,5.5,5.4,350
+Vilhelm's Leggings,7.4,23,7.4,8.4,5.4,7.1,3.2,6.5,27,22,19,8.0,6.8,370
+Millwood Knight Leggings,10.6,43,10.1,8.8,7.4,7.2,7.4,7.2,41,38,23,12.6,9.7,450
+Ordained Trousers,3.2,30,4.5,1.6,8.3,6.5,7.2,7.2,12,33,43,1.6,2.8,230
+Shira's Trousers,4.2,35,4.2,5.6,6.4,6.7,6.4,4.7,21,36,36,1.5,3.8,260
+Lapp's Leggings,10.8,32,10.8,10.7,7.2,7.5,6.6,7.2,46,36,22,12.9,9.7,450
+Harald Legion Leggings,11.0,36,11.1,11.0,7.6,7.7,7.3,8.1,40,37,35,12.9,10.8,470
+Ruin Leggings,7.4,20,8.9,7.4,6.9,6.2,6.5,5.5,37,35,18,10.7,8.0,400
+Ringed Knight Leggings,8.1,24,8.9,7.8,5.9,7.2,6.5,5.1,37,22,21,9.2,8.1,400
+Iron Dragonslayer Leggings,9.5,35,9.9,10.4,6.1,7.1,8.4,8.0,48,32,16,12.5,9.5,450
+Black Witch Trousers,2.9,19,2.4,2.1,8.1,7.9,7.9,8.3,11,25,45,0.5,2.6,230
+Desert Pyromancer Skirt,3.5,18,1.9,1.9,6.2,7.3,7.1,7.4,13,43,44,1.2,2.4,220
+Loincloth (The Ringed City),2.4,15,1.9,1.7,7.7,6.7,7.3,7.4,18,29,37,0.6,2.0,210
+
+
+== [DS3] miracles ==
+
+Icon,Miracle,Description,FP Cost,Attunement Slots,Faith,Acquired From
+,Heal Aid,Slightly restore HP,27,1,8,Starting spell for Herald Purchased from Shrine Handmaid for 500 souls
+,Heal,Restores HP for self and those in the vicinity.,45,1,12,Starting spell for Cleric Purchased from Irina of Carim for 1000 souls
+,Med Heal,Restores moderate HP for self and those in the vicinity.,55,1,15,Purchased from Irina of Carim for 3500 souls Requires Braille Divine Tome of Carim
+,Great Heal,Restores a large amount of HP for self and those in the vicinity.,65,1,25,Found at corpse in the Irithyll of the Boreal Valley
+,Soothing Sunlight,Restores a large amount of HP for self and those in the general area.,80,1,45,Acquired by Soul of the Dancer Transposition
+,Replenishment,Gradually restores 5 HP/s,30,1,15,Purchased from Irina of Carim for 1000 souls
+,Bountiful Light,Gradually restores a large amount of HP. (7 HP/s),45,1,25,Purchased from Irina of Carim for 5000 souls Requires Braille Divine Tome of Lothric
+,Bountiful Sunlight,Gradually restores a large amount of HP for self and those in the vicinity. (10 HP/s),70,2,35,Acquired by Soul of Rosaria Transposition
+,Caressing Tears,"Cures bleeding, poison and frost for self and those in the vicinity.",14,1,12,Purchased from Irina of Carim for 1500 souls
+,Tears of Denial,Grants one chance to endure when HP reaches 0,100,2,15,Purchased from Irina of Carim for 10000 souls Requires Braille Divine Tome of Carim
+,Homeward,"Returns caster to the last bonfire used for resting, or to the bonfire in the Firelink Shrine.",30,1,18,Purchased from Irina of Carim for 3000 souls
+,Seek Guidance,Displays more help from other worlds and reveals summon signs without using an ember.,15,1,12,Looted from a corpse in Cathedral of the Deep. Just past the first giant and down the stairs to the left. It's a sort of dark-ish room above the Cathedral Knight with the mace
+,Sacred Oath,"10% (physical) AR buff, 10% damage absorption buff, 60 seconds",65,2,28,Warriors of Sunlight Rank 1 reward
+,Force,"Creates a shockwave. While it inflicts no direct damage, this miracle propels foes back, staggering them. Can also defend against incoming arrows.",26,1,12,Starting spell for Cleric Purchased from Irina of Carim for 1000 souls Requires Braille Divine Tome of Carim
+,Emit Force,Releases a shockwave in front.,20,1,18,Acquired by Siegward of Catarina during third encounter. Below Irithyll of the Boreal Valley in a kitchen just after a sewer area
+,Wrath of the Gods,Create powerful shockwave,40,2,30,Acquired by dropping from the ledge near the spellcaster on the roof in Profaned Capital
+,Lightning Spear,Hurl lightning spear.,23,1,20,"Use the elevator near the Old Wolf of Farron and take the stairs up. Turn to the right and run to the closed gate. On the right side of the gate drop down and follow the path, one of the items there is Lightning Spear"
+,Great Lightning Spear,Hurl giant lightning spear.,32,1,30,Warriors of Sunlight Rank 2 reward
+,Sunlight Spear,Hurls a Sunlight Spear,48,1,40,Acquired by Soul of the Lords Transposition
+,Lightning Stake,Strikes with a stake of lightning.,34,1,35,Dropped by the giant worm just before the Old Demon King boss fight
+,Lightning Storm,Calls forth furious bolts of lightning.,36,2,45,Acquired by Soul of the Nameless King Transposition
+,Divine Pillars of Light,Bring down multiple pillars of light in vicinity.,3,1,30,Found at the top of the Grand Archives in a room after defeating three Ascended Winged Knights on the rooftops before the stairs leading to the boss encounter
+,Blessed Weapon,"Blesses right weapon, increasing attack power, as well as gradually restoring HP.",35,1,15,Sold by Irina of Carim for 8000 souls Requires Braille Divine Tome of Lothric
+,Lightning Blade,Reinforces right weapon with lightning.,50,1,30,Located in Irithyll Dungeon. Can be found in the area near the broken dragon statue used to reach the Archdragon Peak
+,Darkmoon Blade,"Reinforces right weapon with (Magic) ""Darkmoon Light""",50,1,30,Blades of the Darkmoon Covenant Rank 2 reward
+,Magic Barrier,Increases magic damage absorption by covering the body in a white protective coating.,30,1,15,Sold by Irina of Carim for 5000 souls Requires Braille Divine Tome of Lothric
+,Great Magic Barrier,Greatly increases magic damage absorption with coating.,40,2,25,Archdragon Peak: Found off a ledge where you find Havel and a dead dragon
+,Dark Blade,Reinforces right weapon with dark.,35,1,25,Purchased from Irina of Carim or Karla for 10000 souls Requires Londor Braille Divine Tome
+,Vow of Silence,Prevents the use of magic in an area.,35,2,30,Purchased from Irina of Carim or Karla for 15000 souls Requires Londor Braille Divine Tome
+,Dead Again,"Bless corpses, transforming them into traps.",45,1,23 Int: 15,Purchased from Irina of Carim or Karla for 5000 souls Requires Londor Braille Divine Tome
+,Atonement,Attracts more attention from foes.,15,1,18,Farron Keep Perimeter bonfire. Turn around 180 degrees and follow the path until you reach a hole in the wall on your right. Drop down on the ledge below. The spell will be on a corpse
+,Deep Protection,"Slightly boosts attack, damage absorption and resistance, while also increasing stamina recovery speed",25,1,20,Purchased from Irina of Carim or Karla for 4000 souls Requires Deep Braille Divine Tome
+,Gnaw,Summons insect swarm to feast on foes.,15,1,18,Purchased from Irina of Carim or Karla for 2000 souls Requires Deep Braille Divine Tome
+,Dorhys' Gnawing,Summon great insect swarm to feast on foes.,20,1,25,"Guaranteed kill reward from the screaming Evangelist in Irithyll of the Boreal Valley, found behind an illusory wall (fence)."
+,Lifehunt Scythe,Steals HP of foes using an illusory scythe,20,1,22,Acquired from Soul of Aldrich Transposition
+,Way of White Corona,White discus slices into foes and returns to conjurer,15,1,18,"Ashes of Ariandel DLC: Painted World of Ariandel, Corvian settlement in the large house with 2 Corvian Knights."
+,Projected Heal,Project a healing spell at an area.,55,1,28,"The Ringed City DLC: After meeting Lapp for the first time in the Dreg Heap, jump off the right side of the bridge into a pile of ash. The spell is located near a group of Murkmen and a Lothric Knight."
+,Lightning Arrow,Fires a lightning arrow.,19,1,35,"The Ringed City DLC: After fighting the dragon after the Shared Grave bonfire, it's just inside the building behind 3 illusory walls."
+
+
+== [DS3] multiplayer_items ==
+
+Name & Icon,Usage,Location
+White Sign Soapstone,Allows you to send a summon sign to other players for them to summon you to their world for cooperative play. Up to 2 phantoms can be summoned to assist a host (3 if using Dried Finger).,The Soapstone can be purchased at the Firelink Shrine from the Shrine Handmaid for 500 souls.
+Red Sign Soapstone,Allows you to send a summon sign to other players for them to summon you to their world for competitive play (PvP).,Drops from a white worm casting spells near you outside of the Rosaria's Bed Chamber bonfire.
+Dried Finger,Use to allow the summoning of one additional phantom (for a total of 3 friendly phantoms). However also allows for the summoning of additional invaders and increases the frequency of invasions.,Sold by Shrine Handmaid in Firelink Shrine for 2000 souls.
+Red Eye Orb,Reusable item used to invade other players. Using it puts you in a queue to invade a player in your area.,Drops from the darkwraith found at the bottom of the lift under the Tower on the Wall bonfire in High Wall of Lothric after following Leonhard's questline.
+Cracked Red Eye Orb,Consumable item used to invade other players. Using it puts you in a queue to invade a player in your area.,• Can be chosen as a Burial Gift. • Given to you as a gift by Leonhard at Firelink Shrine. • Chance to be droped by Darkwraiths. 100% drop rate from Dark Warriors at the Farron Keep perimeter.
+Ember,Ember increases your HP by 30% until death. Also allows for the summoning of phantoms both friendly and enemies and opens up your world for invasions.,Many. See item description.
+Black Separation Crystal,Use to return home from a host's world or to return a phantom home that you summoned in yours.,Avalible from the start of game
+Vertebrae Shackle,Mound-Makers covenant rank item.,Reward for killing host as a mound maker.
+Way of White Circlet,Restore the link to other worlds.,Available from the start of the game.
+Pale Tongue,Rosaria's Fingers covenant rank item.,• Reward for defeating host after invading with a Red Eye Orb. • Rare drop from Darkwraith
+Forked Pale Tongue,Proof of a red orb invader's victory over a blue spirit. Consume to acquire 2 Pale Tongues.,Given to dark spirits as proof of killing a blade of darkmoon or a blue sentinel.
+Wolf's Blood Swordgrass,Watchdogs of Farron covenant rank item.,Given as a reward for killing host as a Watchdog of Farron. Rare drop from Ghrus
+Human Dregs,Aldrich Faithful covenant rank item.,Reward to Aldrich Faithfull Covenant. Given as a reward for killing host as a Aldrich FaithfullRare drop from Devout of the Deep
+Proof of a Concord Kept,Blades of the Darkmoon covenant rank item.,Reward for killing dark spirits as Blue Sentinels or Blade of the Darkmoon Rare drop from Silver Knights
+Proof of Concord Well Kept,Proof of a Blade of the Darkmoon summon's victory over an Aldrich Faithful. Use to acquire 2 Proof of a Concord Kepts.,Reward for killing Aldrich Faithfuls as Blades of the Darkmoon.
+Roster of Knights,"The Roster of Knights is used to check the contributions of Darkmoon Knights, showing the top 10 contributors in a list to the top, as well as your rank at the bottom.",Just after Yorsha church bonfire on a corpse.
+Sunlight Medal,Warrior of Sunlight covenant rank item.,• Reward for defeating a boss as a sunlight phantom. • Rare drop from Lothric Knight
+Filianore's Spear Ornament,Spears of the Church covenant rank item.,"The Ringed City: Can drop from Ringed Knight Obtain from defeating Halflight, Spear of the Church or successfully defending"
+
+
+== [DS3] piercing_swords ==
+
+Icon & Name,Attack PowerDamage Reduction (%),Requirements Param Bonus,Durability / Weight - Attack Type - Skill,Physical ATK,col_5,col_6,col_7,col_8,Critical,col_10,Strength,Dexterity,Intelligence,Faith,Durability,Skill,Acquired From
+Estoc,105 45,0 25,0 20,0 20,0 25,100 20,-,10 D,12 D,0 -,0 -,60 3.5,14( -/ -) Shield Splitter,Starting equipment for the Assassin Sold by Greirat after his first looting trip,,,
+Rapier,95 35,0 20,0 15,0 15,0 20,130 15,-,7 E,12 C,0 -,0 -,60 2.0,-(15/15) Stance,"Looted from some remains in the High Wall of Lothric, by the left-side wall of the area where you fight the Winged Knight",,,
+Crystal Sage's Rapier,55 40,82 30,0 15,0 15,0 20,100 15,-,13 E,18 E,0 C,0 -,40 2.5,- (15/15) Stance,Soul Transposition using Soul of a Crystal Sage,,,
+Irithyll Rapier,116 40,0 25,0 20,0 20,0 25,110 20,55,10 D,16 D,0 -,0 -,70 3.0,14 (-/-) Shield Splitter,Dropped by Outrider Knight in Lothric Castle,,,
+Ricard's Rapier,97 35,0 20,0 15,0 15,0 20,100 15,-,8 D,20 C,0 -,0 -,70 2.5,12 (-/8) Ricard's Lunge and Press,Dropped from a hostile NPC in Archdragon Peak,,,
+Crow Quills,98 35,0 20,0 15,0 15,0 20,120 16,-,9 E,16 B,0 -,0 -,60 4.0,7 (-/8) Quill Dart,"Ashes of Ariandel DLC: Mound in the center of pool, must be leapt to from a house ledge.",,,
+
+
+== [DS3] pyromancies ==
+
+Name & Icon,Description,FP Cost,Attunement Slots,Intelligence,Faith,Acquired From
+Fireball,Hurls a fireball.,10,1,6,6,Pyromancer class starting spell Purchased from Cornyx of the Great Swamp for 1000 souls
+Fire Orb,Hurls a giant fire orb.,14,1,8,8,Purchased from Cornyx of the Great Swamp for 3000 souls Requires Great Swamp Pyromancy Tome
+Bursting Fireball,Hurls an exploding fireball.,14,1,18,12,Purchased from Cornyx of the Great Swamp for 5000 souls Requires Great Swamp Pyromancy Tome
+Great Chaos Fire Orb,Hurls a great chaos fire orb.,32,2,0,0,Purchased from Cornyx of the Great Swamp for 10000 souls Requires Izalith Pyromancy Tome
+Chaos Bed Vestiges,Hurls chaos flame that scorches vicinity.,35,2,20,10,Transposed from Soul of the Old Demon King for 5000 souls
+Fire Surge,Emits a constant stream of fire.,2,1,6,0,Purchased from Cornyx of the Great Swamp for 1000 souls
+Fire Whip,"The caster manipulates the flames at will, making this an extremely difficult spell to use.",2,1,13,8,Purchased from Karla for 10000 souls Requires Quelana Pyromancy Tome
+Firestorm,Surrounds the caster with multiple pillars of flame.,2,1,18,0,Purchased from Karla for 15000 souls Requires Quelana Pyromancy Tome
+Chaos Storm,"Chaotic flame melts even great boulders, and creates a brief surge of molten lava on impact.",3,2,0,0,Purchased from Cornyx of the Great Swamp for 12000 souls Requires Izalith Pyromancy Tome
+Great Combustion,"Creates a powerful, giant flame in hand.",17,1,10,10,Purchased from Cornyx of the Great Swamp for 3000 souls
+Sacred Flame,Flame burrows inside foes and ignites.,25,1,8,8,Found within the lava area of Smouldering Lake where you fight Knight Slayer Tsorig
+Profaned Flame,Engulfs foes at range and burns them to ashes.,30,1,25,0,Found at the foot of the Giant in Irythyll Dungeon.
+Poison Mist,Creates a poison mist.,18,1,0,10,Purchased from Cornyx of the Great Swamp for 2000 souls Requires Great Swamp Pyromancy Tome
+Toxic Mist,Creates an intense poison mist.,24,1,0,15,Found on corpse in lava area of the Smouldering Lake
+Acid Surge,Emits an acid which corrodes weapons and armor.,24,1,0,13,Purchased from Cornyx of the Great Swamp for 6000 souls Requires Carthus Pyromancy Tome
+Flash Sweat,Intense sweating increases fire damage absoprtion.,20,1,6,6,Purchased from Cornyx of the Great Swamp for 1500 souls
+Profuse Sweat,"Profuse sweating temporarily boosts resistance to bleeding, poison, frost, and curses.",20,1,6,6,Purchased from Cornyx of the Great Swamp for 2000 souls Requires Great Swamp Pyromancy Tome
+Iron Flesh,"Iron flesh boosts damage absorption and resistance, but significantly increases weight.",40,1,8,0,Found in the Farron Keep swamp
+Power Within,"Temporarily boosts attack, but gradually lose HP.",30,1,10,10,Found on a corpse behind a hidden wall in Grand Archives.
+Carthus Beacon,Damage increases with consecutive attacks.,35,2,12,12,Purchased from Cornyx of the Great Swamp for 8000 souls Requires Carthus Pyromancy Tome
+Carthus Flame Arc,Reinforces right weapon with flame.,30,1,10,10,Purchased from Cornyx of the Great Swamp for 10000 souls Requires Carthus Pyromancy Tome
+Warmth,"Creates a gentle, warm flame that heals those who touch it.",50,2,0,25,Mound Makers Rank 2 reward
+Rapport,"Charms the enemy, making them a temporary ally.",30,1,15,0,Purchased from Karla for 7000 souls Requires Quelana Pyromancy Tome
+Boulder Heave,Spews a boulder from one's mouth.,17,1,8,12,Soul of a Stray Demon
+Black Flame,"Creates a giant, black flame in hand.",25,1,15,15,Purchased from Karla for 10000 souls Requires Grave Warden Pyromancy Tome
+Black Fire Orb,Hurls a black fireball.,22,1,20,20,Purchased from Karla for 10000 souls Requires Grave Warden Pyromancy Tome
+Black Serpent,Releases undulating black flames that trace the ground.,19,1,15,15,Soul of High Lord Wolnir
+Floating Chaos,Summons fire-spitting chaos orb,20,1,16,16,Ashes of Ariandel DLC: Defeat Livid Pyromancer Dunnel
+Seething Chaos,Hurl chaos clump that seethes and explodes,28,1,18,18,The Ringed City DLC: Transposed with Soul of the Demon Prince
+Flame Fan,Unleash a fan of flames ahead of you.,9,1,15,15,The Ringed City DLC: Drop from Desert Pyromancer Zoey
+
+
+== [DS3] reapers ==
+
+Name & Icon,Attack PowerDamage Reduction (%),Requirements Param Bonus,Durability / Weight - Attack Type - Skill,Physical ATK,col_5,col_6,col_7,col_8,Critical,col_10,Strength,Dexterity,Intelligence,Faith,Durability,Skill,Acquired From
+Great Scythe,105 40,0 25,0 20,0 20,0 25,100 20,30,14 E,14 C,0 -,0 -,60 7.0,13 (-/-) Neck Swipe,Looted from Undead Settlement in a destroyed building near the rain of giant arrows and the White Birch Tree.,,,
+Pontiff Knight Great Scythe,100 40,0 25,0 20,0 20,0 25,100 20,30,14 E,19 A,0 -,12 -,55 7.5,15 Frost,Dropped by the Pontiff Knight wielding this weapon in front of the Pontiff Sulyvahn boss room.,,,
+Great Corvian Scythe,97 45,0 30,0 20,0 20,0 30,100 25,36,16 D,18 C,0 -,0 -,55 9.0,13 Neck Swipe,Dropped by Corvian enemies wielding it in Road of Sacrifices,,,
+Friede's Great Scythe,110 40,77 25,0 20,0 20,0 25,100 20,45,12 E,16 B,12 C,11 E,60 13.0,- Elfriede's Stance,Obtained from the Soul of Sister Friede by using Soul Transposition,,,
+
+
+== [DS3] rings_expanded ==
+
+Name,Variant,Full Name,DLC,Achievement Required
+Life Ring,+0,Life Ring,no,yes
+Life Ring,+1,Life Ring +1,no,yes
+Life Ring,+2,Life Ring +2,no,yes
+Life Ring,+3,Life Ring +3,no,yes
+Sun Princess Ring,+0,Sun Princess Ring,no,yes
+Estus Ring,+0,Estus Ring,no,yes
+Ashen Estus Ring,+0,Ashen Estus Ring,no,yes
+Chloranthy Ring,+0,Chloranthy Ring,no,yes
+Chloranthy Ring,+1,Chloranthy Ring +1,no,yes
+Chloranthy Ring,+2,Chloranthy Ring +2,no,yes
+Chloranthy Ring,+3,Chloranthy Ring +3,yes,no
+Havel's Ring,+0,Havel's Ring,no,yes
+Havel's Ring,+1,Havel's Ring +1,no,yes
+Havel's Ring,+2,Havel's Ring +2,no,yes
+Havel's Ring,+3,Havel's Ring +3,yes,no
+Ring of Favor,+0,Ring of Favor,no,yes
+Ring of Favor,+1,Ring of Favor +1,no,yes
+Ring of Favor,+2,Ring of Favor +2,no,yes
+Ring of Favor,+3,Ring of Favor +3,yes,no
+Prisoner's Chain,+0,Prisoner's Chain,no,yes
+Ring of Steel Protection,+0,Ring of Steel Protection,no,yes
+Ring of Steel Protection,+1,Ring of Steel Protection +1,no,yes
+Ring of Steel Protection,+2,Ring of Steel Protection +2,no,yes
+Ring of Steel Protection,+3,Ring of Steel Protection +3,yes,no
+Magic Stoneplate Ring,+0,Magic Stoneplate Ring,no,yes
+Magic Stoneplate Ring,+1,Magic Stoneplate Ring +1,no,yes
+Magic Stoneplate Ring,+2,Magic Stoneplate Ring +2,no,yes
+Flame Stoneplate Ring,+0,Flame Stoneplate Ring,no,yes
+Flame Stoneplate Ring,+1,Flame Stoneplate Ring +1,no,yes
+Flame Stoneplate Ring,+2,Flame Stoneplate Ring +2,no,yes
+Thunder Stoneplate Ring,+0,Thunder Stoneplate Ring,no,yes
+Thunder Stoneplate Ring,+1,Thunder Stoneplate Ring +1,no,yes
+Thunder Stoneplate Ring,+2,Thunder Stoneplate Ring +2,no,yes
+Dark Stoneplate Ring,+0,Dark Stoneplate Ring,no,yes
+Dark Stoneplate Ring,+1,Dark Stoneplate Ring +1,no,yes
+Dark Stoneplate Ring,+2,Dark Stoneplate Ring +2,no,yes
+Speckled Stoneplate Ring,+0,Speckled Stoneplate Ring,no,yes
+Speckled Stoneplate Ring,+1,Speckled Stoneplate Ring +1,no,yes
+Bloodbite Ring,+0,Bloodbite Ring,no,yes
+Bloodbite Ring,+1,Bloodbite Ring +1,no,yes
+Poisonbite Ring,+0,Poisonbite Ring,no,yes
+Poisonbite Ring,+1,Poisonbite Ring +1,no,yes
+Cursebite Ring,+0,Cursebite Ring,no,yes
+Fleshbite Ring,+0,Fleshbite Ring,no,yes
+Fleshbite Ring,+1,Fleshbite Ring +1,no,yes
+Knight's Ring,+0,Knight's Ring,no,yes
+Hunter's Ring,+0,Hunter's Ring,no,yes
+Scholar Ring,+0,Scholar Ring,no,yes
+Priestess Ring,+0,Priestess Ring,no,yes
+Covetous Gold Serpent Ring,+0,Covetous Gold Serpent Ring,no,yes
+Covetous Gold Serpent Ring,+1,Covetous Gold Serpent Ring +1,no,yes
+Covetous Gold Serpent Ring,+2,Covetous Gold Serpent Ring +2,no,yes
+Covetous Gold Serpent Ring,+3,Covetous Gold Serpent Ring +3,yes,no
+Covetous Silver Serpent Ring,+0,Covetous Silver Serpent Ring,no,yes
+Covetous Silver Serpent Ring,+1,Covetous Silver Serpent Ring +1,no,yes
+Covetous Silver Serpent Ring,+2,Covetous Silver Serpent Ring +2,no,yes
+Covetous Silver Serpent Ring,+3,Covetous Silver Serpent Ring +3,yes,no
+Saint's Ring,+0,Saint's Ring,no,yes
+Deep Ring,+0,Deep Ring,no,yes
+Darkmoon Ring,+0,Darkmoon Ring,no,yes
+Young Dragon Ring,+0,Young Dragon Ring,no,yes
+Bellowing Dragoncrest Ring,+0,Bellowing Dragoncrest Ring,no,yes
+Great Swamp Ring,+0,Great Swamp Ring,no,yes
+Witch's Ring,+0,Witch's Ring,no,yes
+Morne's Ring,+0,Morne's Ring,no,yes
+Ring of the Sun's First Born,+0,Ring of the Sun's First Born,no,yes
+Lingering Dragoncrest Ring,+0,Lingering Dragoncrest Ring,no,yes
+Lingering Dragoncrest Ring,+1,Lingering Dragoncrest Ring +1,no,yes
+Lingering Dragoncrest Ring,+2,Lingering Dragoncrest Ring +2,no,yes
+Sage Ring,+0,Sage Ring,no,yes
+Sage Ring,+1,Sage Ring +1,no,yes
+Sage Ring,+2,Sage Ring +2,no,yes
+Dusk Crown Ring,+0,Dusk Crown Ring,no,yes
+Leo Ring,+0,Leo Ring,no,yes
+Wolf Ring,+0,Wolf Ring,no,yes
+Wolf Ring,+1,Wolf Ring +1,no,yes
+Wolf Ring,+2,Wolf Ring +2,no,yes
+Wolf Ring,+3,Wolf Ring +3,yes,no
+Hawk Ring,+0,Hawk Ring,no,yes
+Hornet Ring,+0,Hornet Ring,no,yes
+Knight Slayer's Ring,+0,Knight Slayer's Ring,no,yes
+Ring of the Evil Eye,+0,Ring of the Evil Eye,no,yes
+Ring of the Evil Eye,+1,Ring of the Evil Eye +1,no,yes
+Ring of the Evil Eye,+2,Ring of the Evil Eye +2,no,yes
+Ring of the Evil Eye,+3,Ring of the Evil Eye +3,yes,no
+Farron Ring,+0,Farron Ring,no,yes
+Dragonscale Ring,+0,Dragonscale Ring,no,yes
+Horsehoof Ring,+0,Horsehoof Ring,no,yes
+Wood Grain Ring,+0,Wood Grain Ring,no,yes
+Wood Grain Ring,+1,Wood Grain Ring +1,no,yes
+Wood Grain Ring,+2,Wood Grain Ring +2,no,yes
+Flynn's Ring,+0,Flynn's Ring,no,yes
+Magic Clutch Ring,+0,Magic Clutch Ring,no,yes
+Fire Clutch Ring,+0,Fire Clutch Ring,no,yes
+Lightning Clutch Ring,+0,Lightning Clutch Ring,no,yes
+Dark Clutch Ring,+0,Dark Clutch Ring,no,yes
+Red Tearstone Ring,+0,Red Tearstone Ring,no,yes
+Blue Tearstone Ring,+0,Blue Tearstone Ring,no,yes
+Lloyd's Sword Ring,+0,Lloyd's Sword Ring,no,yes
+Lloyd's Shield Ring,+0,Lloyd's Shield Ring,no,yes
+Carthus Milkring,+0,Carthus Milkring,no,yes
+Carthus Bloodring,+0,Carthus Bloodring,no,yes
+Pontiff's Right Eye,+0,Pontiff's Right Eye,no,yes
+Pontiff's Left Eye,+0,Pontiff's Left Eye,no,yes
+Aldrich's Ruby,+0,Aldrich's Ruby,no,yes
+Aldrich's Sapphire,+0,Aldrich's Sapphire,no,yes
+Silvercat Ring,+0,Silvercat Ring,no,yes
+Slumbering Draconcrest Ring,+0,Slumbering Draconcrest Ring,no,yes
+Obscuring Ring,+0,Obscuring Ring,no,yes
+Untrue Dark Ring,+0,Untrue Dark Ring,no,yes
+Untrue White Ring,+0,Untrue White Ring,no,yes
+Reversal Ring,+0,Reversal Ring,no,yes
+Skull Ring,+0,Skull Ring,no,yes
+Calamity Ring,+0,Calamity Ring,no,yes
+Ring of Sacrifice,+0,Ring of Sacrifice,no,yes
+Chillbite Ring,+0,Chillbite Ring,yes,no
+
+
+== [DS3] rings ==
+
+Name & Icon,Weight,Effect,Location
+Life Ring,0.3,Increases maximum HP by 7%. +1: +8% +2: +9% +3: +10%,"Can be selected as a Burial Gift during character creation. Can be bought from the Shrine Handmaid in the Firelink Shrine for 1500 souls after acquiring the Dreamchaser's Ashes. +1 (NG+): Located in the Undead Settlement. Behind Siegward while he is waiting to battle the fire demon. +2 (NG+): Lothric Castle. From the dark room where you fight the pus of man in the wyvern's hand, head outside from the back exit. Turn right and drop down off the ledge. The ring is on a corpse. This version can be picked up here starting in NG+. +3 (NG++): In Untended Graves behind Holy King Lothric's throne."
+Sun Princess Ring,0.6,Gradually restores HP (2 HP/second),Found in Gwynevere's chamber after Aldrich's boss room.
+Estus Ring,0.8,Increases HP restored with Estus Flask by 20%,"Found at the bottom of the Tower on the left side of the Firelink Shrine. Requires the Tower Key, sold by the Shrine Handmaid in Firelink Shrine for 20,000 Souls."
+Ashen Estus Ring,0.8,Increases FP restored with Ashen Estus Flask by 20%.,Located in the Untended Graves. From the first bonfire head to the left most path. The ring is in the coffin surrounded by Corvians.
+Chloranthy Ring,0.7,Raises stamina recovery speed by 7 points/second +1: +8 stamina/second +2: +9 stamina/second +3: +10 stamina/second,"Found in Undead Settlement. After defeating the Demon alongside Siegward of Catarina, scale the nearby building and exit onto the adjacent tower by jumping from the roof. Maneuvering down the tower, the ring will be located under several wooden boxes near the Mirrah Armor Set. +1 Version (NG+) Irithyll of the Boreal Valley. Behind the pedestal with the Ring of the Sun's First Born on top of it. Easily accessible by falling from the ledge near Pontiff Sulyvhan's fog gate or walking from the Church of Yorshka. +2 Version (NG++) From the first Road of Sacrifices bonfire, head to the wagon with the two Corvians. To the left is a crow mage. To the left of him there's a ledge that you can drop down to that has the ring. +3 Version (The Ringed City): Take the lift down from the Ringed Inner Wall bonfire. This is the shortcut and will be unlocked as you progress this area. As you go down look for the side passage and roll onto it as you go. Find the hole and drop down to the statue of Gwyn to find this ring."
+Havel's Ring,1.5,Increases maximum equipment load by 15% +1: +17% +2: +18% +3: +19%,"Soul Transposition using Soul of a Stray Demon +1 Version (NG+): Archdragon Peak. From the altar that gives you the Twinkling Dragon Torso Stone, go back down the steps. The ring is to the right of the doorway. +2 Version (NG++): On a wooden beam below the Prison Tower bonfire in Irithyll of the Boreal Valley/Anor Londo, after Painting Guardian Curved Sword and the Painting Guardian Set. +3 Version (The Ringed City): Just below where you get invaded by Silver Knight Ledo, on the ledges above the swamp."
+Ring of Favor,1.5,"Increases max HP by 3%, stamina by 9% and equipment load by 5% +1: +4.5% / +10% / +6% +2: +5% / +11% / +7% +3: +6% / +12% / +8%","Defeat Sulyvhan's Beasts near Archdeacon McDonnell. +1 Version (NG+): Can be found in the room of Pontiff Sulyvahn's bonfire, but is located upstairs. It can be either accessed by the shortcut in the room or taking the path around. +2 Version (NG++): Located in the Cathedral of the Deep. From the Cleansing chapel bonfire, while facing the bonfire. go through the left shortcut, head up the elevator, climb the ladder behind the tower, drop down to the ledge, and follow the path to the top part of the chapel. To the left there is a hollow with a giant axe. behind him is this ring. +3 Version (The Dreg Heap) can be found on a corpse, up a large root in the swamp just after the Earthen Peak Ruins bonfire. Retrieve it in order to progress Lapp's questline."
+Prisoner's Chain,0.8,"Increases VGR (5), END (5), and VIT (5), and reduces absorptions by 4%",Soul Transposition using Soul of Champion Gundyr.
+Ring of Steel Protection,0.8,Increases physical absorption by 10% (PVP: +2%) +1: +13% (PVP: +3%) +2: +15% (PVP: +4%) +3: +17% (PVP: +5%),"Found in the boss arena where you fight the Ancient Wyvern. After entering through the fog gate, head up the stairs until you locate the bell. Then proceed to the right, downstairs. There are three items lying on the ground. Next to the items is a thin ledge that players can walk along. At the end of the path is the ring. +1 Version (NG+): Untended Graves behind the tower that is unlocked by the Tower Key +2 Version (NG++): Located in the Catacombs of Carthus. From the Abyss Watchers Bonfire go down and head left until you find a bridge to your right. The bridge will be defended by a large skeleton carrying a sword and shield. Look down to the left and you will notice an item on a pillar. Drop down from the bridge onto the pillar to obtain this ring. Turn around to find the Carthus Pyromancy Tome. +3 Version (The Ringed City): Immediately after The Dreg Heap bonfire, head forward and past the horde of enemies to a corpse. When you try to grab it you will fall and the ceiling will break, and you will fall. Once at the bottom, out the only door, there will be an angel-like hollow firing projectiles at you. Drop down and run past it and take cover behind the building. Now circle around to the other side of the building along the planks (leaving yourself exposed to the Angel's beams) to find a corpse with the ring."
+Magic Stoneplate Ring,0.6,Increases magic absorption by 13% (PVP: +4%) +1: +17% (PVP: +5%) +2: +20% (PVP: +6%),"Dropped from the greatsword-wielding Consumed King's Knight guarding Oceiros, the Consumed King. +1 Version (NG+): Farron Keep bonfire before the swamp. From that bonfire, make a right and proceed to where the Basilisks are. The ring will be in this area. +2 Version (NG++): Start from the Profaned Capital Bonfire. Take the ladder down into the tower and head through the hole in the wall. From there, turn right and go down the stairs. The ring is at the end of the stairs, on the edge of a cliff."
+Flame Stoneplate Ring,0.6,Increases fire absorption by 13% (PVP: +4%) +1: +17% (PVP: +5%) +2: +20% (PVP: +6%),"Found on a corpse hanging at a tree overlooking the entrance of the tower with the giant in it at Undead Settlement (the same area where you enter the cage to join the Mound Makers). +1 Version (NG+): Located in the Profaned Capital. In the area with the toxic swamp, climb up the building's ladder and walk along the curved part of roof until you see a hole in the wall to your right. Look down, directly across from the broken section of wall is a small ledge to drop onto and the ring will be on a corpse. +2 Version (NG++): Located in the Demon Ruins. From the Old King's Antechamber bonfire, go down the immediate stairs and follow the path until you come to a fork in the path. Left will be an illusionary wall where there will be a Black Knight fighting a Ghru. The ring will be on a corpse near a wall, along with a Black Knight Sword."
+Thunder Stoneplate Ring,0.6,Increases lightning absorption by 13% (PVP: +4%) +1: +17% (PVP: +5%) +2: +20% (PVP: +6%),"Archdragon Peak: From the second bonfire, proceed through the area until you get outside, then near the wooden scaffold there is a ladder which leads to the ring +1 Version (NG+) Can be found near the Carthus Milkring, among the many pots in the Catacombs of Carthus +2 Version (NG++): Can be found before the Dragonslayer Armour Boss in Lothric Castle. Before the boss fight there's a door lit by torches. Proceed trough the door and up the stairs. Turn left trough another door then left again to find a hole in the stone railing. Drop down to the ledge below and turn right. Follow the ledge to find this ring. The ring is on the same small rooftop that you would drop down to get Caitha's Chime, it's just on the opposite end."
+Dark Stoneplate Ring,0.6,Increases dark absorption by 13% (PVP: +4%) +1: +17% (PVP: +5%) +2: +20% (PVP: +6%),"In Anor Londo, following the Pontiff Sulyvahn bonfire. The ring will be guarded by Irithyllian Slaves in an area beneath the Deacons casting Fireball. +1 Version (NG+): Lothric Castle Before entering the fog gate for the Dragonslayer Armour, head left and drop down to fight the Pus of Man on the white Wyvern. Next to the Wyvern is a room with a mimic and a doorway out to a balcony. This ring is located on right side the balcony. +2 Version (NG++): Farron Keep, the Keep Ruins bonfire. Leave the room where you find 3 Ghru enemies on a bridge. Cross the bridge, you can find a dilapidated wall to your left. In front of the wall is a flame you need to extinguish to reach the Abyss Watchers. The ring is behind this wall, you'll need to roll through some crucifixes to reach it."
+Speckled Stoneplate Ring,0.9,"Increases magic, fire, lightning and dark absorption by 5% (PVP: +2%) +1: +7% (PVP: +3%)","Found on a corpse in Smouldering Lake, behind a destructible wall on the other side from which you enter. Lure a ballista shot to break the wall apart. +1 Version (NG+) Cemetery of Ash. In the arena where you find the first Ravenous Crystal Lizard."
+Bloodbite Ring,0.6,Increases bleed resistance by 90 points +1: +140,"Undead Settlement, in the sewers below Cliff Underside bonfire or beside the Dilapidated Bridge bonfire. The Large Hound-Rat will drop the ring. +1 Version (NG+): Smouldering Lake, make your way through the Demon Ruins to find it in front of the ballista."
+Poisonbite Ring,0.6,Increases poison resistance by 90 points +1: +140,Near the first short cut at Cathedral of the Deep behind the Ravenous Crystal Lizard. +1 Version (NG+): Undead Settlement In the graveyard beside the white birch tree (Where the giant is shooting great arrows at you/enemies nearby) you'll find a well hidden in a corner. The ring is on a corpse behind the well.
+Cursebite Ring,0.6,Increases curse resistance by 150 points,"Profaned Capital, toxic swamp in the cave under the wooden bridge."
+Fleshbite Ring,0.9,"Raises poison, bleed, frost and curse resistances by 40 points +1: +60","Grand Archives, near the top floor of building just beyond the area with a balcony overhead and multiple Scholars, there will be a set of bookcases to the right of the stairs which lead you to the room. The ring will be located in the corner past the Clawed Curses. +1 Version (NG+): Located in the High Wall of Lothric. From the Tower on the Wall bonfire, head down to the roof with the transforming undead on it. Before descending the ladder to progress further, look to the nearby rooftop with fencing. Jumping will allow you access the rooftop and the ring will be on a corpse. (The item should be visible before jumping to the rooftop if you need confirmation)"
+Knight's Ring,0.8,Increases Strength by 5 levels,"Lothric Castle, near the Sunlight Shrine."
+Hunter's Ring,0.8,Increases Dexterity by 5 levels,Grand Archives- Found at the top of a tower surrounded by three golden Winged Knights before the stairs to Prince Lothric.
+Scholar Ring,0.6,Increase Intelligence by 5 levels,"Grand Archives - Facing the wooden bridge where the Crystal Sage teleports to, there is a lever to the right, tucked between the bridge and the bookcases. The ring is on a corpse in a chair in the revealed area."
+Priestess Ring,0.6,Increases Faith by 5 levels,"Sold by the Shrine Handmaid in Untended Graves.Dropped by the Shrine Handmaid in Untended Graves, even if you've already purchased it from her."
+Covetous Gold Serpent Ring,1.2,Increases item discovery by 50 points +1: +75 +2: +100 +3: +125,"Found next to Siegward of Catarina when he is trapped in Irithyll Dungeon. +1 version (NG+): From the Church of Yorshka bonfire in Irithyll of the Boreal Valley, proceed beyond the graveyard to the dark room with the Irithyllian Slaves. As you're exiting the room through the wide arched doorway, scan the right side for a broken section of railing where you can drop down. The ring will be on a corpse wedged in the corner of the ledge. +2 Version (NG++): Archdragon Peak, in a large area that appears on defeating the Nameless King, on the right side of the arena from the gateway that the bonfire is under, the ring rests at the top of the third stairway. You can also find the Dragonslayer Set and a Titanite Slab in this area. +3 Version (The Ringed City): All the way down the stairs from the Shira and left and up the ladder immediately on your left in the swamp. Double back across the bridge, defeating the two Ringed Knights. On a corpse in a room past them with Lapp inside."
+Covetous Silver Serpent Ring,1.2,Fallen foes yield +10% more souls +1: +20% +2: +30% +3: +35%,"In a chest behind an illusory wall at the top of Firelink Shrine. Located behind Picklepum's indoor nest. +1 Version (NG+): While progressing through Irithyll Dungeon, you'll find an elevator shortcut that heads to the first bonfire of the area. This ring is located on a ledge in the elevator room. +2 Version (NG++): Undead Settlement. In the area after meeting Siegward with the Fire Demon, located on the roof of a shack in the far back of the area. Drop off the wooden ledge outside the room with two Cathedral Evangelists to access it. +3 Version (The Dreg Heap) After meeting the first angel that shoots at you fall down onto the perch and continue into the open door archway. From there you should see 2 Knight enemies and on the right-hand side there is an area you enter. You make a right and you should be in some small quarter areas. Proceed all the way to the furthest wall north of you. Turn to the left and hit it to reveal a fog wall. Climb the stairs there and just before you obtain Great Soul Dreg on your left, is a balcony. From that balcony you must drop down and there is the ring."
+Saint's Ring,0.5,Allows attunement of additional spells (+1 attunement slot),Sold by Irina of Carim for 300 souls.
+Deep Ring,0.5,Allow attunement of additional spells (+1 attunement slot),Drops from a Deacon in a tower outside the Cathedral of the Deep.
+Darkmoon Ring,0.8,Allows attunement of many additional spells (+2 attunement slots),Rank 1 covenant reward: Blade of the Darkmoon.
+Young Dragon Ring,0.7,Boosts sorcery damage by +12%.,Starting equipment for the Sorcerer. Given by Orbeck of Vinheim after purchasing several spells.
+Bellowing Dragoncrest Ring,1,Boosts sorcery damage by +20%.,"From the Irithyll Dungeon bonfire, head straight into the large room and then turn right, proceed until the end of the corridor and open the gate with the Jailbreaker's Key. The ring is on the rocks below."
+Great Swamp Ring,0.7,Boosts pyromancy damage by +12%.,"Starting equipment for the Pyromancer. Dropped by the Great Crab, up the ladder near the Farron Keep bonfire in the Road of Sacrifices."
+Witch's Ring,1,Boosts pyromancy damage by +20%,"Catacombs of Carthus: just after the stray demon, walking towards the 'Abandoned Tomb' Bonfire, there will be a corpse holding the ring at the end of a hallway."
+Morne's Ring,0.7,Boosts miracle damage by 12%,Under the bridge between the 1st and 2nd bonfires of Road of Sacrifices. There is an area to the right of the bridge's beginning where players may drop down into the cave.
+Ring of the Sun's First Born,1,Boosts miracle damage by 20%,"In Irithyll of the Boreal Valley. From Pontiff Sulyvahn's room, head back out towards the railing and fall straight onto the altar below."
+Lingering Dragoncrest Ring,0.5,Extends length of spell effects by 30% +1: +35% +2: +40%,"Farron Keep, Keep Ruins bonfire. Drops from the Great Crab patrolling a white birch tree. +1 Version (NG+): Found next to the giant crab just below the Crucifixion Woods bonfire in the Road of Sacrifices. +2 Version (NG++): Located in Lothric Castle. Before the Lothric Prince Boss fight, there is a dome shaped roof with three golden Winged Knights. Go up the spiral staircase at the center of the dome shaped roof. You'll encounter a ladder, don't go up the ladder, instead go around the ledge to find this ring on a corpse hidden in an alcove."
+Sage Ring,0.7,Spell casting speed increased as if you had +30 DEX +1: +35 +2: +40,"Found to the left of the swamp area of Road of Sacrifices inside a room with an enemy. +1 Version (NG+): found in the rafters above the Archives. Drop down from the roof where the golden winged knights are located. +2 Version (NG++): Located in the Consumed King's garden. When initially taking the elevator down, get off halfway to a ledge. Turn left and drop down onto some broken stairs. Pick up the item here and look to the left to find the ring on another set of broken stairs. You can get over there with a well-timed roll."
+Dusk Crown Ring,0.6,Reduces spells' consumption of FP by 25% at the cost of 15% less max HP,Located in the Irithyll Dungeon. The ring is in a cell beside the open area with six patrolling Jailers.
+Leo Ring,0.5,Strengthens thrust weapon counter attacks by 15%,"Found in a chest on the second floor of the room with Gwynevere's painting in Irithyll of the Boreal Valley. Just beyond where either Siegward of Catarina is located during his questline or, more commonly notable, the Estus Soup is placed."
+Wolf Ring,0.5,Increases poise by 4 points +1: +6 +2: +8 +3: +9,"Rank 2 covenant reward: Watchdogs of Farron. +1 Version (NG+) Can be found on a corpse immediately outside the Keep Ruins bonfire building. +2 Version (NG++): Can be found in Cemetery of Ash, after the Iudex Gundyr boss fight. It's lying behind the golden door, on the left. +3 Version (The Ringed City): Dropped by Seeker of the Spurned."
+Hawk Ring,0.7,Extends the range of arrows,"Dropped from the Giant at the top of the tower in the Undead Settlement, upon His Death."
+Hornet Ring,1.1,Increases Critical Damage by 30%,"Found in Untended Graves, behind a Black Knight standing guard where the Starved Hound is found when at the Firelink Shrine."
+Knight Slayer's Ring,0.9,Enemies lose 20% more stamina when guarding attacks.,"Defeating the dark phantom of Knight Slayer Tsorig at Catacomb of Carthus. Location to summon him is in a barred area beside the Skeleton Ball's path or the Hound-Rats. Or if the invasion was skipped, gained from killing Knight Slayer Tsorig at Smouldering Lake. After the basilisks, turn left at the bottom of the stairs."
+Ring of the Evil Eye,1,Absorb +30 HP from each defeated foe. +1: +33 +2: +35 +3: +37,"Quest Reward: Anri of Astora. Obtained when Anri relocates to the Church of Yorshka. +1 Version (NG+): Can be found just before Deacons of the Deep fight, at the back of the altar. +2 Version (NG++): Located in the High Wall of Lothric. From the second bonfire, head down to the roof with the first crystal lizard and the enemy that morphs. Climb the ladder down. Run past the spear wielding Lothric knight. Head down into the room with the estus shard on the mantle. The ring will be on the wall to the left, hidden behind a barrel. +3 Version (The Ringed City): Dropped from a mimic inside the spiral crypt across the bridge from the Ringed City Streets bonfire shortcut."
+Farron Ring,0.8,Reduces Skill FP consumption by 25%,Acquired by talking to Hawkwood after defeating the Abyss Watchers.
+Dragonscale Ring,1.1,Reduced damage taken from backstabs by 30%,"Found in the Consumed King's Garden. When taking the second elevator in the area which grants a shortcut, get off early to reach a ledge with a Lothric Priest. The ring will be beside him."
+Horsehoof Ring,0.6,Enemies lose 40% more Stamina when guarding against your kicks,Sold by Unbreakable Patches for 500 souls.Dropped by Unbreakable Patches upon his death.
+Wood Grain Ring,0.5,Increases weapon durability by 20% +1: +30% +2: +40%,"Purchased from the Shrine Handmaid after Easterner's Ashes is turned in. +1 Version (NG+): Behind the first elevator in the Consumed King's Garden, at the bottom. +2 Version (NG++): Irithyll of the Boreal Valley- Run past the room with the three Silver knights (room that contains Gwynevere's painting and Smough's hammer in a chest), go outside, turn right and the ring is located in an alcove."
+Flynn's Ring,0.9,Lowering equip load increases attack power up to 15%,Looted from a corpse on the top of a roof at Undead Settlement: In the area where you fight the Fire Demon with Siegward of Catarina.
+Magic Clutch Ring,0.8,Increases magic attack by 15% (PVP: +8%) Reduces physical absorptions by 10% (PVP: -15%),"Irithyll of the Boreal Valley- From the Church of Yorshka bonfire, go back the way you came from. Head down the curved staircase and then left through the archway. Ahead up more stairs and to the right of the Fire witch and 2 Pontiff Knights is an illusionary wall. Behind which you'll find the ring."
+Fire Clutch Ring,0.8,Increases fire attack by 15% (PVP: +8%) Reduces physical absorptions by 10% (PVP: -15%),"On a corpse in the Undead Settlement. Behind the gallows on a wooden bridge, an area directly above the Cliff Underside Bonfire."
+Lightning Clutch Ring,0.8,Increases lightning attack by 15% (PVP: +8%) Reduces physical absorptions by 10% (PVP: -15%),"On a corpse in Archdragon Peak, to the left of the gate that leads to the Ancient Wyvern."
+Dark Clutch Ring,0.8,Increases dark attack by 15% (PVP: 8%) Reduces physical absorptions by 10% (PVP: -15%),Dropped by a mimic in the Irithyll Dungeon. After passing the giant there is a hallway with rats. The mimic is at the end of the hallway on the left side.
+Red Tearstone Ring,1.4,Increases damage by 20% when HP is below 20%,"Lothric Castle- Facing away from the Dragonslayer Armour Boss, to the left there is an elevator. Beside the elevator is a door to the balcony. Follow the balcony to the right to find this ring."
+Blue Tearstone Ring,1.1,Increases absorptions by 20% (PVP: 15%) when HP is below 20%,Given by Greirat of the Undead Settlement.
+Lloyd's Sword Ring,0.9,Increases attack by 10% when HP is full (>99%),"On a corpse inside Cathedral of the Deep, near the entrance on a ledge next to the Giant who attacks you when running by."
+Lloyd's Shield Ring,0.9,Increases absorptions by 20% when HP is full (>99%),"Can be bought from the Shrine Handmaid, after Paladin's Ashes are given to her."
+Carthus Milkring,0.8,Increases DEX by 3 levels and obscures the wearer while rolling.,Found within the Catacombs of Carthus just after the first bonfire in a room with many vases.
+Carthus Bloodring,0.8,Increases duration of invincibility while rolling and reduces absorptions by 30%,"Found at Catacombs of Carthus, from the second bonfire past the wheel skeletons."
+Pontiff's Right Eye,1.4,"Increases damage of consecutive attacks by +3% / +5% / +11%, as long as attacking persists.","Located in the Irithyll of the Boreal Valley. Drops from the Sulyvahn's Beast, who spawns either on the bridge entering Irithyll, or the water below the bridge if you fail to kill it the first time."
+Pontiff's Left Eye,0.9,Restores 30 HP after a certain amount of successive attacks.,Soul Transposition using Soul of Boreal Valley Vordt.
+Aldrich's Ruby,0.8,Recovers 85 HP from critical attacks,Dropped by the Deep Accursed in Anor Londo.
+Aldrich's Sapphire,0.8,Recovers 15 FP from critical attacks,Dropped by the Deep Accursed in the Cathedral of the Deep.
+Silvercat Ring,0.6,"Prevents fall damage, but falling a lethal distance still kills you.",Given by Sirris of the Sunless Realms after helping her defeat Creighton in Irithyll of the Boreal Valley.
+Slumbering Draconcrest Ring,0.7,Movement and rolling are silent.,"Given by Orbeck of Vinheim after you have purchased Aural Decoy, Farron Flashsword,Pestilent Mist, and Spook, along with the 'Silent Ally' gesture."
+Obscuring Ring,0.9,"Enemies need to be closer to notice you with sight, and you are invisible to other players beyond a certain distance","Rank 1 covenant reward: Rosaria's Fingers. Note: in order to get this ring and the Silvercat Ring in one playthrough, only offer the Pale Tongues to Rosaria after getting the Silvercat ring from Sirris of the Sunless Realms."
+Untrue Dark Ring,0.7,Retain human appearance while hollow and appear as a host in other worlds.,Purchased from Yuria of Londor.
+Untrue White Ring,0.7,Take the appearance of a white phantom at all times,Purchased from Yuria of Londor.
+Reversal Ring,0.5,"Use the animations of the opposite gender (run and walk animations, emotes, etc.)","Found in the Darkmoon Tomb in Anor Londo to the right of the altar. For reference, the Darkmoon Tomb is hidden behind an illusory wall in the circular room before the lever which controls the platform leading to the Anor Londo bonfire."
+Skull Ring,0.6,Easier to be detected by enemies.,Dropped from Ludleth of Courland when killed or can be obtained by visiting his throne before beginning the next Journey.
+Calamity Ring,0.8,Reduces absorptions by 100%,Archdragon Peak. Use the 'Path of the Dragon' gesture at the altar near the Dragon-Kin Mausoleum bonfire. The Drakeblood Knight spawns just next to this altar.
+Ring of Sacrifice,1,"Its wearer will lose nothing upon death, but the ring itself breaks.","High Wall of Lothric: On an awning reachable by a minor jump in the courtyard. This area is patrolled by a Winged Knight and the stairs that lead to the platform which players must jump from is guarded by a Hollow Soldier. Yuria of Londor (or Shrine Handmaiden if given Yuria's ashes): Three of them can be bought from her, for 5000 souls each. Road of Sacrifices: One can be found on a corpse hanging on a ledge overlooking the Crucifixion Woods. Consumed King's Garden: One can be found on a corpse in the toxic swamp to the left exiting the initial elevator. ""Nestling"" Crow: Give Loretta's Bone to the Crow to receive a Ring of Sacrifice."
+Chillbite Ring,0.6,Increases frost resistance by 140.,"Given to you after meeting and speaking with Sister Friede, near the Rope Bridge Cave bonfire, in the cathedral at the Painted World of Ariandel."
+
+
+== [DS3] sacred_chimes ==
+
+Name & Icon,Attack PowerDamage Reduction (%),Requirements Param Bonus,Durability / Weight - Attack Type - Skill,Physical ATK,col_5,col_6,col_7,col_8,Critical,col_10,Strength,Dexterity,Intelligence,Faith,Durability,Skill,Acquired From
+Priest's Chime,52 25,0 15,0 10,0 15,0 15,100 10,113,3 D,- -,- -,10 B,45 0.5,13 (-/-) Gentle Prayer,Sold by Greirat for 4000 souls after he is sent scavenging,,,
+Cleric's Sacred Chime,52 25,0 15,0 10,0 15,0 15,100 10,100,3 D,0 -,0 -,14 A,50 0.5,13 (-/-) Gentle Prayer,Dropped by Undead Cleric at Cemetery of Ash,,,
+Caitha's Chime,74 25,0 15,0 10,0 15,0 20,100 10,60,3 E,0 -,12 C,12 B,45 0.5,13 (-/-) Gentle Prayer,Lothric Castle,,,
+Saint-tree Bellvine,52 25,0 15,0 10,0 15,0 15,100 10,100,3 E,0 -,0 -,18 C,45 0.5,13( -/ -) Gentle Prayer,Looted from a corpse near the first short cut at Cathedral of the Deep next to the water and the crawling maggot-enemies,,,
+Crystal Chime,73 25,0 20,0 10,0 15,0 15,100 10,20,3 E,- 0,18 D,18 D,40 0.5,13 (-/-) Gentle Prayer,Found in the Grand Archives,,,
+Yorshka's Chime,54 25,0 15,0 10,0 20,0 15,100 10,124,3 D,0 -,0 -,30 A,60 0.5,13 (-/-) Gentle Prayer,Drops from Company Captain Yorshka if killed,,,
+Sacred Chime of Filianore,74 25,0 15,0 10,0 10,0 15,100 10,142,4 E,0 -,0 -,18 C,50 0.5,18 Pray for Favor,Given by Shira in The Ringed City when you first speak to her while she is behind the doors,,,
+
+
+== [DS3] small_shields ==
+
+Name & Icon,Attack PowerDamage Reduction (%),Requirements Param Bonus,Durability / Weight - Attack Type - Skill,Physical ATK,col_5,col_6,col_7,col_8,Critical,col_10,Strength,Dexterity,Intelligence,Faith,Durability,Skill,Acquired From
+Buckler,67 49,- 35,- 30,- 11,- 28,100 33,-,7 E,13 -,0 -,0 -,30 1.5,- Parry,Sold by Greirat for 2000 souls.,,,
+Red and White Shield,69 52,- 58,- 46,- 36,- 32,100 39,-,10 E,0 -,0 -,0 -,55 1.5,- Parry,"Looted from a hanging corpse in Undead Settlement, in the pit near Irina. Must be shot down with a projectile.",,,
+Elkhorn Round Shield,69 59,- 63,- 33,- 36,- 25,100 39,-,8 E,0 -,0 -,0 -,55 1.5,- Parry,Sold by Greirat for 1500 souls,,,
+Target Shield,69 61,- 36,- 31,- 12,- 29,100 36,-,8 E,11 -,0 -,0 -,40 2,- Parry,Sold by Greirat for 2500 souls (after being sent to scavenge Undead Settlement),,,
+Iron Round Shield,71 67,- 44,- 38,- 19,- 36,100 47,-,5 E,0 -,0 -,0 -,55 2,0 Parry,Starting shield for Thief class / Dropped by Hollow Soldiers at Lothric Castle and High Wall of Lothric.,,,
+Warrior's Round Shield,74 62,- 68,- 45,- 46,- 36,100 41,-,10 E,0 -,0 -,0 -,55 1.5,- Weapon Skill,Sold by Shrine Handmaid for 600 souls.,,,
+Caduceus Round Shield,69 52,- 63,- 46,- 36,- 25,100 39,-,10 E,0 -,0 -,0 -,55 1.5,- Parry,Looted from a corpse in the Undead Settlement.,,,
+Crimson Parma,69 52,- 63,- 40,- 36,- 39,100 39,-,7 E,0 -,0 -,0 -,55 1.5,- Parry,Sold by Shrine Handmaid for 800 souls.,,,
+Leather Shield,69 52,- 38,- 40,- 42,- 32,100 39,-,7 E,0 -,0 -,0 -,55 1.5,- Parry,Sold by Shrine Handmaid for 500 souls.,,,
+Sacred Bloom Shield,82 54,- 81,- 49,- 44,- 47,100 38,-,10 D,0 -,0 -,0 -,85 1.5,- Spell Parry,Behined an Illusory Wall in Lothric Castle (up the ladder in the room with the Winged Knight with Twinaxes),,,
+Small Leather Shield,70 42,- 42,- 50,- 38,- 35,100 35,-,7 E,0 -,0 -,0 -,55 2,- Parry,Looted from hanging corpse in the house just to the left of the Undead Settlement bonfire.,,,
+Golden Falcon Shield,74 59,0 45,0 39,0 20,0 37,100 48,-,10 D,0 -,0 -,0 -,85 2.5,- Parry,"Found on a ledge near the ladder leading to the lower swamp in Road of Sacrifices. Accessed by dropping down from the building above, but can also be reached from below by jumping up the rocks at the end of the ledge/path",,,
+Plank Shield,53 41,- 24,- 27,- 23,- 25,100 34,-,8 E,0 -,0 -,0 -,40 1,12 Shield Bash,Dropped by Large Undead with planks on their backs. Looted from a corpse next to where you find Cornyx at the Undead Settlement.,,,
+Llewellyn Shield,76 68,- 69,- 63,- 44,- 61,100 45,-,12 D,0 -,0 -,0 -,70 3,- Parry,Dropped by Horace the Hushed.,,,
+Ghru Rotshield,78 62,- 43,- 39,- 34,- 37,100 44,33,5 E,0 -,0 -,0 -,55 1.5,12 Shield Bash,Dropped by Ghru enemies in Smouldering Lake and Farron Keep.,,,
+Eastern Iron Shield,81 85,- 40,- 41,- 22,- 39,100 48,-,8 D,0 -,0 -,0 -,100 3,- Weapon Skill,"Sold by Shrine Handmaid for 3,000 souls after receiving the Easterner's Ashes.",,,
+Hawkwood's Shield,72 56,- 35,- 58,- 45,- 55,100 41,-,5 E,0 -,0 -,0 -,60 2,- Parry,"Appears on the ground by a gravestone outside of Firelink Shrine, near where the dog spawns.",,,
+Valorheart,120 60,- 40,- 35,- 30,- 35,100 50,-,12 D,12 D,0 -,0 -,70 5.5,- (17 / 20) Lion Stance,Dropped by Champion's Gravetender & Gravetender Greatwolf.,,,
+Dragonhead Shield,116 70,- 65,12 90,- 35,- 55,100 40,-,12 D,0 -,11 E,12 E,85 4.5,12 Dragon Breath,"Found after completing the ""Show Your Humanity"" puzzle in next to The Ringed City Streets bonfire.",,,
+
+
+== [DS3] sorceries ==
+
+Icon,Sorcery,Description,FP Cost,Attunement Slots,Intelligence,Acquired From
+,Soul Arrow,Fires a soul arrow.,7,1,10,"Sold by Yoel of Londor for 1,000 souls Sold by Yuria of Londor for 1,000 souls Sold by Orbeck of Vinheim for 1,000 souls Starting Equipment for the Sorcerer"
+,Great Soul Arrow,Fires a more powerful soul arrow.,10,1,15,"Sold by Orbeck of Vinheim for 3,000 souls"
+,Heavy Soul Arrow,Fires a heavy soul arrow.,11,1,13,"Sold by Yoel of Londor for 2,000 souls Sold by Yuria of Londor for 2,000 souls Sold by Orbeck of Vinheim for 2,000 souls Starting Equipment for the Sorcerer"
+,Great Heavy Soul Arrow,Fires a more powerful heavy soul arrow.,14,1,18,"Sold by Orbeck of Vinheim for 4,000 souls"
+,Farron Dart,Fires a soul dart.,3,1,8,"Sold by Yoel of Londor for 1,000 souls Sold by Orbeck of Vinheim for 500 souls Sold by Shrine Handmaid for 1,000 souls"
+,Great Farron Dart,Fires a more powerful soul dart.,4,1,23,"Sold by Orbeck of Vinheim for 2,000 souls Requires Sage's Scroll"
+,Farron Hail,Fires a cascade of soul darts.,4,1,28,"Sold by Orbeck of Vinheim for 5,000 souls Requires Sage's Scroll"
+,Homing Soulmass,Releases a homing soulmass.,20,1,20,"Sold by Orbeck of Vinheim for 6,000 souls Requires Logan's Scroll"
+,Homing Crystal Soulmass,Releases a homing crystal soulmass. Crystal soulmass has piercing qualities.,43,1,30,"Sold by Orbeck of Vinheim for 18,000 souls Requires Crystal Scroll"
+,Crystal Hail,Casts a cascade of small crystal soulmasses from above. Crystal soulmasses have piercing qualities.,19,1,18,Obtained by Soul of a Crystal Sage Transposition
+,Soul Spear,Fires a soul spear.,32,1,32,"Sold by Orbeck of Vinheim for 5,000 souls. Requires Logan's Scroll"
+,Crystal Soul Spear,Fires a piercing crystal soul spear.,46,1,48,"Sold by Orbeck of Vinheim for 15,000 souls Requires Crystal Scroll"
+,White Dragon Breath,Emits crystal breath of Seath the Scaleless. Crystal breath has piercing qualities.,25,1,50,Obtained by Soul of Consumed Oceiros Transposition
+,Soul Stream,Fires a torrential volley of souls.,55,2,45,Found in Lothric Castle in the Grand Archives behind a hidden room with a Boreal Knight.
+,Soul Greatsword,Attacks with a greatsword formed from souls.,23,1,22,"Sold by Yoel of Londor for 5,000 souls Sold by Yuria of Londor for 5,000 souls Sold by Orbeck of Vinheim for 5,000 souls"
+,Farron Flashsword,Alteration of Soul Greatsword developed by sorcerers of the Undead Legion of Farron.,4,1,23,"Sold by Orbeck Of Vinheim for 3,000 souls"
+,Magic Weapon,Reinforce right weapon with magic.,25,1,10,"Sold by Yoel of Londor for 4,500 souls Sold by Yuria of Londor for 4,500 souls Sold by Orbeck of Vinheim for 3,000 souls"
+,Great Magic Weapon,Greatly reinforces right weapon with magic.,35,1,15,"From the Farron Keep Perimeter bonfire, turn around 180 and head towards the shortcut gate to Road of Sacrifices. The spell will be on a corpse at the gate."
+,Crystal Magic Weapon,Reinforces right weapon with crystal.,45,1,30,"Sold by Orbeck of Vinheim for 10,000 souls Requires Crystal Scroll"
+,Magic Shield,Reinforce left shield with magic.,30,1,10,"Sold by Yoel of Londor for 4,500 souls Sold by Yuria of Londor for 4,500 souls Sold by Orbeck of Vinheim for 3,000 souls"
+,Great Magic Shield,Greatly reinforce left shield with magic,60,1,18,Found in Irithyll Dungeon
+,Spook,Masks noises of the caster and prevents fall damage.,15,1,10,"Sold by Orbeck Of Vinheim for 2,000 souls"
+,Aural Decoy,Distracts foes with distant sound.,15,1,18,"Sold by Orbeck of Vinheim for 2,000 souls"
+,Pestilent Mist,"Releases dense mist that eats away at HP. Beware, as the caster is not immune to its effect.",13,1,30,"Sold by Orbeck Of Vinheim for 1,000 souls"
+,Cast Light,Casts a light to illuminate surroundings.,20,1,15,"Sold by Orbeck Of Vinheim for 1,000 souls Requires Golden Scroll"
+,Repair,Repairs equipped weapons and armor. Includes weapons with exhausted durability.,20,1,15,"Sold by Orbeck of Vinheim for 2,000 souls Requires Golden Scroll"
+,Hidden Weapon,Turns right weapon invisible.,25,1,12,"Sold by Orbeck of Vinheim for 1,500 souls Requires Golden Scroll"
+,Hidden Body,Turns body nearly invisible.,15,1,15,"Sold by Orbeck of Vinheim for 3,000 souls Requires Golden Scroll"
+,Chameleon,Transforms player into something inconspicuous. (The object will change depending on what area you're in.),20,1,12,Found near the Church of Yorshka bonfire in Irithyll of the Boreal Valley during Anri of Astora's questline. The spell will drop from an assassin disguised as a statue. Found in the Darkmoon Tomb from the assassin's corpse if not killed earlier.
+,Twisted Wall of Light,Distorts light to deflect magic.,10,1,27,"Sold by Orbeck of Vinheim for 6,000 souls Requires Golden Scroll"
+,Deep Soul,Fires dark soul dregs.,6,1,12,Obtained by Soul of the Deacons of the Deep Transposition
+,Great Deep Soul,Fires powerful darkened soul sediment.,9,1,20,Reward for reaching rank 1 in the covenant Aldrich Faithful.
+,Affinity,Casts a dark manifestation of humanity.,40,1,32,"Sold by Karla for 15,000 souls"
+,Dark Edge,Strikes with a blade formed of humanity's darkness.,26,1,30,"Sold by Karla for 8,000 souls"
+,Frozen Weapon,Imbues right-hand weapon with frost,30,1,15,Ashes of Ariandel DLC: Near the Giant Flies before the Rope Bridge Cave bonfire
+,Snap Freeze,Creates a cloud of near-freezing mist.,16,1,18,"Ashes of Ariandel DLC: From Depths of the Painting bonfire, turn left to where the crabs are and keep going until you reach the end of that path. The sorcery will be behind an aggressive Tree Woman"
+,Great Soul Dregs,Fires great soul dregs,30,1,40,The Ringed City DLC: Behind an illusory wall in The Dreg Heap
+,Old Moonlight,Conceive old moonlight sword and attack,23,1,25,The Ringed City DLC: Transposed with Soul of Darkeater Midir
+
+
+== [DS3] spears_pikes ==
+
+Name & Icon,Attack PowerDamage Reduction (%),Requirements Param Bonus,Durability / Weight - Attack Type - Skill,Physical ATK,col_5,col_6,col_7,col_8,Critical,col_10,Strength,Dexterity,Intelligence,Faith,Durability,Skill,Acquired From
+Spear,104 40,0 25,0 20,0 20,0 25,100 20,0 0 0,11 D,10 C,0 -,0 -,65 4.5,16 ( -/ -) Shield Splitter,Starting equipment for the Herald class.Sold by Greirat at Firelink Shrine,,,
+Tailbone Spear,118 40,0 25,0 20,0 20,0 25,100 20,0 0 0,13 E,15 D,0 -,0 -,60 4.5,25 Unleash Dragon,Drops from Wretches in Irithyll Dungeon that wield this weapon.,,,
+Winged Spear,95 40,0 25,0 20,0 20,0 25,100 20,0 0 0,12 D,15 C,- -,- -,70 6.0,13 Charge,Unbreakable Patches: 1500 souls,,,
+Drang Twinspears,100 40,0 25,0 20,0 20,0 25,100 20,0 0 0,14 D,20 D,0 -,0 -,70 8.0,13 (-/9) Charge,Found at Irithyll of the Boreal Valley.,,,
+Arstor's Spear,118 40,0 25,0 20,0 20,0 25,100 20,0 33 0,11 D,19 C,0 -,0 -,90 6.5,16 (-/-) Shield Splitter,"Soul Transposition from Soul of the Rotted Greatwood for 1,000 souls.",,,
+Four-Pronged Plow,105 40,0 25,0 20,0 20,0 25,100 20,0 0 0,13 D,11 D,0 -,0 -,55 6.5,13 (-/9) Charge,Dropped by undead wielding this weapon in Undead Settlement.,,,
+Saint Bident,98 45,0 30,0 25,0 25,0 30,100 25,0 0 0,12 D,12 E,0 -,16 C,70 8.5,13( -/ 9) Charge,"Found at Cathedral of the Deep: next to one of the chained-Giants, there is a big blue door that leads to the area where this if found.",,,
+Rotten Ghru Spear,104 40,0 25,0 20,0 20,0 25,100 20,0 34 0,10 D,12 D,0 -,0 -,50 5.5,13 ( -/ 9) Charge,Dropped by Ghru Grunts wielding this weapon in the swamp area in Farron Keep and in the labyrinth area of Smouldering Lake.,,,
+Partizan,108 40,0 25,0 20,0 20,0 25,100 20,0 0 0,14 D,12 D,0 -,0 -,65 6.5,11 (-/11) Spin Sweep,"Looted from a hanging corpse near where Cornyx is being held, above the Third bonfire at the Undead Settlement.",,,
+Yorshka's Spear,98 40,0 65,0 60,0 60,0 65,100 25,0 0 0,18 D,14 D,0 -,13 D,65 6.5,25( -/ -) Pacify,Located in a chest in a dark room not far from the Church of Yorshka bonfire in Irithyll of the Boreal Valley.,,,
+Gargoyle Flame Spear,103 50,0 30,90 25,0 25,0 30,100 25,0 0 0,15 E,18 D,9 E,9 E,70 9.5,13 (-/15) Kindled Charge,Dropped by Stone Gargoyles wielding this weapon in the Profaned Capital & Grand Archives.,,,
+Dragonslayer Swordspear,128 55,0 35,0 30,34 30,0 35,0 25,0 0 0,16 D,22 C,0 -,18 D,100 14.5,20 (-/-) Falling Bolt,Soul Transposition of the Soul of the Nameless King.,,,
+Dragonslayer Spear,113 50,0 30,0 25,70 25,0 30,100 25,0 0 0,20 D,20 C,0 -,0 D,80 9.5,17 (-/12) Lightning Charge,Looted from a spot in the area after the Nameless King,,,
+Golden Ritual Spear,73 40,77 30,0 20,0 20,0 25,100 20,0 0 0,10 E,10 D,18 -,14 B,50 3.0,9 (-/-) Steady Chant,"Dropped from a Mimic just above "">Pontiff Sullyvahn bonfire.",,,
+Soldering Iron,39 40,0 25,93 20,0 20,0 25,100 20,0 0 0,10 D,12 D,0 -,0 -,25 5.0,13 (-/9) Charge,Drops from Jailers in Irithyll Dungeon.,,,
+Lothric Knight Long Spear,112 45,0 30,0 25,0 25,0 30,100 25,0 0 0,14 D,20 D,-,-,80 8.0,13 (-/9) Charge,Dropped from Lothric Knights wielding them between the Vordt of the Boreal Valley and Dancer of the Boreal Valley bossfight rooms.,,,
+Greatlance,129 50,0 30,0 25,0 25,0 30,100 25,0 0 0,21 D,16 D,-,-,90 10.5,15 (-/15) Charge,Looted off of the dead body after the red eyed Lothric Knight near the Dragon Barracks bonfire (Before the bridge),,,
+Pike,105 45,0 30,0 25,0 25,0 30,100 25,0 0 0,18 D,14 C,-,-,80 7.5,13 (-/9) Charge,Rare drop from the branch-wielding hollows after the Crucifixion Woods bonfire at the Road of Sacrifices,,,
+Follower Javelin,106 40,0 25,0 20,0 20,0 25,100 20,0 0 0,12 C,12 E,0 -,0 -,65 4.0,15( -/ -) Hurl Spear,"Ashes of Ariandel DLC: From the Snowfiled bonfire, up the hill to the right guarded by Farron Followers",,,
+Ringed Knight Spear,126 45,0 30,12 20,0 20,0 30,0 25,0 0 0,15 D,17 D,0 E,0 E,90 9.0,12(-/8) Ember (Skill),The Ringed City: Down the steps from Shira and to the right before the swamp. On a corpse behind the Ringed Knight.,,,
+Lothric War Banner,100 40,0 25,0 20,0 20,0 25,100 20,0 0 0,14 D,14 D,0 -,0 -,70 5.0,35 (-/-) Lothric War Banner,A hidden area just shortly after you meet Lapp for the first time in The Dreg Heap,,,
+
+
+== [DS3] standard_shields ==
+
+Name & Icon,Attack PowerDamage Reduction (%),RequirementsParam Bonus,Durability / Weight - Attack Type - Skill,Physical ATK,col_5,col_6,col_7,col_8,Critical,col_10,Strength,Dexterity,Intelligence,Faith,Durability,Skill,Acquired From
+Wargod Wooden Shield,88 84,0 47,0 69,0 64,0 67,100 57,0 0 0,12 D,0 -,0 -,0 -,70 4,- (-/-) Weapon Skill,Looted from a corpse next to the Pit of Hollows bonfire after defeating Curse-Rotted Greatwood.,,,
+Spider Shield,88 80,0 52,0 47,0 29,0 46,100 56,0 0 0,10 D,0 -,0 -,0 -,75 3.5,- (-/-) Weapon Skill,Dropped by the second hostile NPC after the first bonfire at Cathedral of the Deep.,,,
+Sunset Shield,82 100,- 60,- 55,- 55,- 26,100 49,0 0 0,12 D,0 -,0 -,0 -,80 5,- Parry,Looted off of Sirris' corpse after completing her questline.,,,
+Kite Shield,80 100,- 50,- 52,- 33,- 50,100 47,0 0 0,12 D,0 -,0 -,0 -,80 4.5,- Parry,Starting equipment for the Herald class.Sold by Greirat after scavenging Undead Settlement.,,,
+Round Shield,79 86,0 68,0 50,0 45,0 41,100 51,0 0 0,8 D,0 -,0 -,0 -,80 3.5,- Parry,Sold by Greirat for 1000 souls.,,,
+Silver Eagle Kite Shield,88 100,0 44,0 45,0 33,0 43,100 45,0 0 0,11 D,0 -,0 -,0 -,60 5,- (-/-) Weapon Skill,A chest in High Wall of Lothric.,,,
+Stone Parma,94 100,0 58,0 52,0 53,0 57,100 57,0 0 0,17 D,0 -,0 -,0 -,70 7,- (-/-) Weapon Skill,Can be found under a slug along the left wall just outside of the first Farron Keep bonfire.,,,
+Spiked Shield,80 91,0 49,0 51,0 32,0 56,100 48,33 0 0,12 D,12 -,0 -,0 -,75 3.5,- Shield Strike,Dropped by Dark Spirit Longfinger Kirk in Cathedral of the Deep.,,,
+Crest Shield,95 100,0 67,0 56,0 43,0 86,100 49,0 0 0,14 D,0 -,0 -,0 -,90 5,- Parry,Looted from a corpse near the first bonfire at Cathedral of the Deep a little bit uphill.,,,
+Grass Crest Shield,92 89,0 43,0 38,0 33,0 36,100 50,0 0 0,10 D,0 -,0 -,0 -,75 4.5,- Parry,"Road of Sacrifices: From the Crucifixion Woods bonfire, drop down to the right of the large crab towards one of the large trees. Loot the corpse on the right side of the tree.",,,
+Dragon Crest Shield,95 100,0 67,0 89,0 43,0 53,100 49,0 0 0,14 D,0 -,0 -,0 -,90 5,- Parry,On a corpse in an area above the Old Wolf of Farron bonfire.,,,
+East-West Shield,76 55,0 70,0 53,0 56,0 46,100 45,0 0 0,8 D,0 -,0 -,0 -,60 2,- Parry,"Cemetery of Ash, to the left of the Firelink Shrine entrance, near the Sword Master hostile NPC",,,
+Blue Wooden Shield,77 56,0 70,0 54,0 56,0 39,100 50,0 0 0,8 D,0 -,0 -,0 -,65 2.5,- Parry,"Found at Undead Settlement: At the graveyard with the falling spears, just ahead of the Dilapidated Bridge bonfire.",,,
+Knight Shield,70 100,0 51,0 46,0 34,0 44,100 48,0 0 0,13 D,0 -,0 -,0 -,65 4.5,- Parry,Starting equipment for the Knight class. Sold by Greirat for 1500 souls after his first looting run.,,,
+Pierce Shield,87 93,0 62,0 50,0 31,0 48,100 53,0 0 0,10 D,0 -,0 -,0 -,90 3.5,14 Shield Bash,Purchased from Unbreakable Patches after defeating Deacons of the Deep.,,,
+Shield of Want,104 100,0 61,0 63,0 43,0 61,100 58,0 0 0,18 D,0 -,0 -,0 -,110 5.5,- (-/-) Weapon Skill,Looted from a dead corpse in the lake with a giant worm at Smouldering Lake.,,,
+Silver Knight Shield,98 100,0 60,0 54,0 48,0 52,100 55,0 0 0,16 D,0 -,0 -,0 -,100 6.5,- Parry,Dropped by Silver Knights in Anor Londo.,,,
+Spirit Tree Crest Shield,95 100,0 67,0 56,0 83,0 53,100 49,0 0 0,14 D,0 -,0 -,0 -,90 5,- Parry,"Found in a chest in Lothric Castle. The shield is guarded by a Frost Knight, like the one fought before embarking on the Road of Sacrifices.",,,
+Black Knight Shield,113 100,0 65,0 85,0 52,0 63,100 60,0 0 0,18 D,0 -,0 -,0 -,130 7.5,- Weapon Skill,Dropped by Black Knights.,,,
+Golden Wing Crest Shield,102 100,0 75,0 50,0 57,0 47,100 50,0 0 0,14 D,0 -,0 -,0 -,100 5.5,- Spell Parry,"Looted from "">Lion Knight Albert in Grand Archives.",,,
+Pontiff Knight Shield,63 73,0 79,0 69,0 69,0 72,100 42,0 0 0,8 -,12 -,0 -,0 -,65 3.5,- Weapon Skill,Drops from Pontiff Knights wielding this shield in Irithyll of the Boreal Valley.,,,
+Porcine Shield,85 74,0 43,0 38,0 27,0 36,100 48,0 0 0,8 D,0 -,0 -,0 -,70 4.5,14 Shield Bash,Trade an Undead Bone Shard to the Crow on top of Firelink Shrine.,,,
+Large Leather Shield,78 85,0 54,0 56,0 58,0 48,100 51,0 0 0,8 D,0 -,0 -,0 -,75 3.5,- Parry,Buy from Shrine Handmaid for 500 souls.,,,
+Wooden Shield,78 57,0 66,0 48,0 44,0 39,100 53,0 0 0,8 D,0 -,0 -,0 -,70 2.5,- Parry,Dropped by Sage’s Prentice at Road of Sacrifices.,,,
+Lothric Knight Shield,83 100,0 59,0 53,0 87,0 51,100 54,0 0 0,18 D,0 -,0 -,0 -,75 6,- Parry,Dropped by Lothric Knights wielding this shield.Sold by Greirat for 3000 souls (after sending him to scavenge at Irithyll Valley),,,
+Sunlight Shield,82 100,0 54,0 49,0 44,0 47,100 49,0 0 0,12 D,0 -,0 -,0 -,80 5.5,- Parry,Trade Pickle Pee the Crow a Mendicant's Staff.,,,
+Carthus Shield,56 65,0 41,0 25,0 56,0 52,100 45,0 0 0,8 D,0 -,0 -,0 -,80 2.5,- Parry,Dropped by Red-Eyed Skeletons wielding this Shield in the Catacombs of Carthus.,,,
+Follower Shield,80 80,0 50,0 35,0 50,0 65,100 55,0 0 0,9 D,0 -,0 -,0 -,55 3.5,- Weapon Skill,"Looted from Snowy Mountain area in the Painted World of Ariandel. From the Snowy Mountain Pass bonfire, run up the incline past the 2 follower enemies, there should be a fallen tree above them. From there continue going up the right hand incline until you see the bell in the snow. There should be a follower enemy with a torch on your left hand side, go left until you see the cliff and make a left. There should be a corpse blocked by a torch follower.",,,
+Ethereal Oak Shield,103 100,0 65,0 35,0 70,0 60,100 50,0 0 0,D 12,0 -,0 -,0 -,80 5,- Weapon Skill,Looted from: Painted World of Ariandel - Corpse located on bottom half of the tower after you go up a ladder then go down the stairs. The tower itself is located in the Millwood Ruins after the giant wolf encounter.,,,
+
+
+== [DS3] staves ==
+
+Name & Icon,Attack PowerDamage Reduction (%),Requirements Param Bonus,Durability / Weight - Attack Type - Skill,Physical ATK,col_5,col_6,col_7,col_8,Critical,col_10,Strength,Dexterity,Intelligence,Faith,Weight,Durability,Skill,Acquired From
+Sorcerer's Staff,60 25,0 20,0 10,0 10,0 15,100 10,100,6 E,- -,10 B,- -,2.0,50,7 ( -/ -) Steady Chant,Shrine Handmaid,,,
+Court Sorcerer's Staff,60 25,0 20,0 10,0 10,0 15,100 10,60,6 E,- -,14 A,- -,2.0,45,15 ( -/ -) Steady Chant,Dropped by a mimic located in the Profaned Capital. The mimic is on the second floor of the church looking building that is full of hand beasts.,,,
+Heretic's Staff,63 30,0 25,0 10,0 10,0 20,100 15,120,8 D,- -,16 B,- -,3.0,55,7 (-/-) Steady Chant,"Road of Sacrifices 3rd bonfire, found in the 1st room of the ruins",,,
+Witch Tree Branch,57 25,0 20,0 10,0 10,0 15,100 10,60,7 E,- -,18 C,- -,2.0,40,7 (-/-) Steady Chant,Looted from corpse behind a locked gate in Irithyll of the Boreal Valley. Must destroy an illusionary railing in order to acquire it.,,,
+Sage's Crystal Staff,84 25,0 25,0 10,0 10,0 15,100 10,130,7 E,- -,24 B,- -,2.5,50,30 (-/-) Steady Chant,Dropped by the hostile mage NPC in Grand Archives.,,,
+Izalith Staff,120 30,0 25,0 20,0 20,0 20,100 15,100,12 D,- D,14 B,10 C,3.0,55,7 (-/-) Steady Chant,Smouldering Lake,,,
+Storyteller's Staff,60 25,0 25,0 10,0 10,0 15,100 10,60,6 E,- -,12 B,- -,2.5,45,20 ( -/ -) Poison Spore,Dropped by the corvian mage at Road of Sacrifices,,,
+Archdeacon Great Staff,89 25,0 25,0 10,0 10,0 15,100 15,20,8 D,- -,12 -,12 A,2.5,55,7 (-/-) Steady Chant,Reach Rank 2 in Aldrich Faithful Covenant,,,
+Man-Grub's Staff,90 30.0,0 25.0,0 10.0,0 10.0,0 15.0,100 15,100,9 D,- -,18 -,- -,3.0,65,7 (-/-) Steady Chant,Reach rank 2 in Rosaria's Fingers.,,,
+Mendicant's Staff,60 25.0,0 25.0,0 10.0,0 10.0,0 15.0,100 2.5,60,7 D,- -,18 B,- -,2.5,55,7 (-/-) Steady Chant,Drops from Summoners in Archdragon Peak.,,,
+Preacher's Right Arm,100 25.0,0 20,0 10,0 10,0 15,100 10,0,12 E,0 -,14 A,0 -,2.0,50,5 Feasting Branch,"Swamp in The Ringed City (Location), corpse hanging on structure in the middle",,,
+Murky Longstaff,86 30,0 20,0 10,0 10,20 25,100 15,0,6 D,0 D,12 B,0 E,3.0,65,7(-/-) Chant from the Depths,"The Dreg Heap, past the overgrown Lothric Knights and up the hill into a buidling, on a corpse",,,
+
+
+== [DS3] straight_swords ==
+
+Name & Icon,Attack PowerDamage Reduction (%),Requirements Param Bonus,Durability / Weight - Attack Type - Skill,Physical ATK,col_5,col_6,col_7,col_8,Critical,col_10,Strength,Dexterity,Intelligence,Faith,Durability,Skill,Acquired From
+Long Sword,110 45,0 30,0 25,0 25,0 30,100 30,-,10 D,10 D,0 -,0 -,70 3.0,-(17/20) Stance,Knight starting equipment. Dropped by hollows at High Wall of Lothric Sold by Greirat,,,
+Sunlight Straight Sword,112 45,0 30,0 25,0 25,0 30,100 30,-,12 D,12 D,0 -,16 C,70 3.0,10 (-/-) Oath of Sunlight,Dropped by Mimic at Lothric Castle,,,
+Broken Straight Sword,70 40,0 25,0 20,0 20,0 25,100 30,-,8 D,8 D,0 -,0 -,30 1.0,-(17/20) Stance,Looted at Cemetery of Ash,,,
+Broadsword,117 45,0 30,0 25,0 25,0 30,100 30,-,10 C,10 D,0 -,0 -,80 3.0,- (17/20) Stance,Looted at High Wall of Lothric,,,
+Astora Straight Sword,129 45,0 30,0 25,0 25,0 30,100 30,-,10 D,10 E,0 -,12 -,80 3.0,-(17/20) Stance,Looted at High Wall of Lothric,,,
+Lothric Knight Sword,103 45,0 35,0 25,0 25,0 35,110 35,-,11 D,18 D,0 -,0 -,80 4.0,-(17/20) Stance,Sold by Greirat Dropped by Lothric Knights,,,
+Irithyll Straight Sword,124 50,0 35,0 30,0 30,0 35,100 35,55,12 D,14 D,0 -,0 -,80 4.0,- (17/20) Stance,Dropped by Outrider Knight at Undead Settlement,,,
+Shortsword,99 45,0 30,0 25,0 25,0 30,110 30,-,8 D,10 C,0 -,0 -,65 2.0,-(17/20) Stance,Sold by Shrine Handmaid,,,
+Cleric's Candlestick,70 40,77 30,0 25,0 25,0 30,100 30,65,8 D,12 D,0 C,12 -,65 2.0,5 (-/-) Guiding Light,Soul Transposition using Soul of the Deacons of the Deep,,,
+Barbed Straight Sword,111 45,0 30,0 25,0 25,0 30,100 35,34,11 D,11 D,0 -,0 -,65 3.0,-(17/20) Stance,Dropped by Longfinger Kirk at Cathedral of the Deep,,,
+Dark Sword,115 55,0 35,0 30,0 30,0 35,100 35,-,16 C,15 D,- 0,- 0,80 4.5,13 ( -/13) Stomp,Dropped by Darkwraiths,,,
+Gotthard Twinswords,100 50,0 30,0 25,0 25,0 30,100 30,-,12 D,18 D,- 0,- 0,70 6.5,5 (-/17) Spin Slash,Looted at Grand Archives,,,
+Lothric's Holy Sword,107 50,0 35,0 30,0 30,0 35,100 35,-,10 D,18 D,- 0,14 E,80 4.0,-(17/22) Sacred Lothric Light,Soul Transposition using Soul of the Twin Princes,,,
+Anri's Straight Sword,117 45,0 30,0 25,0 25,0 30,100 30,-,10 D,10 E,- 0,E 0,80 3.0,-(17/20) Stance,"Completing Anri of Astora's questline, or just killing him/her.",,,
+Morion Blade,131 45,0 35,0 25,0 35,0 25,100 35,34,12 D,17 D,- 0,- 0,80 4.0,-(17/20) Stance,Give Orbeck's Ashes to Yuria of Londor,,,
+Valorheart,120 60,0 40,0 35,0 30,0 35,100 50,-,12 D,12 D,- 0,- 0,70 5.5,-(17/20) Lion Stance,Ashes of Ariandel DLC: Defeat Champion's Gravetender & Gravetender Greatwolf,,,
+Ringed Knight Straight Sword,120 45,0 30,11 25,0 25,0 30,100 30,-,17 C,15 D,E 0,E 0,70 4.5,-(7/10) Ember (Skill),"From the Ringed City Streets bonfire, head out into the swamp and head straight, past several Locust Men, on a corpse.",,,
+
+
+== [DS3] talismans ==
+
+Name & Icon,Attack PowerDamage Reduction (%),Requirements Param Bonus,Durability / Weight - Attack Type - Skill,Physical ATK,col_5,col_6,col_7,col_8,Critical,col_10,Strength,Dexterity,Intelligence,Faith,Durability,Skill,Acquired From
+Talisman,52 25.0,0 15.0,0 10.0,0 15.0,0 15.0,100 10,100,4 E,0 -,0 -,10 B,50 0.5,8( -/ -) Unfaltering Prayer,Sold by Shrine Handmaid for 500 souls.,,,
+Saint's Talisman,52 25.0,0 15.0,0 10.0,0 15.0,0 15.0,100 10,107,4 D,0 -,0 -,16 A,65 0.5,8 (-/-) Unfaltering Prayer,Undead Settlement,,,
+Sunlight Talisman,52 25.0,0 15.0,0 10.0,0 15.0,0 15.0,100 10,103,4 D,0 -,0 -,14 B,65 0.5,9( -/ -) Unfaltering Prayer,"Farron Keep, in the swamp near the Estus Soup.",,,
+White Hair Talisman,73 25.0,0 15.0,79 15.0,0 15.0,0 15.0,100 10.0,106,4 E,0 -,16 D,20 D,45 0.5,11( -/ -) Combustion,Smouldering Lake: Lava pit.,,,
+Sunless Talisman,74 25.0,0 15.0,0 10.0,0 15.0,0 15.0,0 10,117,4 E,0 -,0 C,24 B,50 0.5,8(-/-) Unfaltering Prayer,Reward for completing the questline of Sirris of the Sunless Realms,,,
+Canvas Talisman,52 25.0,0 15.0,0 10.0,0 15.0,0 15.0,100 10,112,4 D,0 -,0 -,14 B,55 0.5,8 (-/-) Unfaltering Prayer,"Purchased from Shrine Handmaid for 3,000 souls after giving her Paladin's Ashes",,,
+
+
+== [DS3] tools ==
+
+Name & Icon,Usage,Location
+Darksign,Returns you to the last bonfire used at the cost of deleting all of your current souls.,Starting equipment.
+Coiled Sword,Thrust into the shrine bonfire to restore its power and enable travel between bonfires.,Obtained after defeating Iudex Gundyr.
+Coiled Sword Fragment,Return to last bonfire used or to Firelink Shrine. Can be used repeatedly.,Found in alternate Firelink Shrine after defeating Champion Gundyr in The Untended Graves.
+Hello Carving,"When used, leaves an audible sound saying ''Hello.'' Has unlimited uses.",Trade an Alluring Skull with Picklepum the Crow
+Thank you Carving,"When used, leaves an audible sound saying ''Thank you.'' Has unlimited uses.",Trade a Hidden Blessing with Picklepum the Crow
+Very Good Carving,"When used, leaves an audible sound saying ''Very good.'' Has unlimited uses.",Trade a Divine Blessing with Picklepum the Crow
+Help me Carving,"When used, leaves an audible sound saying ''Help me.'' Has unlimited uses.",Trade any sacred chime (not a talisman) with Picklepum the Crow
+I'm sorry Carving,"When used, leaves an audible sound saying ''I'm sorry.'' Has unlimited uses.",Trade a Shriving Stone with Picklepum the Crow
+Rubbish,Rubbish with no value.,Dropped by Peasant Hollows and Undead Manservants in Undead Settlement
+Binoculars,Used to view longer distances.,Found at the High Wall of Lothric.
+Dragon Head Stone,Used to gain the head of a dragon.,Obtained after defeating the Ancient Wyvern in Archdragon Peak.
+Twinkling Dragon Head Stone,Used to gain a bigger head of a dragon.,"Obtained after defeating Hawkwood in a duel, as part of his questline."
+Dragon Torso Stone,Used to gain the torso of a dragon and a dragon's roar.,Found by the lift in Irithyll Dungeon
+Twinkling Dragon Torso Stone,Gain the torso of a dragon and roar alongside an archdragon mirage.,Obtained at the very end of Archdragon Peak by using the ''Path of the Dragon'' on the altar.
+
+
+== [DS3] ultra_greatswords ==
+
+Name & Icon,Attack PowerDamage Reduction (%),Requirements Param Bonus,Durability / Weight - Attack Type - Skill,Physical ATK,col_5,col_6,col_7,col_8,Critical,col_10,Strength,Dexterity,Intelligence,Faith,Durability,Skill,Acquired From
+Zweihander,145 50,0 40,0 35,0 35,0 40,100 40,0 0 0,19 D,11 D,- -,- -,80 10.0,10 (-/15) Stomp,Sold by Greirat of the Undead Settlement for 6000 souls.,,,
+Greatsword,159 65,0 50,0 45,0 45,0 50,100 45,0 0 0,28 D,10 D,0 -,0 -,100 20.0,10( -/20) Stomp,"Farron Keep, on one of the broken bridges.",,,
+Farron Greatsword,125 55,0 45,0 40,0 40,0 45,100 45,0 0 0,18 D,20 C,0 -,0 -,90 12.5,- Parry,Soul Transposition using Soul of the Blood of the Wolf,,,
+Fume Ultra Greatsword,149 80,0 55,0 65,0 60,0 65,100 55,0 0 0,50 A,10 E,0 -,0 -,170 25.5,10 (-/18) Stomp,In Smouldering Lake: Drop from Knight Slayer Tsorig,,,
+Profaned Greatsword,161 55,0 45,0 40,0 40,0 45,100 45,0 0 0,22 C,10 D,-,-,100 13.5,10 (-/17) Profaned Flame,Soul Transposition using Soul of Pontiff Sulyvahn,,,
+Black Knight Greatsword,185 65,0 50,0 50,0 45,0 50,100 45,0 0 0,30 C,18 D,-,-,115 16.0,10 (-/16) Stomp,Dropped by Black Knights wielding this weapon,,,
+Cathedral Knight Greatsword,149 60,0 50,0 40,0 40,0 50,100 45,0 0 0,26 C,10 E,0 -,0 -,120 15.0,10 (-/20) Stomp,Dropped by Cathedral Knights,,,
+Lorian's Greatsword,151 60,0 45,79 40,0 40,0 45,100 45,0 0 0,26 D,10 D,0 D,0 D,115 14.0,10 ( -/ 18) Flame of Lorian,Soul Transposition using Soul of the Twin Princes,,,
+Lothric Knight Greatsword,131 55,0 45,0 40,87 45,0 45,100 45,0 0 0,24 D,16 D,0 -,0 -,100 16.5,10 (-/15) Stomp,Dropped from Lothric Knights wielding this weapon. Can be purchased from Greirat of the Undead Settlement or Shrine Handmaid if you give her Greirat's Ashes,,,
+Astora Greatsword,132 50,0 40,0 35,0 35,0 40,100 40,0 0 0,16 D,18 C,0 -,0 -,75 8.0,13 Charge,Looted from a corpse at the graveyard near the Cleansing Chapel at Cathedral of the Deep,,,
+Ringed Knight Paired Greatswords,185 50,0 40,11 35,0 35,0 40,100 40,0 0 0,40 C,15 E,0 E,0 E,90 22.5,15 (12/12) Ember (Skill),"Drops from Ringed Knight carrying them just before the cathedral, right near the altar where you rank up the Spears of the Church.",,,
+
+
+== [DS3] upgrade_materials ==
+
+Name & Icon,Usage,Location*
+Profaned Coal,"Enables Dark, Blood and Hollow infusion",Irithyll Dungeon
+Farron Coal,"Enables Heavy, Sharp and Poison infusion",Road of Sacrifices
+Sage's Coal,"Enables Crystal, Blessed, and Deep infusion",Farron Keep
+Giant's Coal,"Enables Lightning, Simple and Chaos infusion",Anor Londo
+Titanite Shard,Reinforce weapons to +3,Cemetery of Ash Undead Settlement High Wall of Lothric Road of Sacrifices Irithyll of the Boreal Valley Farron Keep Cathedral of the Deep Catacombs of Carthus Sold by Shrine Handmaid
+Large Titanite Shard,Reinforce weapons to +6,High Wall of Lothric Road of Sacrifices Cathedral of the Deep Catacombs of Carthus Smouldering Lake Irithyll of the Boreal Valley Lothric Castle Trade with Pickle Pee Crow Buy from Shrine Handmaid
+Titanite Chunk,Reinforce weapons to +9,Buy from Shrine Handmaid Irithyll Dungeon Smouldering Lake Grand Archives Lothric Castle Archdragon Peak Untended Graves Consumed King's Garden
+Titanite Slab,Reinforce weapons to +10Reinforce unique and transposed weapons to +5,Grand Archives Archdragon Peak Given by Siegward of Catarina Trade with Pickle Pee Crow Buy from Shrine Handmaid
+Twinkling Titanite,Reinforce unique weapons to +4,Sold by Shrine Handmaid Dropped by Crystal Lizards
+Titanite Scale,Reinforce soul-transposed weapons to +4,Cemetery of Ash Cathedral of the Deep Lothric Castle Farron Keep Irithyll Dungeon Grand Archives Smouldering Lake Archdragon Peak Sold by Greirat Sold by Shrine Handmaid
+Fire Gem,Used in infusion to create Fire weapons,Undead Settlement
+Refined Gem,Used in infusion to create Refined weapons,High Wall of Lothric Grand Archives Lothric Castle
+Transposing Kiln,Enables Transposition,Kill Curse-Rotted Greatwood
+Heavy Gem,Used in infusion to create Heavy weapons,High Wall of Lothric Undead Settlement Farron Keep
+Raw Gem,Used in infusion to create Raw weapons,High Wall of Lothric
+Shriving Stone,Reverses weapon infusion.,Road of Sacrifices Farron Keep
+Crystal Gem,Used in infusion to create Crystal weapons,Road of Sacrifices
+Hollow Gem,Used in infusion to create Hollow weapons,Farron Keep Grand Archives Road of Sacrifices
+Deep Gem,Used in infusion to create Deep weapons,Cathedral of the Deep Irithyll of the Boreal Valley
+Blessed Gem,Used in infustion to create Blessed weapons,Cathedral of the Deep High Wall of Lothric Undead Settlement Lothric Castle The Ringed City (Location)
+Poison Gem,Used in infusion to create Poison weapons,Farron Keep Profaned Capital
+Sharp Gem,Used in infusion to create Sharp weapons,Catacombs of Carthus Undead Settlement
+Chaos Gem,Used in infusion to create Chaos weapons,Smouldering Lake Catacombs of Carthus
+Lightning Gem,Used in infusion to create Lightning weapons,Archdragon Peak Irithyll of the Boreal Valley
+Blood Gem,Used in infusion to create Lacerating weapons,Irithyll of the Boreal Valley
+Simple Gem,Used in infusion to create Simple weapons,Irithyll Dungeon Irithyll of the Boreal Valley Painted World of Ariandel
+Dark Gem,Used in infusion to create Dark weapons,High Wall of Lothric Lothric Castle Catacombs of Carthus Consumed King's Garden
+
+
+== [DS3] whips ==
+
+Name & Icon,Attack PowerDamage Reduction (%),Requirements Param Bonus,Durability / Weight - Attack Type - Skill,Physical ATK,col_5,col_6,col_7,col_8,Critical,col_10,col_11,Strength,Dexterity,Intelligence,Faith,Durability,Skill,Acquired From
+Whip,90 25,0 15,0 10,0 10,0 15,100 10,0 0,0 0,6 -,14 C,0 -,0 -,50 2.0,14 (-/ -) Impact,Looted from a corpse in the Undead Settlement.,,,
+Notched Whip,95 25,0 15,0 10,0 10,0 15,100 10,0 0,33,6 -,19 D,0 -,0 -,50 2.0,14 (-/ -) Impact,Beginning of the Cathedral of the Deep. First bonfire.,,,
+Witch's Locks,77 30,0 15,80 20,0 10,0 15,100 15,0 0,0 0,9 -,17 D,12 C,12 C,50 3.0,18 (-/-/) Flame Whip,In a chest in dark room in Floor 1 of Grand Archives. Pull the lever.,,,
+Spotted Whip,102 25,0 15,0 10,0 10,0 15,100 10,33,0 0,9 -,20 D,0 -,0 -,50 2.5,14 (-/-) Impact,Located where you first found Cornyx in Undead Settlement after summoning White Phantom Great Swamp Cuculus and defeating Old Demon King.,,,
+Rose of Ariandel,79 25,0 15,0 10,0 10,0 15,100 10,0 0,33,10 C,12 E,0 -,17 B,50 3.5,25 (-/-) Awakening,Ashes of Ariandel DLC: Soul Transposition of Soul of Sister Friede,,,
+
+

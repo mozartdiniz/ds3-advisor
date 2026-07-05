@@ -1,0 +1,373 @@
+# Ghru Rotshield
+
+## Ghru Rotshield  
+  
+---  
+| 78 |  | 62  
+| - |  | 43  
+| - |  | 39  
+| - |  | 34  
+| - |  | 37  
+| 100 |  | 44  
+| 1.5 |  | 55  
+Aux | 36 |  |   
+Requirements & Bonus  
+|  |  |   
+E | - | - | -  
+5 | 0 | 0 | 0  
+| [Small Shield](/Small+Shields "Dark Souls 3 Small Shields") |  | [Strike](/Strike+Damage "Dark Souls 3 Strike Damage")  
+| [Shield Bash](/Shield+Bash "Dark Souls 3 Shield Bash") |  | 12 (-/-)  
+  
+**Ghru Rotshield** is a [Shield](/Shields "Dark Souls 3 Shields") in Dark Souls 3. [Small Shields](/Small+Shields "Dark Souls 3 Small Shields") usually weigh very little and have the least form of protection from attacks. They are often used by players who prefer parrying rather than blocking.
+
+> A rotting makeshift shield scavenged by the forest-dwelling Ghrus.   
+>   
+> Barely effective as a shield. However, its rotten state has made it poisonous, and resistant to other poisons as a result.   
+>   
+> Skill: Shield Bash   
+> Without lowering your guard, strike the enemy with the shield to knock them back or stagger them. Works while equipped in either hand.
+
+### Ghru Rotshield Notes and Tips:
+
+  * Can be Infused.
+  * Reinforced with Titanite.
+  * NOT recommended for use, due to its low damage block and poor stability. This small shield doesn't have a parry, meaning larger shields are a far better choice.
+  * Infusing with [Poison Gem](/Poison+Gem "Dark Souls 3 Poison Gem") increases its poison resistance while applying more poison buildup while bashing.
+  * If you don't use a shield bash in your fighting style, this shield is not recommended. If you do, defer to the [Pierce Shield](/Pierce+Shield "Dark Souls 3 Pierce Shield").
+  * [Shrine Handmaid](/Shrine+Handmaid "Dark Souls 3 Shrine Handmaid") will buy it for 5 souls, the second lowest price among all shields.
+
+### Location/Where to Find
+
+  * Dropped by Ghru enemies in [Smouldering Lake](/Smouldering+Lake "Dark Souls 3 Smouldering Lake") and [Farron Keep](/Farron+Keep "Dark Souls 3 Farron Keep").
+
+### Ghru Rotshield Upgrade Table
+
+Max 
+
+Regular 
+
+Overview table for all upgrades at max level. Click on the tabs to see individual upgrade paths.   
+
+| Attack Values Bonus | Parameter Bonus | Auxiliary Effects | Damage Reduction (%) | Stability  
+---|---|---|---|---|---  
+**Name** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
+Regular +10 | 156 | - | - | - | - | D | - | - | - | 36 | - | - | 62 | 43 | 39 | 34 | 37 | 58  
+Heavy +10 | 144 | - | - | - | - | D | - | - | - | 36 | - | - | 62 | 43 | 39 | 34 | 37 | 48  
+Sharp +10 | 144 | - | - | - | - | D | - | - | - | 36 | - | - | 62 | 43 | 39 | 34 | 37 | 48  
+Refined +10 | 140 | - | - | - | - | D | D | - | - | 36 | - | - | 62 | 43 | 39 | 34 | 37 | 48  
+Raw +10 | 195 | - | - | - | - | - | - | - | - | 36 | - | - | 58.9 | 40.8 | 37 | 32.3 | 35.1 | 44  
+Crystal +10 | 74 | 101 | - | - | - | E | - | D | - | 36 | - | - | 58.9 | 47.3 | 37 | 32.3 | 35.1 | 44  
+Simple +10 | 78 | 89 | - | - | - | D | - | D | - | 36 | - | - | 58.9 | 47.3 | 37 | 32.3 | 35.1 | 44  
+Fire +10 | 128 | - | 128 | - | - | - | - | - | - | 36 | - | - | 58.9 | 40.8 | 46.8 | 32.3 | 35.1 | 44  
+Chaos +10 | 78 | - | 101 | - | - | D | - | D | D | 36 | - | - | 58.9 | 40.8 | 42.9 | 32.3 | 35.1 | 44  
+Lightning +10 | 74 | - | - | 101 | - | E | - | - | D | 36 | - | - | 58.9 | 40.8 | 37 | 37.4 | 35.1 | 44  
+Blessed +10 | 101 | - | - | - | - | D | - | - | D | 36 | - | - | 58.9 | 40.8 | 37 | 32.3 | 35.1 | 41  
+Deep +10 | 128 | - | - | - | 128 | - | - | - | - | 36 | - | - | 58.9 | 40.8 | 37 | 32.3 | 44.4 | 44  
+Dark +10 | 78 | - | - | - | 101 | D | - | D | D | 36 | - | - | 58.9 | 40.8 | 37 | 32.3 | 40.7 | 44  
+Blood +10 | 120 | - | - | - | - | D | - | - | - | 35 | - | 37 | 58.9 | 40.8 | 37 | 32.3 | 35.1 | 44  
+Poison +10 | 120 | - | - | - | - | D | - | - | - | 57 | - | - | 58.9 | 40.8 | 37 | 32.3 | 35.1 | 44  
+Hollow +10  
+??  ?? | 148 | - | - | - | - | D | - | - | - | - | - | - | 58.9 | 40.8 | 37 | 32.3 | 35.1 | 41  
+  
+Requires regular reinforcement, totalling ?? souls, ?? [titanite shards](/Titanite+Shard "Dark Souls 3 Titanite Shard"), ?? [large titanite shards](/Large+Titanite+Shard "Dark Souls 3 Large Titanite Shard"), ?? [titanite chunks](/Titanite+Chunk "Dark Souls 3 Titanite Chunk") and ?? [titanite slab](/Titanite+Slab "Dark Souls 3 Titanite Slab").   
+
+| Attack Values Bonus | Parameter Bonus | Auxiliary Effects | Damage Reduction (%) | Stability  
+---|---|---|---|---|---  
+**Name** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
+Regular | 78 | - | - | - | - | E | - | - | - | 36 | - | - | 62 | 43 | 39 | 34 | 37 | 44  
+Regular +1 | 85 | - | - | - | - | D | - | - | - | 36 | - | - | 62 | 43 | 39 | 34 | 37 | 45  
+Regular +2 | 93 | - | - | - | - | D | - | - | - | 36 | - | - | 62 | 43 | 39 | 34 | 37 | 46  
+Regular +3 | 101 | - | - | - | - | D | - | - | - | 36 | - | - | 62 | 43 | 39 | 34 | 37 | 48  
+Regular +4 | 109 | - | - | - | - | D | - | - | - | 36 | - | - | 62 | 43 | 39 | 34 | 37 | 49  
+Regular +5 | 117 | - | - | - | - | D | - | - | - | 36 | - | - | 62 | 43 | 39 | 34 | 37 | 51  
+Regular +6 | 124 | - | - | - | - | D | - | - | - | 36 | - | - | 62 | 43 | 39 | 34 | 37 | 52  
+Regular +7 | 132 | - | - | - | - | D | - | - | - | 36 | - | - | 62 | 43 | 39 | 34 | 37 | 53  
+Regular +8 | 140 | - | - | - | - | D | - | - | - | 36 | - | - | 62 | 43 | 39 | 34 | 37 | 55  
+Regular +9 | 148 | - | - | - | - | D | - | - | - | 36 | - | - | 62 | 43 | 39 | 34 | 37 | 56  
+Regular +10 | 156 | - | - | - | - | D | - | - | - | 36 | - | - | 62 | 43 | 39 | 34 | 37 | 58  
+  
+Requires regular reinforcement titanite and souls + [Heavy Gem](/Heavy+Gem "Dark Souls 3 Heavy Gem").   
+
+| Attack Values Bonus | Parameter Bonus | Auxiliary Effects | Damage Reduction (%) | Stability  
+---|---|---|---|---|---  
+**Name** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
+Heavy | ?? | - | - | - | - | ?? | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Heavy +1 | ?? | - | - | - | - | ?? | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Heavy +2 | ?? | - | - | - | - | ?? | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Heavy +3 | ?? | - | - | - | - | ?? | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Heavy +4 | ?? | - | - | - | - | ?? | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Heavy +5 | ?? | - | - | - | - | ?? | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Heavy +6 | ?? | - | - | - | - | ?? | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Heavy +7 | ?? | - | - | - | - | ?? | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Heavy +8 | ?? | - | - | - | - | ?? | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Heavy +9 | ?? | - | - | - | - | ?? | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Heavy +10 | 144 | - | - | - | - | D | - | - | - | - | - | - | 62 | 43 | 39 | 34 | 37 | 48  
+  
+Requires regular reinforcement titanite and souls + [Sharp Gem](/Sharp+Gem "Dark Souls 3 Sharp Gem").   
+
+| Attack Values Bonus | Parameter Bonus | Auxiliary Effects | Damage Reduction (%) | Stability  
+---|---|---|---|---|---  
+**Name** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
+Sharp | ?? | - | - | - | - | ?? | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Sharp +1 | ?? | - | - | - | - | ?? | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Sharp +2 | ?? | - | - | - | - | ?? | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Sharp +3 | ?? | - | - | - | - | ?? | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Sharp +4 | ?? | - | - | - | - | ?? | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Sharp +5 | ?? | - | - | - | - | ?? | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Sharp +6 | ?? | - | - | - | - | ?? | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Sharp +7 | ?? | - | - | - | - | ?? | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Sharp +8 | ?? | - | - | - | - | ?? | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Sharp +9 | ?? | - | - | - | - | ?? | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Sharp +10 | 144 | - | - | - | - | D | - | - | - | - | - | - | 62 | 43 | 39 | 34 | 37 | 48  
+  
+Requires regular reinforcement titanite and souls + [Refined Gem](/Refined+Gem "Dark Souls 3 Refined Gem").   
+
+| Attack Values Bonus | Parameter Bonus | Auxiliary Effects | Damage Reduction (%) | Stability  
+---|---|---|---|---|---  
+**Name** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
+Refined | ?? | - | - | - | - | ?? | ?? | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Refined +1 | ?? | - | - | - | - | ?? | ?? | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Refined +2 | ?? | - | - | - | - | ?? | ?? | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Refined +3 | ?? | - | - | - | - | ?? | ?? | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Refined +4 | ?? | - | - | - | - | ?? | ?? | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Refined +5 | ?? | - | - | - | - | ?? | ?? | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Refined +6 | ?? | - | - | - | - | ?? | ?? | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Refined +7 | ?? | - | - | - | - | ?? | ?? | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Refined +8 | ?? | - | - | - | - | ?? | ?? | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Refined +9 | ?? | - | - | - | - | ?? | ?? | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Refined +10 | 140 | - | - | - | - | D | D | - | - | - | - | - | 62 | 43 | 39 | 34 | 37 | 48  
+  
+Requires regular reinforcement titanite and souls + [Raw Gem](/Raw+Gem "Dark Souls 3 Raw Gem").   
+
+| Attack Values Bonus | Parameter Bonus | Auxiliary Effects | Damage Reduction (%) | Stability  
+---|---|---|---|---|---  
+**Name** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
+Raw | ?? | - | - | - | - | - | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Raw +1 | ?? | - | - | - | - | - | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Raw +2 | ?? | - | - | - | - | - | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Raw +3 | ?? | - | - | - | - | - | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Raw +4 | ?? | - | - | - | - | - | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Raw +5 | ?? | - | - | - | - | - | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Raw +6 | ?? | - | - | - | - | - | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Raw +7 | ?? | - | - | - | - | - | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Raw +8 | ?? | - | - | - | - | - | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Raw +9 | ?? | - | - | - | - | - | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Raw +10 | 195 | - | - | - | - | - | - | - | - | - | - | - | 58.9 | 40.8 | 37 | 32.3 | 35.1 | 44  
+  
+Requires regular reinforcement titanite and souls + [Crystal Gem](/Crystal+Gem "Dark Souls 3 Crystal Gem").   
+
+| Attack Values Bonus | Parameter Bonus | Auxiliary Effects | Damage Reduction (%) | Stability  
+---|---|---|---|---|---  
+**Name** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
+Crystal | ?? | - | - | - | - | ?? | - | ?? | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Crystal +1 | ?? | - | - | - | - | ?? | - | ?? | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Crystal +2 | ?? | - | - | - | - | ?? | - | ?? | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Crystal +3 | ?? | - | - | - | - | ?? | - | ?? | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Crystal +4 | ?? | - | - | - | - | ?? | - | ?? | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Crystal +5 | ?? | - | - | - | - | ?? | - | ?? | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Crystal +6 | ?? | - | - | - | - | ?? | - | ?? | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Crystal +7 | ?? | - | - | - | - | ?? | - | ?? | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Crystal +8 | ?? | - | - | - | - | ?? | - | ?? | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Crystal +9 | ?? | - | - | - | - | ?? | - | ?? | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Crystal +10 | 74 | 101 | - | - | - | E | - | D | - | - | - | - | 58.9 | 47.3 | 37 | 32.3 | 35.1 | 44  
+  
+Requires regular reinforcement titanite and souls + [Simple Gem](/Simple+Gem "Dark Souls 3 Simple Gem").   
+
+| Attack Values Bonus | Parameter Bonus | Auxiliary Effects | Damage Reduction (%) | Stability  
+---|---|---|---|---|---  
+**Name** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
+Simple | ?? | - | - | - | - | ?? | - | ?? | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Simple +1 | ?? | - | - | - | - | ?? | - | ?? | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Simple +2 | ?? | - | - | - | - | ?? | - | ?? | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Simple +3 | ?? | - | - | - | - | ?? | - | ?? | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Simple +4 | ?? | - | - | - | - | ?? | - | ?? | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Simple +5 | ?? | - | - | - | - | ?? | - | ?? | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Simple +6 | ?? | - | - | - | - | ?? | - | ?? | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Simple +7 | ?? | - | - | - | - | ?? | - | ?? | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Simple +8 | ?? | - | - | - | - | ?? | - | ?? | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Simple +9 | ?? | - | - | - | - | ?? | - | ?? | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Simple +10 | 78 | 89 | - | - | - | D | - | D | - | - | - | - | 58.9 | 47.3 | 37 | 32.3 | 35.1 | 44  
+  
+Requires regular reinforcement titanite and souls + [Fire Gem](/Fire+Gem "Dark Souls 3 Fire Gem").   
+
+| Attack Values Bonus | Parameter Bonus | Auxiliary Effects | Damage Reduction (%) | Stability  
+---|---|---|---|---|---  
+**Name** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
+Fire | ?? | - | - | - | - | - | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Fire +1 | ?? | - | - | - | - | - | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Fire +2 | ?? | - | - | - | - | - | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Fire +3 | ?? | - | - | - | - | - | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Fire +4 | ?? | - | - | - | - | - | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Fire +5 | ?? | - | - | - | - | - | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Fire +6 | ?? | - | - | - | - | - | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Fire +7 | ?? | - | - | - | - | - | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Fire +8 | ?? | - | - | - | - | - | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Fire +9 | ?? | - | - | - | - | - | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Fire +10 | 128 | - | 128 | - | - | - | - | - | - | - | - | - | 58.9 | 40.8 | 46.8 | 32.3 | 35.1 | 44  
+  
+Requires regular reinforcement titanite and souls + [Chaos Gem](/Chaos+Gem "Dark Souls 3 Chaos Gem").   
+
+| Attack Values Bonus | Parameter Bonus | Auxiliary Effects | Damage Reduction (%) | Stability  
+---|---|---|---|---|---  
+**Name** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
+Chaos | ?? | - | - | - | - | ?? | - | ?? | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Chaos +1 | ?? | - | - | - | - | ?? | - | ?? | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Chaos +2 | ?? | - | - | - | - | ?? | - | ?? | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Chaos +3 | ?? | - | - | - | - | ?? | - | ?? | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Chaos +4 | ?? | - | - | - | - | ?? | - | ?? | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Chaos +5 | ?? | - | - | - | - | ?? | - | ?? | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Chaos +6 | ?? | - | - | - | - | ?? | - | ?? | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Chaos +7 | ?? | - | - | - | - | ?? | - | ?? | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Chaos +8 | ?? | - | - | - | - | ?? | - | ?? | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Chaos +9 | ?? | - | - | - | - | ?? | - | ?? | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Chaos +10 | 78 | - | 101 | - | - | D | - | D | D | - | - | - | 58.9 | 40.8 | 42.9 | 32.3 | 35.1 | 44  
+  
+Requires regular reinforcement titanite and souls + [Lightning Gem](/Lightning+Gem "Dark Souls 3 Lightning Gem").   
+
+| Attack Values Bonus | Parameter Bonus | Auxiliary Effects | Damage Reduction (%) | Stability  
+---|---|---|---|---|---  
+**Name** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
+Lightning | ?? | - | - | - | - | ?? | - | - | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Lightning +1 | ?? | - | - | - | - | ?? | - | - | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Lightning +2 | ?? | - | - | - | - | ?? | - | - | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Lightning +3 | ?? | - | - | - | - | ?? | - | - | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Lightning +4 | ?? | - | - | - | - | ?? | - | - | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Lightning +5 | ?? | - | - | - | - | ?? | - | - | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Lightning +6 | ?? | - | - | - | - | ?? | - | - | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Lightning +7 | ?? | - | - | - | - | ?? | - | - | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Lightning +8 | ?? | - | - | - | - | ?? | - | - | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Lightning +9 | ?? | - | - | - | - | ?? | - | - | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Lightning +10 | 74 | - | - | 101 | - | E | - | - | D | - | - | - | 58.9 | 40.8 | 37 | 37.4 | 35.1 | 44  
+  
+Requires regular reinforcement titanite and souls + [Blessed Gem](/Blessed+Gem "Dark Souls 3 Blessed Gem").   
+
+| Attack Values Bonus | Parameter Bonus | Auxiliary Effects | Damage Reduction (%) | Stability  
+---|---|---|---|---|---  
+**Name** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
+Blessed | ?? | - | - | - | - | ?? | - | - | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Blessed +1 | ?? | - | - | - | - | ?? | - | - | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Blessed +2 | ?? | - | - | - | - | ?? | - | - | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Blessed +3 | ?? | - | - | - | - | ?? | - | - | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Blessed +4 | ?? | - | - | - | - | ?? | - | - | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Blessed +5 | ?? | - | - | - | - | ?? | - | - | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Blessed +6 | ?? | - | - | - | - | ?? | - | - | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Blessed +7 | ?? | - | - | - | - | ?? | - | - | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Blessed +8 | ?? | - | - | - | - | ?? | - | - | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Blessed +9 | ?? | - | - | - | - | ?? | - | - | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Blessed +10 | 101 | - | - | - | - | D | - | - | D | - | - | - | 58.9 | 40.8 | 37 | 32.3 | 35.1 | 41  
+  
+Requires regular reinforcement titanite and souls + [Deep Gem](/Deep+Gem "Dark Souls 3 Deep Gem").   
+
+| Attack Values Bonus | Parameter Bonus | Auxiliary Effects | Damage Reduction (%) | Stability  
+---|---|---|---|---|---  
+**Name** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
+Deep | ?? | - | - | - | - | - | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Deep +1 | ?? | - | - | - | - | - | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Deep +2 | ?? | - | - | - | - | - | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Deep +3 | ?? | - | - | - | - | - | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Deep +4 | ?? | - | - | - | - | - | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Deep +5 | ?? | - | - | - | - | - | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Deep +6 | ?? | - | - | - | - | - | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Deep +7 | ?? | - | - | - | - | - | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Deep +8 | ?? | - | - | - | - | - | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Deep +9 | ?? | - | - | - | - | - | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Deep +10 | 128 | - | - | - | 128 | - | - | - | - | - | - | - | 58.9 | 40.8 | 37 | 32.3 | 44.4 | 44  
+  
+Requires regular reinforcement titanite and souls + [Dark Gem](/Dark+Gem "Dark Souls 3 Dark Gem").   
+
+| Attack Values Bonus | Parameter Bonus | Auxiliary Effects | Damage Reduction (%) | Stability  
+---|---|---|---|---|---  
+**Name** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
+Dark | ?? | - | - | - | - | ?? | - | ?? | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Dark +1 | ?? | - | - | - | - | ?? | - | ?? | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Dark +2 | ?? | - | - | - | - | ?? | - | ?? | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Dark +3 | ?? | - | - | - | - | ?? | - | ?? | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Dark +4 | ?? | - | - | - | - | ?? | - | ?? | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Dark +5 | ?? | - | - | - | - | ?? | - | ?? | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Dark +6 | ?? | - | - | - | - | ?? | - | ?? | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Dark +7 | ?? | - | - | - | - | ?? | - | ?? | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Dark +8 | ?? | - | - | - | - | ?? | - | ?? | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Dark +9 | ?? | - | - | - | - | ?? | - | ?? | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Dark +10 | 78 | - | - | - | 101 | D | - | D | D | - | - | - | 58.9 | 40.8 | 37 | 32.3 | 40.7 | 44  
+  
+Requires regular reinforcement titanite and souls + [Blood Gem](/Blood+Gem "Dark Souls 3 Blood Gem").   
+
+| Attack Values Bonus | Parameter Bonus | Auxiliary Effects | Damage Reduction (%) | Stability  
+---|---|---|---|---|---  
+**Name** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
+Blood | ?? | - | - | - | - | ?? | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Blood +1 | ?? | - | - | - | - | ?? | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Blood +2 | ?? | - | - | - | - | ?? | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Blood +3 | ?? | - | - | - | - | ?? | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Blood +4 | ?? | - | - | - | - | ?? | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Blood +5 | ?? | - | - | - | - | ?? | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Blood +6 | ?? | - | - | - | - | ?? | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Blood +7 | ?? | - | - | - | - | ?? | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Blood +8 | ?? | - | - | - | - | ?? | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Blood +9 | ?? | - | - | - | - | ?? | - | - | - | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Blood +10 | 120 | - | - | - | - | D | - | - | - | 35 | - | 37 | 58.9 | 40.8 | 37 | 32.3 | 35.1 | 44  
+  
+Requires regular reinforcement titanite and souls + [Poison Gem](/Poison+Gem "Dark Souls 3 Poison Gem").   
+
+| Attack Values Bonus | Parameter Bonus | Auxiliary Effects | Damage Reduction (%) | Stability  
+---|---|---|---|---|---  
+**Name** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
+Poison | ?? | - | - | - | - | ?? | ?? | ?? | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Poison +1 | ?? | - | - | - | - | ?? | ?? | ?? | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Poison +2 | ?? | - | - | - | - | ?? | ?? | ?? | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Poison +3 | ?? | - | - | - | - | ?? | ?? | ?? | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Poison +4 | ?? | - | - | - | - | ?? | ?? | ?? | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Poison +5 | ?? | - | - | - | - | ?? | ?? | ?? | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Poison +6 | ?? | - | - | - | - | ?? | ?? | ?? | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Poison +7 | ?? | - | - | - | - | ?? | ?? | ?? | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Poison +8 | ?? | - | - | - | - | ?? | ?? | ?? | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Poison +9 | ?? | - | - | - | - | ?? | ?? | ?? | ?? | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Poison +10 | 120 | - | - | - | - | D | - | - | - | 57 | - | - | 58.9 | 40.8 | 37 | 32.3 | 35.1 | 44  
+  
+Requires regular reinforcement titanite and souls + [Hollow Gem](/Hollow+Gem "Dark Souls 3 Hollow Gem").   
+
+| Attack Values Bonus | Parameter Bonus | Auxiliary Effects | Damage Reduction (%) | Stability  
+---|---|---|---|---|---  
+**Name** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
+Hollow | ?? | - | - | - | - | ?? | - | - | - |  |  | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Hollow +1 | ?? | - | - | - | - | ?? | - | - | \-- |  |  | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Hollow +2 | ?? | - | - | - | - | ?? | - | - | - |  |  | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Hollow +3 | ?? | - | - | - | - | ?? | - | - | - |  |  | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Hollow +4 | ?? | - | - | - | - | ?? | - | - | - |  |  | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Hollow +5 | ?? | - | - | - | - | ?? | - | - | - |  |  | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Hollow +6 | ?? | - | - | - | - | ?? | - | - | - |  |  | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Hollow +7 | ?? | - | - | - | - | ?? | - | - | - |  |  | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Hollow +8 | ?? | - | - | - | - | ?? | - | - | - |  |  | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Hollow +9 | ?? | - | - | - | - | ?? | - | - | - |  |  | - | - | - | ?? | ?? | ?? | ?? | ?? | ??  
+Hollow +10 | 148 | - | - | - | - | D | - | - | - |  |  | - | - | - | 58.9 | 40.8 | 37 | 32.3 | 35.1 | 41  
+  
+### Table Key
+
+Requirement | Parameter Bonus | Attack Values | Damage Reduction % | Auxiliary Effects | Others  
+---|---|---|---|---|---  
+Strength  
+|  Strength  
+|  Physical |  Physical |  Bleeding |  Durability  
+  
+Dexterity  
+|  Dexterity  
+|  Magic |  Magic |  Poison |  Weight  
+Intelligence  
+|  Intelligence  
+|  Fire |  Fire |  Frost |   
+Faith  
+|  Faith  
+|  Lightning |  Lightning |  Curse |   
+|  |  Dark |  Dark |  |   
+|  |  Critical  
+|  Stability  
+|  |   
+|  |  Spell Buff  
+|  |  |   
+|  |  Range |  |  |   
+  
+**Parameter Bonus** : Strength, Dexterity,Magic, Fire, Lightning and Dark bonuses - The scaling multiplier applied to the [Attack: stat]. Scaling quality is from highest to lowest as follows: S/A/B/C/D/E.The higher the player's [Str, Dex, Mag, Fire, Light] stat, the higher the [Attack Bonus: Stat] is (found on the player status screen). The higher the scaling letter, the higher the percent multiplier applied to the [Attack: Stat].This resulting bonus damage is added to the base physical damage of the weapon and is shown in the equipment screen in blue numbers as a "+ X".   
+**Durability :** The weapon's HP, when the durability hits 0, the effectiveness of its attacks become weakened to the point of almost uselessness. When an items durability is low, a message will come up saying "Weapon At Risk!" at this point the weapon does not perform at it's best.  
+**Weight :** How much the item weights when equipped.   
+**Stability :** How well the player keeps stance after being hit  
+**Attack Type :** Defines what kind of swing set the weapon has: Regular(R), Thrust(T), Slash(Sl), Strike(St)

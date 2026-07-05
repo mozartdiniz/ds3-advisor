@@ -1,0 +1,210 @@
+  Recording to: C:\Users\user\Dev\dark-souls\DS3\play_simulator_save_files\play_00_auto
+  Log file:     session_202605301551.log
+  Slot: auto-detect (tracks whichever slot playtime changes)
+
+============================================================
+  DS3 Save Watcher  [RECORDING]
+  Save: C:\Users\user\AppData\Roaming\DarkSoulsIII\011000016f3aa67c\DS30000.sl2
+  Poll: 1.0s  |  Settle: 2.0s
+============================================================
+
+  Waiting for first save event... (rest at a bonfire in-game)
+
+  [recorded 01_202605301551.sl2]
+  [auto-detected slot 3 (min playtime)]
+
+============================================================
+  SAVE DETECTED  15:51:35
+  Clodoaldo  |  Level 9  |  Souls: 100  |  Cemetery of Ash
+============================================================
+  [First read for this character]
+
+
+[i] Crystal Lizard near Cemetery of Ash
+    A Crystal Lizard hides on a side path in Cemetery of Ash. Killing it drops a Titanite Scale (used to upgrade boss/unique weapons). If it escapes, rest at any bonfire and it respawns.
+  [recorded 02_202605301552.sl2]
+  [switched to slot 9]
+
+============================================================
+  SAVE DETECTED  15:52:08
+  Test5  |  Level 9  |  Souls: 0  |  High Wall of Lothric
+============================================================
+  [First read for this character]
+
+
+[>] Talk to Emma - required to progress
+    Emma, the High Priestess, is at the top of the High Wall cathedral. She gives you the Small Lothric Banner (required to proceed past the wall) and the Way of Blue covenant ring.
+  [recorded 03_202605301552.sl2]
+
+============================================================
+  SAVE DETECTED  15:52:16
+  Test5  |  Level 9  |  Souls: 0  |  Cemetery of Ash
+============================================================
+  LOCATION  High Wall of Lothric  ->  Cemetery of Ash
+
+[i] Crystal Lizard near Cemetery of Ash
+    A Crystal Lizard hides on a side path in Cemetery of Ash. Killing it drops a Titanite Scale (used to upgrade boss/unique weapons). If it escapes, rest at any bonfire and it respawns.
+  [recorded 04_202605301552.sl2]
+
+============================================================
+  SAVE DETECTED  15:52:20
+  Test5  |  Level 9  |  Souls: 0  |  Cemetery of Ash
+============================================================
+  ~ 3 untracked event(s) — NPC dialogue or quest flags
+  [recorded 05_202605301552.sl2]
+
+============================================================
+  SAVE DETECTED  15:52:40
+  Test5  |  Level 9  |  Souls: 40  |  Cemetery of Ash
+============================================================
+  SOULS     0 -> 40  (+40)
+  ~ 4 additional untracked event(s) — NPC dialogue or quest flags
+  [recorded 06_202605301553.sl2]
+
+============================================================
+  SAVE DETECTED  15:53:13
+  Test5  |  Level 9  |  Souls: 60  |  Cemetery of Ash
+============================================================
+  SOULS     40 -> 60  (+20)
+  [recorded 07_202605301553.sl2]
+
+============================================================
+  SAVE DETECTED  15:53:16
+  Test5  |  Level 9  |  Souls: 60  |  Cemetery of Ash
+============================================================
+  ~ 1 untracked event(s) — NPC dialogue or quest flags
+  [recorded 08_202605301553.sl2]
+
+============================================================
+  SAVE DETECTED  15:53:35
+  Test5  |  Level 9  |  Souls: 80  |  Cemetery of Ash
+============================================================
+  SOULS     60 -> 80  (+20)
+  ~ 4393 additional untracked flags — area load, enemies, or boss event
+  [recorded 09_202605301554.sl2]
+
+============================================================
+  SAVE DETECTED  15:54:58
+  Test5  |  Level 9  |  Souls: 124  |  Cemetery of Ash
+============================================================
+  SOULS     80 -> 124  (+44)
+  +  Coiled Sword
+  ~ 8173 additional untracked flags — area load, enemies, or boss event
+  [recorded 10_202605301555.sl2]
+
+============================================================
+  SAVE DETECTED  15:55:12
+  Test5  |  Level 9  |  Souls: 3,124  |  Cemetery of Ash
+============================================================
+  SOULS     124 -> 3,124  (+3,000)
+  ~ 3 additional untracked event(s) — NPC dialogue or quest flags
+  [recorded 11_202605301555.sl2]
+
+============================================================
+  SAVE DETECTED  15:55:33
+  Test5  |  Level 9  |  Souls: 3,124  |  Firelink Shrine
+============================================================
+  LOCATION  Cemetery of Ash  ->  Firelink Shrine
+  [recorded 12_202605301556.sl2]
+
+============================================================
+  SAVE DETECTED  15:56:17
+  Test5  |  Level 9  |  Souls: 3,124  |  Firelink Shrine
+============================================================
+  -  Coiled Sword
+  ~ 2 additional untracked event(s) — NPC dialogue or quest flags
+  [recorded 13_202605301556.sl2]
+
+============================================================
+  SAVE DETECTED  15:56:24
+  Test5  |  Level 9  |  Souls: 3,124  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 14_202605301556.sl2]
+
+============================================================
+  SAVE DETECTED  15:56:29
+  Test5  |  Level 9  |  Souls: 3,124  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 15_202605301556.sl2]
+
+============================================================
+  SAVE DETECTED  15:56:39
+  Test5  |  Level 9  |  Souls: 3,124  |  Firelink Shrine
+============================================================
+  ~ 1 untracked event(s) — NPC dialogue or quest flags
+  [recorded 16_202605301556.sl2]
+
+============================================================
+  SAVE DETECTED  15:56:53
+  Test5  |  Level 9  |  Souls: 3,124  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 17_202605301556.sl2]
+
+============================================================
+  SAVE DETECTED  15:56:57
+  Test5  |  Level 9  |  Souls: 3,124  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 18_202605301557.sl2]
+
+============================================================
+  SAVE DETECTED  15:57:04
+  Test5  |  Level 9  |  Souls: 3,124  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 19_202605301557.sl2]
+
+============================================================
+  SAVE DETECTED  15:57:08
+  Test5  |  Level 9  |  Souls: 3,124  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 20_202605301557.sl2]
+
+============================================================
+  SAVE DETECTED  15:57:11
+  Test5  |  Level 9  |  Souls: 3,124  |  Firelink Shrine
+============================================================
+  ~ 1 untracked event(s) — NPC dialogue or quest flags
+  [recorded 21_202605301557.sl2]
+
+============================================================
+  SAVE DETECTED  15:57:21
+  Test5  |  Level 9  |  Souls: 3,124  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 22_202605301557.sl2]
+
+============================================================
+  SAVE DETECTED  15:57:26
+  Test5  |  Level 9  |  Souls: 3,124  |  Firelink Shrine
+============================================================
+  ~ 1 untracked event(s) — NPC dialogue or quest flags
+  [recorded 23_202605301557.sl2]
+
+============================================================
+  SAVE DETECTED  15:57:32
+  Test5  |  Level 9  |  Souls: 3,124  |  High Wall of Lothric
+============================================================
+  LOCATION  Firelink Shrine  ->  High Wall of Lothric
+
+[>] Talk to Emma - required to progress
+    Emma, the High Priestess, is at the top of the High Wall cathedral. She gives you the Small Lothric Banner (required to proceed past the wall) and the Way of Blue covenant ring.
+  [recorded 24_202605301557.sl2]
+
+============================================================
+  SAVE DETECTED  15:57:58
+  Test5  |  Level 9  |  Souls: 3,124  |  High Wall of Lothric
+============================================================
+  (no changes detected)
+  [recorded 25_202605301558.sl2]
+
+============================================================
+  SAVE DETECTED  15:58:04
+  Test5  |  Level 9  |  Souls: 3,124  |  High Wall of Lothric
+============================================================
+  ~ 1 untracked event(s) — NPC dialogue or quest flags
+  Session log saved to: C:\Users\user\Dev\dark-souls\DS3\play_simulator_save_files\play_00_auto\session_202605301551.log

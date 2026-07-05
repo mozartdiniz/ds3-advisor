@@ -1,0 +1,40 @@
+# Lingering Dragoncrest Ring
+
+### Lingering Dragoncrest Ring  
+  
+---  
+  
+
+> A special ring given to those who are deemed fit to undertake the journey of discovery in Vinheim, home of sorcery.  
+>   
+> Extends length of spell effect.  
+>   
+> Apropos to the Dragon School, the seal depicts an everlasting dragon. A lingering dragon symbolizes the true nature of the consummate sorcerer.  
+  
+**Lingering Dragoncrest Ring** is a [Ring](/Rings "Dark Souls 3 Rings") in **Dark Souls 3.**
+
+### Dark Souls 3 Lingering Dragoncrest Ring Effect
+
+  * Extends length of spell effect by 30%
+  * +1 Version (NG+): +35%
+  * +2 Version (NG++): +40%
+  * Weight: 0.5
+
+### How to Get Lingering Dragoncrest Ring in Dark Souls 3
+
+  * Dropped by Giant Crab in [Farron Keep](/Farron+Keep "Dark Souls 3 Farron Keep"): Spawn at the Keep Ruins bonfire and head down the ramp. The crab is to the left near the white tree. [video location](https://youtu.be/ZKR1kW4LFQ4?t=1h49m29s "video location") (fextralife playthrough video starting at 1h 49m 29s)
+  * (NG+) +1 Version: Found next to the giant crab just below the Crucifixion Woods bonfire in the [Road of Sacrifices](/Road+of+Sacrifices "Dark Souls 3 Road of Sacrifices").
+  * (NG++) +2 Version: It's part way up the tower where the three Ascended Winged Knights wait in ambush in [Lothric Castle](/Lothric+Castle "Dark Souls 3 Lothric Castle"). Run up the staircase, but don't go up the ladder. Instead run around to the front of the tower and the ring is in the alcove.
+
+### Dark Souls 3 Lingering Dragoncrest Ring Notes, Tips & Trivia
+
+  * Works with [Miracles](/Miracles "Dark Souls 3 Miracles"), [Sorceries](/Sorceries "Dark Souls 3 Sorceries"), [Pyromancies](/Pyromancies "Dark Souls 3 Pyromancies").
+  * Extends only the length of the effects, that are placed on you. For example, if you are wearing this ring, and someone casts [Sacred Oath](/Sacred+Oath "Dark Souls 3 Sacred Oath") nearby, they will have it only for 60 seconds, while your character with this ring will have the same buff for a maximum of 84 seconds with the +2 version. The same principle works with [Vow of Silence](/Vow+of+Silence "Dark Souls 3 Vow of Silence").
+  * Extends the duration even when the ring is equipped after the spell is cast.
+  * Strangely enough, increases the duration time of [Stone Flesh](/Stone+Flesh "Dark Souls 3 Stone Flesh") despite not working on any other [Weapon Art](/Weapon+Arts "Dark Souls 3 Weapon Arts").
+  * Does not increase the total healed from [Bountiful Light](/Bountiful+Light "Dark Souls 3 Bountiful Light").
+  * This ring previously appeared in _[Dark Souls](https://darksouls.wiki.fextralife.com/Lingering+Dragoncrest+Ring "Dark Souls 3 Lingering Dragoncrest Ring")_ and _[Dark Souls 2](https://darksouls2.wiki.fextralife.com/Lingering+Dragoncrest+Ring "Dark Souls 3 Lingering Dragoncrest Ring")_.
+
+[Rings](/Rings "Dark Souls 3 Rings")  
+---  
+[Aldrich's Ruby](//darksouls3.wiki.fextralife.com/Aldrich's+Ruby) ♦ [Aldrich's Sapphire](//darksouls3.wiki.fextralife.com/Aldrich's+Sapphire) ♦ [Ashen Estus Ring](//darksouls3.wiki.fextralife.com/Ashen+Estus+Ring) ♦ [Bellowing Dragoncrest Ring](//darksouls3.wiki.fextralife.com/Bellowing+Dragoncrest+Ring) ♦ [Bloodbite Ring](//darksouls3.wiki.fextralife.com/Bloodbite+Ring) ♦ [Blue Tearstone Ring](//darksouls3.wiki.fextralife.com/Blue+Tearstone+Ring) ♦ [Calamity Ring](//darksouls3.wiki.fextralife.com/Calamity+Ring) ♦ [Carthus Bloodring](//darksouls3.wiki.fextralife.com/Carthus+Bloodring) ♦ [Carthus Milkring](//darksouls3.wiki.fextralife.com/Carthus+Milkring) ♦ [Chillbite Ring](//darksouls3.wiki.fextralife.com/Chillbite+Ring) ♦ [Chloranthy Ring](//darksouls3.wiki.fextralife.com/Chloranthy+Ring) ♦ [Covetous Gold Serpent Ring](//darksouls3.wiki.fextralife.com/Covetous+Gold+Serpent+Ring) ♦ [Covetous Silver Serpent Ring](//darksouls3.wiki.fextralife.com/Covetous+Silver+Serpent+Ring) ♦ [Cursebite Ring](//darksouls3.wiki.fextralife.com/Cursebite+Ring) ♦ [Dark Clutch Ring](//darksouls3.wiki.fextralife.com/Dark+Clutch+Ring) ♦ [Dark Stoneplate Ring](//darksouls3.wiki.fextralife.com/Dark+Stoneplate+Ring) ♦ [Darkmoon Ring](//darksouls3.wiki.fextralife.com/Darkmoon+Ring) ♦ [Deep Ring](//darksouls3.wiki.fextralife.com/Deep+Ring) ♦ [Dragonscale Ring](//darksouls3.wiki.fextralife.com/Dragonscale+Ring) ♦ [Dusk Crown Ring](//darksouls3.wiki.fextralife.com/Dusk+Crown+Ring) ♦ [Estus Ring](//darksouls3.wiki.fextralife.com/Estus+Ring) ♦ [Farron Ring](//darksouls3.wiki.fextralife.com/Farron+Ring) ♦ [Fire Clutch Ring](//darksouls3.wiki.fextralife.com/Fire+Clutch+Ring) ♦ [Flame Stoneplate Ring](//darksouls3.wiki.fextralife.com/Flame+Stoneplate+Ring) ♦ [Fleshbite Ring](//darksouls3.wiki.fextralife.com/Fleshbite+Ring) ♦ [Flynn's Ring](//darksouls3.wiki.fextralife.com/Flynn's+Ring) ♦ [Great Swamp Ring](//darksouls3.wiki.fextralife.com/Great+Swamp+Ring) ♦ [Havel's Ring](//darksouls3.wiki.fextralife.com/Havel's+Ring) ♦ [Hawk Ring](//darksouls3.wiki.fextralife.com/Hawk+Ring) ♦ [Hornet Ring](//darksouls3.wiki.fextralife.com/Hornet+Ring) ♦ [Horsehoof Ring](//darksouls3.wiki.fextralife.com/Horsehoof+Ring) ♦ [Hunter's Ring](//darksouls3.wiki.fextralife.com/Hunter's+Ring) ♦ [Knight's Ring](//darksouls3.wiki.fextralife.com/Knight's+Ring) ♦ [Knight Slayer's Ring](//darksouls3.wiki.fextralife.com/Knight+Slayer's+Ring) ♦ [Knight Slayer Ring](//darksouls3.wiki.fextralife.com/Knight+Slayer+Ring) ♦ [Leo Ring](//darksouls3.wiki.fextralife.com/Leo+Ring) ♦ [Life Ring](//darksouls3.wiki.fextralife.com/Life+Ring) ♦ [Lightning Clutch Ring](//darksouls3.wiki.fextralife.com/Lightning+Clutch+Ring) ♦ [Lloyd's Shield Ring](//darksouls3.wiki.fextralife.com/Lloyd's+Shield+Ring) ♦ [Lloyd's Sword Ring](//darksouls3.wiki.fextralife.com/Lloyd's+Sword+Ring) ♦ [Magic Clutch Ring](//darksouls3.wiki.fextralife.com/Magic+Clutch+Ring) ♦ [Magic Stoneplate Ring](//darksouls3.wiki.fextralife.com/Magic+Stoneplate+Ring) ♦ [Morne's Ring](//darksouls3.wiki.fextralife.com/Morne's+Ring) ♦ [Obscuring Ring](//darksouls3.wiki.fextralife.com/Obscuring+Ring) ♦ [Poisonbite Ring](//darksouls3.wiki.fextralife.com/Poisonbite+Ring) ♦ [Pontiff's Left Eye](//darksouls3.wiki.fextralife.com/Pontiff's+Left+Eye) ♦ [Pontiff's Right Eye](//darksouls3.wiki.fextralife.com/Pontiff's+Right+Eye) ♦ [Priestess Ring](//darksouls3.wiki.fextralife.com/Priestess+Ring) ♦ [Prisoner's Chain](//darksouls3.wiki.fextralife.com/Prisoner's+Chain) ♦ [Red Tearstone](//darksouls3.wiki.fextralife.com/Red+Tearstone) ♦ [Red Tearstone Ring](//darksouls3.wiki.fextralife.com/Red+Tearstone+Ring) ♦ [Reversal Ring](//darksouls3.wiki.fextralife.com/Reversal+Ring) ♦ [Ring of Favor](//darksouls3.wiki.fextralife.com/Ring+of+Favor) ♦ [Ring of Sacrifice](//darksouls3.wiki.fextralife.com/Ring+of+Sacrifice) ♦ [Ring of Steel Protection](//darksouls3.wiki.fextralife.com/Ring+of+Steel+Protection) ♦ [Ring of the Evil Eye](//darksouls3.wiki.fextralife.com/Ring+of+the+Evil+Eye) ♦ [Ring of the Sun's First Born](//darksouls3.wiki.fextralife.com/Ring+of+the+Sun's+First+Born) ♦ [Sage Ring](//darksouls3.wiki.fextralife.com/Sage+Ring) ♦ [Saint's Ring](//darksouls3.wiki.fextralife.com/Saint's+Ring) ♦ [Scholar Ring](//darksouls3.wiki.fextralife.com/Scholar+Ring) ♦ [Silvercat Ring](//darksouls3.wiki.fextralife.com/Silvercat+Ring) ♦ [Skull Ring](//darksouls3.wiki.fextralife.com/Skull+Ring) ♦ [Slumbering Dragoncrest Ring](//darksouls3.wiki.fextralife.com/Slumbering+Dragoncrest+Ring) ♦ [Speckled Stoneplate Ring](//darksouls3.wiki.fextralife.com/Speckled+Stoneplate+Ring) ♦ [Sun Princess Ring](//darksouls3.wiki.fextralife.com/Sun+Princess+Ring) ♦ [Thunder Stoneplate Ring](//darksouls3.wiki.fextralife.com/Thunder+Stoneplate+Ring) ♦ [Untrue Dark Ring](//darksouls3.wiki.fextralife.com/Untrue+Dark+Ring) ♦ [Untrue White Ring](//darksouls3.wiki.fextralife.com/Untrue+White+Ring) ♦ [Witch's ring](//darksouls3.wiki.fextralife.com/Witch's+ring) ♦ [Witch Ring](//darksouls3.wiki.fextralife.com/Witch+Ring) ♦ [Wolf Ring](//darksouls3.wiki.fextralife.com/Wolf+Ring) ♦ [Wood Grain Ring](//darksouls3.wiki.fextralife.com/Wood+Grain+Ring) ♦ [Young Dragon Ring](//darksouls3.wiki.fextralife.com/Young+Dragon+Ring)

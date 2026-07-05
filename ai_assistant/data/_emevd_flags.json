@@ -1,0 +1,506 @@
+{
+  "boss_defeat_flags": {
+    "14000800": "Boss defeat flag set in event 14005800 (m40_00_00_00)",
+    "9319": "Boss defeat flag set in event 14005800 (m40_00_00_00)",
+    "6319": "Boss defeat flag set in event 14005800 (m40_00_00_00)",
+    "14000830": "Boss defeat flag set in event 14005830 (m40_00_00_00)",
+    "9320": "Boss defeat flag set in event 14005830 (m40_00_00_00)",
+    "6320": "Boss defeat flag set in event 14005830 (m40_00_00_00)",
+    "13000800": "Boss defeat flag set in event 13005811 (m30_00_00_00)",
+    "9301": "Boss defeat flag set in event 13005811 (m30_00_00_00)",
+    "6301": "Boss defeat flag set in event 13005811 (m30_00_00_00)",
+    "13000830": "Boss defeat flag set in event 13005831 (m30_00_00_00)",
+    "9302": "Boss defeat flag set in event 13005831 (m30_00_00_00)",
+    "6302": "Boss defeat flag set in event 13005831 (m30_00_00_00)",
+    "13000890": "Boss defeat flag set in event 13005895 (m30_00_00_00)",
+    "9300": "Boss defeat flag set in event 13005895 (m30_00_00_00)",
+    "6300": "Boss defeat flag set in event 13005895 (m30_00_00_00)",
+    "13100800": "Boss defeat flag set in event 13105812 (m31_00_00_00)",
+    "9303": "Boss defeat flag set in event 13105812 (m31_00_00_00)",
+    "6303": "Boss defeat flag set in event 13105812 (m31_00_00_00)"
+  },
+  "confirmed_boss_flags": {
+    "9319": "Iudex Gundyr post-defeat (fires 9319, 6319)",
+    "6319": "Iudex Gundyr post-defeat (fires 9319, 6319)",
+    "9320": "Champion Gundyr post-defeat",
+    "6320": "Champion Gundyr post-defeat",
+    "9301": "Vordt of the Boreal Valley defeat",
+    "6301": "Vordt of the Boreal Valley defeat",
+    "9302": "Dancer of the Boreal Valley defeat",
+    "6302": "Dancer of the Boreal Valley defeat",
+    "9300": "Oceiros / Consumed King area boss defeat",
+    "6300": "Oceiros / Consumed King area boss defeat",
+    "9303": "Curse-Rotted Greatwood defeat",
+    "6303": "Curse-Rotted Greatwood defeat"
+  },
+  "npc_quest_event_ranges": {
+    "14005520": {
+      "label": "Yoel of Londor (Firelink)",
+      "map": "m40_00_00_00",
+      "state_lo": 1040,
+      "state_hi": 1059,
+      "quest_flags": [
+        1055,
+        1055,
+        1040,
+        1041,
+        1042,
+        1045,
+        1044,
+        1044,
+        1043,
+        1044
+      ]
+    },
+    "14005540": {
+      "label": "Anri of Astora (Firelink)",
+      "map": "m40_00_00_00",
+      "state_lo": 1300,
+      "state_hi": 1319,
+      "quest_flags": [
+        1315,
+        1315,
+        1300,
+        1301,
+        1302,
+        1303,
+        1302,
+        1317,
+        1305,
+        1318
+      ]
+    },
+    "14005560": {
+      "label": "Cornyx of the Great Swamp (Firelink)",
+      "map": "m40_00_00_00",
+      "state_lo": 1100,
+      "state_hi": 1119,
+      "quest_flags": [
+        1115,
+        1115,
+        1100,
+        1101,
+        1102,
+        1103,
+        1104,
+        1117
+      ]
+    },
+    "14005570": {
+      "label": "Siegward of Catarina (Firelink / Well)",
+      "map": "m40_00_00_00",
+      "state_lo": 1120,
+      "state_hi": 1139,
+      "quest_flags": [
+        1135,
+        1135,
+        1120,
+        1121,
+        1122,
+        1123,
+        1124,
+        1125,
+        1126,
+        1127
+      ]
+    },
+    "14005580": {
+      "label": "Eygon of Carim (Firelink)",
+      "map": "m40_00_00_00",
+      "state_lo": 1340,
+      "state_hi": 1359,
+      "quest_flags": [
+        1355,
+        1355,
+        1340,
+        1341,
+        1342,
+        1344,
+        1351
+      ]
+    },
+    "14005586": {
+      "label": "Eygon (secondary)",
+      "map": "m40_00_00_00",
+      "state_lo": 1480,
+      "state_hi": 1499,
+      "quest_flags": [
+        1495,
+        1495,
+        1480,
+        1481,
+        1482,
+        1484
+      ]
+    },
+    "14005600": {
+      "label": "Fire Keeper",
+      "map": "m40_00_00_00",
+      "state_lo": 1000,
+      "state_hi": 1019,
+      "quest_flags": [
+        1015,
+        1015,
+        1000,
+        1002
+      ]
+    },
+    "14005620": {
+      "label": "Leonhard (Firelink)",
+      "map": "m40_00_00_00",
+      "state_lo": 1360,
+      "state_hi": 1379,
+      "quest_flags": [
+        1375,
+        1375,
+        1360,
+        1366,
+        1365,
+        1367,
+        1365
+      ]
+    },
+    "14005640": {
+      "label": "Hawkwood (Firelink)",
+      "map": "m40_00_00_00",
+      "state_lo": 1020,
+      "state_hi": 1039,
+      "quest_flags": [
+        1020,
+        1021,
+        1035,
+        1035,
+        1038
+      ]
+    },
+    "14005660": {
+      "label": "Andre (blacksmith)",
+      "map": "m40_00_00_00",
+      "state_lo": 1160,
+      "state_hi": 1179,
+      "quest_flags": [
+        1175,
+        1175,
+        1176,
+        1160
+      ]
+    },
+    "14005680": {
+      "label": "Orbeck of Vinheim (Firelink)",
+      "map": "m40_00_00_00",
+      "state_lo": 1180,
+      "state_hi": 1199,
+      "quest_flags": [
+        1195,
+        1196,
+        1180
+      ]
+    },
+    "14005700": {
+      "label": "Sirris of the Sunless Realms (Firelink)",
+      "map": "m40_00_00_00",
+      "state_lo": 1200,
+      "state_hi": 1219,
+      "quest_flags": [
+        1215,
+        1215,
+        1200,
+        1202,
+        1203,
+        1204,
+        1205,
+        1218,
+        1206,
+        1207
+      ]
+    },
+    "14005720": {
+      "label": "Anri route 2 (Firelink)",
+      "map": "m40_00_00_00",
+      "state_lo": 1280,
+      "state_hi": 1299,
+      "quest_flags": [
+        1295,
+        1295,
+        1280,
+        1282,
+        1283,
+        1286
+      ]
+    },
+    "14005740": {
+      "label": "Yuria of Londor (Firelink)",
+      "map": "m40_00_00_00",
+      "state_lo": 1060,
+      "state_hi": 1079,
+      "quest_flags": [
+        1075,
+        1075,
+        1060,
+        1061,
+        1062,
+        1078,
+        1064,
+        1078,
+        1063,
+        1078
+      ]
+    },
+    "14005750": {
+      "label": "Hawkwood quest (Firelink)",
+      "map": "m40_00_00_00",
+      "state_lo": 1140,
+      "state_hi": 1159,
+      "quest_flags": [
+        1155,
+        1155,
+        1140,
+        1141,
+        1142,
+        1143,
+        1144,
+        1145
+      ]
+    },
+    "14005760": {
+      "label": "Karla (Firelink)",
+      "map": "m40_00_00_00",
+      "state_lo": 1240,
+      "state_hi": 1259,
+      "quest_flags": [
+        1255,
+        1255,
+        1240
+      ]
+    },
+    "14005780": {
+      "label": "Patches (Firelink)",
+      "map": "m40_00_00_00",
+      "state_lo": 1260,
+      "state_hi": 1279,
+      "quest_flags": [
+        1275,
+        1275,
+        1260
+      ]
+    },
+    "13005600": {
+      "label": "Greirat of the Undead Settlement (High Wall jail)",
+      "map": "m30_00_00_00",
+      "state_lo": 1420,
+      "state_hi": 1439,
+      "quest_flags": [
+        1435,
+        1438,
+        1420,
+        1421
+      ]
+    },
+    "13005620": {
+      "label": "Anri (High Wall)",
+      "map": "m30_00_00_00",
+      "state_lo": 1200,
+      "state_hi": 1219,
+      "quest_flags": [
+        1215,
+        1215,
+        1200
+      ]
+    },
+    "13105600": {
+      "label": "Yoel of Londor (Undead Settlement entrance)",
+      "map": "m31_00_00_00",
+      "state_lo": 1060,
+      "state_hi": 1079,
+      "quest_flags": [
+        1075,
+        1075,
+        1060,
+        1061,
+        1063,
+        1078
+      ]
+    },
+    "13105620": {
+      "label": "Anri (Undead Settlement)",
+      "map": "m31_00_00_00",
+      "state_lo": 1280,
+      "state_hi": 1299,
+      "quest_flags": [
+        1295,
+        1295,
+        1280
+      ]
+    },
+    "13105640": {
+      "label": "Eygon (Cathedral/Undead Settlement)",
+      "map": "m31_00_00_00",
+      "state_lo": 1240,
+      "state_hi": 1259,
+      "quest_flags": [
+        1255,
+        1255,
+        1240
+      ]
+    },
+    "13105660": {
+      "label": "Irina of Carim (Undead Settlement / sewers)",
+      "map": "m31_00_00_00",
+      "state_lo": 1460,
+      "state_hi": 1479,
+      "quest_flags": [
+        1475,
+        1475,
+        1460,
+        1463,
+        1478,
+        13100660
+      ]
+    },
+    "13105680": {
+      "label": "Siegward (windmill/Undead Settlement)",
+      "map": "m31_00_00_00",
+      "state_lo": 1300,
+      "state_hi": 1319,
+      "quest_flags": [
+        1315,
+        1315,
+        1300,
+        1301,
+        1303,
+        1305,
+        1318
+      ]
+    },
+    "13105700": {
+      "label": "Greirat scavenging (m31)",
+      "map": "m31_00_00_00",
+      "state_lo": 1580,
+      "state_hi": 1599,
+      "quest_flags": [
+        1595,
+        1595,
+        1598,
+        1580
+      ]
+    },
+    "13105720": {
+      "label": "Patches (Undead Settlement / Farron)",
+      "map": "m31_00_00_00",
+      "state_lo": 1120,
+      "state_hi": 1139,
+      "quest_flags": [
+        1135,
+        1120,
+        1130,
+        1137
+      ]
+    }
+  },
+  "small_progress_flags": {
+    "6010": [
+      [
+        "m40_00_00_00",
+        14000130
+      ]
+    ],
+    "743": [
+      [
+        "m40_00_00_00",
+        14005472
+      ],
+      [
+        "m40_00_00_00",
+        14005473
+      ],
+      [
+        "m40_00_00_00",
+        14005474
+      ]
+    ],
+    "30": [
+      [
+        "m40_00_00_00",
+        14005480
+      ]
+    ],
+    "9319": [
+      [
+        "m40_00_00_00",
+        14005800
+      ]
+    ],
+    "6319": [
+      [
+        "m40_00_00_00",
+        14005800
+      ]
+    ],
+    "9320": [
+      [
+        "m40_00_00_00",
+        14005830
+      ]
+    ],
+    "6320": [
+      [
+        "m40_00_00_00",
+        14005830
+      ]
+    ],
+    "9301": [
+      [
+        "m30_00_00_00",
+        13005811
+      ]
+    ],
+    "6301": [
+      [
+        "m30_00_00_00",
+        13005811
+      ]
+    ],
+    "9302": [
+      [
+        "m30_00_00_00",
+        13005831
+      ]
+    ],
+    "6302": [
+      [
+        "m30_00_00_00",
+        13005831
+      ]
+    ],
+    "9300": [
+      [
+        "m30_00_00_00",
+        13005895
+      ]
+    ],
+    "6300": [
+      [
+        "m30_00_00_00",
+        13005895
+      ]
+    ],
+    "9303": [
+      [
+        "m31_00_00_00",
+        13105812
+      ]
+    ],
+    "6303": [
+      [
+        "m31_00_00_00",
+        13105812
+      ]
+    ],
+    "8222": [
+      [
+        "m31_00_00_00",
+        13105182
+      ]
+    ]
+  }
+}

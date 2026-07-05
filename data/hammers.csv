@@ -1,0 +1,9 @@
+Name & Icon,Attack PowerDamage Reduction (%),Requirements Param Bonus,Durability / Weight - Attack Type - Skill,Physical ATK,col_5,col_6,col_7,col_8,Critical,col_10,Strength,Dexterity,Intelligence,Faith,Durability,Skill,Acquired From
+Mace,115 45,0 30,0 25,0 25,0 30,100 30,-,12 C,7 E,0 -,0 -,80 5.0,9 (-/ -) Perseverance,Cleric starting weapon/ Sold by Greirat,,,
+Club,108 40,0 25,0 35,0 30,0 25,100 30,-,10 C,0 -,0 -,0 -,90 2.5,20 (-/-) Warcry,Deprived starting weapon/ Dropped by hollows and also looted at High Wall of Lothric,,,
+Morning Star,122 45,0 30,0 25,0 25,0 30,100 30,33,11 D,9 E,0 -,0 -,?? 5.0,9 (-/ -) Perseverance,Sold by Shrine Handmaid after you give her the Paladin Ashes,,,
+Reinforced Club,110 45,0 30,0 30,0 30,0 30,100 30,33,12 C,0 -,0 -,0 -,45 4.0,20 (-/ -) Warcry,Looted at Undead Settlement,,,
+Drang Hammers,110 45,0 30,0 25,0 25,0 30,100 30,-,18 C,16 E,0 -,0 -,80 9.0,7 (-/15) Spin Bash,Looted at Cathedral of the Deep,,,
+Heysel Pick,93 50,70 30,0 25,0 25,0 30,100 35,-,12 D,10 E,19 C,0 -,70 4.5,9 (-/-) Steady Chant,Dropped by Yellowfinger Heysel at Road of Sacrifices,,,
+Blacksmith Hammer,105 45,0 30,0 25,0 25,0 30,100 30,-,13 C,13 -,0 -,0 -,95 5.0,9 (-/-) Perseverance,Looted at Untended Graves,,,
+Warpick,113 45,0 30,0 25,0 25,0 30,100 30,-,12 C,10 E,0 -,0 -,70 4.5,9 (-/-) Galvanize,Sold by Greirat after he returns from his first quest,,,

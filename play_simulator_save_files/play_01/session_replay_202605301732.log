@@ -1,0 +1,80 @@
+
+============================================================
+  DS3 Play Simulator - play_01
+  6 saves  |  interval: 3.0s  |  slot: auto  |  log: session_replay_202605301732.log
+============================================================
+  [auto-detected slot 5 (changed between saves 1 and 2)]
+
+------------------------------------------------------------
+  Step 01:   Before Talk to Greirat
+  QA2  |  Level 14  |  1,191 souls  |  High Wall of Lothric
+------------------------------------------------------------
+  Rested at High Wall of Lothric
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 02:   After Talk to Greirat
+  QA2  |  Level 14  |  1,191 souls  |  High Wall of Lothric
+------------------------------------------------------------
+  (no changes detected)
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 03:   Before Talk to Cornyx
+  QA2  |  Level 17  |  1,629 souls  |  Undead Settlement
+------------------------------------------------------------
+  Level up: 14 -> 17  (+3)
+  Rested at Undead Settlement  (from High Wall of Lothric)
+  Souls: 1,191 -> 1,629  (+438)
+  Got Black Firebomb x3
+  Got Ember
+  Got Fire Gem
+  Got Hand Axe
+  Got Large Soul of a Deserted Corpse
+  Got Light Crossbow
+  Got Long Sword x2
+  Got Rapier
+  Got Small Lothric Banner
+  Got Soul of Boreal Valley Vordt
+  Killed Vordt of the Boreal Valley
+  Got Soul of a Deserted Corpse
+  Got Throwing Knife x6
+  Got Way of Blue
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 04:   After Talk to Cornyx
+  QA2  |  Level 17  |  1,629 souls  |  Undead Settlement
+------------------------------------------------------------
+  Cornyx: first dialogue (freed from cage or Firelink greeting)
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 05:   Before Talk to Irina of Carim
+  QA2  |  Level 17  |  1,259 souls  |  Undead Settlement
+------------------------------------------------------------
+  Souls: 1,629 -> 1,259  (-370)
+  Got Bloodbite Ring
+  Got Caestus
+  Got Grave Key
+  Got Loincloth (1)
+  Got Saint's Talisman
+  Got Soul of an Unknown Traveler x2
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 06:   Ater Talk to Irina of Carim
+  QA2  |  Level 17  |  1,259 souls  |  Undead Settlement
+------------------------------------------------------------
+  Irina of Carim: first talk
+  Irina of Carim: first talk (secondary)
+
+============================================================
+  Done - 6 saves processed
+============================================================
+  Log saved to: C:\Users\user\Dev\dark-souls\DS3\play_simulator_save_files\play_01\session_replay_202605301732.log
