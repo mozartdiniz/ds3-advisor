@@ -13,6 +13,7 @@ Configuration (environment variables):
 
 Usage:
     python watcher.py
+    python watcher.py --quiet --record
     DS3_SAVE_PATH=C:\\path\\to\\save python watcher.py
     DS3_SLOT=4 python watcher.py
 """
@@ -49,6 +50,25 @@ class _Tee:
     def __getattr__(self, attr):
         return getattr(self._terminal, attr)
 
+
+def _emit(msg: str, terminal: bool = True, log: bool = True) -> None:
+    """Write to the terminal and/or the session log independently.
+
+    Quiet mode needs the two sinks to diverge: the log keeps the full record
+    while the terminal only shows advisor output. Without a _Tee installed
+    there is no log, so log-only writes vanish.
+    """
+    out = sys.stdout
+    if isinstance(out, _Tee):
+        if terminal:
+            out._terminal.write(msg)
+        if log:
+            out._log.write(msg)
+        out.flush()
+    elif terminal:
+        out.write(msg)
+        out.flush()
+
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from snapshot import (SlotSnap, snap_slot, get_all_playtimes,
@@ -78,31 +98,31 @@ SEP2 = "=" * 60
 # Diff + print (snapshot/diff logic lives in snapshot.py)
 # ---------------------------------------------------------------------------
 
-def print_save_event(prev: Optional[SlotSnap], curr: SlotSnap, ts: str) -> None:
+def format_save_event(prev: Optional[SlotSnap], curr: SlotSnap, ts: str) -> str:
     bonfire = curr.bonfire_name or ("bonfire#%s" % curr.bonfire_id)
-    print()
-    print(SEP2)
-    print("  SAVE DETECTED  %s" % ts)
-    print("  %s  |  Level %d  |  %s souls  |  %s" % (
-        curr.name, curr.level, "{:,}".format(curr.souls), bonfire))
-    print(SEP2)
-
+    lines = [
+        "",
+        SEP2,
+        "  SAVE DETECTED  %s" % ts,
+        "  %s  |  Level %d  |  %s souls  |  %s" % (
+            curr.name, curr.level, "{:,}".format(curr.souls), bonfire),
+        SEP2,
+    ]
     events = diff_events(prev, curr)
     if events:
-        for line in events:
-            print("  %s" % line)
+        lines.extend("  %s" % line for line in events)
     else:
-        print("  (no changes detected)")
+        lines.append("  (no changes detected)")
+    return "\n".join(lines) + "\n"
 
 
-def print_advisor(text: Optional[str]) -> None:
+def format_advisor(text: Optional[str]) -> Optional[str]:
     if not text:
-        return
-    print()
-    print("  --- ADVISOR " + "-" * 46)
-    for line in text.splitlines():
-        print("  %s" % line)
-    print("  " + "-" * 58)
+        return None
+    lines = ["", "  --- ADVISOR " + "-" * 46]
+    lines.extend("  %s" % line for line in text.splitlines())
+    lines.append("  " + "-" * 58)
+    return "\n".join(lines) + "\n"
 
 
 # ---------------------------------------------------------------------------
@@ -135,6 +155,9 @@ def main() -> None:
                     help="save a numbered copy of each save to play_simulator_save_files/play_NN_auto/")
     ap.add_argument("--no-llm", action="store_true",
                     help="advisor uses deterministic text only (no Claude calls)")
+    ap.add_argument("--quiet", "-q", action="store_true",
+                    help="terminal shows save events only when the advisor speaks; "
+                         "the --record session log still gets everything")
     args = ap.parse_args()
 
     WORKSPACE.mkdir(exist_ok=True)
@@ -173,6 +196,9 @@ def main() -> None:
     print("  Poll: %.1fs  |  Settle: %.1fs" % (POLL_SECS, SETTLE_SECS))
     print(SEP2)
     print()
+    if args.quiet:
+        print("  Quiet mode: terminal only shows saves that produce advisor output%s" %
+              (" (full detail in the session log)" if record_folder else ""))
     print("  Waiting for first save event... (rest at a bonfire in-game)")
     print()
 
@@ -210,7 +236,8 @@ def main() -> None:
                         ts_file = datetime.now().strftime("%Y%m%d%H%M")
                         record_name = "%02d_%s.sl2" % (record_seq, ts_file)
                         shutil.copy2(SAVE_FILE, record_folder / record_name)
-                        print("  [recorded %s]" % record_name)
+                        _emit("  [recorded %s]\n" % record_name,
+                              terminal=not args.quiet)
 
                     ts = datetime.now().strftime("%H:%M:%S")
 
@@ -244,7 +271,8 @@ def main() -> None:
                         if curr is None:
                             print("%s  Slot %d not readable." % (ts, active_slot))
                         else:
-                            print_save_event(prev_snap, curr, ts)
+                            save_block = format_save_event(prev_snap, curr, ts)
+                            _emit(save_block, terminal=not args.quiet)
 
                             char_key = "%s_slot%d" % (curr.name, active_slot)
                             if char_key not in advisor_sessions:
@@ -254,7 +282,13 @@ def main() -> None:
                                          prev_snap.name == curr.name)
                             advice = advisor_sessions[char_key].on_save_event(
                                 prev_snap if same_char else None, curr)
-                            print_advisor(advice)
+                            advisor_block = format_advisor(advice)
+                            if advisor_block:
+                                if args.quiet:
+                                    # replay the save header on the terminal so
+                                    # the advice has context (log already has it)
+                                    _emit(save_block, log=False)
+                                _emit(advisor_block)
 
                             prev_snap = curr
 
