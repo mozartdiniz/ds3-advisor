@@ -357,7 +357,8 @@ class AdvisorEngine:
         key_items = [n for n in sorted(snap.inventory)
                      if any(k in n for k in (
                          "Key", "Bone", "Ashes", "Banner", "Sigil", "Kiln",
-                         "Tome", "Soul of", "Doll", "Tearstone", "Siegbrau"))]
+                         "Tome", "Soul of", "Doll", "Tearstone", "Siegbr",
+                         "Scroll", "Coal"))]
         flags = [KNOWN_FLAGS[f] for f in sorted(snap.flags_set) if f in KNOWN_FLAGS]
         s = snap.stats
         return "\n".join([

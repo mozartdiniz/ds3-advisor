@@ -1,0 +1,128 @@
+{
+  "_meta": {
+    "quest_id": "sirris_of_the_sunless_realms",
+    "version": "1.0",
+    "npc": "Sirris of the Sunless Realms",
+    "associated_npcs": [
+      "Rosaria, Mother of Rebirth",
+      "Creighton the Wanderer",
+      "Holy Knight Hodrick"
+    ],
+    "starting_location": "Firelink Shrine (after reaching the Road of Sacrifices)",
+    "description": "Sirris appears at Firelink once the player reaches the Road of Sacrifices region. Her questline proper (Creighton co-op in Irithyll, Hodrick showdown, Sunless Talisman) runs after the Abyss Watchers. The first-third job is purely defensive: do not fail her by ranking up Rosaria's Fingers with Pale Tongues.",
+    "wiki_source": "data/wiki/Sirris_of_the_Sunless_Realms.md, Rosaria's_Fingers.md",
+    "mined_from": "FightinCowboy 100% walkthrough eps 10 (first Firelink meeting + Fingers hostility dialogue), 13 (Rosaria respec mechanics) (2026-07-05). Wiki cross-check: as of regulation 1.05 respec/appearance changes do NOT fail her — only offering a Pale Tongue to rank the covenant does.",
+    "evaluation": {
+      "rule": "Phases are evaluated top-to-bottom. First matching phase is current. Fallback phase always matches.",
+      "detection_gaps": "No flags for Sirris talks or for 'Pale Tongue offered'. Rosaria's Fingers + Pale Tongue possession define the risk window; the actual offering is undetectable until we label the covenant-rank flag. EMEVD NPC range 1200-1219 needs controlled saves."
+    }
+  },
+  "item_groups": {},
+  "flag_registry": {
+    "abyss_watchers_defeated": {
+      "id": 13300800,
+      "system": "boss_defeat",
+      "readable": true,
+      "confirmed": true,
+      "confirmed_via": "KNOWN_FLAGS boss set",
+      "label": "Abyss Watchers defeated"
+    },
+    "sirris_hostile": {
+      "id": null,
+      "system": "emevd_npc_state",
+      "readable": false,
+      "confirmed": false,
+      "label": "Sirris left Firelink / hostile (quest failed)",
+      "how_to_confirm": "Controlled save pair: offer a Pale Tongue to Rosaria with Sirris met, rest, diff. EMEVD range 1200-1219."
+    }
+  },
+  "phases": [
+    {
+      "id": "fingers_member_risk",
+      "label": "Rosaria's Finger — handle Pale Tongues with care",
+      "terminal": false,
+      "outcome": null,
+      "detection_confidence": "high",
+      "detection_note": "Covenant item present. Cannot detect whether a tongue was already offered.",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_item",
+            "item": "Rosaria's Fingers"
+          },
+          {
+            "check": "missing_flag",
+            "flag_key": "abyss_watchers_defeated"
+          }
+        ]
+      },
+      "status_message": "You joined Rosaria's Fingers. Using Pale Tongues for respec or appearance change is SAFE for Sirris's questline (regulation 1.05+) - but OFFERING a Pale Tongue to rank up the covenant makes Sirris hostile and ends her quest. Save the covenant ranking for after her questline (or a later playthrough).",
+      "next_steps": [
+        "Respec/appearance via Rosaria: safe. 'Offer Pale Tongue' to the covenant: NOT safe until Sirris's quest is done",
+        "Sirris's quest continues after the Abyss Watchers - her summon sign appears near the Church of Yorshka in Irithyll"
+      ]
+    },
+    {
+      "id": "active_at_firelink",
+      "label": "Sirris waits at Firelink",
+      "terminal": false,
+      "outcome": null,
+      "detection_confidence": "medium",
+      "detection_note": "Area-gated on the Road of Sacrifices region; her arrival needs only area progression.",
+      "conditions": {
+        "any_of": [
+          {
+            "check": "has_bonfire_area",
+            "area": "Sacrifices"
+          },
+          {
+            "check": "has_bonfire_area",
+            "area": "Cathedral"
+          }
+        ]
+      },
+      "status_message": "Sirris of the Sunless Realms now stands in Firelink Shrine (near the throne stairs). Talk to her when you pass through - and remember: never offer Pale Tongues to Rosaria's covenant while her questline is unfinished.",
+      "next_steps": [
+        "Exhaust her dialogue at Firelink",
+        "Her first real quest beat comes after the Abyss Watchers (Creighton's invasion in Irithyll) - nothing to do until then except not upsetting her",
+        "She is also connected to Hodrick of the Mound-makers - joining the Mound-makers is fine; ranking Rosaria's Fingers is not"
+      ]
+    },
+    {
+      "id": "not_started",
+      "label": "Not appeared yet",
+      "terminal": false,
+      "outcome": null,
+      "detection_confidence": "high",
+      "detection_note": "Fallback.",
+      "conditions": {
+        "fallback": true
+      },
+      "status_message": "Sirris has not appeared at Firelink yet. She shows up once you reach the Road of Sacrifices.",
+      "next_steps": [
+        "Progress to the Road of Sacrifices, then check Firelink Shrine"
+      ]
+    }
+  ],
+  "always_check_warnings": [
+    {
+      "id": "warn_tongue_and_fingers",
+      "label": "Pale Tongue + Rosaria's Fingers = questline hazard",
+      "urgency": "warning",
+      "topic": "sirris_pale_tongue",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_item",
+            "item": "Pale Tongue"
+          },
+          {
+            "check": "has_item",
+            "item": "Rosaria's Fingers"
+          }
+        ]
+      },
+      "message": "You hold a Pale Tongue and belong to Rosaria's Fingers. Offering the tongue to RANK UP the covenant makes Sirris hostile and permanently fails her questline. Spending it on a respec or appearance change is safe. Hold covenant offerings until Sirris's story is complete."
+    }
+  ]
+}

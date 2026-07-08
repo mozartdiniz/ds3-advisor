@@ -9,3 +9,6 @@ venv/
 
 # Save files: local test fixtures, never published (personal saves)
 *.sl2
+
+# Downloaded YouTube transcripts: local research material, not ours to republish
+data/transcripts/

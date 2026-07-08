@@ -1,0 +1,169 @@
+{
+  "_meta": {
+    "quest_id": "siegward_of_catarina",
+    "version": "1.0",
+    "npc": "Siegward of Catarina",
+    "associated_npcs": [
+      "Unbreakable Patches",
+      "Greirat of the Undead Settlement",
+      "Yhorm the Giant"
+    ],
+    "starting_location": "Undead Settlement",
+    "description": "The Onion Knight: elevator meeting and Fire Demon fight in the Undead Settlement, then rescued from the Cathedral well by buying his stolen armor back from Patches, then the Irithyll kitchen (where he can save Greirat), Irithyll Dungeon cell, and finally Yhorm's arena. First-third scope ends at the well rescue.",
+    "wiki_source": "data/wiki/Siegward_of_Catarina.md, Unbreakable_Patches.md, Side_Quests.md",
+    "mined_from": "FightinCowboy 100% walkthrough eps 07 (elevator trick + Fire Demon), 12-13 (Cathedral) (2026-07-05).",
+    "evaluation": {
+      "rule": "Phases are evaluated top-to-bottom. First matching phase is current. Fallback phase always matches.",
+      "detection_gaps": "Flag 73100363 (talked after Fire Demon fight) is confirmed readable. No flags yet for: armor returned at well, kitchen meeting, cell rescue. Catarina Set possession is the proxy for 'armor bought, not yet returned'; once returned the set leaves the inventory and becomes indistinguishable from 'never bought' — mitigated by the demon-fight flag ordering. EMEVD NPC range 1300-1319 needs controlled saves."
+    }
+  },
+  "item_groups": {
+    "catarina_set": {
+      "note": "Sold by Patches at Firelink after his Cathedral tricks. Having the full set = bought but not yet returned to Siegward.",
+      "items": [
+        "Catarina Helm",
+        "Catarina Armor",
+        "Catarina Gauntlets",
+        "Catarina Leggings"
+      ]
+    }
+  },
+  "flag_registry": {
+    "siegward_demon_fight": {
+      "id": 73100363,
+      "system": "talk_flag",
+      "readable": true,
+      "confirmed": true,
+      "confirmed_via": "Structural flag reader, validated on QA corpus (2026-06-11)",
+      "label": "Siegward: talked after the Fire Demon fight (Undead Settlement)"
+    },
+    "abyss_watchers_defeated": {
+      "id": 13300800,
+      "system": "boss_defeat",
+      "readable": true,
+      "confirmed": true,
+      "confirmed_via": "KNOWN_FLAGS boss set",
+      "label": "Abyss Watchers defeated"
+    },
+    "siegward_armor_returned": {
+      "id": null,
+      "system": "talk_flag",
+      "readable": false,
+      "confirmed": false,
+      "label": "Catarina Set returned to Siegward at the Cathedral well",
+      "how_to_confirm": "Controlled save pair: give armor at the well, rest, diff. Expect a 73500xxx talk flag (Cathedral map) or EMEVD 1300-1319 transition."
+    }
+  },
+  "phases": [
+    {
+      "id": "armor_in_hand",
+      "label": "Catarina Set bought — return it at the Cathedral well",
+      "terminal": false,
+      "outcome": null,
+      "detection_confidence": "high",
+      "detection_note": "Full set in inventory = bought from Patches, not yet handed over.",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_all_items",
+            "group": "catarina_set"
+          }
+        ]
+      },
+      "status_message": "You have Siegward's armor. He is at the bottom of the well immediately to the LEFT of the Cleansing Chapel bonfire exit (Cathedral of the Deep) - approach and give the set back.",
+      "next_steps": [
+        "Return the full Catarina Set to Siegward at the well BEFORE progressing past Pontiff Sulyvahn in Irithyll",
+        "This re-arms his questline: he will next appear in the Irithyll kitchen, which is one of the two ways Greirat survives his Irithyll scavenging run",
+        "Note: buying the set means Patches can no longer be Greirat's saviour — Siegward is now the plan"
+      ]
+    },
+    {
+      "id": "demon_fight_done",
+      "label": "Fire Demon defeated — next stop: the Cathedral well",
+      "terminal": false,
+      "outcome": null,
+      "detection_confidence": "high",
+      "detection_note": "Confirmed flag 73100363. Cannot yet detect the armor return, so after the player returns the set this phase becomes current again — the message is written to read correctly in both situations.",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_flag",
+            "flag_key": "siegward_demon_fight"
+          },
+          {
+            "check": "missing_flag",
+            "flag_key": "siegward_armor_returned"
+          }
+        ]
+      },
+      "status_message": "You fought the Fire Demon with Siegward in the Undead Settlement. His journey continues at the Cathedral of the Deep: listen for humming from the well left of the Cleansing Chapel - Patches stole his armor, and you'll need to buy it back (Patches sells it at Firelink after his Cathedral appearance) and hand it over at the well.",
+      "next_steps": [
+        "In the Cathedral, do NOT kill Patches when he tricks you (bridge lever / onion armor disguise) — he must reach Firelink to sell the Catarina Set",
+        "Buy the full Catarina Set from Patches and give it to Siegward at the well before heading deep into Irithyll",
+        "Keeping Siegward's quest alive also keeps the Siegward route for saving Greirat's second scavenging run"
+      ]
+    },
+    {
+      "id": "elevator_pending",
+      "label": "Undead Settlement — meet Siegward at the elevator tower",
+      "terminal": false,
+      "outcome": null,
+      "detection_confidence": "medium",
+      "detection_note": "Area-gated; no flag for the first elevator conversation.",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_bonfire_area",
+            "area": "Undead Settlement"
+          },
+          {
+            "check": "missing_flag",
+            "flag_key": "siegward_demon_fight"
+          }
+        ]
+      },
+      "status_message": "Siegward of Catarina is at the tower elevator in the Undead Settlement (the tower on the way to the Giant archer, past the Cliff Underside). Ride the elevator to meet him, then use the plate trick to reach the Fire Demon ledge and fight it together.",
+      "next_steps": [
+        "Elevator trick: step on the pressure plate, hop OFF immediately so the second platform passes, then ride up to talk to him — and later ride halfway down to the Fire Demon ledge",
+        "Fight the Fire Demon WITH him and talk afterward until he toasts you with a Siegbräu — this is what advances his questline",
+        "His quest later decides whether Greirat survives Irithyll, so it's worth the detour"
+      ]
+    },
+    {
+      "id": "not_started",
+      "label": "Not started",
+      "terminal": false,
+      "outcome": null,
+      "detection_confidence": "high",
+      "detection_note": "Fallback.",
+      "conditions": {
+        "fallback": true
+      },
+      "status_message": "Siegward has not been met yet. He first appears at the tower elevator in the Undead Settlement.",
+      "next_steps": [
+        "When exploring the Undead Settlement, take the elevator by the Giant's tower and talk to the Onion Knight"
+      ]
+    }
+  ],
+  "always_check_warnings": [
+    {
+      "id": "warn_armor_still_in_inventory_irithyll",
+      "label": "Catarina Set not returned — Siegward (and Greirat) at risk",
+      "urgency": "warning",
+      "topic": "siegward_armor_return",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_all_items",
+            "group": "catarina_set"
+          },
+          {
+            "check": "has_bonfire_area",
+            "area": "Irithyll"
+          }
+        ]
+      },
+      "message": "You are in Irithyll still carrying Siegward's Catarina Set. Warp back and hand it to him in the well by the Cathedral's Cleansing Chapel BEFORE killing Pontiff Sulyvahn — otherwise his questline stalls and he cannot save Greirat in the kitchen."
+    }
+  ]
+}

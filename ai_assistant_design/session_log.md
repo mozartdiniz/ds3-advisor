@@ -493,3 +493,71 @@ Bone" correctly silent (covered by step 03's phase message).
 - The LLM layer is untested against the live API in this session (no key in
   the dev shell) — fallback path verified instead.
 - `advisor_memory/` is per-character persistent state, gitignored.
+
+---
+
+## Session 12 — 2026-07-05 — First-third content: transcripts mined, advisor covers through Abyss Watchers
+
+**Goal set by the user:** MVP endpoint = Abyss Watchers dead ("end of the first
+third"); by then every side quest is started and the project proves its point.
+
+### Transcript corpus
+
+- Downloaded all 16 FightinCowboy DS3 100% walkthrough transcripts
+  (`scripts/fetch_fightincowboy_transcripts.py` →
+  `data/transcripts/fightincowboy/`, gitignored — not ours to republish).
+  The 16-episode playlist covers exactly Cemetery of Ash → Abyss Watchers.
+- Episode map: 01-02 Cemetery/Firelink, 03-04 High Wall, 05-08 Undead
+  Settlement (+Greatwood, Grave Key/Irina errands), 09-11 Road of
+  Sacrifices/Crucifixion Woods/Crystal Sage, 12-13 Cathedral (Deacons,
+  Rosaria, Small Doll), 14-16 Farron Keep → Abyss Watchers.
+- NPC names are garbled by auto-captions; mining worked by item/action
+  keywords + reading segments. Notable live observation: FC's **Yoel died
+  early with only 1 sigil drawn** — the 5-sigils deadline is realer than the
+  wiki's "around the Catacombs" framing suggests.
+
+### Content added (mined from transcripts + wiki cross-check)
+
+- `data/checkpoints.json`: +14 checkpoints covering Road of Sacrifices
+  (Anri/Horace at Halfway, Farron Coal, Carim tome + Morne's Ring, Great
+  Swamp tome/ring, Grass Crest, Exile weapons, Orbeck recruit), Cathedral
+  (Paladin's Ashes, Rosaria chamber, Pale Tongue/Sirris hazard, Patches
+  arrival, Siegward well), Farron Keep checklist (scrolls, covenant, bone
+  shards), and the `abyss_watchers_prep` reactive gate (fires between
+  Deacons dead → Watchers dead: Yoel sigils + Orbeck scroll warnings).
+- New decision files: `orbeck_of_vinheim` (10 INT gate, leaves after ~6
+  bosses w/o scroll, Young Dragon Ring as scroll-given proxy),
+  `siegward_of_catarina` (73100363 anchor → well → armor return),
+  `anri_of_astora_and_horace` (Blue Sentinels item as Halfway-talk proxy),
+  `sirris_of_the_sunless_realms` (Pale Tongue offering hazard; reg 1.05
+  respec is safe).
+- Detection discipline: only confirmed flags (boss kills + existing talk
+  flags), durable item proxies, and `has_bonfire_area`; unconfirmed flags
+  registered as `readable:false` with `how_to_confirm` notes.
+
+### Fixes
+
+- "Siegbrau" → "Siegbräu" (umlaut) in checkpoints.json — the item map name
+  never matched, so the elevator checkpoint's missing_items check was a
+  no-op. Same substring fixed in advisor_core.state_summary (+ added
+  Scroll/Coal to key-item summary).
+- UTF-8 stdout reconfigure added to reason.py / advisor.py /
+  quest_evaluator.py (cp1252 console crash / mojibake — pre-existing).
+
+### Validation
+
+- pytest 23 passed / 13 skipped. play_00: 18 advisor blocks (was 16),
+  0 errors. quest-track: 11 blocks, 0 errors.
+- quest_evaluator spot checks: early save → all new quests "not started";
+  play_00 step 40 → Siegward correctly at "Fire Demon defeated" via
+  73100363; Pale Tongue pickup correctly triggers the Sirris hazard.
+
+### Known gaps (next session)
+
+- Bonfire-area phases flap (e.g. Orbeck in_recruit_window ↔ not_started when
+  resting at Firelink); harmless today because phase findings dedupe by id,
+  but a progression-high-water check in quest_evaluator would be cleaner.
+- No flags for: Orbeck recruited/scroll given, Anri talks, Sirris talks,
+  armor returned at well, Pale Tongue offered. Controlled-save targets listed
+  in each file's flag_registry.
+- LLM layer still untested live (no API key in dev shell).

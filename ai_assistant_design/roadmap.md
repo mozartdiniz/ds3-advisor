@@ -7,31 +7,37 @@
 
 ---
 
-## Where we left off (2026-06-11, session 11 — parked)
+## Where we left off (2026-07-05, session 12)
 
-The advisor was refactored into the hybrid pipeline (deterministic engine +
-Claude agent + topic dedupe) — full description in
-[advisor_and_tips.md → Advisor pipeline](advisor_and_tips.md), change log in
-[session_log.md → Session 11](session_log.md). Content coverage and
-validation both stop at **Undead Settlement** (the user's validated progress).
+**MVP target set by the user: the advisor correctly guides the player up to
+the Abyss Watchers kill (end of the first third — all side quests started by
+then).**
 
-State: quest-track (12 saves) and play_00 (40 saves) replays clean; pytest
-23 passed / 13 skipped; deterministic output reviewed step-by-step and
-duplicate beats resolved via topics.
+Session 12 mined the 16-episode FightinCowboy transcript corpus
+(`data/transcripts/fightincowboy/` — the playlist covers exactly Cemetery →
+Abyss Watchers) and extended content to that endpoint: +14 checkpoints (Road
+of Sacrifices, Cathedral, Farron Keep, `abyss_watchers_prep` reactive gate)
+and 4 new decision files (Orbeck, Siegward, Anri/Horace, Sirris). Change log
+in [session_log.md → Session 12](session_log.md). Validation clean: play_00
+18 advisor blocks / quest-track 11, 0 errors, pytest 23 passed / 13 skipped.
 
 **Resume checklist:**
 
-1. **Live-test the LLM layer** — never exercised against the real API (no
+1. **Live playthrough validation of the MVP** — run `python watcher.py`
+   during a real run from a fresh character to the Abyss Watchers and review
+   every advisor message for timing/accuracy (this is the MVP acceptance
+   test).
+2. **Live-test the LLM layer** — never exercised against the real API (no
    key in the dev shell). With `ANTHROPIC_API_KEY` set:
    `python play_simulator.py quest-track --slot 4 --llm` first, then
    `python watcher.py` during real play. Review: message tone (retrospective
    vs urgent), ≤2-message cap, tool usage (get_quest_status / search_wiki),
    prompt-cache hits (`usage.cache_read_input_tokens` > 0 from the 2nd call).
-2. **Author checkpoints for the next areas** (Road of Sacrifices, Cathedral,
-   Farron Keep) in `data/checkpoints.json` as the player progresses — or via
-   the transcript extraction (item 3 below). Remember: `policy` per
-   checkpoint, shared `topic` when it overlaps a decision-file beat.
-3. Items 1–7 below (KNOWN_FLAGS expansion is still the highest-value data
+3. **Label the missing first-third flags with controlled saves** — each new
+   decision file lists its targets in `flag_registry` (`readable: false` +
+   `how_to_confirm`): Orbeck recruited/scroll given, Anri/Sirris talks,
+   Siegward armor returned, Pale Tongue offered.
+4. Items 1–7 below (KNOWN_FLAGS expansion is still the highest-value data
    work — Greirat outings 2–3 flags directly feed the Irithyll warnings the
    quest files already contain as placeholders).
 

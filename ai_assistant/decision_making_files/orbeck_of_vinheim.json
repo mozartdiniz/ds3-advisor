@@ -1,0 +1,213 @@
+{
+  "_meta": {
+    "quest_id": "orbeck_of_vinheim",
+    "version": "1.0",
+    "npc": "Orbeck of Vinheim",
+    "associated_npcs": [
+      "Yuria of Londor",
+      "Crystal Sage"
+    ],
+    "starting_location": "Road of Sacrifices",
+    "description": "Recruit the sorcery trainer from the room before the Crystal Sage (requires 10 INT), then keep him at Firelink by handing him at least one scroll before ~6 further boss kills. Scrolls unlock sorceries; buying 3 sorceries + 1 scroll as a non-sorcerer class earns the Young Dragon Ring. Late-game he intersects Yuria of Londor's questline.",
+    "wiki_source": "data/wiki/Orbeck_of_Vinheim.md, Golden_Scroll.md, Sage's_Scroll.md",
+    "mined_from": "FightinCowboy 100% walkthrough eps 10, 14-16 (2026-07-05): recruit attempt failed at 8 INT — confirms the 10 INT gate; both scrolls picked up in Farron Keep.",
+    "evaluation": {
+      "rule": "Phases are evaluated top-to-bottom. First matching phase is current. Fallback phase always matches.",
+      "detection_gaps": "No confirmed flags for 'Orbeck recruited' or 'scroll given'. Young Dragon Ring is the only durable inventory proxy that a scroll was handed over (ring requires 3 sorceries bought + 1 scroll given + non-sorcerer class). Recruitment state is not detectable; phases lean on scroll possession, boss flags and bonfire area. EMEVD NPC state range for Orbeck is 1180-1199 — controlled saves needed to label."
+    }
+  },
+  "item_groups": {
+    "first_third_scrolls": {
+      "note": "Both obtainable in Farron Keep, before the Abyss Watchers. Either one is enough to stop Orbeck from leaving.",
+      "items": [
+        "Sage's Scroll",
+        "Golden Scroll"
+      ]
+    },
+    "later_scrolls": {
+      "note": "Logan's Scroll (Profaned Capital court sorcerer) and Crystal Scroll (Grand Archives) come much later.",
+      "items": [
+        "Logan's Scroll",
+        "Crystal Scroll"
+      ]
+    }
+  },
+  "flag_registry": {
+    "crystal_sage_defeated": {
+      "id": 13300850,
+      "system": "boss_defeat",
+      "readable": true,
+      "confirmed": true,
+      "confirmed_via": "KNOWN_FLAGS boss set, validated on QA corpus",
+      "label": "Crystal Sage defeated"
+    },
+    "deacons_defeated": {
+      "id": 13500800,
+      "system": "boss_defeat",
+      "readable": true,
+      "confirmed": true,
+      "confirmed_via": "KNOWN_FLAGS boss set, validated on QA corpus",
+      "label": "Deacons of the Deep defeated"
+    },
+    "abyss_watchers_defeated": {
+      "id": 13300800,
+      "system": "boss_defeat",
+      "readable": true,
+      "confirmed": true,
+      "confirmed_via": "KNOWN_FLAGS boss set, validated on QA corpus",
+      "label": "Abyss Watchers defeated"
+    },
+    "orbeck_recruited": {
+      "id": null,
+      "system": "emevd_npc_state",
+      "readable": false,
+      "confirmed": false,
+      "label": "Orbeck moved to Firelink Shrine",
+      "how_to_confirm": "Controlled save pair: talk to Orbeck with 10+ INT, rest, diff. EMEVD NPC range 1180-1199; expect a commons transition like Greirat's 1224->1225."
+    },
+    "orbeck_scroll_given": {
+      "id": null,
+      "system": "talk_flag",
+      "readable": false,
+      "confirmed": false,
+      "label": "At least one scroll handed to Orbeck",
+      "how_to_confirm": "Controlled save pair: give Sage's Scroll at Firelink, rest, diff. Expect a 74000xxx talk flag."
+    }
+  },
+  "phases": [
+    {
+      "id": "scroll_given_ring_proxy",
+      "label": "Secured — Young Dragon Ring received (scroll delivered)",
+      "terminal": false,
+      "outcome": null,
+      "detection_confidence": "high",
+      "detection_note": "The Young Dragon Ring is only given after buying 3 sorceries AND handing over a scroll — holding it proves Orbeck is safe.",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_item",
+            "item": "Young Dragon Ring"
+          }
+        ]
+      },
+      "status_message": "Orbeck is settled at Firelink — the Young Dragon Ring confirms you've given him a scroll. He will not leave.",
+      "next_steps": [
+        "Keep feeding him scrolls as you find them (Logan's Scroll in the Profaned Capital, Crystal Scroll in the Grand Archives) for more sorceries",
+        "If you pursue Yuria of Londor's questline, she will eventually ask you to 'deal with' Orbeck — you do NOT need to kill him; his ashes work after he dies naturally at the end of his own quest"
+      ]
+    },
+    {
+      "id": "scroll_in_hand",
+      "label": "Scroll in hand — deliver it to Orbeck",
+      "terminal": false,
+      "outcome": null,
+      "detection_confidence": "high",
+      "detection_note": "Player holds an undelivered scroll. Cannot tell whether Orbeck was recruited; message covers both cases.",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_any_item",
+            "group": "first_third_scrolls"
+          }
+        ]
+      },
+      "status_message": "You are carrying a sorcery scroll. Orbeck leaves forever if you defeat ~6 bosses after recruiting him without giving him any scroll — hand it over at Firelink Shrine next time you rest.",
+      "next_steps": [
+        "If you haven't recruited Orbeck yet: he waits on the second floor of the flooded room before the Crystal Sage arena (needs 10 INT — the check happens only once)",
+        "Give him the scroll at Firelink Shrine (talk → Give Scroll)",
+        "Non-sorcerer classes: buy any 3 sorceries from him after giving a scroll and he gifts you the Young Dragon Ring"
+      ]
+    },
+    {
+      "id": "watchers_dead_no_scroll",
+      "label": "DANGER — Abyss Watchers dead, no scroll delivered",
+      "terminal": false,
+      "outcome": null,
+      "detection_confidence": "medium",
+      "detection_note": "Post-Watchers with no scroll in inventory and no ring proxy. Either the player never engaged Orbeck (harmless) or he is about to leave (urgent). Message covers both.",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_flag",
+            "flag_key": "abyss_watchers_defeated"
+          },
+          {
+            "check": "missing_all_items",
+            "group": "first_third_scrolls"
+          },
+          {
+            "check": "missing_item",
+            "item": "Young Dragon Ring"
+          }
+        ]
+      },
+      "status_message": "The Abyss Watchers are down and no scroll has been delivered to Orbeck. If you recruited him, he is on the verge of leaving Firelink forever (he departs after ~6 boss kills without receiving a scroll).",
+      "next_steps": [
+        "Fetch the Sage's Scroll (near the Keep Ruins bonfire) or Golden Scroll (swamp cave, by the Antiquated Set) in Farron Keep NOW and give one to Orbeck",
+        "If he already left, his sorceries are lost for this playthrough (and Yuria's optional sub-quest with his ashes cannot complete)"
+      ]
+    },
+    {
+      "id": "in_recruit_window",
+      "label": "Recruit window — Orbeck waits near the Crystal Sage",
+      "terminal": false,
+      "outcome": null,
+      "detection_confidence": "medium",
+      "detection_note": "Player has reached the Road of Sacrifices area; no recruitment signal exists, so this fires until a scroll/ring appears.",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_bonfire_area",
+            "area": "Sacrifices"
+          }
+        ]
+      },
+      "status_message": "Orbeck of Vinheim hides on the second floor of the flooded room leading to the Crystal Sage. Talk to him with 10+ Intelligence to recruit your sorcery trainer (he only checks INT once).",
+      "next_steps": [
+        "Below 10 INT? Level it to 10, or come back later with the Scholar Ring — but don't forget him",
+        "After recruiting: hand him ANY scroll before ~6 more boss kills or he leaves forever (both the Sage's Scroll and Golden Scroll are in Farron Keep)",
+        "Sorcery builds: he sells Great Soul Arrow, Spook, Aural Decoy and more as soon as he reaches Firelink"
+      ]
+    },
+    {
+      "id": "not_started",
+      "label": "Not started",
+      "terminal": false,
+      "outcome": null,
+      "detection_confidence": "high",
+      "detection_note": "Fallback.",
+      "conditions": {
+        "fallback": true
+      },
+      "status_message": "Orbeck has not been encountered yet. He appears in the Road of Sacrifices, in the flooded room before the Crystal Sage.",
+      "next_steps": [
+        "When you reach the Road of Sacrifices, bring 10 Intelligence to recruit him"
+      ]
+    }
+  ],
+  "always_check_warnings": [
+    {
+      "id": "warn_scroll_undelivered",
+      "label": "Scroll in inventory — Orbeck's clock is ticking",
+      "urgency": "warning",
+      "topic": "orbeck_scroll_deadline",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_any_item",
+            "group": "first_third_scrolls"
+          },
+          {
+            "check": "missing_item",
+            "item": "Young Dragon Ring"
+          },
+          {
+            "check": "has_flag",
+            "flag_key": "deacons_defeated"
+          }
+        ]
+      },
+      "message": "You are carrying a sorcery scroll and bosses keep falling. If Orbeck was recruited and never received a scroll, he leaves Firelink forever after ~6 boss kills. Give him the scroll the next time you're at Firelink Shrine."
+    }
+  ]
+}

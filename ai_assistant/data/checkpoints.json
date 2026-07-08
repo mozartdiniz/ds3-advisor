@@ -302,7 +302,7 @@
       "detail": "Siegward of Catarina (Onion Knight) is stuck at the tower elevator near the Giant's tower. Elevator trick: step on the pressure plate, immediately step OFF so the second platform descends, then ride the other one. Join him to fight the Fire Demon below - you get a Siegbrau, and his questline (which later determines whether Greirat survives Irithyll) only advances if he wins this fight with you.",
       "detection": {
         "missing_items": [
-          "Siegbrau"
+          "Siegbräu"
         ],
         "missing_flags": [
           73100363
@@ -443,6 +443,235 @@
           74000850
         ]
       }
+    },
+    {
+      "id": "road_halfway_anri_horace",
+      "area": "Road of Sacrifices / Farron Keep",
+      "category": "quest",
+      "policy": "proactive",
+      "urgency": "warning",
+      "title": "Stop at Halfway Fortress: talk to Anri and Horace",
+      "detail": "Two NPCs wait at the Halfway Fortress bonfire: Anri of Astora and Horace the Hushed. Talk to BOTH - Horace gives you the Blue Sentinels covenant, and Anri's questline runs the length of the game (and is REQUIRED for the Usurpation of Fire ending if you're on the Dark Sigil path). Missing this conversation stalls their entire storyline.",
+      "detection": {
+        "missing_items": [
+          "Blue Sentinels"
+        ]
+      },
+      "topic": "anri_meet_halfway"
+    },
+    {
+      "id": "road_farron_coal",
+      "area": "Road of Sacrifices / Farron Keep",
+      "category": "item",
+      "policy": "proactive",
+      "urgency": "reminder",
+      "title": "Farron Coal: unlock Heavy, Sharp and Poison infusions",
+      "detail": "From the Halfway Fortress bonfire, drop down the ledges on the right side, follow the right wall through a doorway; a Black Knight guards the corpse holding the Farron Coal at the end of the hall. Give it to Andre at Firelink to unlock Heavy (STR), Sharp (DEX) and Poison infusions - a big damage bump for focused builds.",
+      "detection": {
+        "missing_items": [
+          "Farron Coal"
+        ]
+      },
+      "topic": "farron_coal_andre"
+    },
+    {
+      "id": "road_braille_tome_carim",
+      "area": "Road of Sacrifices / Farron Keep",
+      "category": "item",
+      "policy": "retrospective",
+      "urgency": "reminder",
+      "title": "Missed: Braille Divine Tome of Carim (+ Morne's Ring)",
+      "detail": "On the Road of Sacrifices, a drop-down platform near the bridge to the Halfway Fortress holds the Braille Divine Tome of Carim and Morne's Ring. Give the tome to Irina of Carim at Firelink to unlock Med Heal, Tears of Denial and Force - it is a LIGHT tome, completely safe for her questline.",
+      "where": "Warp to the Road of Sacrifices bonfire, head toward the bridge before Halfway Fortress, look down over the cliff edge for the platform with two corpses and drop down.",
+      "detection": {
+        "missing_items": [
+          "Braille Divine Tome of Carim",
+          "Morne's Ring",
+          "Tears of Denial"
+        ]
+      }
+    },
+    {
+      "id": "road_great_swamp_tome",
+      "area": "Road of Sacrifices / Farron Keep",
+      "category": "item",
+      "policy": "retrospective",
+      "urgency": "info",
+      "title": "Missed: Great Swamp Pyromancy Tome (and Great Swamp Ring)",
+      "detail": "In the Crucifixion Woods water, near the Conjurator gear, lies the Great Swamp Pyromancy Tome - give it to Cornyx for Poison Mist, Fire Orb, Profuse Sweat and Bursting Fireball. The Great Crab in the same water drops the Great Swamp Ring (+pyromancy damage).",
+      "where": "Warp to the Crucifixion Woods bonfire and search the shallow water near the sorcerer enemies; beware of the crabs and the Yellowfinger Heysel invasion in this zone.",
+      "detection": {
+        "missing_items": [
+          "Great Swamp Pyromancy Tome",
+          "Great Swamp Ring",
+          "Poison Mist"
+        ],
+        "builds": [
+          "pyro",
+          "balanced"
+        ]
+      }
+    },
+    {
+      "id": "road_grass_crest_shield",
+      "area": "Road of Sacrifices / Farron Keep",
+      "category": "item",
+      "policy": "retrospective",
+      "urgency": "info",
+      "title": "Missed: Grass Crest Shield (stamina regen for every build)",
+      "detail": "The Grass Crest Shield boosts stamina regeneration even when held on your back - it is used by virtually every build in the game. It sits in the Crucifixion Woods water near the big crab.",
+      "where": "From the Crucifixion Woods bonfire, head into the shallow water toward the ruins; the shield is on a corpse near where the Great Crab prowls - grab it and run.",
+      "detection": {
+        "missing_items": [
+          "Grass Crest Shield"
+        ]
+      }
+    },
+    {
+      "id": "road_exile_weapons",
+      "area": "Road of Sacrifices / Farron Keep",
+      "category": "item",
+      "policy": "retrospective",
+      "urgency": "info",
+      "title": "Missed: Exile Greatsword / Great Club from the Exile duo",
+      "detail": "The two exile watchmen guarding the Farron Keep entrance drop the Exile Greatsword and the Great Club - both top-tier strength weapons for this stage of the game.",
+      "where": "Warp to the Crucifixion Woods bonfire and head toward the door to Farron Keep at the water's edge; the two exiles patrol the slope in front of it. They respawn until killed in your world.",
+      "detection": {
+        "missing_items": [
+          "Exile Greatsword",
+          "Great Club"
+        ],
+        "builds": [
+          "str"
+        ]
+      }
+    },
+    {
+      "id": "road_orbeck_recruit",
+      "area": "Road of Sacrifices / Farron Keep",
+      "category": "npc",
+      "policy": "proactive",
+      "urgency": "warning",
+      "title": "Recruit Orbeck of Vinheim (needs 10 INT)",
+      "detail": "Orbeck hides on the second floor of the flooded room that leads to the Crystal Sage fight. Talk to him with at least 10 Intelligence and he moves to Firelink as your sorcery trainer. Below 10 INT, equip the Scholar Ring (Grand Archives is far away - or just level INT to 10) - he only checks once. He is also required later in Yuria of Londor's questline. IMPORTANT: after recruiting him, you must hand him ANY scroll before you defeat ~6 more bosses, or he leaves forever.",
+      "detection": {
+        "missing_items": [
+          "Young Dragon Ring"
+        ]
+      },
+      "topic": "orbeck_recruit"
+    },
+    {
+      "id": "cathedral_paladins_ashes",
+      "area": "Cathedral of the Deep",
+      "category": "item",
+      "policy": "retrospective",
+      "urgency": "info",
+      "title": "Missed: Paladin's Ashes at the Cathedral entrance",
+      "detail": "The Paladin's Ashes lie on a ledge just inside the Cathedral of the Deep's front graveyard area. Give them to the Shrine Handmaid to add Lloyd's Sword Ring and other stock to her shop.",
+      "where": "From the Cathedral of the Deep bonfire, follow the left cliffside path at the start of the graveyard; the ashes are on the ledge with the hollowed corpse.",
+      "detection": {
+        "missing_items": [
+          "Paladin's Ashes"
+        ]
+      }
+    },
+    {
+      "id": "cathedral_rosaria_chamber",
+      "area": "Cathedral of the Deep",
+      "category": "npc",
+      "policy": "proactive",
+      "urgency": "info",
+      "title": "Rosaria's Bed Chamber: respec and appearance change",
+      "detail": "Rosaria, Mother of Rebirth, rests in a chamber off the Cathedral's upper hall (fight past the Man-grub caster for the Red Sign Soapstone, then open the double doors). Joining her covenant lets you reallocate stats or change appearance up to 5 times per playthrough, paying one Pale Tongue each. Just JOINING is safe for other questlines - but do not OFFER Pale Tongues to level the covenant while Sirris's questline is active.",
+      "detection": {
+        "missing_items": [
+          "Rosaria's Fingers"
+        ]
+      },
+      "topic": "rosaria_join"
+    },
+    {
+      "id": "cathedral_pale_tongue_sirris",
+      "area": "Cathedral of the Deep",
+      "category": "quest",
+      "policy": "reactive",
+      "urgency": "warning",
+      "title": "Pale Tongues: do NOT offer them to Rosaria yet",
+      "detail": "You are carrying a Pale Tongue. Offering Pale Tongues to Rosaria to rank up her covenant makes Sirris of the Sunless Realms leave Firelink and turn hostile, ending her questline. Spending a tongue on a respec or appearance change is safe (regulation 1.05+). Hold your tongues until Sirris's questline is finished.",
+      "detection": {
+        "has_items": [
+          "Pale Tongue"
+        ]
+      },
+      "topic": "sirris_pale_tongue"
+    },
+    {
+      "id": "cathedral_patches_arrival",
+      "area": "Cathedral of the Deep",
+      "category": "npc",
+      "policy": "proactive",
+      "urgency": "info",
+      "title": "Watch for Patches in the Cathedral (do not kill him)",
+      "detail": "Unbreakable Patches shows up in the Cathedral of the Deep - he poses as Siegward in onion armor near the second giant, and later locks you on the lower level by turning the bridge lever. Do NOT kill him: he becomes a Firelink vendor, sells Siegward's Catarina armor (needed to keep Siegward's questline - and Greirat's survival - alive), and his own questline has unique rewards.",
+      "detection": {
+        "missing_items": [
+          "Catarina Helm"
+        ]
+      },
+      "topic": "patches_cathedral"
+    },
+    {
+      "id": "cathedral_siegward_well",
+      "area": "Cathedral of the Deep",
+      "category": "quest",
+      "policy": "proactive",
+      "urgency": "reminder",
+      "title": "Siegward is stuck in the well by the Cleansing Chapel",
+      "detail": "Outside the Cleansing Chapel bonfire, a voice hums from the well - it's Siegward, robbed of his armor. Once Patches (in Firelink, after his Cathedral tricks) sells you the Catarina Set, come back to the well and give it to Siegward. Do this BEFORE progressing deep into Irithyll - his questline (and one of the two ways to save Greirat later) depends on it.",
+      "detection": {
+        "has_flags": [
+          73100363
+        ],
+        "missing_items": [
+          "Catarina Helm"
+        ]
+      },
+      "topic": "siegward_well"
+    },
+    {
+      "id": "farron_keep_checklist",
+      "area": "Road of Sacrifices / Farron Keep",
+      "category": "checklist",
+      "policy": "proactive",
+      "urgency": "reminder",
+      "title": "Farron Keep swamp: what not to leave behind",
+      "detail": "When you work through the Farron Keep swamp (the far half of this region), don't leave without: the Golden Scroll (cave in the south of the swamp, near the Antiquated Set) and the Sage's Scroll (near the Keep Ruins) - BOTH feed Orbeck's questline; the Watchdogs of Farron covenant at the Old Wolf bonfire (ladder by the Keep Ruins shortcut); Lightning Spear near the Keep Ruins perimeter (faith builds); the Dreamchaser's Ashes for the Handmaid; and two Undead Bone Shards (one among the basilisks near Keep Ruins, one on the perimeter). The Stray Demon on the broken bridge drops a boss soul worth holding for Havel's Ring.",
+      "detection": {
+        "missing_items": [
+          "Golden Scroll",
+          "Sage's Scroll"
+        ]
+      },
+      "topic": "farron_checklist"
+    },
+    {
+      "id": "abyss_watchers_prep",
+      "area": "Road of Sacrifices / Farron Keep",
+      "category": "quest",
+      "policy": "reactive",
+      "urgency": "warning",
+      "title": "Before you kill the Abyss Watchers - point of no return for two questlines",
+      "detail": "The Deacons are down, so the Abyss Watchers are your next Lord of Cinder. Two things become unrecoverable around this kill: (1) Yoel of Londor dies - if you are on the Dark Sigil path, draw ALL FIVE free levels first (die a few times unembered to unlock the next draws), or Yuria never appears and the Usurpation ending is lost. (2) If you recruited Orbeck but never gave him a scroll, he is close to leaving forever - hand him the Sage's or Golden Scroll from Farron Keep now.",
+      "detection": {
+        "has_flags": [
+          13500800
+        ],
+        "missing_flags": [
+          13300800
+        ]
+      },
+      "topic": "pre_watchers_gate"
     }
   ]
 }

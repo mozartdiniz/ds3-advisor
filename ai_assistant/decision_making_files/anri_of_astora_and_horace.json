@@ -1,0 +1,165 @@
+{
+  "_meta": {
+    "quest_id": "anri_of_astora_and_horace",
+    "version": "1.0",
+    "npc": "Anri of Astora & Horace the Hushed",
+    "associated_npcs": [
+      "Yoel of Londor",
+      "Yuria of Londor",
+      "Ludleth of Courland"
+    ],
+    "starting_location": "Road of Sacrifices (Halfway Fortress)",
+    "description": "Anri (opposite sex to the player) and Horace travel the Road of Sacrifices hunting Aldrich. First-third beats: meet both at Halfway Fortress (Horace gives the Blue Sentinels covenant), then meet Anri again at Firelink after the Deacons of the Deep. The questline branches hard in the Catacombs (post-Abyss Watchers) and is REQUIRED for the Usurpation of Fire ending's wedding ceremony.",
+    "wiki_source": "data/wiki/Anri_of_Astora.md, Horace_the_Hushed.md, Side_Quests.md",
+    "mined_from": "FightinCowboy 100% walkthrough ep 09 (Halfway Fortress dialogue, Blue Sentinels from Horace, marriage foreshadowing) (2026-07-05).",
+    "evaluation": {
+      "rule": "Phases are evaluated top-to-bottom. First matching phase is current. Fallback phase always matches.",
+      "detection_gaps": "No flags known for Anri/Horace talks. The Blue Sentinels covenant item is a durable proxy for the Halfway Fortress meeting (Horace hands it out there). Post-Deacons Firelink talk has no proxy; the post-Deacons phase folds it into its guidance. Catacombs branching is out of first-third scope."
+    }
+  },
+  "item_groups": {},
+  "flag_registry": {
+    "deacons_defeated": {
+      "id": 13500800,
+      "system": "boss_defeat",
+      "readable": true,
+      "confirmed": true,
+      "confirmed_via": "KNOWN_FLAGS boss set",
+      "label": "Deacons of the Deep defeated"
+    },
+    "abyss_watchers_defeated": {
+      "id": 13300800,
+      "system": "boss_defeat",
+      "readable": true,
+      "confirmed": true,
+      "confirmed_via": "KNOWN_FLAGS boss set",
+      "label": "Abyss Watchers defeated"
+    },
+    "anri_talked_halfway": {
+      "id": null,
+      "system": "talk_flag",
+      "readable": false,
+      "confirmed": false,
+      "label": "Talked to Anri at Halfway Fortress",
+      "how_to_confirm": "Controlled save pair at Halfway Fortress; expect a 73300xxx talk flag."
+    }
+  },
+  "phases": [
+    {
+      "id": "post_deacons_firelink",
+      "label": "Deacons down — see Anri and Horace at Firelink",
+      "terminal": false,
+      "outcome": null,
+      "detection_confidence": "medium",
+      "detection_note": "Blue Sentinels proves the Halfway meeting; Deacons flag opens the Firelink window. The Firelink talk itself is not detectable.",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_item",
+            "item": "Blue Sentinels"
+          },
+          {
+            "check": "has_flag",
+            "flag_key": "deacons_defeated"
+          },
+          {
+            "check": "missing_flag",
+            "flag_key": "abyss_watchers_defeated"
+          }
+        ]
+      },
+      "status_message": "With the Deacons of the Deep defeated, Anri and Horace rest at Firelink Shrine (Anri by the stairs near Andre, Horace by the far wall). Talk to BOTH before killing the Abyss Watchers - Anri tells you their next destination (the Catacombs of Carthus).",
+      "next_steps": [
+        "Exhaust Anri's dialogue at Firelink (and nod to silent Horace)",
+        "Their questline continues in the Catacombs after the Abyss Watchers — you will meet Anri by the entrance and must make choices about Horace there",
+        "Usurpation-of-Fire players: this questline IS your ending path — keep meeting Anri at every stage"
+      ]
+    },
+    {
+      "id": "met_at_halfway",
+      "label": "Met at Halfway Fortress — Blue Sentinels received",
+      "terminal": false,
+      "outcome": null,
+      "detection_confidence": "high",
+      "detection_note": "Blue Sentinels covenant item only comes from Horace at Halfway Fortress.",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_item",
+            "item": "Blue Sentinels"
+          }
+        ]
+      },
+      "status_message": "You met Anri and Horace at Halfway Fortress and hold the Blue Sentinels covenant. They head for the Cathedral of the Deep next - after you defeat the Deacons, look for them back at Firelink Shrine.",
+      "next_steps": [
+        "After the Deacons of the Deep die, talk to Anri and Horace at Firelink Shrine",
+        "Nothing can break their quest yet — just keep talking to them at each new location"
+      ]
+    },
+    {
+      "id": "in_meet_window",
+      "label": "Halfway Fortress ahead — don't walk past them",
+      "terminal": false,
+      "outcome": null,
+      "detection_confidence": "medium",
+      "detection_note": "Area-gated: player is in the Road of Sacrifices region without the covenant item.",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_bonfire_area",
+            "area": "Sacrifices"
+          },
+          {
+            "check": "missing_item",
+            "item": "Blue Sentinels"
+          }
+        ]
+      },
+      "status_message": "Anri of Astora and Horace the Hushed stand at the Halfway Fortress bonfire. Talk to both: Horace silently hands you the Blue Sentinels covenant, and Anri's long questline (marriage included, if you walk the Usurpation path) starts with this simple conversation.",
+      "next_steps": [
+        "Talk to Anri, then Horace, at the Halfway Fortress bonfire before moving on",
+        "If you carry Dark Sigils, treat this as mandatory — the Usurpation of Fire ending needs Anri's questline alive"
+      ]
+    },
+    {
+      "id": "not_started",
+      "label": "Not started",
+      "terminal": false,
+      "outcome": null,
+      "detection_confidence": "high",
+      "detection_note": "Fallback.",
+      "conditions": {
+        "fallback": true
+      },
+      "status_message": "Anri and Horace have not been met. They first appear at the Halfway Fortress bonfire on the Road of Sacrifices.",
+      "next_steps": [
+        "When you reach Halfway Fortress, talk to both NPCs at the bonfire"
+      ]
+    }
+  ],
+  "always_check_warnings": [
+    {
+      "id": "warn_usurpation_needs_anri",
+      "label": "Dark Sigil path: Anri's questline is mandatory",
+      "urgency": "warning",
+      "topic": "anri_meet_halfway",
+      "conditions": {
+        "all_of": [
+          {
+            "check": "has_item",
+            "item": "Dark Sigil"
+          },
+          {
+            "check": "missing_item",
+            "item": "Blue Sentinels"
+          },
+          {
+            "check": "has_bonfire_area",
+            "area": "Sacrifices"
+          }
+        ]
+      },
+      "message": "You carry Dark Sigils - the Usurpation of Fire ending runs through Anri of Astora's questline, and it starts at the Halfway Fortress bonfire just ahead. Talk to Anri and Horace before pushing on."
+    }
+  ]
+}
