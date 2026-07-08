@@ -1,0 +1,894 @@
+  Recording to: C:\Users\user\Dev\dark-souls\play_simulator_save_files\play_06_auto
+  Log file:     session_202607081911.log
+  Slot: auto-detect (tracks whichever slot playtime changes)
+
+============================================================
+  DS3 Save Watcher  [RECORDING]
+  Save: C:\Users\user\AppData\Roaming\DarkSoulsIII\011000016f3aa67c\DS30000.sl2
+  Poll: 1.0s  |  Settle: 2.0s
+============================================================
+
+  Waiting for first save event... (rest at a bonfire in-game)
+
+  [recorded 01_202607081911.sl2]
+  [auto-detected slot 5 (min playtime)]
+
+============================================================
+  SAVE DETECTED  19:11:06
+  MVPValidation  |  Level 25  |  3,051 souls  |  Firelink Shrine
+============================================================
+  Rested at Firelink Shrine
+  [recorded 02_202607081912.sl2]
+
+============================================================
+  SAVE DETECTED  19:12:08
+  MVPValidation  |  Level 25  |  3,051 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 03_202607081912.sl2]
+
+============================================================
+  SAVE DETECTED  19:12:19
+  MVPValidation  |  Level 25  |  3,051 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 04_202607081912.sl2]
+
+============================================================
+  SAVE DETECTED  19:12:25
+  MVPValidation  |  Level 25  |  3,051 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 05_202607081912.sl2]
+
+============================================================
+  SAVE DETECTED  19:12:32
+  MVPValidation  |  Level 25  |  3,851 souls  |  Firelink Shrine
+============================================================
+  Souls: 3,051 -> 3,851  (+800)
+  Lost Soul of an Unknown Traveler
+  [recorded 06_202607081912.sl2]
+
+============================================================
+  SAVE DETECTED  19:12:38
+  MVPValidation  |  Level 25  |  5,851 souls  |  Firelink Shrine
+============================================================
+  Souls: 3,851 -> 5,851  (+2,000)
+  Lost Soul of a Nameless Soldier
+  [recorded 07_202607081912.sl2]
+
+============================================================
+  SAVE DETECTED  19:12:46
+  MVPValidation  |  Level 26  |  1,581 souls  |  Firelink Shrine
+============================================================
+  Level up: 25 -> 26  (+1)
+  Souls: 5,851 -> 1,581  (-4,270)
+  [recorded 08_202607081913.sl2]
+
+============================================================
+  SAVE DETECTED  19:13:01
+  MVPValidation  |  Level 26  |  1,581 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 09_202607081913.sl2]
+
+============================================================
+  SAVE DETECTED  19:13:05
+  MVPValidation  |  Level 26  |  1,581 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 10_202607081913.sl2]
+
+============================================================
+  SAVE DETECTED  19:13:08
+  MVPValidation  |  Level 26  |  1,581 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 11_202607081913.sl2]
+
+============================================================
+  SAVE DETECTED  19:13:11
+  MVPValidation  |  Level 26  |  1,581 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 12_202607081913.sl2]
+
+============================================================
+  SAVE DETECTED  19:13:26
+  MVPValidation  |  Level 26  |  1,581 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 13_202607081913.sl2]
+
+============================================================
+  SAVE DETECTED  19:13:32
+  MVPValidation  |  Level 26  |  1,581 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 14_202607081913.sl2]
+
+============================================================
+  SAVE DETECTED  19:13:39
+  MVPValidation  |  Level 26  |  1,581 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 15_202607081913.sl2]
+
+============================================================
+  SAVE DETECTED  19:13:44
+  MVPValidation  |  Level 26  |  1,581 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Rested at Road of Sacrifices / Farron Keep  (from Firelink Shrine)
+  [recorded 16_202607081914.sl2]
+
+============================================================
+  SAVE DETECTED  19:14:03
+  MVPValidation  |  Level 26  |  1,581 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  (no changes detected)
+  [recorded 17_202607081915.sl2]
+
+============================================================
+  SAVE DETECTED  19:15:12
+  MVPValidation  |  Level 26  |  1,581 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  (no changes detected)
+  [recorded 18_202607081915.sl2]
+
+============================================================
+  SAVE DETECTED  19:15:31
+  MVPValidation  |  Level 26  |  1,581 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  (no changes detected)
+  [recorded 19_202607081915.sl2]
+
+============================================================
+  SAVE DETECTED  19:15:59
+  MVPValidation  |  Level 26  |  1,581 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  (no changes detected)
+  [recorded 20_202607081916.sl2]
+
+============================================================
+  SAVE DETECTED  19:16:47
+  MVPValidation  |  Level 26  |  1,581 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  (no changes detected)
+  [recorded 21_202607081917.sl2]
+
+============================================================
+  SAVE DETECTED  19:17:19
+  MVPValidation  |  Level 26  |  1,581 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  (no changes detected)
+  [recorded 22_202607081917.sl2]
+
+============================================================
+  SAVE DETECTED  19:17:29
+  MVPValidation  |  Level 26  |  1,581 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  (no changes detected)
+  [recorded 23_202607081918.sl2]
+
+============================================================
+  SAVE DETECTED  19:18:07
+  MVPValidation  |  Level 26  |  1,811 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Souls: 1,581 -> 1,811  (+230)
+  [recorded 24_202607081918.sl2]
+
+============================================================
+  SAVE DETECTED  19:18:18
+  MVPValidation  |  Level 26  |  1,811 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Got Soul of an Unknown Traveler
+  [recorded 25_202607081919.sl2]
+
+============================================================
+  SAVE DETECTED  19:19:04
+  MVPValidation  |  Level 26  |  2,161 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Souls: 1,811 -> 2,161  (+350)
+  [recorded 26_202607081919.sl2]
+
+============================================================
+  SAVE DETECTED  19:19:11
+  MVPValidation  |  Level 26  |  0 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Souls: 2,161 -> 0  (-2,161)
+  [recorded 27_202607081919.sl2]
+
+============================================================
+  SAVE DETECTED  19:19:15
+  MVPValidation  |  Level 26  |  0 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  (no changes detected)
+  [recorded 28_202607081919.sl2]
+
+============================================================
+  SAVE DETECTED  19:19:59
+  MVPValidation  |  Level 26  |  350 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Souls: 0 -> 350  (+350)
+  [recorded 29_202607081920.sl2]
+
+============================================================
+  SAVE DETECTED  19:20:27
+  MVPValidation  |  Level 26  |  350 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  (no changes detected)
+  [recorded 30_202607081920.sl2]
+
+============================================================
+  SAVE DETECTED  19:20:34
+  MVPValidation  |  Level 26  |  0 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Souls: 350 -> 0  (-350)
+  [recorded 31_202607081920.sl2]
+
+============================================================
+  SAVE DETECTED  19:20:39
+  MVPValidation  |  Level 26  |  0 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  (no changes detected)
+  [recorded 32_202607081921.sl2]
+
+============================================================
+  SAVE DETECTED  19:21:16
+  MVPValidation  |  Level 26  |  700 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Souls: 0 -> 700  (+700)
+  Got Ember
+  [recorded 33_202607081921.sl2]
+
+============================================================
+  SAVE DETECTED  19:21:23
+  MVPValidation  |  Level 26  |  700 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Got Estus Shard
+  [recorded 34_202607081921.sl2]
+
+============================================================
+  SAVE DETECTED  19:21:45
+  MVPValidation  |  Level 26  |  700 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  (no changes detected)
+  [recorded 35_202607081921.sl2]
+
+============================================================
+  SAVE DETECTED  19:21:51
+  MVPValidation  |  Level 26  |  700 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  (no changes detected)
+  [recorded 36_202607081921.sl2]
+
+============================================================
+  SAVE DETECTED  19:21:54
+  MVPValidation  |  Level 26  |  700 souls  |  Firelink Shrine
+============================================================
+  Rested at Firelink Shrine  (from Road of Sacrifices / Farron Keep)
+  [recorded 37_202607081922.sl2]
+
+============================================================
+  SAVE DETECTED  19:22:08
+  MVPValidation  |  Level 26  |  700 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 38_202607081922.sl2]
+
+============================================================
+  SAVE DETECTED  19:22:14
+  MVPValidation  |  Level 27  |  700 souls  |  Firelink Shrine
+============================================================
+  Level up: 26 -> 27  (+1)
+  Got Dark Sigil
+  [recorded 39_202607081922.sl2]
+
+============================================================
+  SAVE DETECTED  19:22:30
+  MVPValidation  |  Level 27  |  700 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 40_202607081922.sl2]
+
+============================================================
+  SAVE DETECTED  19:22:35
+  MVPValidation  |  Level 27  |  700 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 41_202607081922.sl2]
+
+============================================================
+  SAVE DETECTED  19:22:39
+  MVPValidation  |  Level 27  |  700 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Rested at Road of Sacrifices / Farron Keep  (from Firelink Shrine)
+  [recorded 42_202607081922.sl2]
+
+============================================================
+  SAVE DETECTED  19:22:53
+  MVPValidation  |  Level 27  |  700 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  (no changes detected)
+  [recorded 43_202607081922.sl2]
+
+============================================================
+  SAVE DETECTED  19:22:58
+  MVPValidation  |  Level 27  |  700 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  (no changes detected)
+  [recorded 44_202607081923.sl2]
+
+============================================================
+  SAVE DETECTED  19:23:01
+  MVPValidation  |  Level 27  |  700 souls  |  Firelink Shrine
+============================================================
+  Rested at Firelink Shrine  (from Road of Sacrifices / Farron Keep)
+  [recorded 45_202607081923.sl2]
+
+============================================================
+  SAVE DETECTED  19:23:06
+  MVPValidation  |  Level 27  |  700 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 46_202607081923.sl2]
+
+============================================================
+  SAVE DETECTED  19:23:16
+  MVPValidation  |  Level 27  |  700 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 47_202607081923.sl2]
+
+============================================================
+  SAVE DETECTED  19:23:22
+  MVPValidation  |  Level 28  |  700 souls  |  Firelink Shrine
+============================================================
+  Level up: 27 -> 28  (+1)
+  Got Dark Sigil
+  [recorded 48_202607081923.sl2]
+
+============================================================
+  SAVE DETECTED  19:23:43
+  MVPValidation  |  Level 28  |  700 souls  |  Firelink Shrine
+============================================================
+  Lost Estus Shard
+  [recorded 49_202607081923.sl2]
+
+============================================================
+  SAVE DETECTED  19:23:48
+  MVPValidation  |  Level 28  |  700 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 50_202607081923.sl2]
+
+============================================================
+  SAVE DETECTED  19:23:59
+  MVPValidation  |  Level 28  |  700 souls  |  Firelink Shrine
+============================================================
+  Got Pyromancy Flame
+  Talked to Cornyx (at Firelink)
+  [recorded 51_202607081924.sl2]
+
+============================================================
+  SAVE DETECTED  19:24:02
+  MVPValidation  |  Level 28  |  700 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 52_202607081924.sl2]
+
+============================================================
+  SAVE DETECTED  19:24:08
+  MVPValidation  |  Level 28  |  700 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 53_202607081924.sl2]
+
+============================================================
+  SAVE DETECTED  19:24:11
+  MVPValidation  |  Level 28  |  700 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 54_202607081924.sl2]
+
+============================================================
+  SAVE DETECTED  19:24:14
+  MVPValidation  |  Level 28  |  700 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 55_202607081924.sl2]
+
+============================================================
+  SAVE DETECTED  19:24:23
+  MVPValidation  |  Level 28  |  700 souls  |  Firelink Shrine
+============================================================
+  Talked to Irina of Carim (at Firelink)
+  [recorded 56_202607081924.sl2]
+
+============================================================
+  SAVE DETECTED  19:24:26
+  MVPValidation  |  Level 28  |  700 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 57_202607081924.sl2]
+
+============================================================
+  SAVE DETECTED  19:24:31
+  MVPValidation  |  Level 28  |  700 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 58_202607081924.sl2]
+
+============================================================
+  SAVE DETECTED  19:24:48
+  MVPValidation  |  Level 28  |  700 souls  |  Firelink Shrine
+============================================================
+  right hand: Long Sword -> Vordt's Great Hammer
+  [recorded 59_202607081924.sl2]
+
+============================================================
+  SAVE DETECTED  19:24:53
+  MVPValidation  |  Level 28  |  700 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 60_202607081924.sl2]
+
+============================================================
+  SAVE DETECTED  19:24:59
+  MVPValidation  |  Level 28  |  700 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 61_202607081925.sl2]
+
+============================================================
+  SAVE DETECTED  19:25:03
+  MVPValidation  |  Level 28  |  700 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Rested at Road of Sacrifices / Farron Keep  (from Firelink Shrine)
+  [recorded 62_202607081925.sl2]
+
+============================================================
+  SAVE DETECTED  19:25:37
+  MVPValidation  |  Level 28  |  1,232 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Souls: 700 -> 1,232  (+532)
+  Got Heretic's Staff
+  [recorded 63_202607081925.sl2]
+
+============================================================
+  SAVE DETECTED  19:25:56
+  MVPValidation  |  Level 28  |  1,352 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Souls: 1,232 -> 1,352  (+120)
+  Got item_00100dbf88
+  chest: Knight Armor -> item_00000dbf88
+  [recorded 64_202607081926.sl2]
+
+============================================================
+  SAVE DETECTED  19:26:21
+  MVPValidation  |  Level 28  |  1,412 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Souls: 1,352 -> 1,412  (+60)
+  Got Crystal Gem
+  [recorded 65_202607081926.sl2]
+
+============================================================
+  SAVE DETECTED  19:26:52
+  MVPValidation  |  Level 28  |  1,472 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Souls: 1,412 -> 1,472  (+60)
+  [recorded 66_202607081927.sl2]
+
+============================================================
+  SAVE DETECTED  19:27:16
+  MVPValidation  |  Level 28  |  1,592 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Souls: 1,472 -> 1,592  (+120)
+  [recorded 67_202607081927.sl2]
+
+============================================================
+  SAVE DETECTED  19:27:23
+  MVPValidation  |  Level 28  |  0 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Souls: 1,592 -> 0  (-1,592)
+  [recorded 68_202607081927.sl2]
+
+============================================================
+  SAVE DETECTED  19:27:28
+  MVPValidation  |  Level 28  |  0 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  (no changes detected)
+  [recorded 69_202607081927.sl2]
+
+============================================================
+  SAVE DETECTED  19:27:36
+  MVPValidation  |  Level 28  |  0 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  (no changes detected)
+  [recorded 70_202607081927.sl2]
+
+============================================================
+  SAVE DETECTED  19:27:41
+  MVPValidation  |  Level 28  |  0 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  (no changes detected)
+  [recorded 71_202607081927.sl2]
+
+============================================================
+  SAVE DETECTED  19:27:44
+  MVPValidation  |  Level 28  |  0 souls  |  Firelink Shrine
+============================================================
+  Rested at Firelink Shrine  (from Road of Sacrifices / Farron Keep)
+  [recorded 72_202607081928.sl2]
+
+============================================================
+  SAVE DETECTED  19:28:12
+  MVPValidation  |  Level 28  |  0 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 73_202607081928.sl2]
+
+============================================================
+  SAVE DETECTED  19:28:17
+  MVPValidation  |  Level 28  |  0 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 74_202607081928.sl2]
+
+============================================================
+  SAVE DETECTED  19:28:21
+  MVPValidation  |  Level 28  |  0 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Rested at Road of Sacrifices / Farron Keep  (from Firelink Shrine)
+  [recorded 75_202607081929.sl2]
+
+============================================================
+  SAVE DETECTED  19:29:06
+  MVPValidation  |  Level 28  |  1,844 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Souls: 0 -> 1,844  (+1,844)
+  Lost Ember
+  [recorded 76_202607081929.sl2]
+
+============================================================
+  SAVE DETECTED  19:29:16
+  MVPValidation  |  Level 28  |  1,904 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Souls: 1,844 -> 1,904  (+60)
+  [recorded 77_202607081930.sl2]
+
+============================================================
+  SAVE DETECTED  19:30:49
+  MVPValidation  |  Level 28  |  2,584 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Souls: 1,904 -> 2,584  (+680)
+  [recorded 78_202607081930.sl2]
+
+============================================================
+  SAVE DETECTED  19:30:56
+  MVPValidation  |  Level 28  |  0 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Souls: 2,584 -> 0  (-2,584)
+  [recorded 79_202607081931.sl2]
+
+============================================================
+  SAVE DETECTED  19:31:00
+  MVPValidation  |  Level 28  |  0 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  (no changes detected)
+  [recorded 80_202607081931.sl2]
+
+============================================================
+  SAVE DETECTED  19:31:39
+  MVPValidation  |  Level 28  |  120 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Souls: 0 -> 120  (+120)
+  Lost Ember
+  [recorded 81_202607081931.sl2]
+
+============================================================
+  SAVE DETECTED  19:31:45
+  MVPValidation  |  Level 28  |  192 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Souls: 120 -> 192  (+72)
+  Got Firebomb x3
+  [recorded 82_202607081932.sl2]
+
+============================================================
+  SAVE DETECTED  19:32:30
+  MVPValidation  |  Level 28  |  3,456 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Souls: 192 -> 3,456  (+3,264)
+  [recorded 83_202607081934.sl2]
+
+============================================================
+  SAVE DETECTED  19:34:06
+  MVPValidation  |  Level 28  |  3,456 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Got Soul of a Crystal Sage
+  Killed Crystal Sage
+  Crystal Sage defeated
+  [recorded 84_202607081934.sl2]
+
+============================================================
+  SAVE DETECTED  19:34:13
+  MVPValidation  |  Level 28  |  9,456 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Souls: 3,456 -> 9,456  (+6,000)
+  [recorded 85_202607081934.sl2]
+
+============================================================
+  SAVE DETECTED  19:34:17
+  MVPValidation  |  Level 28  |  9,456 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  (no changes detected)
+  [recorded 86_202607081934.sl2]
+
+============================================================
+  SAVE DETECTED  19:34:22
+  MVPValidation  |  Level 28  |  9,456 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  (no changes detected)
+  [recorded 87_202607081934.sl2]
+
+============================================================
+  SAVE DETECTED  19:34:25
+  MVPValidation  |  Level 28  |  9,456 souls  |  Firelink Shrine
+============================================================
+  Rested at Firelink Shrine  (from Road of Sacrifices / Farron Keep)
+  [recorded 88_202607081934.sl2]
+
+============================================================
+  SAVE DETECTED  19:34:56
+  MVPValidation  |  Level 28  |  9,456 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 89_202607081935.sl2]
+
+============================================================
+  SAVE DETECTED  19:35:08
+  MVPValidation  |  Level 29  |  4,228 souls  |  Firelink Shrine
+============================================================
+  Level up: 28 -> 29  (+1)
+  Souls: 9,456 -> 4,228  (-5,228)
+  [recorded 90_202607081935.sl2]
+
+============================================================
+  SAVE DETECTED  19:35:27
+  MVPValidation  |  Level 29  |  4,228 souls  |  Firelink Shrine
+============================================================
+  Got Heavy Gem
+  [recorded 91_202607081935.sl2]
+
+============================================================
+  SAVE DETECTED  19:35:42
+  MVPValidation  |  Level 29  |  4,228 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 92_202607081935.sl2]
+
+============================================================
+  SAVE DETECTED  19:35:45
+  MVPValidation  |  Level 29  |  4,228 souls  |  Firelink Shrine
+============================================================
+  Talked to Yuria of Londor (at Firelink)
+
+  --- ADVISOR ----------------------------------------------
+  [i] Yoel of Londor / Yuria of Londor: Yuria Active at Firelink — Usurpation Path in Progress
+      Yuria of Londor is at Firelink Shrine. The Usurpation of Fire questline is active. Three rules must hold until the final boss: (1) Do NOT heal the Dark Sigil. (2) Keep Anri of Astora alive through their questline. (3) Do NOT kill the pilgrim assassin disguised as a statue in the Church of Yorshka in Irithyll. Next: CRITICAL: Do NOT give a Fire Keeper Soul to the Fire Keeper — this enables the cure and ends Yuria's questline - CRITICAL: Keep Anri alive — do not attack them, and do not tell them Horace's location in the Catacombs - CRITICAL: In Irithyll's Church of Yorshka, leave the pilgrim assassin (statue in the corner) alive - Optionally complete the Orbeck assassination quest: kill Orbeck of Vinheim or let his questline end naturally in the Grand Archives, then give Orbeck's Ashes to Yuria for the Morion Blade - After Pontiff Sulyvahn, go to the Darkmoon Tomb in Anor Londo for the wedding ritual
+  ----------------------------------------------------------
+  [recorded 93_202607081935.sl2]
+
+============================================================
+  SAVE DETECTED  19:35:49
+  MVPValidation  |  Level 29  |  4,228 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 94_202607081935.sl2]
+
+============================================================
+  SAVE DETECTED  19:35:59
+  MVPValidation  |  Level 29  |  4,228 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 95_202607081936.sl2]
+
+============================================================
+  SAVE DETECTED  19:36:03
+  MVPValidation  |  Level 29  |  4,228 souls  |  Firelink Shrine
+============================================================
+  Greirat sent to scavenge Undead Settlement
+  Greirat sent to scavenge Undead Settlement (secondary)
+
+  --- ADVISOR ----------------------------------------------
+  [!] Greirat of the Undead Settlement: Patches Rescue Window — Do Not Buy Catarina Armor Yet
+      You have not bought the Catarina Set from Patches. This keeps the Patches rescue option open for Greirat's Irithyll outing. If Patches is your plan to save Greirat: do NOT buy the Catarina armor before sending Greirat to Irithyll, then tell Patches where Greirat went, then kill any boss except Pontiff Sulyvahn.
+  ----------------------------------------------------------
+  [recorded 96_202607081936.sl2]
+
+============================================================
+  SAVE DETECTED  19:36:08
+  MVPValidation  |  Level 29  |  4,228 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 97_202607081936.sl2]
+
+============================================================
+  SAVE DETECTED  19:36:15
+  MVPValidation  |  Level 29  |  4,228 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 98_202607081936.sl2]
+
+============================================================
+  SAVE DETECTED  19:36:18
+  MVPValidation  |  Level 29  |  4,228 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 99_202607081936.sl2]
+
+============================================================
+  SAVE DETECTED  19:36:21
+  MVPValidation  |  Level 29  |  4,228 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 100_202607081936.sl2]
+
+============================================================
+  SAVE DETECTED  19:36:40
+  MVPValidation  |  Level 29  |  4,228 souls  |  Firelink Shrine
+============================================================
+  Got Cracked Red Eye Orb x5
+  [recorded 101_202607081937.sl2]
+
+============================================================
+  SAVE DETECTED  19:37:42
+  MVPValidation  |  Level 29  |  4,228 souls  |  Firelink Shrine
+============================================================
+  Talked to Leonhard (at Firelink)
+
+  --- ADVISOR ----------------------------------------------
+  [i] Leonhard's questline has started
+      You talked to Leonhard by Lothric's empty throne and received Cracked Red Eye Orbs. Next step: after defeating a Darkwraith (the first reachable one is behind the locked cell in High Wall - Lift Chamber Key from the Handmaid after talking to Leonhard again), he rewards the Red Eye Orb. His questline later involves Rosaria's Fingers.
+  ----------------------------------------------------------
+  [recorded 102_202607081937.sl2]
+
+============================================================
+  SAVE DETECTED  19:37:49
+  MVPValidation  |  Level 29  |  4,228 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 103_202607081937.sl2]
+
+============================================================
+  SAVE DETECTED  19:37:53
+  MVPValidation  |  Level 29  |  4,228 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Rested at Road of Sacrifices / Farron Keep  (from Firelink Shrine)
+  [recorded 104_202607081938.sl2]
+
+============================================================
+  SAVE DETECTED  19:38:57
+  MVPValidation  |  Level 29  |  5,248 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Souls: 4,228 -> 5,248  (+1,020)
+  Got Herald Armor
+  Got Herald Gloves
+  Got Herald Helm
+  Got Herald Trousers
+  [recorded 105_202607081939.sl2]
+
+============================================================
+  SAVE DETECTED  19:39:09
+  MVPValidation  |  Level 29  |  5,248 souls  |  Cathedral of the Deep
+============================================================
+  Rested at Cathedral of the Deep  (from Road of Sacrifices / Farron Keep)
+
+  --- ADVISOR ----------------------------------------------
+  [>] Missed: Braille Divine Tome of Carim (+ Morne's Ring)
+      On the Road of Sacrifices, a drop-down platform near the bridge to the Halfway Fortress holds the Braille Divine Tome of Carim and Morne's Ring. Give the tome to Irina of Carim at Firelink to unlock Med Heal, Tears of Denial and Force - it is a LIGHT tome, completely safe for her questline. How to get back: Warp to the Road of Sacrifices bonfire, head toward the bridge before Halfway Fortress, look down over the cliff edge for the platform with two corpses and drop down.
+  [>] Siegward is stuck in the well by the Cleansing Chapel
+      Outside the Cleansing Chapel bonfire, a voice hums from the well - it's Siegward, robbed of his armor. Once Patches (in Firelink, after his Cathedral tricks) sells you the Catarina Set, come back to the well and give it to Siegward. Do this BEFORE progressing deep into Irithyll - his questline (and one of the two ways to save Greirat later) depends on it.
+  [i] Missed: Grass Crest Shield (stamina regen for every build)
+      The Grass Crest Shield boosts stamina regeneration even when held on your back - it is used by virtually every build in the game. It sits in the Crucifixion Woods water near the big crab. How to get back: From the Crucifixion Woods bonfire, head into the shallow water toward the ruins; the shield is on a corpse near where the Great Crab prowls - grab it and run.
+  [i] Missed: Exile Greatsword / Great Club from the Exile duo
+      The two exile watchmen guarding the Farron Keep entrance drop the Exile Greatsword and the Great Club - both top-tier strength weapons for this stage of the game. How to get back: Warp to the Crucifixion Woods bonfire and head toward the door to Farron Keep at the water's edge; the two exiles patrol the slope in front of it. They respawn until killed in your world.
+  [i] Rosaria's Bed Chamber: respec and appearance change
+      Rosaria, Mother of Rebirth, rests in a chamber off the Cathedral's upper hall (fight past the Man-grub caster for the Red Sign Soapstone, then open the double doors). Joining her covenant lets you reallocate stats or change appearance up to 5 times per playthrough, paying one Pale Tongue each. Just JOINING is safe for other questlines - but do not OFFER Pale Tongues to level the covenant while Sirris's questline is active.
+      ... (1 more)
+  ----------------------------------------------------------
+  [recorded 106_202607081939.sl2]
+
+============================================================
+  SAVE DETECTED  19:39:20
+  MVPValidation  |  Level 29  |  5,248 souls  |  Cathedral of the Deep
+============================================================
+  (no changes detected)
+  [recorded 107_202607081939.sl2]
+
+============================================================
+  SAVE DETECTED  19:39:53
+  MVPValidation  |  Level 29  |  6,748 souls  |  Cathedral of the Deep
+============================================================
+  Souls: 5,248 -> 6,748  (+1,500)
+  Got Paladin's Ashes
+  Lost Firebomb
+  [recorded 108_202607081940.sl2]
+
+============================================================
+  SAVE DETECTED  19:40:06
+  MVPValidation  |  Level 29  |  6,748 souls  |  Cathedral of the Deep
+============================================================
+  (no changes detected)
+  [recorded 109_202607081940.sl2]
+
+============================================================
+  SAVE DETECTED  19:40:12
+  MVPValidation  |  Level 29  |  6,748 souls  |  Firelink Shrine
+============================================================
+  Rested at Firelink Shrine  (from Cathedral of the Deep)
+  [recorded 110_202607081940.sl2]
+
+============================================================
+  SAVE DETECTED  19:40:15
+  MVPValidation  |  Level 29  |  6,748 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 111_202607081940.sl2]
+
+============================================================
+  SAVE DETECTED  19:40:26
+  MVPValidation  |  Level 29  |  6,748 souls  |  Firelink Shrine
+============================================================
+  Greirat away scavenging (state)
+  [recorded 112_202607081940.sl2]
+
+============================================================
+  SAVE DETECTED  19:40:29
+  MVPValidation  |  Level 29  |  6,748 souls  |  Firelink Shrine
+============================================================
+  Lost Paladin's Ashes
+  [recorded 113_202607081940.sl2]
+
+============================================================
+  SAVE DETECTED  19:40:35
+  MVPValidation  |  Level 29  |  6,748 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 114_202607081940.sl2]
+
+============================================================
+  SAVE DETECTED  19:40:56
+  MVPValidation  |  Level 29  |  6,748 souls  |  Firelink Shrine
+============================================================
+  Got Lift Chamber Key
+  [recorded 115_202607081941.sl2]
+
+============================================================
+  SAVE DETECTED  19:41:06
+  MVPValidation  |  Level 29  |  6,748 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 116_202607081941.sl2]
+
+============================================================
+  SAVE DETECTED  19:41:15
+  MVPValidation  |  Level 30  |  1,182 souls  |  Firelink Shrine
+============================================================
+  Level up: 29 -> 30  (+1)
+  Souls: 6,748 -> 1,182  (-5,566)
+  [recorded 117_202607081941.sl2]
+
+============================================================
+  SAVE DETECTED  19:41:24
+  MVPValidation  |  Level 30  |  1,182 souls  |  Firelink Shrine
+============================================================
+  chest: item_00000dbf88 -> Knight Armor
+  [recorded 118_202607081941.sl2]
+
+============================================================
+  SAVE DETECTED  19:41:32
+  MVPValidation  |  Level 30  |  1,182 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  Session log saved to: C:\Users\user\Dev\dark-souls\play_simulator_save_files\play_06_auto\session_202607081911.log

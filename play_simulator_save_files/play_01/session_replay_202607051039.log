@@ -1,0 +1,115 @@
+
+============================================================
+  DS3 Play Simulator - play_01
+  6 saves  |  interval: 3.0s  |  slot: 5  |  log: session_replay_202607051039.log
+============================================================
+  [using slot 5]
+
+------------------------------------------------------------
+  Step 01:   Before Talk to Greirat
+  QA2  |  Level 14  |  1,191 souls  |  High Wall of Lothric
+------------------------------------------------------------
+  Rested at High Wall of Lothric
+
+  --- ADVISOR ----------------------------------------------
+  [>] Missed: Titanite Scale from the Cemetery Crystal Lizard
+      A Crystal Lizard on a side path in the Cemetery of Ash drops a Titanite Scale (used to upgrade boss-soul and special weapons). You left the area without it. How to get back: Warp back to the Cemetery of Ash bonfire at any time - the lizard respawns when you rest. It is on the small side path to the left before Iudex Gundyr's arena.
+  [>] Talk to Emma - required to progress
+      Emma, the High Priestess, sits at the top of the High Wall cathedral. She gives you the Small Lothric Banner - required to leave the High Wall - and the Way of Blue covenant ring.
+  [i] Missed: Covetous Silver Serpent Ring in the Firelink rafters
+      The Covetous Silver Serpent Ring (+10% souls from kills) is hidden behind an illusory wall in the rafters above Firelink Shrine. Worth picking up early - it pays for itself fast. How to get back: Two routes: the free one is a run-and-jump from the roof onto the tree branch and through the upper window (roof access via the Tower Key path or the tree-jump trick); otherwise buy the Tower Key (20,000 souls) from the Shrine Handmaid and cross the bridge to the roof.
+  ----------------------------------------------------------
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 02:   After Talk to Greirat
+  QA2  |  Level 14  |  1,191 souls  |  High Wall of Lothric
+------------------------------------------------------------
+  Greirat recruited (at Firelink)
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 03:   Before Talk to Cornyx
+  QA2  |  Level 17  |  1,629 souls  |  Undead Settlement
+------------------------------------------------------------
+  Level up: 14 -> 17  (+3)
+  Rested at Undead Settlement  (from High Wall of Lothric)
+  Souls: 1,191 -> 1,629  (+438)
+  Got Black Firebomb x3
+  Got Ember
+  Got Fire Gem
+  Got Hand Axe
+  Got Large Soul of a Deserted Corpse
+  Got Light Crossbow
+  Got Long Sword x2
+  Got Rapier
+  Got Small Lothric Banner
+  Got Soul of Boreal Valley Vordt
+  Killed Vordt of the Boreal Valley
+  Got Soul of a Deserted Corpse
+  Got Throwing Knife x6
+  Got Way of Blue
+  Vordt of the Boreal Valley defeated
+
+  --- ADVISOR ----------------------------------------------
+  [!] Don't miss Yoel among the dying pilgrims
+      Yoel of Londor is the one living pilgrim among the dead ones at the broken bridge just before the Undead Settlement entrance (where you arrive from the banner). If you progress without talking to him you lose his free levels, Yuria of Londor, and the entire Usurpation of Fire ending path. Talk to him before moving on - he then waits at Firelink.
+  [!] Do NOT kill Hodrick when he invades
+      Holy Knight Hodrick invades near the Pit of Hollows in the Undead Settlement. Do not kill him during the invasion - you need him alive to join the Mound-makers covenant. To join: talk to the giant cage-carrying enemy, climb into his cage, and you'll be carried to Hodrick in the Pit of Hollows.
+  [!] Talk to the Giant Archer before farming the graveyard
+      A Giant in the tall tower fires huge arrows into the white-birch graveyard. Climb his tower and talk to him FIRST to receive a Token of Friendship - from then on his arrows kill hollows but ignore you, making the graveyard items (including the Mortician's Ashes) safe to grab.
+  [>] Siegward at the tower elevator (questline start)
+      Siegward of Catarina (Onion Knight) is stuck at the tower elevator near the Giant's tower. Elevator trick: step on the pressure plate, immediately step OFF so the second platform descends, then ride the other one. Join him to fight the Fire Demon below - you get a Siegbrau, and his questline (which later determines whether Greirat survives Irithyll) only advances if he wins this fight with you.
+  [i] Missed: Claymore on the dragon bridge
+      The Claymore - an excellent quality weapon that scales with both Str and Dex - is still on the High Wall, on the platform where the dragon breathes fire. How to get back: Warp to the Tower on the Wall bonfire, head to the dragon bridge, sprint across to bait the flame downward, then grab the Claymore on the upper platform during the window.
+      ... (1 more)
+  ----------------------------------------------------------
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 04:   After Talk to Cornyx
+  QA2  |  Level 17  |  1,629 souls  |  Undead Settlement
+------------------------------------------------------------
+  (no changes detected)
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 05:   Before Talk to Irina of Carim
+  QA2  |  Level 17  |  1,259 souls  |  Undead Settlement
+------------------------------------------------------------
+  Souls: 1,629 -> 1,259  (-370)
+  Got Bloodbite Ring
+  Got Caestus
+  Got Grave Key
+  Got Loincloth (1)
+  Got Saint's Talisman
+  Got Soul of an Unknown Traveler x2
+
+  --- ADVISOR ----------------------------------------------
+  [>] You have the Grave Key - free Irina of Carim
+      The Grave Key opens the sewer door below the Dilapidated Bridge bonfire (drop down into the rat area). Irina of Carim is locked in a cell down there - talk to her and accept her service to recruit a miracle vendor to Firelink. Eygon of Carim waits outside her cell.
+  ----------------------------------------------------------
+
+  [waiting 3.0s...]
+
+------------------------------------------------------------
+  Step 06:   Ater Talk to Irina of Carim
+  QA2  |  Level 17  |  1,259 souls  |  Undead Settlement
+------------------------------------------------------------
+  Talked to Irina of Carim (sewer cell)
+
+  --- ADVISOR ----------------------------------------------
+  [i] Irina of Carim: Eygon Available as Summon
+      Eygon of Carim is currently an ally. His summon sign appears before Crystal Sage (Road of Sacrifices) and Dragonslayer Armour (Lothric Castle).
+  [i] Irina of Carim: Rescued — At Firelink Shrine
+      Irina has been rescued and is at Firelink Shrine. Give her Holy Braille Tomes to unlock miracles for purchase. Next: Find Braille Divine Tome of Carim on Road of Sacrifices — give it to Irina to unlock holy miracles - Find Lothric Braille Divine Tome in Lothric Castle — give it to Irina to unlock more holy miracles - Buy ALL holy miracles from both tomes to trigger the Firekeeper ending - DO NOT purchase dark miracles (Gnaw, Dorhy's Gnawing, Vow of Silence, Lifehunt Scythe) — this locks out the good ending permanently - Dark tomes can safely be given to Karla the Witch (Irithyll Dungeon) instead of Irina
+  ----------------------------------------------------------
+
+============================================================
+  Done - 6 saves processed
+============================================================
+  Log saved to: C:\Users\user\Dev\dark-souls\play_simulator_save_files\play_01\session_replay_202607051039.log

@@ -1,0 +1,2652 @@
+  Recording to: C:\Users\user\Dev\dark-souls\play_simulator_save_files\play_05_auto
+  Log file:     session_202607051715.log
+  Slot: auto-detect (tracks whichever slot playtime changes)
+
+============================================================
+  DS3 Save Watcher  [RECORDING]
+  Save: C:\Users\user\AppData\Roaming\DarkSoulsIII\011000016f3aa67c\DS30000.sl2
+  Poll: 1.0s  |  Settle: 2.0s
+============================================================
+
+  Waiting for first save event... (rest at a bonfire in-game)
+
+  [recorded 01_202607051715.sl2]
+  [auto-detected slot 5 (min playtime)]
+
+============================================================
+  SAVE DETECTED  17:15:50
+  QA  |  Level 12  |  599 souls  |  Firelink Shrine
+============================================================
+  Rested at Firelink Shrine
+
+  --- ADVISOR ----------------------------------------------
+  [>] Missed: Titanite Scale from the Cemetery Crystal Lizard
+      A Crystal Lizard on a side path in the Cemetery of Ash drops a Titanite Scale (used to upgrade boss-soul and special weapons). You left the area without it. How to get back: Warp back to the Cemetery of Ash bonfire at any time - the lizard respawns when you rest. It is on the small side path to the left before Iudex Gundyr's arena.
+  ----------------------------------------------------------
+  [recorded 02_202607051716.sl2]
+17:16:51  Slot 5 not readable.
+  [recorded 03_202607051717.sl2]
+
+============================================================
+  SAVE DETECTED  17:17:37
+  MVPValidation  |  Level 9  |  0 souls  |  Cemetery of Ash
+============================================================
+  Rested at Cemetery of Ash
+  [recorded 04_202607051717.sl2]
+
+============================================================
+  SAVE DETECTED  17:17:45
+  MVPValidation  |  Level 9  |  0 souls  |  Cemetery of Ash
+============================================================
+  (no changes detected)
+  [recorded 05_202607051717.sl2]
+
+============================================================
+  SAVE DETECTED  17:17:48
+  MVPValidation  |  Level 9  |  0 souls  |  Cemetery of Ash
+============================================================
+  (no changes detected)
+  [recorded 06_202607051718.sl2]
+
+============================================================
+  SAVE DETECTED  17:18:12
+  MVPValidation  |  Level 9  |  44 souls  |  Cemetery of Ash
+============================================================
+  Souls: 0 -> 44  (+44)
+  [recorded 07_202607051719.sl2]
+
+============================================================
+  SAVE DETECTED  17:19:15
+  MVPValidation  |  Level 9  |  148 souls  |  Cemetery of Ash
+============================================================
+  Souls: 44 -> 148  (+104)
+  [recorded 08_202607051719.sl2]
+
+============================================================
+  SAVE DETECTED  17:19:28
+  MVPValidation  |  Level 9  |  148 souls  |  Cemetery of Ash
+============================================================
+  (no changes detected)
+  [recorded 09_202607051719.sl2]
+
+============================================================
+  SAVE DETECTED  17:19:32
+  MVPValidation  |  Level 9  |  148 souls  |  Cemetery of Ash
+============================================================
+  Unequipped Knight Shield (left hand)
+  [recorded 10_202607051720.sl2]
+
+============================================================
+  SAVE DETECTED  17:20:01
+  MVPValidation  |  Level 9  |  208 souls  |  Cemetery of Ash
+============================================================
+  Souls: 148 -> 208  (+60)
+  [recorded 11_202607051720.sl2]
+
+============================================================
+  SAVE DETECTED  17:20:20
+  MVPValidation  |  Level 9  |  252 souls  |  Cemetery of Ash
+============================================================
+  Souls: 208 -> 252  (+44)
+  [recorded 12_202607051721.sl2]
+
+============================================================
+  SAVE DETECTED  17:21:46
+  MVPValidation  |  Level 9  |  252 souls  |  Cemetery of Ash
+============================================================
+  Got Coiled Sword
+  Killed Iudex Gundyr
+  Iudex Gundyr defeated
+  [recorded 13_202607051721.sl2]
+
+============================================================
+  SAVE DETECTED  17:21:57
+  MVPValidation  |  Level 9  |  3,252 souls  |  Cemetery of Ash
+============================================================
+  Souls: 252 -> 3,252  (+3,000)
+  [recorded 14_202607051722.sl2]
+
+============================================================
+  SAVE DETECTED  17:22:57
+  MVPValidation  |  Level 9  |  3,252 souls  |  Firelink Shrine
+============================================================
+  Rested at Firelink Shrine  (from Cemetery of Ash)
+  Got Broken Straight Sword
+
+  --- ADVISOR ----------------------------------------------
+  [>] Missed: Titanite Scale from the Cemetery Crystal Lizard
+      A Crystal Lizard on a side path in the Cemetery of Ash drops a Titanite Scale (used to upgrade boss-soul and special weapons). You left the area without it. How to get back: Warp back to the Cemetery of Ash bonfire at any time - the lizard respawns when you rest. It is on the small side path to the left before Iudex Gundyr's arena.
+  ----------------------------------------------------------
+  [recorded 15_202607051723.sl2]
+
+============================================================
+  SAVE DETECTED  17:23:39
+  MVPValidation  |  Level 9  |  3,252 souls  |  Firelink Shrine
+============================================================
+  Lost Coiled Sword
+  [recorded 16_202607051723.sl2]
+
+============================================================
+  SAVE DETECTED  17:23:45
+  MVPValidation  |  Level 9  |  3,252 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 17_202607051724.sl2]
+
+============================================================
+  SAVE DETECTED  17:24:07
+  MVPValidation  |  Level 12  |  765 souls  |  Firelink Shrine
+============================================================
+  Level up: 9 -> 12  (+3)
+  Souls: 3,252 -> 765  (-2,487)
+  [recorded 18_202607051724.sl2]
+
+============================================================
+  SAVE DETECTED  17:24:18
+  MVPValidation  |  Level 12  |  765 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 19_202607051724.sl2]
+
+============================================================
+  SAVE DETECTED  17:24:21
+  MVPValidation  |  Level 12  |  765 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 20_202607051724.sl2]
+
+============================================================
+  SAVE DETECTED  17:24:25
+  MVPValidation  |  Level 12  |  765 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 21_202607051724.sl2]
+
+============================================================
+  SAVE DETECTED  17:24:30
+  MVPValidation  |  Level 12  |  765 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 22_202607051724.sl2]
+
+============================================================
+  SAVE DETECTED  17:24:51
+  MVPValidation  |  Level 12  |  765 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 23_202607051724.sl2]
+
+============================================================
+  SAVE DETECTED  17:24:54
+  MVPValidation  |  Level 12  |  765 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 24_202607051724.sl2]
+
+============================================================
+  SAVE DETECTED  17:24:58
+  MVPValidation  |  Level 12  |  765 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 25_202607051725.sl2]
+
+============================================================
+  SAVE DETECTED  17:25:07
+  MVPValidation  |  Level 12  |  765 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 26_202607051725.sl2]
+
+============================================================
+  SAVE DETECTED  17:25:12
+  MVPValidation  |  Level 12  |  765 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 27_202607051726.sl2]
+
+============================================================
+  SAVE DETECTED  17:26:29
+  MVPValidation  |  Level 12  |  765 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 28_202607051726.sl2]
+
+============================================================
+  SAVE DETECTED  17:26:34
+  MVPValidation  |  Level 12  |  765 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 29_202607051726.sl2]
+
+============================================================
+  SAVE DETECTED  17:26:40
+  MVPValidation  |  Level 12  |  765 souls  |  High Wall of Lothric
+============================================================
+  Rested at High Wall of Lothric  (from Firelink Shrine)
+
+  --- ADVISOR ----------------------------------------------
+  [>] Talk to Emma - required to progress
+      Emma, the High Priestess, sits at the top of the High Wall cathedral. She gives you the Small Lothric Banner - required to leave the High Wall - and the Way of Blue covenant ring.
+  [i] Missed: Covetous Silver Serpent Ring in the Firelink rafters
+      The Covetous Silver Serpent Ring (+10% souls from kills) is hidden behind an illusory wall in the rafters above Firelink Shrine. Worth picking up early - it pays for itself fast. How to get back: Two routes: the free one is a run-and-jump from the roof onto the tree branch and through the upper window (roof access via the Tower Key path or the tree-jump trick); otherwise buy the Tower Key (20,000 souls) from the Shrine Handmaid and cross the bridge to the roof.
+  ----------------------------------------------------------
+  [recorded 30_202607051727.sl2]
+
+============================================================
+  SAVE DETECTED  17:27:15
+  MVPValidation  |  Level 12  |  765 souls  |  High Wall of Lothric
+============================================================
+  (no changes detected)
+  [recorded 31_202607051727.sl2]
+
+============================================================
+  SAVE DETECTED  17:27:41
+  MVPValidation  |  Level 12  |  915 souls  |  High Wall of Lothric
+============================================================
+  Souls: 765 -> 915  (+150)
+  Got Soul of a Deserted Corpse
+  [recorded 32_202607051728.sl2]
+
+============================================================
+  SAVE DETECTED  17:28:12
+  MVPValidation  |  Level 12  |  1,125 souls  |  High Wall of Lothric
+============================================================
+  Souls: 915 -> 1,125  (+210)
+  Got Firebomb x2
+  [recorded 33_202607051728.sl2]
+
+============================================================
+  SAVE DETECTED  17:28:33
+  MVPValidation  |  Level 12  |  1,155 souls  |  High Wall of Lothric
+============================================================
+  Souls: 1,125 -> 1,155  (+30)
+  Got Soul of a Deserted Corpse
+  [recorded 34_202607051728.sl2]
+
+============================================================
+  SAVE DETECTED  17:28:54
+  MVPValidation  |  Level 12  |  1,215 souls  |  High Wall of Lothric
+============================================================
+  Souls: 1,155 -> 1,215  (+60)
+  Got Standard Bolt x8
+  [recorded 35_202607051729.sl2]
+
+============================================================
+  SAVE DETECTED  17:29:28
+  MVPValidation  |  Level 12  |  1,335 souls  |  High Wall of Lothric
+============================================================
+  Souls: 1,215 -> 1,335  (+120)
+  [recorded 36_202607051729.sl2]
+
+============================================================
+  SAVE DETECTED  17:29:49
+  MVPValidation  |  Level 12  |  1,395 souls  |  High Wall of Lothric
+============================================================
+  Souls: 1,335 -> 1,395  (+60)
+  Got Deserter Trousers
+  Got Firebomb x3
+  [recorded 37_202607051729.sl2]
+
+============================================================
+  SAVE DETECTED  17:29:59
+  MVPValidation  |  Level 12  |  1,425 souls  |  High Wall of Lothric
+============================================================
+  Souls: 1,395 -> 1,425  (+30)
+  Got Soul of a Deserted Corpse
+  [recorded 38_202607051730.sl2]
+
+============================================================
+  SAVE DETECTED  17:30:14
+  MVPValidation  |  Level 12  |  1,455 souls  |  High Wall of Lothric
+============================================================
+  Souls: 1,425 -> 1,455  (+30)
+  Got Firebomb x3
+  [recorded 39_202607051730.sl2]
+
+============================================================
+  SAVE DETECTED  17:30:32
+  MVPValidation  |  Level 12  |  1,455 souls  |  High Wall of Lothric
+============================================================
+  (no changes detected)
+  [recorded 40_202607051730.sl2]
+
+============================================================
+  SAVE DETECTED  17:30:39
+  MVPValidation  |  Level 12  |  1,455 souls  |  High Wall of Lothric
+============================================================
+  (no changes detected)
+  [recorded 41_202607051730.sl2]
+
+============================================================
+  SAVE DETECTED  17:30:43
+  MVPValidation  |  Level 12  |  1,455 souls  |  High Wall of Lothric
+============================================================
+  (no changes detected)
+  [recorded 42_202607051730.sl2]
+
+============================================================
+  SAVE DETECTED  17:30:46
+  MVPValidation  |  Level 12  |  1,455 souls  |  Firelink Shrine
+============================================================
+  Rested at Firelink Shrine  (from High Wall of Lothric)
+  [recorded 43_202607051730.sl2]
+
+============================================================
+  SAVE DETECTED  17:30:54
+  MVPValidation  |  Level 12  |  1,455 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 44_202607051731.sl2]
+
+============================================================
+  SAVE DETECTED  17:31:02
+  MVPValidation  |  Level 13  |  417 souls  |  Firelink Shrine
+============================================================
+  Level up: 12 -> 13  (+1)
+  Souls: 1,455 -> 417  (-1,038)
+  [recorded 45_202607051731.sl2]
+
+============================================================
+  SAVE DETECTED  17:31:09
+  MVPValidation  |  Level 13  |  417 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 46_202607051731.sl2]
+
+============================================================
+  SAVE DETECTED  17:31:13
+  MVPValidation  |  Level 13  |  417 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 47_202607051731.sl2]
+
+============================================================
+  SAVE DETECTED  17:31:19
+  MVPValidation  |  Level 13  |  417 souls  |  High Wall of Lothric
+============================================================
+  Rested at High Wall of Lothric  (from Firelink Shrine)
+  [recorded 48_202607051731.sl2]
+
+============================================================
+  SAVE DETECTED  17:31:35
+  MVPValidation  |  Level 13  |  417 souls  |  High Wall of Lothric
+============================================================
+  Got Soul of a Deserted Corpse
+  [recorded 49_202607051732.sl2]
+
+============================================================
+  SAVE DETECTED  17:32:03
+  MVPValidation  |  Level 13  |  537 souls  |  High Wall of Lothric
+============================================================
+  Souls: 417 -> 537  (+120)
+  Got Firebomb x3
+  [recorded 50_202607051732.sl2]
+
+============================================================
+  SAVE DETECTED  17:32:15
+  MVPValidation  |  Level 13  |  537 souls  |  High Wall of Lothric
+============================================================
+  Got Raw Gem
+  [recorded 51_202607051732.sl2]
+
+============================================================
+  SAVE DETECTED  17:32:54
+  MVPValidation  |  Level 13  |  657 souls  |  High Wall of Lothric
+============================================================
+  Souls: 537 -> 657  (+120)
+  Got Firebomb x3
+  Got Large Soul of a Deserted Corpse
+  [recorded 52_202607051733.sl2]
+
+============================================================
+  SAVE DETECTED  17:33:18
+  MVPValidation  |  Level 13  |  747 souls  |  High Wall of Lothric
+============================================================
+  Souls: 657 -> 747  (+90)
+  [recorded 53_202607051733.sl2]
+
+============================================================
+  SAVE DETECTED  17:33:24
+  MVPValidation  |  Level 13  |  747 souls  |  High Wall of Lothric
+============================================================
+  Got Light Crossbow
+  [recorded 54_202607051733.sl2]
+
+============================================================
+  SAVE DETECTED  17:33:31
+  MVPValidation  |  Level 13  |  777 souls  |  High Wall of Lothric
+============================================================
+  Souls: 747 -> 777  (+30)
+  Got Raw Gem
+  Got Undead Hunter Charm x2
+  [recorded 55_202607051733.sl2]
+
+============================================================
+  SAVE DETECTED  17:33:35
+  MVPValidation  |  Level 13  |  777 souls  |  High Wall of Lothric
+============================================================
+  Got Firebomb x3
+  [recorded 56_202607051735.sl2]
+
+============================================================
+  SAVE DETECTED  17:35:30
+  MVPValidation  |  Level 13  |  1,027 souls  |  High Wall of Lothric
+============================================================
+  Souls: 777 -> 1,027  (+250)
+  [recorded 57_202607051736.sl2]
+
+============================================================
+  SAVE DETECTED  17:36:45
+  MVPValidation  |  Level 13  |  1,153 souls  |  High Wall of Lothric
+============================================================
+  Souls: 1,027 -> 1,153  (+126)
+  [recorded 58_202607051736.sl2]
+
+============================================================
+  SAVE DETECTED  17:36:54
+  MVPValidation  |  Level 13  |  1,153 souls  |  High Wall of Lothric
+============================================================
+  (no changes detected)
+  [recorded 59_202607051737.sl2]
+
+============================================================
+  SAVE DETECTED  17:37:37
+  MVPValidation  |  Level 13  |  1,253 souls  |  High Wall of Lothric
+============================================================
+  Souls: 1,153 -> 1,253  (+100)
+  Got Greataxe
+  Lost Firebomb x4
+  [recorded 60_202607051738.sl2]
+
+============================================================
+  SAVE DETECTED  17:38:38
+  MVPValidation  |  Level 13  |  1,413 souls  |  High Wall of Lothric
+============================================================
+  Souls: 1,253 -> 1,413  (+160)
+  Got Estus Shard
+  Lost Firebomb x7
+  [recorded 61_202607051738.sl2]
+
+============================================================
+  SAVE DETECTED  17:38:48
+  MVPValidation  |  Level 13  |  1,453 souls  |  High Wall of Lothric
+============================================================
+  Souls: 1,413 -> 1,453  (+40)
+  Got Cell Key
+
+  --- ADVISOR ----------------------------------------------
+  [>] You have the Cell Key - free Greirat
+      The Cell Key opens Greirat's cell at the bottom of the multi-level building on the High Wall (one floor below the Tower on the Wall bonfire, along the interior hallway). Free him and he moves to Firelink as a merchant - he also gives you the Blue Tearstone Ring and starts his questline.
+  ----------------------------------------------------------
+  [recorded 62_202607051739.sl2]
+
+============================================================
+  SAVE DETECTED  17:39:10
+  MVPValidation  |  Level 13  |  1,489 souls  |  High Wall of Lothric
+============================================================
+  Souls: 1,453 -> 1,489  (+36)
+  [recorded 63_202607051739.sl2]
+
+============================================================
+  SAVE DETECTED  17:39:22
+  MVPValidation  |  Level 13  |  1,489 souls  |  High Wall of Lothric
+============================================================
+  Got Broadsword
+  [recorded 64_202607051739.sl2]
+
+============================================================
+  SAVE DETECTED  17:39:39
+  MVPValidation  |  Level 13  |  1,489 souls  |  High Wall of Lothric
+============================================================
+  Got Green Blossom x2
+  [recorded 65_202607051741.sl2]
+
+============================================================
+  SAVE DETECTED  17:41:33
+  MVPValidation  |  Level 13  |  1,579 souls  |  High Wall of Lothric
+============================================================
+  Souls: 1,489 -> 1,579  (+90)
+  Got Firebomb x3
+  [recorded 66_202607051742.sl2]
+
+============================================================
+  SAVE DETECTED  17:42:27
+  MVPValidation  |  Level 13  |  1,639 souls  |  High Wall of Lothric
+============================================================
+  Souls: 1,579 -> 1,639  (+60)
+  [recorded 67_202607051742.sl2]
+
+============================================================
+  SAVE DETECTED  17:42:31
+  MVPValidation  |  Level 13  |  1,639 souls  |  High Wall of Lothric
+============================================================
+  (no changes detected)
+  [recorded 68_202607051742.sl2]
+
+============================================================
+  SAVE DETECTED  17:42:34
+  MVPValidation  |  Level 13  |  1,639 souls  |  Firelink Shrine
+============================================================
+  Rested at Firelink Shrine  (from High Wall of Lothric)
+  [recorded 69_202607051742.sl2]
+
+============================================================
+  SAVE DETECTED  17:42:40
+  MVPValidation  |  Level 13  |  1,639 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 70_202607051742.sl2]
+
+============================================================
+  SAVE DETECTED  17:42:48
+  MVPValidation  |  Level 14  |  401 souls  |  Firelink Shrine
+============================================================
+  Level up: 13 -> 14  (+1)
+  Souls: 1,639 -> 401  (-1,238)
+  [recorded 71_202607051742.sl2]
+
+============================================================
+  SAVE DETECTED  17:42:54
+  MVPValidation  |  Level 14  |  401 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 72_202607051742.sl2]
+
+============================================================
+  SAVE DETECTED  17:42:59
+  MVPValidation  |  Level 14  |  401 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 73_202607051743.sl2]
+
+============================================================
+  SAVE DETECTED  17:43:05
+  MVPValidation  |  Level 14  |  401 souls  |  High Wall of Lothric
+============================================================
+  Rested at High Wall of Lothric  (from Firelink Shrine)
+  [recorded 74_202607051744.sl2]
+
+============================================================
+  SAVE DETECTED  17:44:12
+  MVPValidation  |  Level 14  |  571 souls  |  High Wall of Lothric
+============================================================
+  Souls: 401 -> 571  (+170)
+  Got Throwing Knife x8
+  [recorded 75_202607051744.sl2]
+
+============================================================
+  SAVE DETECTED  17:44:22
+  MVPValidation  |  Level 14  |  601 souls  |  High Wall of Lothric
+============================================================
+  Souls: 571 -> 601  (+30)
+  Got Mail Breaker
+  [recorded 76_202607051744.sl2]
+
+============================================================
+  SAVE DETECTED  17:44:51
+  MVPValidation  |  Level 14  |  601 souls  |  High Wall of Lothric
+============================================================
+  Got Blue Tearstone Ring
+  Greirat recruited (at Firelink)
+  Greirat freed from his cell (High Wall)
+
+  --- ADVISOR ----------------------------------------------
+  [i] Greirat of the Undead Settlement: Rescued — Waiting at Firelink, Loretta Not Found
+      Greirat is at Firelink Shrine. He asked you to deliver the Blue Tearstone Ring to Loretta in the Undead Settlement — but Loretta is already dead. Find her bone and bring it back to him instead. Next: Travel to the Undead Settlement bonfire - Enter the first building — walk out to the balcony overlooking the burning tree congregation - A corpse hangs from the balcony — attack it to drop it and collect Loretta's Bone - Return to Firelink Shrine and give Loretta's Bone to Greirat
+  ----------------------------------------------------------
+  [recorded 77_202607051745.sl2]
+
+============================================================
+  SAVE DETECTED  17:45:49
+  MVPValidation  |  Level 14  |  631 souls  |  High Wall of Lothric
+============================================================
+  Souls: 601 -> 631  (+30)
+  [recorded 78_202607051745.sl2]
+
+============================================================
+  SAVE DETECTED  17:45:52
+  MVPValidation  |  Level 14  |  631 souls  |  High Wall of Lothric
+============================================================
+  (no changes detected)
+  [recorded 79_202607051746.sl2]
+
+============================================================
+  SAVE DETECTED  17:46:55
+  MVPValidation  |  Level 14  |  781 souls  |  High Wall of Lothric
+============================================================
+  Souls: 631 -> 781  (+150)
+  Got Black Firebomb x3
+  [recorded 80_202607051747.sl2]
+
+============================================================
+  SAVE DETECTED  17:47:25
+  MVPValidation  |  Level 14  |  853 souls  |  High Wall of Lothric
+============================================================
+  Souls: 781 -> 853  (+72)
+  Got Rapier
+  [recorded 81_202607051747.sl2]
+
+============================================================
+  SAVE DETECTED  17:47:32
+  MVPValidation  |  Level 14  |  883 souls  |  High Wall of Lothric
+============================================================
+  Souls: 853 -> 883  (+30)
+  Got Ember
+  [recorded 82_202607051747.sl2]
+
+============================================================
+  SAVE DETECTED  17:47:39
+  MVPValidation  |  Level 14  |  883 souls  |  High Wall of Lothric
+============================================================
+  Got Ember
+  [recorded 83_202607051748.sl2]
+
+============================================================
+  SAVE DETECTED  17:48:09
+  MVPValidation  |  Level 14  |  943 souls  |  High Wall of Lothric
+============================================================
+  Souls: 883 -> 943  (+60)
+  Got Soul of a Deserted Corpse
+  [recorded 84_202607051748.sl2]
+
+============================================================
+  SAVE DETECTED  17:48:12
+  MVPValidation  |  Level 14  |  943 souls  |  High Wall of Lothric
+============================================================
+  (no changes detected)
+  [recorded 85_202607051748.sl2]
+
+============================================================
+  SAVE DETECTED  17:48:55
+  MVPValidation  |  Level 14  |  943 souls  |  High Wall of Lothric
+============================================================
+  (no changes detected)
+  [recorded 86_202607051749.sl2]
+
+============================================================
+  SAVE DETECTED  17:49:02
+  MVPValidation  |  Level 14  |  0 souls  |  High Wall of Lothric
+============================================================
+  Souls: 943 -> 0  (-943)
+  [recorded 87_202607051749.sl2]
+
+============================================================
+  SAVE DETECTED  17:49:06
+  MVPValidation  |  Level 14  |  0 souls  |  High Wall of Lothric
+============================================================
+  (no changes detected)
+  [recorded 88_202607051749.sl2]
+
+============================================================
+  SAVE DETECTED  17:49:14
+  MVPValidation  |  Level 14  |  0 souls  |  High Wall of Lothric
+============================================================
+  (no changes detected)
+  [recorded 89_202607051749.sl2]
+
+============================================================
+  SAVE DETECTED  17:49:54
+  MVPValidation  |  Level 14  |  60 souls  |  High Wall of Lothric
+============================================================
+  Souls: 0 -> 60  (+60)
+  Got Deserter Armor
+  Got Firebomb x3
+  [recorded 90_202607051750.sl2]
+
+============================================================
+  SAVE DETECTED  17:50:58
+  MVPValidation  |  Level 14  |  192 souls  |  High Wall of Lothric
+============================================================
+  Souls: 60 -> 192  (+132)
+  Got Large Soul of a Deserted Corpse
+  [recorded 91_202607051751.sl2]
+
+============================================================
+  SAVE DETECTED  17:51:32
+  MVPValidation  |  Level 14  |  192 souls  |  High Wall of Lothric
+============================================================
+  Lost Ember
+  [recorded 92_202607051751.sl2]
+
+============================================================
+  SAVE DETECTED  17:51:53
+  MVPValidation  |  Level 14  |  1,135 souls  |  High Wall of Lothric
+============================================================
+  Souls: 192 -> 1,135  (+943)
+  [recorded 93_202607051752.sl2]
+
+============================================================
+  SAVE DETECTED  17:52:25
+  MVPValidation  |  Level 14  |  1,575 souls  |  High Wall of Lothric
+============================================================
+  Souls: 1,135 -> 1,575  (+440)
+  Got Lothric Knight Armor
+  [recorded 94_202607051752.sl2]
+
+============================================================
+  SAVE DETECTED  17:52:42
+  MVPValidation  |  Level 14  |  1,575 souls  |  High Wall of Lothric
+============================================================
+  Got Small Lothric Banner
+  [recorded 95_202607051752.sl2]
+
+============================================================
+  SAVE DETECTED  17:52:47
+  MVPValidation  |  Level 14  |  1,575 souls  |  High Wall of Lothric
+============================================================
+  Got Way of Blue
+  [recorded 96_202607051754.sl2]
+
+============================================================
+  SAVE DETECTED  17:54:49
+  MVPValidation  |  Level 14  |  1,671 souls  |  High Wall of Lothric
+============================================================
+  Souls: 1,575 -> 1,671  (+96)
+  [recorded 97_202607051754.sl2]
+
+============================================================
+  SAVE DETECTED  17:54:56
+  MVPValidation  |  Level 14  |  0 souls  |  High Wall of Lothric
+============================================================
+  Souls: 1,671 -> 0  (-1,671)
+  [recorded 98_202607051755.sl2]
+
+============================================================
+  SAVE DETECTED  17:55:00
+  MVPValidation  |  Level 14  |  0 souls  |  High Wall of Lothric
+============================================================
+  (no changes detected)
+  [recorded 99_202607051755.sl2]
+
+============================================================
+  SAVE DETECTED  17:55:55
+  MVPValidation  |  Level 14  |  60 souls  |  High Wall of Lothric
+============================================================
+  Souls: 0 -> 60  (+60)
+  [recorded 100_202607051756.sl2]
+
+============================================================
+  SAVE DETECTED  17:56:00
+  MVPValidation  |  Level 14  |  60 souls  |  High Wall of Lothric
+============================================================
+  (no changes detected)
+  [recorded 101_202607051756.sl2]
+
+============================================================
+  SAVE DETECTED  17:56:03
+  MVPValidation  |  Level 14  |  60 souls  |  Firelink Shrine
+============================================================
+  Rested at Firelink Shrine  (from High Wall of Lothric)
+  [recorded 102_202607051756.sl2]
+
+============================================================
+  SAVE DETECTED  17:56:09
+  MVPValidation  |  Level 14  |  60 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 103_202607051756.sl2]
+
+============================================================
+  SAVE DETECTED  17:56:14
+  MVPValidation  |  Level 14  |  60 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 104_202607051756.sl2]
+
+============================================================
+  SAVE DETECTED  17:56:25
+  MVPValidation  |  Level 14  |  60 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 105_202607051756.sl2]
+
+============================================================
+  SAVE DETECTED  17:56:28
+  MVPValidation  |  Level 14  |  60 souls  |  Firelink Shrine
+============================================================
+  Lost Estus Shard
+  [recorded 106_202607051756.sl2]
+
+============================================================
+  SAVE DETECTED  17:56:40
+  MVPValidation  |  Level 14  |  60 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 107_202607051756.sl2]
+
+============================================================
+  SAVE DETECTED  17:56:45
+  MVPValidation  |  Level 14  |  60 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 108_202607051756.sl2]
+
+============================================================
+  SAVE DETECTED  17:56:49
+  MVPValidation  |  Level 14  |  60 souls  |  High Wall of Lothric
+============================================================
+  Rested at High Wall of Lothric  (from Firelink Shrine)
+  [recorded 109_202607051758.sl2]
+
+============================================================
+  SAVE DETECTED  17:58:30
+  MVPValidation  |  Level 14  |  430 souls  |  High Wall of Lothric
+============================================================
+  Souls: 60 -> 430  (+370)
+  Got Throwing Knife x6
+  [recorded 110_202607051758.sl2]
+
+============================================================
+  SAVE DETECTED  17:58:54
+  MVPValidation  |  Level 14  |  540 souls  |  High Wall of Lothric
+============================================================
+  Souls: 430 -> 540  (+110)
+  Got Soul of a Deserted Corpse
+  [recorded 111_202607051759.sl2]
+
+============================================================
+  SAVE DETECTED  17:59:51
+  MVPValidation  |  Level 14  |  680 souls  |  High Wall of Lothric
+============================================================
+  Souls: 540 -> 680  (+140)
+  [recorded 112_202607051801.sl2]
+
+============================================================
+  SAVE DETECTED  18:01:15
+  MVPValidation  |  Level 14  |  800 souls  |  High Wall of Lothric
+============================================================
+  Souls: 680 -> 800  (+120)
+  Lost Ember
+  [recorded 113_202607051802.sl2]
+
+============================================================
+  SAVE DETECTED  18:02:19
+  MVPValidation  |  Level 14  |  2,561 souls  |  High Wall of Lothric
+============================================================
+  Souls: 800 -> 2,561  (+1,761)
+  [recorded 114_202607051803.sl2]
+
+============================================================
+  SAVE DETECTED  18:03:31
+  MVPValidation  |  Level 14  |  2,561 souls  |  High Wall of Lothric
+============================================================
+  Got Soul of Boreal Valley Vordt
+  Killed Vordt of the Boreal Valley
+  Vordt of the Boreal Valley defeated
+  [recorded 115_202607051803.sl2]
+
+============================================================
+  SAVE DETECTED  18:03:38
+  MVPValidation  |  Level 14  |  4,811 souls  |  High Wall of Lothric
+============================================================
+  Souls: 2,561 -> 4,811  (+2,250)
+  [recorded 116_202607051803.sl2]
+
+============================================================
+  SAVE DETECTED  18:03:50
+  MVPValidation  |  Level 14  |  4,811 souls  |  High Wall of Lothric
+============================================================
+  (no changes detected)
+  [recorded 117_202607051803.sl2]
+
+============================================================
+  SAVE DETECTED  18:03:55
+  MVPValidation  |  Level 14  |  4,811 souls  |  High Wall of Lothric
+============================================================
+  (no changes detected)
+  [recorded 118_202607051803.sl2]
+
+============================================================
+  SAVE DETECTED  18:03:58
+  MVPValidation  |  Level 14  |  4,811 souls  |  Firelink Shrine
+============================================================
+  Rested at Firelink Shrine  (from High Wall of Lothric)
+  [recorded 119_202607051804.sl2]
+
+============================================================
+  SAVE DETECTED  18:04:04
+  MVPValidation  |  Level 14  |  4,811 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 120_202607051804.sl2]
+
+============================================================
+  SAVE DETECTED  18:04:12
+  MVPValidation  |  Level 16  |  1,707 souls  |  Firelink Shrine
+============================================================
+  Level up: 14 -> 16  (+2)
+  Souls: 4,811 -> 1,707  (-3,104)
+  [recorded 121_202607051804.sl2]
+
+============================================================
+  SAVE DETECTED  18:04:19
+  MVPValidation  |  Level 16  |  1,707 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 122_202607051804.sl2]
+
+============================================================
+  SAVE DETECTED  18:04:24
+  MVPValidation  |  Level 16  |  3,707 souls  |  Firelink Shrine
+============================================================
+  Souls: 1,707 -> 3,707  (+2,000)
+  [recorded 123_202607051804.sl2]
+
+============================================================
+  SAVE DETECTED  18:04:31
+  MVPValidation  |  Level 17  |  1,825 souls  |  Firelink Shrine
+============================================================
+  Level up: 16 -> 17  (+1)
+  Souls: 3,707 -> 1,825  (-1,882)
+  [recorded 124_202607051804.sl2]
+
+============================================================
+  SAVE DETECTED  18:04:45
+  MVPValidation  |  Level 17  |  1,825 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 125_202607051804.sl2]
+
+============================================================
+  SAVE DETECTED  18:04:52
+  MVPValidation  |  Level 17  |  1,825 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 126_202607051804.sl2]
+
+============================================================
+  SAVE DETECTED  18:04:57
+  MVPValidation  |  Level 17  |  1,825 souls  |  High Wall of Lothric
+============================================================
+  Rested at High Wall of Lothric  (from Firelink Shrine)
+  [recorded 127_202607051805.sl2]
+
+============================================================
+  SAVE DETECTED  18:05:30
+  MVPValidation  |  Level 17  |  2,065 souls  |  High Wall of Lothric
+============================================================
+  Souls: 1,825 -> 2,065  (+240)
+  [recorded 128_202607051807.sl2]
+
+============================================================
+  SAVE DETECTED  18:07:17
+  MVPValidation  |  Level 17  |  3,799 souls  |  High Wall of Lothric
+============================================================
+  Souls: 2,065 -> 3,799  (+1,734)
+  Got Deep Battle Axe
+  [recorded 129_202607051807.sl2]
+
+============================================================
+  SAVE DETECTED  18:07:46
+  MVPValidation  |  Level 17  |  3,835 souls  |  High Wall of Lothric
+============================================================
+  Souls: 3,799 -> 3,835  (+36)
+  Got Claymore
+  [recorded 130_202607051808.sl2]
+
+============================================================
+  SAVE DETECTED  18:08:33
+  MVPValidation  |  Level 17  |  3,915 souls  |  High Wall of Lothric
+============================================================
+  Souls: 3,835 -> 3,915  (+80)
+  [recorded 131_202607051808.sl2]
+
+============================================================
+  SAVE DETECTED  18:08:38
+  MVPValidation  |  Level 17  |  3,915 souls  |  High Wall of Lothric
+============================================================
+  (no changes detected)
+  [recorded 132_202607051808.sl2]
+
+============================================================
+  SAVE DETECTED  18:08:41
+  MVPValidation  |  Level 17  |  3,915 souls  |  Firelink Shrine
+============================================================
+  Rested at Firelink Shrine  (from High Wall of Lothric)
+  [recorded 133_202607051808.sl2]
+
+============================================================
+  SAVE DETECTED  18:08:47
+  MVPValidation  |  Level 17  |  3,915 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 134_202607051809.sl2]
+
+============================================================
+  SAVE DETECTED  18:09:07
+  MVPValidation  |  Level 18  |  1,802 souls  |  Firelink Shrine
+============================================================
+  Level up: 17 -> 18  (+1)
+  Souls: 3,915 -> 1,802  (-2,113)
+  [recorded 135_202607051809.sl2]
+
+============================================================
+  SAVE DETECTED  18:09:14
+  MVPValidation  |  Level 18  |  1,802 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 136_202607051809.sl2]
+
+============================================================
+  SAVE DETECTED  18:09:19
+  MVPValidation  |  Level 18  |  1,802 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 137_202607051809.sl2]
+
+============================================================
+  SAVE DETECTED  18:09:24
+  MVPValidation  |  Level 18  |  1,802 souls  |  High Wall of Lothric
+============================================================
+  Rested at High Wall of Lothric  (from Firelink Shrine)
+  [recorded 138_202607051810.sl2]
+
+============================================================
+  SAVE DETECTED  18:10:46
+  MVPValidation  |  Level 18  |  1,802 souls  |  Undead Settlement
+============================================================
+  Rested at Undead Settlement  (from High Wall of Lothric)
+
+  --- ADVISOR ----------------------------------------------
+  [!] Don't miss Yoel among the dying pilgrims
+      Yoel of Londor is the one living pilgrim among the dead ones at the broken bridge just before the Undead Settlement entrance (where you arrive from the banner). If you progress without talking to him you lose his free levels, Yuria of Londor, and the entire Usurpation of Fire ending path. Talk to him before moving on - he then waits at Firelink.
+  [!] Do NOT kill Hodrick when he invades
+      Holy Knight Hodrick invades near the Pit of Hollows in the Undead Settlement. Do not kill him during the invasion - you need him alive to join the Mound-makers covenant. To join: talk to the giant cage-carrying enemy, climb into his cage, and you'll be carried to Hodrick in the Pit of Hollows.
+  [!] Talk to the Giant Archer before farming the graveyard
+      A Giant in the tall tower fires huge arrows into the white-birch graveyard. Climb his tower and talk to him FIRST to receive a Token of Friendship - from then on his arrows kill hollows but ignore you, making the graveyard items (including the Mortician's Ashes) safe to grab.
+  [>] Siegward at the tower elevator (questline start)
+      Siegward of Catarina (Onion Knight) is stuck at the tower elevator near the Giant's tower. Elevator trick: step on the pressure plate, immediately step OFF so the second platform descends, then ride the other one. Join him to fight the Fire Demon below - you get a Siegbrau, and his questline (which later determines whether Greirat survives Irithyll) only advances if he wins this fight with you.
+  [i] Siegward of Catarina: Undead Settlement — meet Siegward at the elevator tower
+      Siegward of Catarina is at the tower elevator in the Undead Settlement (the tower on the way to the Giant archer, past the Cliff Underside). Ride the elevator to meet him, then use the plate trick to reach the Fire Demon ledge and fight it together. Next: Elevator trick: step on the pressure plate, hop OFF immediately so the second platform passes, then ride up to talk to him — and later ride halfway down to the Fire Demon ledge - Fight the Fire Demon WITH him and talk afterward until he toasts you with a Siegbräu — this is what advances his questline - His quest later decides whether Greirat survives Irithyll, so it's worth the detour
+  ----------------------------------------------------------
+  [recorded 139_202607051811.sl2]
+
+============================================================
+  SAVE DETECTED  18:11:02
+  MVPValidation  |  Level 18  |  1,802 souls  |  Undead Settlement
+============================================================
+  Got Large Soul of a Deserted Corpse
+  [recorded 140_202607051811.sl2]
+
+============================================================
+  SAVE DETECTED  18:11:14
+  MVPValidation  |  Level 18  |  1,802 souls  |  Undead Settlement
+============================================================
+  (no changes detected)
+  [recorded 141_202607051811.sl2]
+
+============================================================
+  SAVE DETECTED  18:11:54
+  MVPValidation  |  Level 18  |  1,842 souls  |  Undead Settlement
+============================================================
+  Souls: 1,802 -> 1,842  (+40)
+  Got Alluring Skull x2
+  [recorded 142_202607051812.sl2]
+
+============================================================
+  SAVE DETECTED  18:12:10
+  MVPValidation  |  Level 18  |  1,842 souls  |  Undead Settlement
+============================================================
+  Talked to Yoel of Londor (dying pilgrims)
+
+  --- ADVISOR ----------------------------------------------
+  [i] Yoel offers free levels at Firelink (time-limited)
+      Yoel of Londor now waits in the Firelink back hall. 'Draw Out True Strength' gives up to 5 free levels, each adding a Dark Sigil (Hollowing). His offer is time-limited: he dies after you progress further into the game (around the Catacombs), and only if you took all 5 levels before that does Yuria of Londor appear - she is required for the Usurpation of Fire ending. Take the free levels as you naturally level up; dying speeds up the next offer.
+  ----------------------------------------------------------
+  [recorded 143_202607051812.sl2]
+
+============================================================
+  SAVE DETECTED  18:12:18
+  MVPValidation  |  Level 18  |  1,842 souls  |  Undead Settlement
+============================================================
+  Got Homeward Bone x2
+  [recorded 144_202607051813.sl2]
+
+============================================================
+  SAVE DETECTED  18:13:15
+  MVPValidation  |  Level 18  |  1,962 souls  |  Undead Settlement
+============================================================
+  Souls: 1,842 -> 1,962  (+120)
+  [recorded 145_202607051813.sl2]
+
+============================================================
+  SAVE DETECTED  18:13:21
+  MVPValidation  |  Level 18  |  1,962 souls  |  Undead Settlement
+============================================================
+  (no changes detected)
+  [recorded 146_202607051813.sl2]
+
+============================================================
+  SAVE DETECTED  18:13:38
+  MVPValidation  |  Level 18  |  2,082 souls  |  Undead Settlement
+============================================================
+  Souls: 1,962 -> 2,082  (+120)
+  Got Four-Pronged Plow
+  [recorded 147_202607051813.sl2]
+
+============================================================
+  SAVE DETECTED  18:13:47
+  MVPValidation  |  Level 18  |  2,082 souls  |  Undead Settlement
+============================================================
+  Got Charcoal Pine Bundle x2
+  [recorded 148_202607051814.sl2]
+
+============================================================
+  SAVE DETECTED  18:14:01
+  MVPValidation  |  Level 18  |  2,162 souls  |  Undead Settlement
+============================================================
+  Souls: 2,082 -> 2,162  (+80)
+  Got Loretta's Bone
+
+  --- ADVISOR ----------------------------------------------
+  [>] You have Loretta's Bone - give it to Greirat
+      Take Loretta's Bone to Greirat at Firelink Shrine. Delivering it advances his questline: he grieves, gives you the Curl Up gesture, and then offers to scavenge the Undead Settlement for new shop stock.
+  ----------------------------------------------------------
+  [recorded 149_202607051814.sl2]
+
+============================================================
+  SAVE DETECTED  18:14:10
+  MVPValidation  |  Level 18  |  2,222 souls  |  Undead Settlement
+============================================================
+  Souls: 2,162 -> 2,222  (+60)
+  Got Ember
+  [recorded 150_202607051814.sl2]
+
+============================================================
+  SAVE DETECTED  18:14:34
+  MVPValidation  |  Level 18  |  2,222 souls  |  Undead Settlement
+============================================================
+  Got Estus Shard
+  Got Large Soul of a Deserted Corpse
+  [recorded 151_202607051815.sl2]
+
+============================================================
+  SAVE DETECTED  18:15:19
+  MVPValidation  |  Level 18  |  2,282 souls  |  Undead Settlement
+============================================================
+  Souls: 2,222 -> 2,282  (+60)
+  Got Worker Hat
+  [recorded 152_202607051815.sl2]
+
+============================================================
+  SAVE DETECTED  18:15:49
+  MVPValidation  |  Level 18  |  2,282 souls  |  Undead Settlement
+============================================================
+  (no changes detected)
+  [recorded 153_202607051816.sl2]
+
+============================================================
+  SAVE DETECTED  18:16:18
+  MVPValidation  |  Level 18  |  2,462 souls  |  Undead Settlement
+============================================================
+  Souls: 2,282 -> 2,462  (+180)
+  Got Hand Axe
+  [recorded 154_202607051816.sl2]
+
+============================================================
+  SAVE DETECTED  18:16:25
+  MVPValidation  |  Level 18  |  2,462 souls  |  Undead Settlement
+============================================================
+  (no changes detected)
+  [recorded 155_202607051816.sl2]
+
+============================================================
+  SAVE DETECTED  18:16:28
+  MVPValidation  |  Level 18  |  2,462 souls  |  Undead Settlement
+============================================================
+  (no changes detected)
+  [recorded 156_202607051816.sl2]
+
+============================================================
+  SAVE DETECTED  18:16:54
+  MVPValidation  |  Level 18  |  2,522 souls  |  Undead Settlement
+============================================================
+  Souls: 2,462 -> 2,522  (+60)
+  [recorded 157_202607051816.sl2]
+
+============================================================
+  SAVE DETECTED  18:16:59
+  MVPValidation  |  Level 18  |  2,522 souls  |  Undead Settlement
+============================================================
+  (no changes detected)
+  [recorded 158_202607051820.sl2]
+
+============================================================
+  SAVE DETECTED  18:20:17
+  MVPValidation  |  Level 18  |  2,522 souls  |  Undead Settlement
+============================================================
+  (no changes detected)
+  [recorded 159_202607051820.sl2]
+
+============================================================
+  SAVE DETECTED  18:20:22
+  MVPValidation  |  Level 18  |  2,522 souls  |  Undead Settlement
+============================================================
+  (no changes detected)
+  [recorded 160_202607051820.sl2]
+
+============================================================
+  SAVE DETECTED  18:20:25
+  MVPValidation  |  Level 18  |  2,522 souls  |  Firelink Shrine
+============================================================
+  Rested at Firelink Shrine  (from Undead Settlement)
+
+  --- ADVISOR ----------------------------------------------
+  [i] Siegward of Catarina: Not started
+      Siegward has not been met yet. He first appears at the tower elevator in the Undead Settlement. Next: When exploring the Undead Settlement, take the elevator by the Giant's tower and talk to the Onion Knight
+  ----------------------------------------------------------
+  [recorded 161_202607051820.sl2]
+
+============================================================
+  SAVE DETECTED  18:20:34
+  MVPValidation  |  Level 18  |  2,522 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 162_202607051820.sl2]
+
+============================================================
+  SAVE DETECTED  18:20:53
+  MVPValidation  |  Level 19  |  169 souls  |  Firelink Shrine
+============================================================
+  Level up: 18 -> 19  (+1)
+  Souls: 2,522 -> 169  (-2,353)
+  [recorded 163_202607051821.sl2]
+
+============================================================
+  SAVE DETECTED  18:21:05
+  MVPValidation  |  Level 19  |  169 souls  |  Firelink Shrine
+============================================================
+  Loretta's Bone given to Greirat
+
+  --- ADVISOR ----------------------------------------------
+  [i] Greirat can be sent scavenging (first run is safe)
+      After receiving Loretta's Bone, Greirat will offer to pillage the Undead Settlement. The first outing is completely safe - he returns with expanded stock after you kill any boss. (His LATER outing to Irithyll is dangerous; we'll warn you before that one.)
+  ----------------------------------------------------------
+  [recorded 164_202607051821.sl2]
+
+============================================================
+  SAVE DETECTED  18:21:14
+  MVPValidation  |  Level 19  |  169 souls  |  Firelink Shrine
+============================================================
+  Lost Loretta's Bone
+  Loretta's Bone given to Greirat (secondary)
+  [recorded 165_202607051821.sl2]
+
+============================================================
+  SAVE DETECTED  18:21:17
+  MVPValidation  |  Level 19  |  169 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 166_202607051821.sl2]
+
+============================================================
+  SAVE DETECTED  18:21:35
+  MVPValidation  |  Level 19  |  169 souls  |  Firelink Shrine
+============================================================
+  Yoel of Londor: Dark Sigil drawn (free level)
+  [recorded 167_202607051821.sl2]
+
+============================================================
+  SAVE DETECTED  18:21:40
+  MVPValidation  |  Level 20  |  169 souls  |  Firelink Shrine
+============================================================
+  Level up: 19 -> 20  (+1)
+  Got Dark Sigil
+
+  --- ADVISOR ----------------------------------------------
+  [i] Tower Key: Estus upgrade waiting at Firelink
+      The Shrine Handmaid sells the Tower Key for 20,000 souls. The tower holds the Fire Keeper Soul (a permanent Estus heal upgrade when given to the Fire Keeper), the Fire Keeper armor set, and access to the crow's nest for item trading. How to get back: Buy the Tower Key from the Shrine Handmaid at Firelink, then take the left exit to the tower behind the shrine.
+  [i] Dark Sigil acquired - Usurpation path is active
+      You now carry a Dark Sigil, which puts you on the Usurpation of Fire ending path. To keep it alive: draw all 5 levels from Yoel before he dies, meet Yuria afterward, and do NOT heal the Dark Sigil with the Fire Keeper (that ends the path and Yuria leaves). Hollowing is cosmetic and reversible with a Purging Stone.
+  ----------------------------------------------------------
+  [recorded 168_202607051821.sl2]
+
+============================================================
+  SAVE DETECTED  18:21:46
+  MVPValidation  |  Level 20  |  169 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 169_202607051821.sl2]
+
+============================================================
+  SAVE DETECTED  18:21:49
+  MVPValidation  |  Level 20  |  169 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 170_202607051821.sl2]
+
+============================================================
+  SAVE DETECTED  18:21:54
+  MVPValidation  |  Level 20  |  169 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 171_202607051822.sl2]
+
+============================================================
+  SAVE DETECTED  18:22:42
+  MVPValidation  |  Level 20  |  169 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 172_202607051822.sl2]
+
+============================================================
+  SAVE DETECTED  18:22:47
+  MVPValidation  |  Level 20  |  169 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 173_202607051822.sl2]
+
+============================================================
+  SAVE DETECTED  18:22:52
+  MVPValidation  |  Level 20  |  169 souls  |  Undead Settlement
+============================================================
+  Rested at Undead Settlement  (from Firelink Shrine)
+  [recorded 174_202607051824.sl2]
+
+============================================================
+  SAVE DETECTED  18:24:02
+  MVPValidation  |  Level 20  |  359 souls  |  Undead Settlement
+============================================================
+  Souls: 169 -> 359  (+190)
+  Got Caestus
+  [recorded 175_202607051824.sl2]
+
+============================================================
+  SAVE DETECTED  18:24:22
+  MVPValidation  |  Level 20  |  839 souls  |  Undead Settlement
+============================================================
+  Souls: 359 -> 839  (+480)
+  Got Bloodbite Ring
+  [recorded 176_202607051824.sl2]
+
+============================================================
+  SAVE DETECTED  18:24:53
+  MVPValidation  |  Level 20  |  869 souls  |  Undead Settlement
+============================================================
+  Souls: 839 -> 869  (+30)
+  [recorded 177_202607051825.sl2]
+
+============================================================
+  SAVE DETECTED  18:25:37
+  MVPValidation  |  Level 20  |  909 souls  |  Undead Settlement
+============================================================
+  Souls: 869 -> 909  (+40)
+  Got Ember
+  [recorded 178_202607051827.sl2]
+
+============================================================
+  SAVE DETECTED  18:27:08
+  MVPValidation  |  Level 20  |  1,549 souls  |  Undead Settlement
+============================================================
+  Souls: 909 -> 1,549  (+640)
+  [recorded 179_202607051827.sl2]
+
+============================================================
+  SAVE DETECTED  18:27:21
+  MVPValidation  |  Level 20  |  1,549 souls  |  Undead Settlement
+============================================================
+  Got Ember
+  [recorded 180_202607051827.sl2]
+
+============================================================
+  SAVE DETECTED  18:27:36
+  MVPValidation  |  Level 20  |  1,549 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Rested at Road of Sacrifices / Farron Keep  (from Undead Settlement)
+
+  --- ADVISOR ----------------------------------------------
+  [!] Stop at Halfway Fortress: talk to Anri and Horace
+      Two NPCs wait at the Halfway Fortress bonfire: Anri of Astora and Horace the Hushed. Talk to BOTH - Horace gives you the Blue Sentinels covenant, and Anri's questline runs the length of the game (and is REQUIRED for the Usurpation of Fire ending if you're on the Dark Sigil path). Missing this conversation stalls their entire storyline.
+  [!] Recruit Orbeck of Vinheim (needs 10 INT)
+      Orbeck hides on the second floor of the flooded room that leads to the Crystal Sage fight. Talk to him with at least 10 Intelligence and he moves to Firelink as your sorcery trainer. Below 10 INT, equip the Scholar Ring (Grand Archives is far away - or just level INT to 10) - he only checks once. He is also required later in Yuria of Londor's questline. IMPORTANT: after recruiting him, you must hand him ANY scroll before you defeat ~6 more bosses, or he leaves forever.
+  [!] Yoel of Londor / Yuria of Londor: Approaching Farron Keep — Complete Sigil Draws Before Abyss Watchers
+      WARNING: You are in the Road of Sacrifices and have begun Yoel's Dark Sigil draws. The Abyss Watchers boss is at the end of the next area (Farron Keep). Yoel of Londor dies permanently when you reach the Hanging Bridge in Catacombs of Carthus. If you have fewer than 5 Dark Sigils, return to Yoel at Firelink NOW and complete the remaining draws before progressing. Hollowing thresholds: 1st=free (done), 2nd=2, 3rd=6, 4th=12, 5th=15.
+  [!] Yoel of Londor / Yuria of Londor: Farron Keep — Final Warning Before Abyss Watchers
+      CRITICAL: You are in Farron Keep and the Abyss Watchers boss is ahead. This is your last chance to finish Yoel's Dark Sigil draws. Yoel dies permanently when you reach the Hanging Bridge in Catacombs of Carthus (accessible only after Abyss Watchers). If you have fewer than 5 Dark Sigils: warp back to Firelink Shrine RIGHT NOW, die enough times to hit the next Hollowing threshold, and draw from Yoel before coming back. Thresholds: 2nd draw at 2 Hollowing, 3rd at 6, 4th at 12, 5th at 15.
+  [>] Missed: Mortician's Ashes (gates Irina's questline)
+      You left the Undead Settlement without the Mortician's Ashes. Giving them to the Shrine Handmaid unlocks the Grave Key (1,500 souls), which you need to reach Irina of Carim in the sewers - a miracle vendor with her own questline. How to get back: Warp back to the Undead Settlement. The ashes are in the white-birch graveyard where the Giant's arrows land (talk to the Giant in the tower first so he covers you).
+      ... (6 more)
+  ----------------------------------------------------------
+  [recorded 181_202607051827.sl2]
+
+============================================================
+  SAVE DETECTED  18:27:45
+  MVPValidation  |  Level 20  |  1,549 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  (no changes detected)
+  [recorded 182_202607051827.sl2]
+
+============================================================
+  SAVE DETECTED  18:27:50
+  MVPValidation  |  Level 20  |  1,549 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  (no changes detected)
+  [recorded 183_202607051827.sl2]
+
+============================================================
+  SAVE DETECTED  18:27:53
+  MVPValidation  |  Level 20  |  1,549 souls  |  Firelink Shrine
+============================================================
+  Rested at Firelink Shrine  (from Road of Sacrifices / Farron Keep)
+
+  --- ADVISOR ----------------------------------------------
+  [i] Anri of Astora & Horace the Hushed: Not started
+      Anri and Horace have not been met. They first appear at the Halfway Fortress bonfire on the Road of Sacrifices. Next: When you reach Halfway Fortress, talk to both NPCs at the bonfire
+  [i] Orbeck of Vinheim: Not started
+      Orbeck has not been encountered yet. He appears in the Road of Sacrifices, in the flooded room before the Crystal Sage. Next: When you reach the Road of Sacrifices, bring 10 Intelligence to recruit him
+  [i] Sirris of the Sunless Realms: Not appeared yet
+      Sirris has not appeared at Firelink yet. She shows up once you reach the Road of Sacrifices. Next: Progress to the Road of Sacrifices, then check Firelink Shrine
+  ----------------------------------------------------------
+  [recorded 184_202607051828.sl2]
+
+============================================================
+  SAVE DETECTED  18:28:05
+  MVPValidation  |  Level 20  |  1,549 souls  |  Firelink Shrine
+============================================================
+  Lost Estus Shard
+  [recorded 185_202607051828.sl2]
+
+============================================================
+  SAVE DETECTED  18:28:08
+  MVPValidation  |  Level 20  |  1,549 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 186_202607051828.sl2]
+
+============================================================
+  SAVE DETECTED  18:28:19
+  MVPValidation  |  Level 20  |  1,549 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 187_202607051830.sl2]
+
+============================================================
+  SAVE DETECTED  18:30:15
+  MVPValidation  |  Level 20  |  1,549 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 188_202607051830.sl2]
+
+============================================================
+  SAVE DETECTED  18:30:22
+  MVPValidation  |  Level 20  |  1,549 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 189_202607051830.sl2]
+
+============================================================
+  SAVE DETECTED  18:30:26
+  MVPValidation  |  Level 20  |  1,549 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Rested at Road of Sacrifices / Farron Keep  (from Firelink Shrine)
+  [recorded 190_202607051830.sl2]
+
+============================================================
+  SAVE DETECTED  18:30:29
+  MVPValidation  |  Level 20  |  1,549 souls  |  Undead Settlement
+============================================================
+  Rested at Undead Settlement  (from Road of Sacrifices / Farron Keep)
+  [recorded 191_202607051830.sl2]
+
+============================================================
+  SAVE DETECTED  18:30:50
+  MVPValidation  |  Level 20  |  1,549 souls  |  Undead Settlement
+============================================================
+  (no changes detected)
+  [recorded 192_202607051831.sl2]
+
+============================================================
+  SAVE DETECTED  18:31:06
+  MVPValidation  |  Level 20  |  1,549 souls  |  Undead Settlement
+============================================================
+  (no changes detected)
+  [recorded 193_202607051831.sl2]
+
+============================================================
+  SAVE DETECTED  18:31:13
+  MVPValidation  |  Level 20  |  0 souls  |  Undead Settlement
+============================================================
+  Souls: 1,549 -> 0  (-1,549)
+  [recorded 194_202607051831.sl2]
+
+============================================================
+  SAVE DETECTED  18:31:17
+  MVPValidation  |  Level 20  |  0 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Rested at Road of Sacrifices / Farron Keep  (from Undead Settlement)
+  [recorded 195_202607051831.sl2]
+
+============================================================
+  SAVE DETECTED  18:31:20
+  MVPValidation  |  Level 20  |  1,549 souls  |  Undead Settlement
+============================================================
+  Rested at Undead Settlement  (from Road of Sacrifices / Farron Keep)
+  Souls: 0 -> 1,549  (+1,549)
+  [recorded 196_202607051831.sl2]
+
+============================================================
+  SAVE DETECTED  18:31:29
+  MVPValidation  |  Level 20  |  1,549 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Rested at Road of Sacrifices / Farron Keep  (from Undead Settlement)
+  [recorded 197_202607051831.sl2]
+
+============================================================
+  SAVE DETECTED  18:31:37
+  MVPValidation  |  Level 20  |  1,549 souls  |  Undead Settlement
+============================================================
+  Rested at Undead Settlement  (from Road of Sacrifices / Farron Keep)
+  [recorded 198_202607051831.sl2]
+
+============================================================
+  SAVE DETECTED  18:31:51
+  MVPValidation  |  Level 20  |  1,549 souls  |  Undead Settlement
+============================================================
+  (no changes detected)
+  [recorded 199_202607051832.sl2]
+
+============================================================
+  SAVE DETECTED  18:32:01
+  MVPValidation  |  Level 20  |  0 souls  |  Undead Settlement
+============================================================
+  Souls: 1,549 -> 0  (-1,549)
+  [recorded 200_202607051832.sl2]
+
+============================================================
+  SAVE DETECTED  18:32:05
+  MVPValidation  |  Level 20  |  0 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Rested at Road of Sacrifices / Farron Keep  (from Undead Settlement)
+  [recorded 201_202607051832.sl2]
+
+============================================================
+  SAVE DETECTED  18:32:09
+  MVPValidation  |  Level 20  |  0 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  (no changes detected)
+  [recorded 202_202607051832.sl2]
+
+============================================================
+  SAVE DETECTED  18:32:14
+  MVPValidation  |  Level 20  |  0 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  (no changes detected)
+  [recorded 203_202607051832.sl2]
+
+============================================================
+  SAVE DETECTED  18:32:17
+  MVPValidation  |  Level 20  |  0 souls  |  Firelink Shrine
+============================================================
+  Rested at Firelink Shrine  (from Road of Sacrifices / Farron Keep)
+  [recorded 204_202607051832.sl2]
+
+============================================================
+  SAVE DETECTED  18:32:29
+  MVPValidation  |  Level 20  |  0 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 205_202607051832.sl2]
+
+============================================================
+  SAVE DETECTED  18:32:35
+  MVPValidation  |  Level 21  |  0 souls  |  Firelink Shrine
+============================================================
+  Level up: 20 -> 21  (+1)
+  Got Dark Sigil
+  [recorded 206_202607051832.sl2]
+
+============================================================
+  SAVE DETECTED  18:32:50
+  MVPValidation  |  Level 21  |  0 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 207_202607051832.sl2]
+
+============================================================
+  SAVE DETECTED  18:32:55
+  MVPValidation  |  Level 21  |  0 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 208_202607051832.sl2]
+
+============================================================
+  SAVE DETECTED  18:32:59
+  MVPValidation  |  Level 21  |  0 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Rested at Road of Sacrifices / Farron Keep  (from Firelink Shrine)
+  [recorded 209_202607051833.sl2]
+
+============================================================
+  SAVE DETECTED  18:33:03
+  MVPValidation  |  Level 21  |  0 souls  |  Undead Settlement
+============================================================
+  Rested at Undead Settlement  (from Road of Sacrifices / Farron Keep)
+  [recorded 210_202607051833.sl2]
+
+============================================================
+  SAVE DETECTED  18:33:18
+  MVPValidation  |  Level 21  |  0 souls  |  Undead Settlement
+============================================================
+  (no changes detected)
+  [recorded 211_202607051833.sl2]
+
+============================================================
+  SAVE DETECTED  18:33:24
+  MVPValidation  |  Level 21  |  1,549 souls  |  Undead Settlement
+============================================================
+  Souls: 0 -> 1,549  (+1,549)
+  [recorded 212_202607051833.sl2]
+
+============================================================
+  SAVE DETECTED  18:33:35
+  MVPValidation  |  Level 21  |  1,549 souls  |  Undead Settlement
+============================================================
+  (no changes detected)
+  [recorded 213_202607051833.sl2]
+
+============================================================
+  SAVE DETECTED  18:33:42
+  MVPValidation  |  Level 21  |  0 souls  |  Undead Settlement
+============================================================
+  Souls: 1,549 -> 0  (-1,549)
+  [recorded 214_202607051833.sl2]
+
+============================================================
+  SAVE DETECTED  18:33:45
+  MVPValidation  |  Level 21  |  0 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Rested at Road of Sacrifices / Farron Keep  (from Undead Settlement)
+  [recorded 215_202607051833.sl2]
+
+============================================================
+  SAVE DETECTED  18:33:50
+  MVPValidation  |  Level 21  |  0 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  (no changes detected)
+  [recorded 216_202607051833.sl2]
+
+============================================================
+  SAVE DETECTED  18:33:55
+  MVPValidation  |  Level 21  |  0 souls  |  Firelink Shrine
+============================================================
+  Rested at Firelink Shrine  (from Road of Sacrifices / Farron Keep)
+  [recorded 217_202607051833.sl2]
+
+============================================================
+  SAVE DETECTED  18:33:58
+  MVPValidation  |  Level 21  |  0 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 218_202607051834.sl2]
+
+============================================================
+  SAVE DETECTED  18:34:07
+  MVPValidation  |  Level 21  |  0 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 219_202607051834.sl2]
+
+============================================================
+  SAVE DETECTED  18:34:13
+  MVPValidation  |  Level 21  |  0 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 220_202607051834.sl2]
+
+============================================================
+  SAVE DETECTED  18:34:27
+  MVPValidation  |  Level 21  |  0 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 221_202607051834.sl2]
+
+============================================================
+  SAVE DETECTED  18:34:32
+  MVPValidation  |  Level 21  |  0 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 222_202607051834.sl2]
+
+============================================================
+  SAVE DETECTED  18:34:37
+  MVPValidation  |  Level 21  |  0 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Rested at Road of Sacrifices / Farron Keep  (from Firelink Shrine)
+  [recorded 223_202607051834.sl2]
+
+============================================================
+  SAVE DETECTED  18:34:40
+  MVPValidation  |  Level 21  |  0 souls  |  Undead Settlement
+============================================================
+  Rested at Undead Settlement  (from Road of Sacrifices / Farron Keep)
+  [recorded 224_202607051835.sl2]
+
+============================================================
+  SAVE DETECTED  18:35:35
+  MVPValidation  |  Level 21  |  0 souls  |  Undead Settlement
+============================================================
+  Got Soul of a Nameless Soldier
+  [recorded 225_202607051835.sl2]
+
+============================================================
+  SAVE DETECTED  18:35:46
+  MVPValidation  |  Level 21  |  0 souls  |  Undead Settlement
+============================================================
+  Got item_00400001ce
+  [recorded 226_202607051836.sl2]
+
+============================================================
+  SAVE DETECTED  18:36:26
+  MVPValidation  |  Level 21  |  0 souls  |  Undead Settlement
+============================================================
+  Got Homeward Bone
+  [recorded 227_202607051836.sl2]
+
+============================================================
+  SAVE DETECTED  18:36:50
+  MVPValidation  |  Level 21  |  0 souls  |  Undead Settlement
+============================================================
+  (no changes detected)
+  [recorded 228_202607051836.sl2]
+
+============================================================
+  SAVE DETECTED  18:36:57
+  MVPValidation  |  Level 21  |  0 souls  |  Undead Settlement
+============================================================
+  (no changes detected)
+  [recorded 229_202607051837.sl2]
+
+============================================================
+  SAVE DETECTED  18:37:00
+  MVPValidation  |  Level 21  |  0 souls  |  Road of Sacrifices / Farron Keep
+============================================================
+  Rested at Road of Sacrifices / Farron Keep  (from Undead Settlement)
+  [recorded 230_202607051837.sl2]
+
+============================================================
+  SAVE DETECTED  18:37:05
+  MVPValidation  |  Level 21  |  0 souls  |  Undead Settlement
+============================================================
+  Rested at Undead Settlement  (from Road of Sacrifices / Farron Keep)
+  [recorded 231_202607051838.sl2]
+
+============================================================
+  SAVE DETECTED  18:38:06
+  MVPValidation  |  Level 21  |  0 souls  |  Undead Settlement
+============================================================
+  (no changes detected)
+  [recorded 232_202607051839.sl2]
+
+============================================================
+  SAVE DETECTED  18:39:06
+  MVPValidation  |  Level 21  |  5,000 souls  |  Undead Settlement
+============================================================
+  Souls: 0 -> 5,000  (+5,000)
+  Got Fire Gem
+  [recorded 233_202607051839.sl2]
+
+============================================================
+  SAVE DETECTED  18:39:12
+  MVPValidation  |  Level 21  |  5,000 souls  |  Undead Settlement
+============================================================
+  Got SiegbrÃ¤u
+  Siegward: talked after Fire Demon fight
+
+  --- ADVISOR ----------------------------------------------
+  [i] Siegward of Catarina: Fire Demon defeated — next stop: the Cathedral well
+      You fought the Fire Demon with Siegward in the Undead Settlement. His journey continues at the Cathedral of the Deep: listen for humming from the well left of the Cleansing Chapel - Patches stole his armor, and you'll need to buy it back (Patches sells it at Firelink after his Cathedral appearance) and hand it over at the well. Next: In the Cathedral, do NOT kill Patches when he tricks you (bridge lever / onion armor disguise) — he must reach Firelink to sell the Catarina Set - Buy the full Catarina Set from Patches and give it to Siegward at the well before heading deep into Irithyll - Keeping Siegward's quest alive also keeps the Siegward route for saving Greirat's second scavenging run
+  ----------------------------------------------------------
+  [recorded 234_202607051839.sl2]
+
+============================================================
+  SAVE DETECTED  18:39:17
+  MVPValidation  |  Level 21  |  5,000 souls  |  Undead Settlement
+============================================================
+  (no changes detected)
+  [recorded 235_202607051839.sl2]
+
+============================================================
+  SAVE DETECTED  18:39:25
+  MVPValidation  |  Level 21  |  5,000 souls  |  Undead Settlement
+============================================================
+  (no changes detected)
+  [recorded 236_202607051839.sl2]
+
+============================================================
+  SAVE DETECTED  18:39:41
+  MVPValidation  |  Level 21  |  5,000 souls  |  Undead Settlement
+============================================================
+  Got Large Club
+  [recorded 237_202607051839.sl2]
+
+============================================================
+  SAVE DETECTED  18:39:51
+  MVPValidation  |  Level 21  |  5,000 souls  |  Undead Settlement
+============================================================
+  Got Northern Armor
+  Got Northern Gloves
+  Got Northern Helm
+  Got Northern Trousers
+  [recorded 238_202607051840.sl2]
+
+============================================================
+  SAVE DETECTED  18:40:02
+  MVPValidation  |  Level 21  |  5,000 souls  |  Undead Settlement
+============================================================
+  Got Pale Tongue
+
+  --- ADVISOR ----------------------------------------------
+  [!] Pale Tongues: do NOT offer them to Rosaria yet
+      You are carrying a Pale Tongue. Offering Pale Tongues to Rosaria to rank up her covenant makes Sirris of the Sunless Realms leave Firelink and turn hostile, ending her questline. Spending a tongue on a respec or appearance change is safe (regulation 1.05+). Hold your tongues until Sirris's questline is finished.
+  ----------------------------------------------------------
+  [recorded 239_202607051840.sl2]
+
+============================================================
+  SAVE DETECTED  18:40:54
+  MVPValidation  |  Level 21  |  5,000 souls  |  Undead Settlement
+============================================================
+  Got Red Bug Pellet x2
+  [recorded 240_202607051841.sl2]
+
+============================================================
+  SAVE DETECTED  18:41:11
+  MVPValidation  |  Level 21  |  5,000 souls  |  Undead Settlement
+============================================================
+  (no changes detected)
+  [recorded 241_202607051841.sl2]
+
+============================================================
+  SAVE DETECTED  18:41:57
+  MVPValidation  |  Level 21  |  5,040 souls  |  Undead Settlement
+============================================================
+  Souls: 5,000 -> 5,040  (+40)
+  Got Flynn's Ring
+  [recorded 242_202607051842.sl2]
+
+============================================================
+  SAVE DETECTED  18:42:10
+  MVPValidation  |  Level 21  |  5,040 souls  |  Undead Settlement
+============================================================
+  Got Homeward Bone x2
+  [recorded 243_202607051842.sl2]
+
+============================================================
+  SAVE DETECTED  18:42:28
+  MVPValidation  |  Level 21  |  5,040 souls  |  Undead Settlement
+============================================================
+  Got Mirrah Gloves
+  Got Mirrah Trousers
+  Got Mirrah Vest
+  [recorded 244_202607051842.sl2]
+
+============================================================
+  SAVE DETECTED  18:42:32
+  MVPValidation  |  Level 21  |  5,040 souls  |  Undead Settlement
+============================================================
+  Got Chloranthy Ring
+  [recorded 245_202607051842.sl2]
+
+============================================================
+  SAVE DETECTED  18:42:41
+  MVPValidation  |  Level 21  |  5,040 souls  |  Undead Settlement
+============================================================
+  (no changes detected)
+  [recorded 246_202607051842.sl2]
+
+============================================================
+  SAVE DETECTED  18:42:44
+  MVPValidation  |  Level 21  |  5,040 souls  |  Undead Settlement
+============================================================
+  Lost Homeward Bone
+  [recorded 247_202607051842.sl2]
+
+============================================================
+  SAVE DETECTED  18:42:49
+  MVPValidation  |  Level 21  |  5,040 souls  |  Firelink Shrine
+============================================================
+  Rested at Firelink Shrine  (from Undead Settlement)
+  [recorded 248_202607051843.sl2]
+
+============================================================
+  SAVE DETECTED  18:43:14
+  MVPValidation  |  Level 21  |  5,040 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 249_202607051843.sl2]
+
+============================================================
+  SAVE DETECTED  18:43:21
+  MVPValidation  |  Level 22  |  1,918 souls  |  Firelink Shrine
+============================================================
+  Level up: 21 -> 22  (+1)
+  Souls: 5,040 -> 1,918  (-3,122)
+  [recorded 250_202607051843.sl2]
+
+============================================================
+  SAVE DETECTED  18:43:32
+  MVPValidation  |  Level 22  |  1,918 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 251_202607051843.sl2]
+
+============================================================
+  SAVE DETECTED  18:43:37
+  MVPValidation  |  Level 23  |  1,918 souls  |  Firelink Shrine
+============================================================
+  Level up: 22 -> 23  (+1)
+  Got Dark Sigil
+  [recorded 252_202607051844.sl2]
+
+============================================================
+  SAVE DETECTED  18:44:17
+  MVPValidation  |  Level 23  |  1,918 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 253_202607051844.sl2]
+
+============================================================
+  SAVE DETECTED  18:44:47
+  MVPValidation  |  Level 23  |  1,918 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 254_202607051844.sl2]
+
+============================================================
+  SAVE DETECTED  18:44:51
+  MVPValidation  |  Level 23  |  1,918 souls  |  Undead Settlement
+============================================================
+  Rested at Undead Settlement  (from Firelink Shrine)
+  [recorded 255_202607051845.sl2]
+
+============================================================
+  SAVE DETECTED  18:45:09
+  MVPValidation  |  Level 23  |  1,918 souls  |  Undead Settlement
+============================================================
+  (no changes detected)
+  [recorded 256_202607051845.sl2]
+
+============================================================
+  SAVE DETECTED  18:45:32
+  MVPValidation  |  Level 23  |  1,918 souls  |  Undead Settlement
+============================================================
+  Lost Ember
+  [recorded 257_202607051846.sl2]
+
+============================================================
+  SAVE DETECTED  18:46:00
+  MVPValidation  |  Level 23  |  2,358 souls  |  Undead Settlement
+============================================================
+  Souls: 1,918 -> 2,358  (+440)
+  Got Ember
+  Got item_00400001c6
+  [recorded 258_202607051846.sl2]
+
+============================================================
+  SAVE DETECTED  18:46:03
+  MVPValidation  |  Level 23  |  2,358 souls  |  Undead Settlement
+============================================================
+  Got Large Soul of a Deserted Corpse
+  Got item_00400001c6
+  [recorded 259_202607051846.sl2]
+
+============================================================
+  SAVE DETECTED  18:46:07
+  MVPValidation  |  Level 23  |  2,358 souls  |  Undead Settlement
+============================================================
+  Got item_00400001c6
+  [recorded 260_202607051846.sl2]
+
+============================================================
+  SAVE DETECTED  18:46:22
+  MVPValidation  |  Level 23  |  2,538 souls  |  Undead Settlement
+============================================================
+  Souls: 2,358 -> 2,538  (+180)
+  Got Rubbish
+  [recorded 261_202607051846.sl2]
+
+============================================================
+  SAVE DETECTED  18:46:30
+  MVPValidation  |  Level 23  |  2,598 souls  |  Undead Settlement
+============================================================
+  Souls: 2,538 -> 2,598  (+60)
+  Got Undead Bone Shard
+  [recorded 262_202607051846.sl2]
+
+============================================================
+  SAVE DETECTED  18:46:42
+  MVPValidation  |  Level 23  |  2,718 souls  |  Undead Settlement
+============================================================
+  Souls: 2,598 -> 2,718  (+120)
+  Got Reinforced Club
+  [recorded 263_202607051846.sl2]
+
+============================================================
+  SAVE DETECTED  18:46:52
+  MVPValidation  |  Level 23  |  2,718 souls  |  Undead Settlement
+============================================================
+  Got Cleric Blue Robe
+  Got Cleric Gloves
+  Got Cleric Hat
+  Got Cleric Trousers
+  [recorded 264_202607051847.sl2]
+
+============================================================
+  SAVE DETECTED  18:47:05
+  MVPValidation  |  Level 23  |  2,798 souls  |  Undead Settlement
+============================================================
+  Souls: 2,718 -> 2,798  (+80)
+  Got Mortician's Ashes
+
+  --- ADVISOR ----------------------------------------------
+  [i] Irina of Carim: Mortician's Ashes Found — Deliver to Handmaid
+      Mortician's Ashes found. Deliver them to the Shrine Handmaid at Firelink Shrine to add the Grave Key to her shop. Next: Return to Firelink Shrine - Give Mortician's Ashes to the Shrine Handmaid - Purchase the Grave Key from her shop for 1,500 souls
+  ----------------------------------------------------------
+  [recorded 265_202607051847.sl2]
+
+============================================================
+  SAVE DETECTED  18:47:16
+  MVPValidation  |  Level 23  |  2,798 souls  |  Undead Settlement
+============================================================
+  Got Four-Pronged Plow
+  [recorded 266_202607051847.sl2]
+
+============================================================
+  SAVE DETECTED  18:47:33
+  MVPValidation  |  Level 23  |  2,858 souls  |  Undead Settlement
+============================================================
+  Souls: 2,798 -> 2,858  (+60)
+  Got Great Scythe
+  [recorded 267_202607051848.sl2]
+
+============================================================
+  SAVE DETECTED  18:48:07
+  MVPValidation  |  Level 23  |  2,858 souls  |  Undead Settlement
+============================================================
+  (no changes detected)
+  [recorded 268_202607051848.sl2]
+
+============================================================
+  SAVE DETECTED  18:48:10
+  MVPValidation  |  Level 23  |  2,858 souls  |  Undead Settlement
+============================================================
+  Lost Homeward Bone
+  [recorded 269_202607051848.sl2]
+
+============================================================
+  SAVE DETECTED  18:48:13
+  MVPValidation  |  Level 23  |  2,858 souls  |  Firelink Shrine
+============================================================
+  Rested at Firelink Shrine  (from Undead Settlement)
+  [recorded 270_202607051848.sl2]
+
+============================================================
+  SAVE DETECTED  18:48:20
+  MVPValidation  |  Level 23  |  2,858 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 271_202607051848.sl2]
+
+============================================================
+  SAVE DETECTED  18:48:23
+  MVPValidation  |  Level 23  |  2,858 souls  |  Firelink Shrine
+============================================================
+  Lost Undead Bone Shard
+  [recorded 272_202607051848.sl2]
+
+============================================================
+  SAVE DETECTED  18:48:28
+  MVPValidation  |  Level 23  |  2,858 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 273_202607051848.sl2]
+
+============================================================
+  SAVE DETECTED  18:48:35
+  MVPValidation  |  Level 23  |  2,858 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 274_202607051848.sl2]
+
+============================================================
+  SAVE DETECTED  18:48:38
+  MVPValidation  |  Level 23  |  2,858 souls  |  Firelink Shrine
+============================================================
+  Lost Mortician's Ashes
+
+  --- ADVISOR ----------------------------------------------
+  [i] Irina of Carim: Not Started
+      Quest not started. Find Mortician's Ashes in Undead Settlement to unlock the Grave Key. Next: Travel to Undead Settlement — find Mortician's Ashes near the graveyard where the Giant Archer fires spears from the tower - Return to Firelink Shrine and give the ashes to the Shrine Handmaid - Purchase the Grave Key from her shop for 1,500 souls - Alternative (risky): drop into the canyon beside the Eerie Tower using the Spook spell or Silvercat Ring to bypass the locked door
+  ----------------------------------------------------------
+  [recorded 275_202607051848.sl2]
+
+============================================================
+  SAVE DETECTED  18:48:44
+  MVPValidation  |  Level 23  |  2,858 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 276_202607051848.sl2]
+
+============================================================
+  SAVE DETECTED  18:48:52
+  MVPValidation  |  Level 23  |  2,858 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 277_202607051848.sl2]
+
+============================================================
+  SAVE DETECTED  18:48:55
+  MVPValidation  |  Level 23  |  1,358 souls  |  Firelink Shrine
+============================================================
+  Souls: 2,858 -> 1,358  (-1,500)
+  Got Grave Key
+
+  --- ADVISOR ----------------------------------------------
+  [>] You have the Grave Key - free Irina of Carim
+      The Grave Key opens the sewer door below the Dilapidated Bridge bonfire (drop down into the rat area). Irina of Carim is locked in a cell down there - talk to her and accept her service to recruit a miracle vendor to Firelink. Eygon of Carim waits outside her cell.
+  ----------------------------------------------------------
+  [recorded 278_202607051849.sl2]
+
+============================================================
+  SAVE DETECTED  18:49:03
+  MVPValidation  |  Level 23  |  1,358 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 279_202607051849.sl2]
+
+============================================================
+  SAVE DETECTED  18:49:10
+  MVPValidation  |  Level 23  |  1,358 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 280_202607051849.sl2]
+
+============================================================
+  SAVE DETECTED  18:49:14
+  MVPValidation  |  Level 23  |  1,358 souls  |  Undead Settlement
+============================================================
+  Rested at Undead Settlement  (from Firelink Shrine)
+  [recorded 281_202607051850.sl2]
+
+============================================================
+  SAVE DETECTED  18:50:21
+  MVPValidation  |  Level 23  |  1,838 souls  |  Undead Settlement
+============================================================
+  Souls: 1,358 -> 1,838  (+480)
+  [recorded 282_202607051850.sl2]
+
+============================================================
+  SAVE DETECTED  18:50:34
+  MVPValidation  |  Level 23  |  1,918 souls  |  Undead Settlement
+============================================================
+  Souls: 1,838 -> 1,918  (+80)
+  Got Homeward Bone x2
+  [recorded 283_202607051851.sl2]
+
+============================================================
+  SAVE DETECTED  18:51:02
+  MVPValidation  |  Level 23  |  1,918 souls  |  Undead Settlement
+============================================================
+  (no changes detected)
+  [recorded 284_202607051851.sl2]
+
+============================================================
+  SAVE DETECTED  18:51:06
+  MVPValidation  |  Level 23  |  1,918 souls  |  Undead Settlement
+============================================================
+  Got Mound-makers
+  Talked to Holy Knight Hodrick (Pit of Hollows)
+  [recorded 285_202607051851.sl2]
+
+============================================================
+  SAVE DETECTED  18:51:10
+  MVPValidation  |  Level 23  |  1,918 souls  |  Undead Settlement
+============================================================
+  Got Homeward Bone
+  [recorded 286_202607051851.sl2]
+
+============================================================
+  SAVE DETECTED  18:51:17
+  MVPValidation  |  Level 23  |  1,918 souls  |  Undead Settlement
+============================================================
+  (no changes detected)
+  [recorded 287_202607051851.sl2]
+
+============================================================
+  SAVE DETECTED  18:51:23
+  MVPValidation  |  Level 23  |  1,918 souls  |  Undead Settlement
+============================================================
+  (no changes detected)
+  [recorded 288_202607051851.sl2]
+
+============================================================
+  SAVE DETECTED  18:51:57
+  MVPValidation  |  Level 23  |  1,918 souls  |  Undead Settlement
+============================================================
+  (no changes detected)
+  [recorded 289_202607051852.sl2]
+
+============================================================
+  SAVE DETECTED  18:52:00
+  MVPValidation  |  Level 23  |  1,918 souls  |  Undead Settlement
+============================================================
+  Lost Homeward Bone
+  [recorded 290_202607051852.sl2]
+
+============================================================
+  SAVE DETECTED  18:52:05
+  MVPValidation  |  Level 23  |  1,918 souls  |  Firelink Shrine
+============================================================
+  Rested at Firelink Shrine  (from Undead Settlement)
+  [recorded 291_202607051852.sl2]
+
+============================================================
+  SAVE DETECTED  18:52:10
+  MVPValidation  |  Level 23  |  1,918 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 292_202607051852.sl2]
+
+============================================================
+  SAVE DETECTED  18:52:16
+  MVPValidation  |  Level 23  |  1,918 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 293_202607051852.sl2]
+
+============================================================
+  SAVE DETECTED  18:52:20
+  MVPValidation  |  Level 23  |  1,918 souls  |  Undead Settlement
+============================================================
+  Rested at Undead Settlement  (from Firelink Shrine)
+  [recorded 294_202607051852.sl2]
+
+============================================================
+  SAVE DETECTED  18:52:32
+  MVPValidation  |  Level 23  |  1,918 souls  |  Undead Settlement
+============================================================
+  (no changes detected)
+  [recorded 295_202607051853.sl2]
+
+============================================================
+  SAVE DETECTED  18:53:57
+  MVPValidation  |  Level 23  |  2,338 souls  |  Undead Settlement
+============================================================
+  Souls: 1,918 -> 2,338  (+420)
+  [recorded 296_202607051855.sl2]
+
+============================================================
+  SAVE DETECTED  18:55:20
+  MVPValidation  |  Level 23  |  2,770 souls  |  Undead Settlement
+============================================================
+  Souls: 2,338 -> 2,770  (+432)
+  Lost Charcoal Pine Bundle
+  [recorded 297_202607051857.sl2]
+
+============================================================
+  SAVE DETECTED  18:57:23
+  MVPValidation  |  Level 23  |  3,070 souls  |  Undead Settlement
+============================================================
+  Souls: 2,770 -> 3,070  (+300)
+  Lost Charcoal Pine Bundle
+  [recorded 298_202607051857.sl2]
+
+============================================================
+  SAVE DETECTED  18:57:29
+  MVPValidation  |  Level 23  |  0 souls  |  Undead Settlement
+============================================================
+  Souls: 3,070 -> 0  (-3,070)
+  [recorded 299_202607051857.sl2]
+
+============================================================
+  SAVE DETECTED  18:57:33
+  MVPValidation  |  Level 23  |  0 souls  |  Undead Settlement
+============================================================
+  (no changes detected)
+  [recorded 300_202607051857.sl2]
+
+============================================================
+  SAVE DETECTED  18:57:38
+  MVPValidation  |  Level 23  |  0 souls  |  Undead Settlement
+============================================================
+  (no changes detected)
+  [recorded 301_202607051857.sl2]
+
+============================================================
+  SAVE DETECTED  18:57:43
+  MVPValidation  |  Level 23  |  0 souls  |  Undead Settlement
+============================================================
+  (no changes detected)
+  [recorded 302_202607051857.sl2]
+
+============================================================
+  SAVE DETECTED  18:57:46
+  MVPValidation  |  Level 23  |  0 souls  |  Firelink Shrine
+============================================================
+  Rested at Firelink Shrine  (from Undead Settlement)
+  [recorded 303_202607051857.sl2]
+
+============================================================
+  SAVE DETECTED  18:57:56
+  MVPValidation  |  Level 23  |  0 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 304_202607051858.sl2]
+
+============================================================
+  SAVE DETECTED  18:58:01
+  MVPValidation  |  Level 23  |  0 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 305_202607051858.sl2]
+
+============================================================
+  SAVE DETECTED  18:58:16
+  MVPValidation  |  Level 23  |  0 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 306_202607051858.sl2]
+
+============================================================
+  SAVE DETECTED  18:58:26
+  MVPValidation  |  Level 23  |  0 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 307_202607051858.sl2]
+
+============================================================
+  SAVE DETECTED  18:58:40
+  MVPValidation  |  Level 23  |  0 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 308_202607051858.sl2]
+
+============================================================
+  SAVE DETECTED  18:58:45
+  MVPValidation  |  Level 23  |  0 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 309_202607051858.sl2]
+
+============================================================
+  SAVE DETECTED  18:58:50
+  MVPValidation  |  Level 23  |  0 souls  |  Undead Settlement
+============================================================
+  Rested at Undead Settlement  (from Firelink Shrine)
+  [recorded 310_202607051903.sl2]
+
+============================================================
+  SAVE DETECTED  19:03:03
+  MVPValidation  |  Level 23  |  1,368 souls  |  Undead Settlement
+============================================================
+  Souls: 0 -> 1,368  (+1,368)
+  Got Soul of the Rotted Greatwood
+  Got Transposing Kiln
+  Curse-Rotted Greatwood defeated
+
+  --- ADVISOR ----------------------------------------------
+  [>] You have the Transposing Kiln - give it to Ludleth
+      Give the Transposing Kiln (dropped by the Curse-Rotted Greatwood) to Ludleth on his throne at Firelink Shrine. This unlocks transposition: turning boss souls into unique weapons, spells and rings instead of consuming them.
+  ----------------------------------------------------------
+  [recorded 311_202607051903.sl2]
+
+============================================================
+  SAVE DETECTED  19:03:10
+  MVPValidation  |  Level 23  |  4,438 souls  |  Undead Settlement
+============================================================
+  Souls: 1,368 -> 4,438  (+3,070)
+  [recorded 312_202607051903.sl2]
+
+============================================================
+  SAVE DETECTED  19:03:21
+  MVPValidation  |  Level 23  |  11,438 souls  |  Undead Settlement
+============================================================
+  Souls: 4,438 -> 11,438  (+7,000)
+  [recorded 313_202607051903.sl2]
+
+============================================================
+  SAVE DETECTED  19:03:26
+  MVPValidation  |  Level 23  |  11,438 souls  |  Undead Settlement
+============================================================
+  (no changes detected)
+  [recorded 314_202607051903.sl2]
+
+============================================================
+  SAVE DETECTED  19:03:29
+  MVPValidation  |  Level 23  |  11,438 souls  |  Firelink Shrine
+============================================================
+  Rested at Firelink Shrine  (from Undead Settlement)
+  [recorded 315_202607051903.sl2]
+
+============================================================
+  SAVE DETECTED  19:03:55
+  MVPValidation  |  Level 23  |  11,438 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 316_202607051904.sl2]
+
+============================================================
+  SAVE DETECTED  19:04:00
+  MVPValidation  |  Level 23  |  11,438 souls  |  Firelink Shrine
+============================================================
+  Lost Transposing Kiln
+  [recorded 317_202607051904.sl2]
+
+============================================================
+  SAVE DETECTED  19:04:05
+  MVPValidation  |  Level 23  |  11,438 souls  |  Firelink Shrine
+============================================================
+  Got Vordt's Great Hammer
+  Lost Soul of Boreal Valley Vordt
+  [recorded 318_202607051904.sl2]
+
+============================================================
+  SAVE DETECTED  19:04:09
+  MVPValidation  |  Level 23  |  11,438 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 319_202607051904.sl2]
+
+============================================================
+  SAVE DETECTED  19:04:15
+  MVPValidation  |  Level 23  |  10,438 souls  |  Firelink Shrine
+============================================================
+  Souls: 11,438 -> 10,438  (-1,000)
+  Got Hollowslayer Greatsword
+  Lost Soul of the Rotted Greatwood
+  [recorded 320_202607051904.sl2]
+
+============================================================
+  SAVE DETECTED  19:04:26
+  MVPValidation  |  Level 23  |  10,438 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 321_202607051904.sl2]
+
+============================================================
+  SAVE DETECTED  19:04:34
+  MVPValidation  |  Level 25  |  2,791 souls  |  Firelink Shrine
+============================================================
+  Level up: 23 -> 25  (+2)
+  Souls: 10,438 -> 2,791  (-7,647)
+
+  --- ADVISOR ----------------------------------------------
+  [i] Missed: Butcher Knife (top early Strength weapon)
+      The Butcher Knife has A-scaling in Strength from the start and its weapon art heals you on hit - one of the best early Strength weapons, and you passed its location. How to get back: From the Cliff Underside bonfire, cross the bridge, take the elevator down, sprint past the Boreal Outrider Knight, and kill the 'Mad Ghru' wandering near the water on the Road of Sacrifices approach.
+  ----------------------------------------------------------
+  [recorded 322_202607051904.sl2]
+
+============================================================
+  SAVE DETECTED  19:04:45
+  MVPValidation  |  Level 25  |  2,791 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 323_202607051904.sl2]
+
+============================================================
+  SAVE DETECTED  19:04:50
+  MVPValidation  |  Level 25  |  2,791 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 324_202607051904.sl2]
+
+============================================================
+  SAVE DETECTED  19:04:54
+  MVPValidation  |  Level 25  |  2,791 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 325_202607051904.sl2]
+
+============================================================
+  SAVE DETECTED  19:04:59
+  MVPValidation  |  Level 25  |  2,791 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 326_202607051905.sl2]
+
+============================================================
+  SAVE DETECTED  19:05:13
+  MVPValidation  |  Level 25  |  2,791 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 327_202607051905.sl2]
+
+============================================================
+  SAVE DETECTED  19:05:19
+  MVPValidation  |  Level 25  |  2,791 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 328_202607051905.sl2]
+
+============================================================
+  SAVE DETECTED  19:05:23
+  MVPValidation  |  Level 25  |  2,791 souls  |  Undead Settlement
+============================================================
+  Rested at Undead Settlement  (from Firelink Shrine)
+  [recorded 329_202607051905.sl2]
+
+============================================================
+  SAVE DETECTED  19:05:44
+  MVPValidation  |  Level 25  |  2,791 souls  |  Undead Settlement
+============================================================
+  Got Loincloth (1)
+  [recorded 330_202607051905.sl2]
+
+============================================================
+  SAVE DETECTED  19:05:54
+  MVPValidation  |  Level 25  |  2,791 souls  |  Undead Settlement
+============================================================
+  Got Red Hilted Halberd
+  [recorded 331_202607051906.sl2]
+
+============================================================
+  SAVE DETECTED  19:06:04
+  MVPValidation  |  Level 25  |  2,791 souls  |  Undead Settlement
+============================================================
+  Got Soul of an Unknown Traveler
+  [recorded 332_202607051907.sl2]
+
+============================================================
+  SAVE DETECTED  19:07:04
+  MVPValidation  |  Level 25  |  3,051 souls  |  Undead Settlement
+============================================================
+  Souls: 2,791 -> 3,051  (+260)
+  Got Saint's Talisman
+  [recorded 333_202607051907.sl2]
+
+============================================================
+  SAVE DETECTED  19:07:25
+  MVPValidation  |  Level 25  |  3,051 souls  |  Undead Settlement
+============================================================
+  (no changes detected)
+  [recorded 334_202607051907.sl2]
+
+============================================================
+  SAVE DETECTED  19:07:31
+  MVPValidation  |  Level 25  |  3,051 souls  |  Undead Settlement
+============================================================
+  Talked to Irina of Carim (sewer cell)
+
+  --- ADVISOR ----------------------------------------------
+  [i] Irina of Carim: Eygon Available as Summon
+      Eygon of Carim is currently an ally. His summon sign appears before Crystal Sage (Road of Sacrifices) and Dragonslayer Armour (Lothric Castle).
+  [i] Irina of Carim: Rescued — At Firelink Shrine
+      Irina has been rescued and is at Firelink Shrine. Give her Holy Braille Tomes to unlock miracles for purchase. Next: Find Braille Divine Tome of Carim on Road of Sacrifices — give it to Irina to unlock holy miracles - Find Lothric Braille Divine Tome in Lothric Castle — give it to Irina to unlock more holy miracles - Buy ALL holy miracles from both tomes to trigger the Firekeeper ending - DO NOT purchase dark miracles (Gnaw, Dorhy's Gnawing, Vow of Silence, Lifehunt Scythe) — this locks out the good ending permanently - Dark tomes can safely be given to Karla the Witch (Irithyll Dungeon) instead of Irina
+  ----------------------------------------------------------
+  [recorded 335_202607051907.sl2]
+
+============================================================
+  SAVE DETECTED  19:07:39
+  MVPValidation  |  Level 25  |  3,051 souls  |  Undead Settlement
+============================================================
+  (no changes detected)
+  [recorded 336_202607051908.sl2]
+
+============================================================
+  SAVE DETECTED  19:08:05
+  MVPValidation  |  Level 25  |  3,051 souls  |  Undead Settlement
+============================================================
+  Talked to Eygon of Carim (at Irina's cell)
+  [recorded 337_202607051908.sl2]
+
+============================================================
+  SAVE DETECTED  19:08:09
+  MVPValidation  |  Level 25  |  3,051 souls  |  Undead Settlement
+============================================================
+  Lost Homeward Bone
+  [recorded 338_202607051908.sl2]
+
+============================================================
+  SAVE DETECTED  19:08:12
+  MVPValidation  |  Level 25  |  3,051 souls  |  Firelink Shrine
+============================================================
+  Rested at Firelink Shrine  (from Undead Settlement)
+  [recorded 339_202607051908.sl2]
+
+============================================================
+  SAVE DETECTED  19:08:44
+  MVPValidation  |  Level 25  |  3,051 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 340_202607051908.sl2]
+
+============================================================
+  SAVE DETECTED  19:08:59
+  MVPValidation  |  Level 25  |  3,051 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 341_202607051909.sl2]
+
+============================================================
+  SAVE DETECTED  19:09:15
+  MVPValidation  |  Level 25  |  3,051 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 342_202607051909.sl2]
+
+============================================================
+  SAVE DETECTED  19:09:37
+  MVPValidation  |  Level 25  |  3,051 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 343_202607051909.sl2]
+
+============================================================
+  SAVE DETECTED  19:09:44
+  MVPValidation  |  Level 25  |  3,051 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 344_202607051910.sl2]
+
+============================================================
+  SAVE DETECTED  19:10:06
+  MVPValidation  |  Level 25  |  3,051 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  [recorded 345_202607051911.sl2]
+
+============================================================
+  SAVE DETECTED  19:11:49
+  MVPValidation  |  Level 25  |  3,051 souls  |  Firelink Shrine
+============================================================
+  (no changes detected)
+  Session log saved to: C:\Users\user\Dev\dark-souls\play_simulator_save_files\play_05_auto\session_202607051715.log
