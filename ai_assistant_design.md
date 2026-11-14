@@ -737,7 +737,7 @@ We recover history via two mechanisms:
 
 - `data/` — 47 CSV files covering every item category (weapons, armor, rings, sorceries/miracles/pyromancies, ashes, gestures, sacred chimes, staves, boss souls, boss soul weapons, multiplayer items, upgrade materials, achievements).
 - `data/wiki/` — 1,289 wiki markdown files.
-- `all_wikipedia_content.md` — 13.9 MB consolidated wiki.
+- `data/wiki/` — the scraped wiki pages, one Markdown file each.
 - `scraper.py`, `wiki_md_scraper.py` — scraping infrastructure.
 
 What we **don't** have for DS3 yet:

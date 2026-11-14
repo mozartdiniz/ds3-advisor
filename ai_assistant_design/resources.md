@@ -21,7 +21,7 @@
 
 - `data/` — 47 CSV files covering every item category (weapons, armor, rings, sorceries/miracles/pyromancies, ashes, gestures, sacred chimes, staves, boss souls, boss soul weapons, multiplayer items, upgrade materials, achievements).
 - `data/wiki/` — 1,289 wiki markdown files.
-- `all_wikipedia_content.md` — 13.9 MB consolidated wiki.
+- `data/wiki/` — the scraped wiki pages, one Markdown file each.
 - `scraper.py`, `wiki_md_scraper.py` — scraping infrastructure.
 - `DS30000.sl2` — canonical "Wanderer mule" test save (10 slots Alpha…Kappa, downloaded from internet).
 - `ai_assistant/data/_*.json` — item ID maps from alfizari, event flag dict from soulsmodding, EMEVD flags, bonfire flags.
